@@ -1,0 +1,74 @@
+[
+  {
+    "Uid": "PR_A",
+    "Index": 4,
+    "Delay": 9000,
+    "Limit": 3,
+    "StepReward": {
+      "Currency": "Experience",
+      "Amount": 3
+    },
+    "IngredientRange": {
+      "Min": 4,
+      "Max": 6
+    },
+    "ExtraRange": {
+      "Min": 0,
+      "Max": 1
+    },
+    "LastReward": 0
+  },
+  {
+    "Uid": "PR_B",
+    "Index": 4,
+    "Delay": 10800,
+    "Limit": 3,
+    "StepReward": {
+      "Currency": "Experience",
+      "Amount": 3
+    },
+    "IngredientRange": {
+      "Min": 4,
+      "Max": 6
+    },
+    "ExtraRange": {
+      "Min": 0,
+      "Max": 1
+    },
+    "LastReward": 0
+  },
+  {
+    "Uid": "PR_C",
+    "Index": 4,
+    "Delay": 14400,
+    "Limit": 3,
+    "StepReward": {
+      "Currency": "Experience",
+      "Amount": 3
+    },
+    "IngredientRange": {
+      "Min": 4,
+      "Max": 6
+    },
+    "ExtraRange": {
+      "Min": 0,
+      "Max": 1
+    },
+    "LastReward": 0
+  },
+  {
+    "Uid": "PR_Z",
+    "Index": 4,
+    "Delay": 21600,
+    "Limit": 3,
+    "IngredientRange": {
+      "Min": 3,
+      "Max": 4
+    },
+    "ExtraRange": {
+      "Min": 0,
+      "Max": 0
+    },
+    "LastReward": 1
+  }
+]

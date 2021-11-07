@@ -1,0 +1,399 @@
+[
+  {
+    "Id": "sd2",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.merge.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.merge.2"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.merge.3"
+      }
+    ]
+  },
+  {
+    "Id": "sd3",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.container.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.container.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd4",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.fog.unlock.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.fog.unlock.3"
+      }
+    ]
+  },
+  {
+    "Id": "sd5",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.migration.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd6",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.market.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd7",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.habitat.unlock.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.habitat.unlock.3"
+      }
+    ]
+  },
+  {
+    "Id": "sd11",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.inventory.1.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.inventory.1.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd12",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.inventory.2.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.inventory.2.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd13",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.inventory.3.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd14",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.feeding.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd15",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.feeding.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd16",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.feeding.3"
+      }
+    ]
+  },
+  {
+    "Id": "sd22",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.market.2.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.market.2.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd23",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.habitat.unlock.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.habitat.unlock.3"
+      }
+    ]
+  },
+  {
+    "Id": "sd25",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.creatureTrade.1.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd26",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.creatureTrade.2.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Message": "tutorial.conversation.creatureTrade.2.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd27",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.creatureTrade.3.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd28",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.skinning.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd29",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.skinning.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd30",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.premium.island1"
+      }
+    ]
+  },
+  {
+    "Id": "sd31",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.craft.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd32",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.craft.2.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.craft.2.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd33",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.craft.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd34",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.craft.2.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.craft.2.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd35",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.collection.store.1.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd36",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.collection.1.1"
+      }
+    ]
+  }
+]

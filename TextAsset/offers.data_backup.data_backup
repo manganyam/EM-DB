@@ -1,0 +1,139 @@
+[
+  {
+    "Uid": "starter1a",
+    "Rewards": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1050
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 700
+      }
+    ],
+    "Duration": 10,
+    "SaleDef": {
+      "Value": 1.7,
+      "Type": "Value"
+    },
+    "Hero": "NPC_A",
+    "PurchaseKey": "iap9",
+    "SaleKey": "iap3"
+  },
+  {
+    "Uid": "starter1b",
+    "Rewards": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1050
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 700
+      }
+    ],
+    "Conditions": [
+      {
+        "Name": "Didn`t buy",
+        "Target": "starter1a"
+      },
+      {
+        "Name": "OfferEnd",
+        "Target": "starter1a"
+      },
+      {
+        "Name": "OfferCooldown",
+        "Target": "starter1a"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2.4,
+      "Type": "Value"
+    },
+    "Duration": 20,
+    "Hero": "NPC_A",
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "SaleKey": "iap3"
+  },
+  {
+    "Uid": "starter1c",
+    "Rewards": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1050
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 700
+      }
+    ],
+    "Conditions": [
+      {
+        "Name": "Didn`t buy",
+        "Target": "starter1b"
+      },
+      {
+        "Name": "OfferEnd",
+        "Target":  "starter1b"
+      },
+      {
+        "Name": "OfferCooldown",
+        "Target":  "starter1b"
+      }
+    ],
+    "Duration": 10,
+    "SaleDef": {
+      "Value": 3,
+      "Type": "Value"
+    },
+    "Hero": "NPC_A",
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 3
+    },
+    "SaleKey": "iap3"
+  },
+  {
+    "Uid": "unicorn1",
+    "Rewards": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500
+      }
+    ],
+    "Duration": 10,
+    "SaleDef": {
+      "Value": 45,
+      "Type": "More"
+    },
+    "Hero": "NPC_A",
+    "PurchaseKey": "iap10"
+  },
+  {
+    "Uid": "fluffy1",
+    "Rewards": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500
+      }
+    ],
+    "Duration": 10,
+    "SaleDef": {
+      "Value": 45,
+      "Type": "More"
+    },
+    "Hero": "NPC_A",
+    "PurchaseKey": "iap10"
+  }
+]

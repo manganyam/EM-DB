@@ -1,0 +1,83 @@
+[
+  {
+    "Index": 1,
+    "Rewards": [
+      {
+        "Currency": "Coins",
+        "Amount": 50
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Index": 2,
+    "Rewards": [
+      {
+        "Currency": "Coins",
+        "Amount": 100
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Index": 3,
+    "Rewards": [
+      {
+        "Currency": "Coins",
+        "Amount": 150
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Index": 1,
+    "Rewards": [
+      {
+        "Currency": "BOX_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "BOX_Feed",
+        "Amount": 1
+      }
+    ],
+    "IsMaxLevel": true
+  },
+  {
+    "Index": 2,
+    "Rewards": [
+      {
+        "Currency": "BOX_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "BOX_B1",
+        "Amount": 2
+      }
+    ],
+    "IsMaxLevel": true
+  },
+  {
+    "Index": 3,
+    "Rewards": [
+      {
+        "Currency": "BOX_B3",
+        "Amount": 1
+      },
+      {
+        "Currency": "BOX_A1",
+        "Amount": 1
+      }
+    ],
+    "IsMaxLevel": true
+  }
+]

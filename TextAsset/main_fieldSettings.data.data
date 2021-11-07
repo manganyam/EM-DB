@@ -1,0 +1,21 @@
+{
+  "Name": "main",
+  "GlobalQuestsEnabled": true,
+  "EnergyEnabled": true,
+  "RenderQueue" : 2003,
+  
+  "WaterBorderLeft": 26,
+  "WaterBorderRight": 24,
+  "WaterBorderTop": 17,
+  "WaterBorderBottom": 20,
+  
+  "WaterCropCornerTopLeft": 38,
+  "WaterCropCornerTopRight": 52,
+  "WaterCropCornerBottomLeft": 38,
+  "WaterCropCornerBottomRight": 30,
+  
+  "CameraClampX": 9,
+  "CameraClampY": -26.4,
+  "CameraClampWidth": 75.43,
+  "CameraClampHeight": 49,
+}

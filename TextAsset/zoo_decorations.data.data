@@ -1,0 +1,1129 @@
+[
+  {
+    "Uid": "LM_1",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_2",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 130
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_3",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 200
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_4",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 130
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_5",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 130
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_6",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 200
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_7",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_8",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_9",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_10",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 130
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_11",
+    "Capacity": 10,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 200
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_12",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_13",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_14",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_15",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_16",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_17",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_18",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_19",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_20",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_21",
+    "Capacity": 11,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 130
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_22",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_23",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_24",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_25",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_26",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_27",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_28",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_29",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_30",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_31",
+    "Capacity": 11,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 300
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_32",
+    "Capacity": 11,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 200
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_33",
+    "Capacity": 11,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 300
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_34",
+    "Capacity": 11,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 300
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_35",
+    "Capacity": 11,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 300
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "LM_36",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "LM_37",
+    "Capacity": 1,
+    "Prices": [
+      {
+        "Currency": "LegendaryGems",
+        "Amount": 5
+      }
+    ],
+    "Rarity": "Premium"
+  },
+  {
+    "Uid": "DC_1",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_2",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_3",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_4",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_5",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_6",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_7",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_8",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_9",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_10",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_11",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_12",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_13",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_14",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_15",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_16",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_17",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_18",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_19",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_20",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_21",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_22",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_23",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_24",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_25",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_26",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_27",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_28",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_29",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_30",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_31",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_32",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_33",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_34",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_35",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_36",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_37",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_38",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_39",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 15
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_40",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 55
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_41",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_42",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_43",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_44",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_45",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 100
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_46",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_47",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_48",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_49",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_50",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_51",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_52",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_53",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_54",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_55",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_56",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_57",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_58",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_59",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  },
+  {
+    "Uid": "DC_60",
+    "Capacity": 99,
+    "Prices": [
+      {
+        "Currency": "CommonGems",
+        "Amount": 30
+      },
+      {
+        "Currency": "RareGems",
+        "Amount": 10
+      }
+    ],
+    "Rarity": "Common"
+  }
+]

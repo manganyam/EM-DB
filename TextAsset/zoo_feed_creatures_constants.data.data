@@ -1,0 +1,34 @@
+[
+  {
+    "Key": "MaxFeedCount",
+    "Value": 12
+  },
+  {
+    "Key": "SatietyAmount",
+    "Value": 2
+  },
+  {
+    "Key": "SatietyDelay",
+    "Value": 35
+  },
+  {
+    "Key": "UnlockLevelForAllZooFeature",
+    "Value": 5
+  },
+  {
+    "Key": "HabitatGemsReward",
+    "Value": 1
+  },
+  {
+    "Key": "HabitatDelay",
+    "Value": 86400
+  },
+  {
+    "Key": "HabitatDelayStep",
+    "Value": 3600
+  },
+  {
+    "Key": "HabitatMaxLevel",
+    "Value": 10
+  }
+]

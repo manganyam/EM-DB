@@ -1,0 +1,1841 @@
+[
+  {
+    "Uid": "starter1a",
+    "Field": "main",
+    "OfferIcon": "HardShopIcon4",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1050,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 700,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 7
+    },
+    "Duration": 345600,
+    "SaleDef": {
+      "Value": 1.7,
+      "Type": "Value"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap9",
+    "SaleKey": "iap3",
+    "AnalyticsId": "Offer7_Starter_1a"
+  },
+  {
+    "Uid": "starter1b",
+    "Field": "main",
+    "OfferIcon": "HardShopIcon4",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1050,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 700,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "OfferState",
+        "Target": "starter1a"
+      },
+      {
+        "Name": "OfferCooldown",
+        "Target": "starter1a"
+      },
+      {
+        "Name": "Didn`t buy",
+        "Target": "starter1a"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2.4,
+      "Type": "Value"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap18",
+    "SaleKey": "iap3",
+    "AnalyticsId": "Offer5_Starter_1b"
+  },
+  {
+    "Uid": "starter1c",
+    "Field": "main",
+    "OfferIcon": "HardShopIcon6",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1050,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 700,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 3
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "OfferState",
+        "Target": "starter1b"
+      },
+      {
+        "Name": "OfferCooldown",
+        "Target": "starter1b"
+      },
+      {
+        "Name": "Didn`t buy",
+        "Target": "starter1b"
+      }
+    ],
+    "SaleDef": {
+      "Value": 3,
+      "Type": "Value"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap19",
+    "SaleKey": "iap3",
+    "AnalyticsId": "Offer3_Starter_1c"
+  },
+  {
+    "Uid": "starter2",
+    "Field": "main",
+    "OfferIcon": "HardShopIcon6",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 2250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 1000,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 15
+    },
+    "Duration": 7200,
+    "Conditions": [
+      {
+        "Name": "Buy",
+        "Target": "starter1a"
+      },
+      {
+        "Name": "Level",
+        "Target": 10
+      },
+      {
+        "Name": "OfferCooldown",
+        "Target": "starter1a"
+      }
+    ],
+    "SaleDef": {
+      "Value": 1.65,
+      "Type": "Value"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap11",
+    "SaleKey": "iap4",
+    "AnalyticsId": "Offer15_Starter_2"
+  },
+  {
+    "Uid": "onboarding1",
+    "Field": "event1",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap64",
+    "AnalyticsId": "Offer10_Onboarding_Currency_1"
+  },
+  {
+    "Uid": "unicorn1",
+    "Field": "event1",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Unicorn_Currency_1"
+  },
+  {
+    "Uid": "fluffy1",
+    "Field": "event2",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Fluffy_Currency_1"
+  },
+  {
+    "Uid": "phoenix1",
+    "Field": "event3",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Phoenix_Currency_1"
+  },
+  {
+    "Uid": "nessy1",
+    "Field": "event4",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Nessy_Currency_1"
+  },
+  {
+    "Uid": "blueox1",
+    "Field": "event5",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_BlueOx_Currency_1"
+  },
+  {
+    "Uid": "chrysomallus1",
+    "Field": "event6",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Chrysomallus_Currency_1"
+  },
+  {
+    "Uid": "wolf1",
+    "Field": "event7",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Wolf_Currency_1"
+  },
+  {
+    "Uid": "hsigo1",
+    "Field": "event8",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Hsigo_Currency_1"
+  },
+  {
+    "Uid": "trex1",
+    "Field": "event9",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Trex_Currency_1"
+  },
+  {
+    "Uid": "kraken1",
+    "Field": "event10",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Kraken_Currency_1"
+  },
+  {
+    "Uid": "thunderbird1",
+    "Field": "event11",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Thunderbird_Currency_1"
+  },
+  {
+    "Uid": "quetzalcoatl1",
+    "Field": "event12",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Quetzalcoatl_Currency_1"
+  },
+  {
+    "Uid": "reddragon1",
+    "Field": "event13",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_RedDragon_Currency_1"
+  },
+  {
+    "Uid": "jackelope1",
+    "Field": "event14",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Jackelope_Currency_1"
+  },
+  {
+    "Uid": "pegasus1",
+    "Field": "event15",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Pegasus_Currency_1"
+  },
+  {
+    "Uid": "mammoth1",
+    "Field": "event16",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Mammoth_Currency_1"
+  },
+  {
+    "Uid": "bandersnatch1",
+    "Field": "event17",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1250,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 500,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 35,
+      "Type": "More"
+    },
+    "Hero": "Leprechaun",
+    "PurchaseKey": "iap10",
+    "AnalyticsId": "Offer10_Bandersnatch_Currency_1"
+  },
+  {
+    "Uid": "halloween1",
+    "Field": "holiday1",
+    "OfferIcon": "OfferHalloweenIcon2",
+    "RewardsDef": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 500,
+        "RewardIcon": "EventEnergyShopIcon1"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 650,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 1.5,
+      "Type": "Value"
+    },
+    "Hero": "Dracula",
+    "PurchaseKey": "iap43",
+    "AnalyticsId": "Offer8_Halloween_Currency_1"
+  },
+  {
+    "Uid": "christmas1",
+    "Field": "holiday2",
+    "OfferIcon": "OfferChristmasIcon",
+    "RewardsDef": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 500,
+        "RewardIcon": "EventEnergyShopIcon1"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 650,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 1.5,
+      "Type": "Value"
+    },
+    "Hero": "Claus",
+    "PurchaseKey": "iap43",
+    "AnalyticsId": "Offer8_Christmas_Currency_1"
+  },
+  {
+    "Uid": "valentine1",
+    "Field": "holiday3",
+    "OfferIcon": "OfferValentineIcon",
+    "RewardsDef": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 500,
+        "RewardIcon": "EventEnergyShopIcon1"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 650,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 1.5,
+      "Type": "Value"
+    },
+    "Hero": "Cupid",
+    "PurchaseKey": "iap43",
+    "AnalyticsId": "Offer8_Valentine_Currency_1"
+  },
+  {
+    "Uid": "anniversary1",
+    "Field": "holiday4",
+    "OfferIcon": "OfferAnniversaryIcon",
+    "RewardsDef": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 500,
+        "RewardIcon": "EventEnergyShopIcon1"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 650,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 1.5,
+      "Type": "Value"
+    },
+    "Hero": "Chuck",
+    "PurchaseKey": "iap43",
+    "AnalyticsId": "Offer8_Anniversary_Currency_1"
+  },
+  {
+    "Uid": "midsummer1",
+    "Field": "holiday5",
+    "OfferIcon": "OfferMidsummerIcon2",
+    "RewardsDef": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 500,
+        "RewardIcon": "EventEnergyShopIcon1"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 650,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 1.5,
+      "Type": "Value"
+    },
+    "Hero": "Puck",
+    "PurchaseKey": "iap43",
+    "AnalyticsId": "Offer8_Midsummer_Currency_1"
+  },
+  {
+    "Uid": "summerfair1",
+    "Field": "holiday6",
+    "OfferIcon": "OfferSummerFairIcon2",
+    "RewardsDef": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 500,
+        "RewardIcon": "EventEnergyShopIcon1"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 650,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 1.5,
+      "Type": "Value"
+    },
+    "Hero": "PaulBunyan",
+    "PurchaseKey": "iap43",
+    "AnalyticsId": "Offer8_SummerFair_Currency_1"
+  },
+  {
+    "Uid": "CompleteHero1",
+    "Field": "main",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "NPC_D6",
+        "Amount": 3
+      },
+      {
+        "Currency": "Boost_CR",
+        "Amount": 1
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 200,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "Piece",
+        "Target": "NPC_D6"
+      }
+    ],
+    "SaleDef": {
+      "Value": 40,
+      "Type": "More"
+    },
+    "Hero": "PussInBoots",
+    "PurchaseKey": "iap29",
+    "AnalyticsId": "Offer5_NPCFinish_D"
+  },
+  {
+    "Uid": "CompleteHero2",
+    "Field": "main",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "NPC_E7",
+        "Amount": 3
+      },
+      {
+        "Currency": "Boost_CR",
+        "Amount": 1
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 400,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "Piece",
+        "Target": "NPC_E7"
+      }
+    ],
+    "SaleDef": {
+      "Value": 30,
+      "Type": "More"
+    },
+    "Hero": "PussInBoots",
+    "PurchaseKey": "iap30",
+    "AnalyticsId": "Offer8_NPCFinish_E"
+  },
+  {
+    "Uid": "CompleteHero3",
+    "Field": "main",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "NPC_F7",
+        "Amount": 3
+      },
+      {
+        "Currency": "Boost_CR",
+        "Amount": 1
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 400,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "Piece",
+        "Target": "NPC_F7"
+      }
+    ],
+    "SaleDef": {
+      "Value": 30,
+      "Type": "More"
+    },
+    "Hero": "PussInBoots",
+    "PurchaseKey": "iap31",
+    "AnalyticsId": "Offer8_NPCFinish_F"
+  },
+  {
+    "Uid": "HeroBoost1",
+    "Field": "main;main2",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "CH_NPC",
+        "Amount": 5
+      },
+      {
+        "Currency": "Boost_CR",
+        "Amount": 2
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 1.6,
+      "Type": "Value"
+    },
+    "Hero": "PussInBoots",
+    "PurchaseKey": "iap28",
+    "AnalyticsId": "Offer5_NPCBoost_1"
+  },
+  {
+    "Uid": "IncreaseRefillRate1",
+    "Field": "main;main2",
+    "OfferIcon": "IncreaseRefillRateOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Boost_WR",
+        "Amount": 1
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 300,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 1000,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 28800,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 1
+      }
+    ],
+    "SaleDef": {
+      "Value": 20,
+      "Type": "More"
+    },
+    "Hero": "Chuck",
+    "PurchaseKey": "iap25",
+    "AnalyticsId": "Offer5_IncRefill_1"
+  },
+  {
+    "Uid": "UseSoftInsteadOfHardInTimers1",
+    "Field": "main;main2",
+    "OfferIcon": "UseSoftInsteadHardOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 450,
+        "RewardIcon": "EnergyShopIcon2"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 1000,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 6
+    },
+    "Duration": 28800,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 4
+      }
+    ],
+    "SaleDef": {
+      "Value": 20,
+      "Type": "More"
+    },
+    "Hero": "SleepingBeauty",
+    "PurchaseKey": "iap20",
+    "AnalyticsId": "Offer6_SoftInTimers_1"
+  },
+  {
+    "Uid": "ShortenHarvestTimer1",
+    "Field": "main;main2",
+    "OfferIcon": "ShortenTheHarvestTimerOffer",
+    "RewardsDef": [
+      {
+        "Currency": "SK3_PR",
+        "Amount": 5
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 350,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 28800,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 13
+      }
+    ],
+    "Hero": "PaulBunyan",
+    "PurchaseKey": "iap24",
+    "AnalyticsId": "Offer5_ShortHarvest_1"
+  },
+  {
+    "Uid": "GnomeRush1",
+    "Field": "main;main2",
+    "OfferIcon": "GnomeRushOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Boost_WR",
+        "Amount": 3
+      },
+      {
+        "Currency": "Boost_CR",
+        "Amount": 2
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 4
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 0
+      }
+    ],
+    "SaleDef": {
+      "Value": 1.5,
+      "Type": "Value"
+    },
+    "Hero": "Chuck",
+    "PurchaseKey": "iap23",
+    "AnalyticsId": "Offer4_GnomeRush_1"
+  },
+  {
+    "Uid": "4GnomeRush1",
+    "Field": "main;main2",
+    "OfferIcon": "GnomeRushOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Boost_WR",
+        "Amount": 3
+      },
+      {
+        "Currency": "Boost_CR",
+        "Amount": 2
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 4
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 10
+      }
+    ],
+    "SaleDef": {
+      "Value": 1.5,
+      "Type": "Value"
+    },
+    "Hero": "Chuck",
+    "PurchaseKey": "iap23",
+    "AnalyticsId": "Offer4_GnomeRush_1"
+  },
+  {
+    "Uid": "ChestRush1",
+    "Field": "main;main2",
+    "OfferIcon": "ChestRushOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 500,
+        "RewardIcon": "EnergyShopIcon3"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 500,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 6
+      }
+    ],
+    "SaleDef": {
+      "Value": 30,
+      "Type": "More"
+    },
+    "Hero": "SleepingBeauty",
+    "PurchaseKey": "iap22",
+    "AnalyticsId": "Offer8_ChestRush_1"
+  },
+  {
+    "Uid": "4ChestRush1",
+    "Field": "main;main2",
+    "OfferIcon": "ChestRushOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 500,
+        "RewardIcon": "EnergyShopIcon3"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 500,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 8
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 11
+      }
+    ],
+    "SaleDef": {
+      "Value": 30,
+      "Type": "More"
+    },
+    "Hero": "SleepingBeauty",
+    "PurchaseKey": "iap22",
+    "AnalyticsId": "Offer8_ChestRush_1"
+  },
+  {
+    "Uid": "energy1",
+    "Field": "main",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 330,
+        "RewardIcon": "EnergyShopIcon2"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 3
+    },
+    "Duration": 0,
+    "SaleDef": {
+      "Value": 20,
+      "Type": "More"
+    },
+    "Hero": "SleepingBeauty",
+    "PurchaseKey": "iap26",
+    "AnalyticsId": "Offer3_Energy_Starter_1"
+  },
+  {
+    "Uid": "energy2",
+    "Field": "main;main2",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 500,
+        "RewardIcon": "EnergyShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 3
+    },
+    "Duration": 0,
+    "SaleDef": {
+      "Value": 1.75,
+      "Type": "Value"
+    },
+    "Hero": "SleepingBeauty",
+    "PurchaseKey": "iap27",
+    "AnalyticsId": "Offer3_Energy_Regular_1"
+  },
+  {
+    "Uid": "workers1",
+    "Field": "main;main2",
+    "OfferIcon": "WorkersOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 300,
+        "RewardIcon": "EnergyShopIcon2"
+      },
+      {
+        "Currency": "Boost_WR",
+        "Amount": 3
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 4
+    },
+    "Duration": 86400,
+    "SaleDef": {
+      "Value": 40,
+      "Type": "More"
+    },
+    "Hero": "Chuck",
+    "PurchaseKey": "iap21",
+    "AnalyticsId": "Offer4_WR_1"
+  },
+  {
+    "Uid": "CompleteCreature1",
+    "Field": "zoo",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 200,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 3
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "CheckEffectiveness",
+        "Target": "0-50"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap34",
+    "AnalyticsId": "Offer3_CRFinish_1"
+  },
+  {
+    "Uid": "CompleteCreature2",
+    "Field": "zoo",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 400,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 7
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "CheckEffectiveness",
+        "Target": "0-50"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap35",
+    "AnalyticsId": "Offer7_CRFinish_2"
+  },
+  {
+    "Uid": "CompleteCreature3",
+    "Field": "zoo",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 400,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 15
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "CheckEffectiveness",
+        "Target": "0-50"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap36",
+    "AnalyticsId": "Offer15_CRFinish_3"
+  },
+  {
+    "Uid": "CompleteCreature1M5",
+    "Field": "zoo",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 200,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 4
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "CheckEffectiveness",
+        "Target": "51-100"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap55",
+    "AnalyticsId": "Offer4_CRFinish_1"
+  },
+  {
+    "Uid": "CompleteCreature2M5",
+    "Field": "zoo",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 400,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 9
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "CheckEffectiveness",
+        "Target": "51-100"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap56",
+    "AnalyticsId": "Offer9_CRFinish_2"
+  },
+  {
+    "Uid": "CompleteCreature3M5",
+    "Field": "zoo",
+    "OfferIcon": "HeroChestOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 400,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 20
+    },
+    "Duration": 0,
+    "Conditions": [
+      {
+        "Name": "CheckEffectiveness",
+        "Target": "51-100"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap57",
+    "AnalyticsId": "Offer20_CRFinish_3"
+  },
+  {
+    "Uid": "CreatureBoost1",
+    "Field": "any",
+    "OfferIcon": "CreatureBoost1Offer",
+    "RewardsDef": [
+      {
+        "Currency": "BOX_B1",
+        "Amount": 5
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 200,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 3
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "ZooLevel",
+        "Target": 6
+      },
+      {
+        "Name": "CreatureMatchesCount",
+        "Target": 3
+      },
+      {
+        "Name": "CompareCreaturePool"
+      }
+    ],
+    "SaleDef": {
+      "Value": 2.5,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap37",
+    "AnalyticsId": "Offer3_CRBoost_1"
+  },
+  {
+    "Uid": "CreatureBoost2",
+    "Field": "any",
+    "OfferIcon": "CreatureBoost2Offer",
+    "RewardsDef": [
+      {
+        "Currency": "BOX_B2",
+        "Amount": 5
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 200,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "ZooLevel",
+        "Target": 6
+      },
+      {
+        "Name": "CreatureMatchesCount",
+        "Target": 1
+      },
+      {
+        "Name": "OfferCooldown",
+        "Target": "CreatureBoost1"
+      },
+      {
+        "Name": "CompareCreaturePool"
+      }
+    ],
+    "SaleDef": {
+      "Value": 3,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap38",
+    "AnalyticsId": "Offer5_CRBoost_2"
+  },
+  {
+    "Uid": "CreatureBoost3",
+    "Field": "any",
+    "OfferIcon": "CreatureBoost3Offer",
+    "RewardsDef": [
+      {
+        "Currency": "BOX_B3",
+        "Amount": 5
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 200,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "ZooLevel",
+        "Target": 6
+      },
+      {
+        "Name": "CreatureMatchesCount",
+        "Target": 1
+      },
+      {
+        "Name": "OfferCooldown",
+        "Target": "CreatureBoost2"
+      },
+      {
+        "Name": "CompareCreaturePool"
+      }
+    ],
+    "SaleDef": {
+      "Value": 3,
+      "Type": "Value"
+    },
+    "Hero": "Heidi",
+    "PurchaseKey": "iap39",
+    "AnalyticsId": "Offer10_CRBoost_3"
+  },
+  {
+    "Uid": "MergeRush1",
+    "Field": "main;main2",
+    "OfferIcon": "MergeRushOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 350,
+        "RewardIcon": "EnergyShopIcon3"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 450,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 29
+      }
+    ],
+    "SaleDef": {
+      "Value": 30,
+      "Type": "More"
+    },
+    "Hero": "Chuck",
+    "PurchaseKey": "iap59",
+    "AnalyticsId": "Offer5_MergeRush_1"
+  },
+  {
+    "Uid": "4MergeRush1",
+    "Field": "main;main2",
+    "OfferIcon": "MergeRushOffer",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 350,
+        "RewardIcon": "EnergyShopIcon3"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 450,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 30
+      }
+    ],
+    "SaleDef": {
+      "Value": 30,
+      "Type": "More"
+    },
+    "Hero": "Chuck",
+    "PurchaseKey": "iap59",
+    "AnalyticsId": "Offer5_MergeRush_1"
+  },
+  {
+    "Uid": "MarketEnergy1",
+    "Field": "main;main2",
+    "OfferIcon": "HardShopIcon5",
+    "RewardsDef": [
+      {
+        "Currency": "Crystals",
+        "Amount": 500,
+        "RewardIcon": "HardShopIcon5"
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 1000,
+        "RewardIcon": "CoinsShopIcon3"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 18
+      }
+    ],
+    "SaleDef": {
+      "Value": 20,
+      "Type": "More"
+    },
+    "Hero": "PussInBoots",
+    "PurchaseKey": "iap58",
+    "AnalyticsId": "Offer5_EnergyMarket_1"
+  },
+  {
+    "Uid": "Cornucopia1",
+    "Field": "main;main2",
+    "OfferIcon": "EnergyShopIcon2",
+    "RewardsDef": [
+      {
+        "Currency": "Energy",
+        "Amount": 330,
+        "RewardIcon": "EnergyShopIcon2"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 3
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 44
+      }
+    ],
+    "SaleDef": {
+      "Value": 20,
+      "Type": "More"
+    },
+    "Hero": "PaulBunyan",
+    "PurchaseKey": "iap63",
+    "AnalyticsId": "Offer3_Cornucopia_1"
+  },
+  {
+    "Uid": "OrderRush1",
+    "Field": "main;main2",
+    "OfferIcon": "OrderRushOffer",
+    "RewardsDef": [
+      {
+        "Currency": "SK3_PR",
+        "Amount": 5
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 1000,
+        "RewardIcon": "CoinsShopIcon3"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 150,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 44
+      }
+    ],
+    "SaleDef": {
+      "Value": 30,
+      "Type": "More"
+    },
+    "Hero": "PussInBoots",
+    "PurchaseKey": "iap54",
+    "AnalyticsId": "Offer5_OrderRush_1"
+  },
+  {
+    "Uid": "4OrderRush1",
+    "Field": "main;main2",
+    "OfferIcon": "OrderRushOffer",
+    "RewardsDef": [
+      {
+        "Currency": "SK3_PR",
+        "Amount": 5
+      },
+      {
+        "Currency": "Coins",
+        "Amount": 1000,
+        "RewardIcon": "CoinsShopIcon3"
+      },
+      {
+        "Currency": "Crystals",
+        "Amount": 150,
+        "RewardIcon": "HardShopIcon5"
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Duration": 86400,
+    "Conditions": [
+      {
+        "Name": "EventType",
+        "Target": 45
+      }
+    ],
+    "SaleDef": {
+      "Value": 30,
+      "Type": "More"
+    },
+    "Hero": "PussInBoots",
+    "PurchaseKey": "iap54",
+    "AnalyticsId": "Offer5_OrderRush_1"
+  }
+]

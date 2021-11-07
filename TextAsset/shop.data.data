@@ -1,0 +1,311 @@
+[
+  {
+    "Uid": "Energy",
+    "Products": [
+      {
+        "Currency": "Energy",
+        "Amount": 80
+      }
+    ],
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 0
+    },
+    "Icon": "EnergyShopIcon1",
+    "Name": "window.shop.energy.item1",
+    "Delays": [
+      28800,
+      43200,
+      61200,
+      75600
+    ]
+  },
+  {
+    "Uid": "Energy",
+    "Products": [
+      {
+        "Currency": "Energy",
+        "Amount": 1
+      }
+    ],
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 5
+    },
+    "Icon": "EnergyShopIcon2",
+    "Name": "window.shop.energy.item2"
+  },
+  {
+    "Uid": "Energy",
+    "Products": [
+      {
+        "Currency": "Energy",
+        "Amount": 80
+      }
+    ],
+    "Extras": [
+      {
+        "Currency": "Energy",
+        "Amount": 10
+      }
+    ],
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 350
+    },
+    "Icon": "EnergyShopIcon3",
+    "Name": "window.shop.energy.item3",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "Energy",
+    "Products": [
+      {
+        "Currency": "Energy",
+        "Amount": 30
+      }
+    ],
+    "Price": {
+      "Currency": "AD",
+      "Amount": 0
+    },
+    "Icon": "EnergyShopIcon4",
+    "Name": "window.shop.energy.item4"
+  },
+  {
+    "Uid": "Energy",
+    "Products": [
+      {
+        "Currency": "Energy",
+        "Amount": 99
+      }
+    ],
+    "Name": "window.shop.energy.item5",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "EventEnergy",
+    "Products": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 1
+      }
+    ],
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 5
+    },
+    "Icon": "EventEnergyShopIcon1",
+    "Name": "window.shop.energy.item2"
+  },
+  {
+    "Uid": "EventEnergy",
+    "Products": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 75
+      }
+    ],
+    "Extras": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 10
+      }
+    ],
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 350
+    },
+    "Icon": "EventEnergyShopIcon2",
+    "Name": "window.shop.energy.item3",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "EventEnergy",
+    "Products": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 30
+      }
+    ],
+    "Price": {
+      "Currency": "AD",
+      "Amount": 0
+    },
+    "Icon": "EventEnergyShopIcon3",
+    "Name": "window.shop.energy.item4"
+  },
+  {
+    "Uid": "EventEnergy",
+    "Products": [
+      {
+        "Currency": "EventEnergy",
+        "Amount": 99
+      }
+    ],
+    "Name": "window.shop.energy.item5",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "Crystals",
+    "Products": [
+      {
+        "Currency": "Crystals",
+        "Amount": 200
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 2
+    },
+    "Icon": "HardShopIcon1",
+    "Name": "window.shop.crystals.item1",
+    "PurchaseKey": "iap1",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "Crystals",
+    "Products": [
+      {
+        "Currency": "Crystals",
+        "Amount": 500
+      }
+    ],
+    "Extras": [
+      {
+        "Currency": "Coins",
+        "Amount": 200
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "Icon": "HardShopIcon2",
+    "Name": "window.shop.crystals.item2",
+    "PurchaseKey": "iap2",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "Crystals",
+    "Tag": "Popular",
+    "Products": [
+      {
+        "Currency": "Crystals",
+        "Amount": 1025
+      }
+    ],
+    "Extras": [
+      {
+        "Currency": "Coins",
+        "Amount": 450
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 10
+    },
+    "Icon": "HardShopIcon3",
+    "Name": "window.shop.crystals.item3",
+    "PurchaseKey": "iap3",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "Crystals",
+    "Products": [
+      {
+        "Currency": "Crystals",
+        "Amount": 2100
+      }
+    ],
+    "Extras": [
+      {
+        "Currency": "Coins",
+        "Amount": 900
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 20
+    },
+    "Icon": "HardShopIcon4",
+    "Name": "window.shop.crystals.item4",
+    "PurchaseKey": "iap4",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "Crystals",
+    "Products": [
+      {
+        "Currency": "Crystals",
+        "Amount": 5400
+      }
+    ],
+    "Extras": [
+      {
+        "Currency": "Coins",
+        "Amount": 2200
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 50
+    },
+    "Icon": "HardShopIcon5",
+    "Name": "window.shop.crystals.item5",
+    "PurchaseKey": "iap5",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "Crystals",
+    "Tag": "Best",
+    "Products": [
+      {
+        "Currency": "Crystals",
+        "Amount": 11000
+      }
+    ],
+    "Extras": [
+      {
+        "Currency": "Coins",
+        "Amount": 4500
+      }
+    ],
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 100
+    },
+    "Icon": "HardShopIcon6",
+    "Name": "window.shop.crystals.item6",
+    "PurchaseKey": "iap6",
+    "IsPermanent": true
+  },
+  {
+    "Uid": "WorkerAdditional",
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 7
+    },
+    "PurchaseKey": "iap17"
+  },
+  {
+    "Uid": "WorkerAdditional",
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 6
+    },
+    "PurchaseKey": "iap16",
+    "SaleKey": "iap17",
+    "Sale": 15
+  },
+  {
+    "Uid": "WorkerAdditional",
+    "Price": {
+      "Currency": "Cash",
+      "Amount": 5
+    },
+    "PurchaseKey": "iap15",
+    "SaleKey": "iap17",
+    "Sale": 30
+  }
+]

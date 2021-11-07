@@ -1,0 +1,702 @@
+[
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "uicommon",
+    "PathToSpriteSheetSettings": "Assets/Content/SpriteSheetSettings",
+    "PathesToSource": [
+      "Assets/Content/SourceContent/UI/Buttons",
+      "Assets/Content/SourceContent/UI/Icons",
+      "Assets/Content/SourceContent/UI/Windows",
+      "Assets/Content/SourceContent/UI/Shine",
+      "Assets/Content/SourceContent/UI/Event"
+    ],
+    "PathToProcessedPack": "Assets/Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefield",
+    "PathToSpriteSheetSettings": "Assets/Content/SpriteSheetSettings",
+    "PathesToSource": [
+      "Assets/Content/SourceContent/Textures/Pieces",
+      "Assets/Content/SourceContent/Textures/Pieces2"
+    ],
+    "PathToProcessedPack": "Assets/Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "fogsectors",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/SourceContent/FogSectors"
+    ],
+    "PathToProcessedPack": "Assets/Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "main_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Main/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Main/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event1_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event1/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event1/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "flags",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/Flags/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/Flags/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "tutorialtiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/SourceContent/Textures/TutorialTiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event2_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event2/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event2/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event3_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event3/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event3/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "zoo_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Zoo/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Zoo/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldzoo",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/ZooContent/SourceContent/PiecesZoo"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/ZooContent/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldzoo_landmarks",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/ZooContent/SourceContent/ZooLandmarks"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/ZooContent/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldzoo_shared",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/ZooContentShared/SourceContent/PiecesZoo",
+      "Assets/Content/Bundles/GameField/ZooContentShared/SourceContent/CreaturesPack1"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/ZooContentShared/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldzoo_landmarks_shared",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/ZooContentShared/SourceContent/ZooLandmarks"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/ZooContentShared/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event4_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event4/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event4/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event6_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event6/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event6/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event7_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event7/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event7/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event8_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event8/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event8/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "holiday2_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday2/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday2/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldholiday2",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday2Content/SourceContent/Pieces"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday2Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent8",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event8Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event8Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent7",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event7Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event7Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent6",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event6Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event6Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "main_christmas_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/MainChristmas/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/MainChristmas/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefield2holiday2",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday2Content/SourceContent/UI"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday2Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "holiday3_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday3/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday3/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldholiday3",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday3Content/SourceContent/Pieces"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday3Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefield2holiday3",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday3Content/SourceContent/UI"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday3Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "main2_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Main2/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Main2/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "main_spring_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/MainSpring/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/MainSpring/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldmain2",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Main2Content/SourceContent/Textures/Pieces",
+      "Assets/Content/Bundles/GameField/Main2Content/SourceContent/Textures/Pieces2"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Main2Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event9_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event9/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event9/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent9",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event9Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event9Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "holiday4_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday4/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday4/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefield2holiday4",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday4Content/SourceContent/UI"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday4Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldholiday4",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday4Content/SourceContent/Pieces"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday4Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event10_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event10/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event10/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent10",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event10Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event10Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event11_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event11/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event11/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent11",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event11Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event11Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event12_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event12/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event12/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent12",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event12Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event12Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "holiday5_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday5/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday5/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefield2holiday5",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday5Content/SourceContent/UI"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday5Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldholiday5",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday5Content/SourceContent/Pieces"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday5Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent4",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event4Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event4Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent3",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event3Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event3Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent2",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event2Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event2Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent1",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event1Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event1Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldmain",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Main1Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Main1Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "sharedcontent",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/SharedContent/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/SharedContent/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "sandbox_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Sandbox/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Sandbox/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldzoo_shared_2",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/ZooContentShared/SourceContent/CreaturesPack2"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/ZooContentShared/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "holiday6_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday6/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday6/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefield2holiday6",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday6Content/SourceContent/UI"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday6Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldholiday6",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday6Content/SourceContent/Pieces"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday6Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "main_autumn_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/MainAutumn/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/MainAutumn/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "holiday1_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday1/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday1/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefield2holiday1",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday1Content/SourceContent/UI"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday1Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldholiday1",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Holiday1Content/SourceContent/Pieces"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Holiday1Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "main_halloween_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/Skins/MainHalloweenField/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/Skins/MainHalloweenField/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "skins_halloween_ui",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/Skins/HalloweenSkin/SourceContent/UI"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/Skins/HalloweenSkin/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "skin_spring",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/Skins/SpringSkin/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/Skins/SpringSkin/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event5_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event5/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event5/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event13_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event13/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event13/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event14_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event14/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event14/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event15_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event15/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event15/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event16_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event16/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event16/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "event17_tiles",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event17/SourceContent/Tiles"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event17/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent5",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event5Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event5Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent13",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event13Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event13Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent14",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event14Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event14Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent15",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event15Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event15Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent16",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event16Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event16Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "gamefieldevent17",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/Event17Content/SourceContent"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/Event17Content/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "decorations_zoo",
+    "PathToSpriteSheetSettings": null,
+    "PathesToSource": [
+      "Assets/Content/Bundles/GameField/ZooContent/SourceContent/Decoration"
+    ],
+    "PathToProcessedPack": "Assets/Content/Bundles/GameField/ZooContent/ProcessedContent"
+  },
+  {
+    "IsAllowAlphaSplitting": false,
+    "SpriteSheetName": "uihints",
+    "PathToSpriteSheetSettings": "Assets/Content/SpriteSheetSettings",
+    "PathesToSource": [
+      "Assets/Content/SourceContent/UI/Hints"
+    ],
+    "PathToProcessedPack": "Assets/Content/ProcessedContent"
+  }
+]

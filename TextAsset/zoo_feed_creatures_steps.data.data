@@ -1,0 +1,44 @@
+[
+  {
+    "Step": 0,
+    "Prices": [
+      {
+        "Currency": "SatietyToken",
+        "Amount": 2
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "BOX_Feed",
+        "Amount": 1
+      }
+    ],
+    "SourcePremiumRewards": [
+      {
+        "Currency": "A1",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Step": 1,
+    "Prices": [
+      {
+        "Currency": "SatietyToken",
+        "Amount": 30
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "BOX_Feed",
+        "Amount": 1
+      }
+    ],
+    "SourcePremiumRewards": [
+      {
+        "Currency": "A1",
+        "Amount": 2
+      }
+    ]
+  }
+]

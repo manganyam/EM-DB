@@ -1,0 +1,6795 @@
+[
+  {
+    "Id": 1,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.1.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.1.message2"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.2.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.2.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.2.message3"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.3.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.3.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.3.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.3.message4"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.4.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.4.message2"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.5.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.5.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.5.message3"
+      }
+    ]
+  },
+  {
+    "Id": 424,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.6.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.6.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.6.message3"
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.8.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.8.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.8.message3"
+      }
+    ]
+  },
+  {
+    "Id": 74,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.9.message1"
+      }
+    ]
+  },
+  {
+    "Id": 60,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.10.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.10.message2"
+      }
+    ]
+  },
+  {
+    "Id": 61,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.11.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.11.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.11.message3"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.12.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.12.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.12.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.12.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.12.message5"
+      }
+    ]
+  },
+  {
+    "Id": 64,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.13.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.13.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.13.message3"
+      }
+    ]
+  },
+  {
+    "Id": 80,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.14.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.14.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.14.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.14.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.14.message5"
+      }
+    ]
+  },
+  {
+    "Id": 139,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.15.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.15.message2"
+      }
+    ]
+  },
+  {
+    "Id": 269,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.16.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.16.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.16.message3"
+      }
+    ]
+  },
+  {
+    "Id": 65,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.193.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.193.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.193.message3"
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan",
+      "LeftOuter": "Buck",
+      "RightOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.17.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.17.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.17.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.17.message4"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.17.message5"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.17.message6"
+      }
+    ]
+  },
+  {
+    "Id": 68,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.18.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.18.message2"
+      }
+    ]
+  },
+  {
+    "Id": 69,
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.19.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.19.message2"
+      }
+    ]
+  },
+  {
+    "Id": 141,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.20.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.20.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.20.message3"
+      }
+    ]
+  },
+  {
+    "Id": 142,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck",
+      "LeftOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.21.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.21.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.21.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.21.message4"
+      }
+    ]
+  },
+  {
+    "Id": 143,
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftOuter": "Chuck",
+      "RightOuter": "Buck",
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.22.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.22.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.22.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.22.message4"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.22.message5"
+      }
+    ]
+  },
+  {
+    "Id": 70,
+    "ConversationCharacters": {
+      "RightOuter": "PussInBoots",
+      "RightInner": "Buck",
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.23.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.23.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.23.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.23.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.23.message5"
+      }
+    ]
+  },
+  {
+    "Id": 62,
+    "ConversationCharacters": {
+      "LeftOuter": "Mermaid",
+      "RightInner": "Chuck",
+      "LeftInner": "SleepingBeauty",
+      "RightOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.24.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.24.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.24.message3"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.24.message4"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.24.message5"
+      }
+    ]
+  },
+  {
+    "Id": 71,
+    "ConversationCharacters": {
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.25.message1"
+      }
+    ]
+  },
+  {
+    "Id": 72,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.26.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.26.message2"
+      }
+    ]
+  },
+  {
+    "Id": 145,
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.27.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.27.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.27.message3"
+      }
+    ]
+  },
+  {
+    "Id": 146,
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "Chuck",
+      "RightOuter": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.28.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.28.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.28.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.28.message4"
+      }
+    ]
+  },
+  {
+    "Id": 147,
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.29.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.29.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.29.message3"
+      }
+    ]
+  },
+  {
+    "Id": 148,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "Chuck",
+      "RightOuter": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.30.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.30.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.30.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.30.message4"
+      }
+    ]
+  },
+  {
+    "Id": 73,
+    "ConversationCharacters": {
+      "RightInner": "PaulBunyan",
+      "LeftInner": "Buck",
+      "RightOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.31.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.31.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.31.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.31.message4"
+      }
+    ]
+  },
+  {
+    "Id": 87,
+    "ConversationCharacters": {
+      "RightInner": "PeterPan",
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.32.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.32.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.32.message3"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.32.message4"
+      }
+    ]
+  },
+  {
+    "Id": 113,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.33.message1"
+      }
+    ]
+  },
+  {
+    "Id": 114,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.34.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.34.message2"
+      }
+    ]
+  },
+  {
+    "Id": 116,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.35.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.35.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.35.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.35.message4"
+      }
+    ]
+  },
+  {
+    "Id": 117,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.36.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.36.message2"
+      }
+    ]
+  },
+  {
+    "Id": 118,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.37.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.37.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.37.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.37.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.37.message5"
+      }
+    ]
+  },
+  {
+    "Id": 270,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.38.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.38.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.38.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.38.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.38.message5"
+      }
+    ]
+  },
+  {
+    "Id": 115,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.194.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.194.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.194.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.194.message4"
+      }
+    ]
+  },
+  {
+    "Id": 149,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "RedHood",
+      "LeftOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.39.message1"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.39.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.39.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.39.message4"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.39.message5"
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.40.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.40.message2"
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "PaulBunyan",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.41.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.41.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.41.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.41.message4"
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "Chuck",
+      "RightOuter": "PaulBunyan",
+      "LeftOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.42.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.42.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.42.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.42.message4"
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "PaulBunyan",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.43.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.43.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.43.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.43.message4"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.43.message5"
+      }
+    ]
+  },
+  {
+    "Id": 191,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.44.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.44.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.44.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.44.message4"
+      }
+    ]
+  },
+  {
+    "Id": 2000,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.46.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.46.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.46.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.46.message4"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.46.message5"
+      }
+    ]
+  },
+  {
+    "Id": 2001,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck",
+      "LeftOuter": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.47.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.47.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.47.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.47.message4"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.47.message5"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.47.message6"
+      }
+    ]
+  },
+  {
+    "Id": 193,
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.48.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.48.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.48.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.48.message4"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.49.message1"
+      }
+    ]
+  },
+  {
+    "Id": 240,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "Buck",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.49.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.49.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.49.message4"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.49.message5"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.49.message6"
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.50.message1"
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.51.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.51.message2"
+      }
+    ]
+  },
+  {
+    "Id": 46,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.52.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.52.message2"
+      }
+    ]
+  },
+  {
+    "Id": 47,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.53.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.53.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.53.message3"
+      }
+    ]
+  },
+  {
+    "Id": 52,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.54.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.54.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.54.message3"
+      }
+    ]
+  },
+  {
+    "Id": 186,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.55.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.55.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.55.message3"
+      }
+    ]
+  },
+  {
+    "Id": 189,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "Mermaid",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.58.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.58.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.58.message3"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.58.message4"
+      }
+    ]
+  },
+  {
+    "Id": 241,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.59.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.59.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.59.message3"
+      }
+    ]
+  },
+  {
+    "Id": 119,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.60.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.60.message2"
+      }
+    ]
+  },
+  {
+    "Id": 120,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.61.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.61.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.61.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.61.message4"
+      }
+    ]
+  },
+  {
+    "Id": 121,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.62.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.62.message2"
+      }
+    ]
+  },
+  {
+    "Id": 122,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.63.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.63.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.63.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.63.message4"
+      }
+    ]
+  },
+  {
+    "Id": 123,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.64.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.64.message2"
+      }
+    ]
+  },
+  {
+    "Id": 247,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.65.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.65.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.65.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.65.message4"
+      }
+    ]
+  },
+  {
+    "Id": 124,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.66.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.66.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.66.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.66.message4"
+      }
+    ]
+  },
+  {
+    "Id": 150,
+    "ConversationCharacters": {
+      "RightInner": "Rapunzel",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.67.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.67.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.67.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.67.message4"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.67.message5"
+      }
+    ]
+  },
+  {
+    "Id": 176,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.68.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.68.message2"
+      }
+    ]
+  },
+  {
+    "Id": 177,
+    "ConversationCharacters": {
+      "LeftInner": "PeterPan",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.69.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.69.message2"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.69.message3"
+      }
+    ]
+  },
+  {
+    "Id": 178,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "PeterPan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.70.message1"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.70.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.70.message3"
+      }
+    ]
+  },
+  {
+    "Id": 179,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.71.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.71.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.71.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.71.message4"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.71.message5"
+      }
+    ]
+  },
+  {
+    "Id": 180,
+    "ConversationCharacters": {
+      "LeftInner": "PeterPan",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.72.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.72.message2"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.72.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.72.message4"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.72.message5"
+      }
+    ]
+  },
+  {
+    "Id": 181,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "PeterPan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.73.message1"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.73.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.73.message3"
+      }
+    ]
+  },
+  {
+    "Id": 182,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.198.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.198.message2"
+      }
+    ]
+  },
+  {
+    "Id": 184,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad",
+      "RightInner": "Mermaid",
+      "LeftOuter": "RedHood",
+      "RightOuter": "PeterPan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.75.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.75.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.75.message3"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.75.message4"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.75.message5"
+      }
+    ]
+  },
+  {
+    "Id": 159,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.76.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.76.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.76.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.76.message4"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.76.message5"
+      }
+    ]
+  },
+  {
+    "Id": 59,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.77.message1"
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.78.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.78.message2"
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.79.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.79.message2"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.81.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.81.message2"
+      }
+    ]
+  },
+  {
+    "Id": 234,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.82.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.82.message2"
+      }
+    ]
+  },
+  {
+    "Id": 235,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.83.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.83.message2"
+      }
+    ]
+  },
+  {
+    "Id": 236,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.84.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.84.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.84.message3"
+      }
+    ]
+  },
+  {
+    "Id": 237,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.85.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.85.message2"
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.86.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.86.message2"
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "PussInBoots",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.87.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.87.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.87.message3"
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "PussInBoots",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.88.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.88.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.88.message3"
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "PussInBoots",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.89.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.89.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.89.message3"
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "PussInBoots",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.90.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.90.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.90.message3"
+      }
+    ]
+  },
+  {
+    "Id": 160,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.91.message1"
+      }
+    ]
+  },
+  {
+    "Id": 161,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.92.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.92.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.92.message3"
+      }
+    ]
+  },
+  {
+    "Id": 169,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.93.message1"
+      }
+    ]
+  },
+  {
+    "Id": 170,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "PussInBoots",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.94.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.94.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.94.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.94.message4"
+      }
+    ]
+  },
+  {
+    "Id": 171,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "Mermaid",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.95.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.95.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.95.message3"
+      }
+    ]
+  },
+  {
+    "Id": 172,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "PussInBoots",
+      "LeftOuter": "PeterPan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.96.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.96.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.96.message3"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.96.message4"
+      }
+    ]
+  },
+  {
+    "Id": 173,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "Buck",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.97.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.97.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.97.message3"
+      }
+    ]
+  },
+  {
+    "Id": 174,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.98.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.98.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.98.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.98.message4"
+      }
+    ]
+  },
+  {
+    "Id": 175,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.99.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.99.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.99.message3"
+      }
+    ]
+  },
+  {
+    "Id": 183,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio",
+      "RightInner": "PaulBunyan",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.100.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.100.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.100.message3"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.100.message4"
+      }
+    ]
+  },
+  {
+    "Id": 293,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.101.message1"
+      }
+    ]
+  },
+  {
+    "Id": 294,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.102.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.102.message2"
+      }
+    ]
+  },
+  {
+    "Id": 295,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.103.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.103.message2"
+      }
+    ]
+  },
+  {
+    "Id": 296,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.104.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.104.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.104.message3"
+      }
+    ]
+  },
+  {
+    "Id": 297,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.105.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.105.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.105.message3"
+      }
+    ]
+  },
+  {
+    "Id": 298,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.106.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.106.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.106.message3"
+      }
+    ]
+  },
+  {
+    "Id": 299,
+    "ConversationCharacters": {
+      "RightInner": "Rapunzel",
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.107.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.107.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.107.message3"
+      }
+    ]
+  },
+  {
+    "Id": 303,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.200.message1"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.200.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.200.message3"
+      }
+    ]
+  },
+  {
+    "Id": 304,
+    "ConversationCharacters": {
+      "LeftInner": "Cinderella",
+      "RightInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.108.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.108.message2"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.108.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.108.message4"
+      }
+    ]
+  },
+  {
+    "Id": 224,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.109.message1"
+      }
+    ]
+  },
+  {
+    "Id": 225,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.110.message1"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.110.message2"
+      }
+    ]
+  },
+  {
+    "Id": 226,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio",
+      "RightInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.111.message1"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.111.message2"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.111.message3"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.111.message4"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.111.message5"
+      }
+    ]
+  },
+  {
+    "Id": 227,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio",
+      "RightInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.112.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.112.message2"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.112.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.112.message4"
+      }
+    ]
+  },
+  {
+    "Id": 228,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.113.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.113.message2"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.113.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.113.message4"
+      }
+    ]
+  },
+  {
+    "Id": 229,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.114.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.114.message2"
+      }
+    ]
+  },
+  {
+    "Id": 277,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Pinocchio"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.115.message1"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.115.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.115.message3"
+      }
+    ]
+  },
+  {
+    "Id": 230,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.203.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.203.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.203.message3"
+      }
+    ]
+  },
+  {
+    "Id": 231,
+    "ConversationCharacters": {
+      "LeftInner": "SnowWhite",
+      "RightInner": "Pinocchio",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.116.message1"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.116.message2"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.116.message3"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.116.message4"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.116.message5"
+      }
+    ]
+  },
+  {
+    "Id": 427,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.383.message1"
+      }
+    ]
+  },
+  {
+    "Id": 428,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.384.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.384.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.384.message3"
+      }
+    ]
+  },
+  {
+    "Id": 89,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.117.message1"
+      }
+    ]
+  },
+  {
+    "Id": 39,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.119.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.119.message2"
+      }
+    ]
+  },
+  {
+    "Id": 238,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.120.message1"
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Buck",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.121.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.121.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.121.message3"
+      }
+    ]
+  },
+  {
+    "Id": 128,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.123.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.123.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.123.message3"
+      }
+    ]
+  },
+  {
+    "Id": 239,
+    "ConversationCharacters": {
+      "RightInner": "Chuck",
+      "LeftInner": "PussInBoots",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.124.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.124.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.124.message3"
+      }
+    ]
+  },
+  {
+    "Id": 54,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.125.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.125.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.125.message3"
+      }
+    ]
+  },
+  {
+    "Id": 55,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.126.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.126.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.126.message3"
+      }
+    ]
+  },
+  {
+    "Id": 56,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.127.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.127.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.127.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.127.message4"
+      }
+    ]
+  },
+  {
+    "Id": 57,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.128.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.128.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.128.message3"
+      }
+    ]
+  },
+  {
+    "Id": 58,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.129.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.129.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.129.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.129.message4"
+      }
+    ]
+  },
+  {
+    "Id": 135,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan",
+      "LeftOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.130.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.130.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.130.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.130.message4"
+      }
+    ]
+  },
+  {
+    "Id": 136,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.131.message1"
+      }
+    ]
+  },
+  {
+    "Id": 242,
+    "ConversationCharacters": {
+      "RightInner": "PeterPan",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "PaulBunyan",
+      "RightOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.133.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.133.message2"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.133.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.133.message4"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.133.message5"
+      }
+    ]
+  },
+  {
+    "Id": 53,
+    "ConversationCharacters": {
+      "LeftInner": "PeterPan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.134.message1"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.134.message2"
+      }
+    ]
+  },
+  {
+    "Id": 233,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.135.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.135.message2"
+      }
+    ]
+  },
+  {
+    "Id": 185,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.136.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.136.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.136.message3"
+      }
+    ]
+  },
+  {
+    "Id": 151,
+    "ConversationCharacters": {
+      "LeftInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.137.message1"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.137.message2"
+      }
+    ]
+  },
+  {
+    "Id": 152,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.138.message1"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.138.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.138.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.138.message4"
+      }
+    ]
+  },
+  {
+    "Id": 153,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.139.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.139.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.139.message3"
+      }
+    ]
+  },
+  {
+    "Id": 154,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.140.message1"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.140.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.140.message3"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.140.message4"
+      }
+    ]
+  },
+  {
+    "Id": 155,
+    "ConversationCharacters": {
+      "RightInner": "Mermaid",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.141.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.141.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.141.message3"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.141.message4"
+      }
+    ]
+  },
+  {
+    "Id": 156,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.142.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.142.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.142.message3"
+      }
+    ]
+  },
+  {
+    "Id": 157,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.143.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.143.message2"
+      }
+    ]
+  },
+  {
+    "Id": 158,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.145.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.145.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.145.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.145.message4"
+      }
+    ]
+  },
+  {
+    "Id": 243,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.146.message1"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.146.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.146.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.146.message4"
+      }
+    ]
+  },
+  {
+    "Id": 162,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.147.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.147.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.147.message3"
+      }
+    ]
+  },
+  {
+    "Id": 163,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.148.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.148.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.148.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.148.message4"
+      }
+    ]
+  },
+  {
+    "Id": 164,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.149.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.149.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.149.message3"
+      }
+    ]
+  },
+  {
+    "Id": 165,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.150.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.150.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.150.message3"
+      }
+    ]
+  },
+  {
+    "Id": 166,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.151.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.151.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.151.message3"
+      }
+    ]
+  },
+  {
+    "Id": 167,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Rapunzel",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.152.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.152.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.152.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.152.message4"
+      }
+    ]
+  },
+  {
+    "Id": 244,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Rapunzel",
+      "LeftOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.153.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.153.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.153.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.153.message4"
+      }
+    ]
+  },
+  {
+    "Id": 194,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.154.message1"
+      }
+    ]
+  },
+  {
+    "Id": 195,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.155.message1"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.155.message2"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.155.message3"
+      }
+    ]
+  },
+  {
+    "Id": 196,
+    "ConversationCharacters": {
+      "LeftInner": "RedHood",
+      "RightInner": "Pinocchio"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.156.message1"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.156.message2"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.156.message3"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.156.message4"
+      }
+    ]
+  },
+  {
+    "Id": 197,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Pinocchio",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.157.message1"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.157.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.157.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.157.message4"
+      }
+    ]
+  },
+  {
+    "Id": 198,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.158.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.158.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.158.message3"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.158.message4"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.158.message5"
+      }
+    ]
+  },
+  {
+    "Id": 199,
+    "ConversationCharacters": {
+      "RightInner": "Pinocchio",
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.159.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.159.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.159.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.159.message4"
+      }
+    ]
+  },
+  {
+    "Id": 200,
+    "ConversationCharacters": {
+      "LeftInner": "PeterPan",
+      "RightInner": "Pinocchio"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.160.message1"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.160.message2"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.160.message3"
+      }
+    ]
+  },
+  {
+    "Id": 203,
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.163.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.163.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.163.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.163.message4"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.163.message5"
+      }
+    ]
+  },
+  {
+    "Id": 245,
+    "ConversationCharacters": {
+      "RightInner": "RedHood",
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.164.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.164.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.164.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.164.message4"
+      }
+    ]
+  },
+  {
+    "Id": 215,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.165.message1"
+      }
+    ]
+  },
+  {
+    "Id": 216,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.166.message1"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.166.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.166.message3"
+      }
+    ]
+  },
+  {
+    "Id": 217,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.167.message1"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.167.message2"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.167.message3"
+      }
+    ]
+  },
+  {
+    "Id": 218,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.168.message1"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.168.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.168.message3"
+      }
+    ]
+  },
+  {
+    "Id": 219,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad",
+      "RightInner": "Rapunzel",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.169.message1"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.169.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.169.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.169.message4"
+      }
+    ]
+  },
+  {
+    "Id": 220,
+    "ConversationCharacters": {
+      "LeftInner": "RedHood",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.170.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.170.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.170.message3"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.170.message4"
+      }
+    ]
+  },
+  {
+    "Id": 221,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.171.message1"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.171.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.171.message3"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.171.message4"
+      }
+    ]
+  },
+  {
+    "Id": 222,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Sinbad",
+      "LeftOuter": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.172.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.172.message2"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.172.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.172.message4"
+      }
+    ]
+  },
+  {
+    "Id": 223,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.173.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.173.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.173.message3"
+      }
+    ]
+  },
+  {
+    "Id": 246,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad",
+      "RightInner": "Chuck",
+      "RightOuter": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.174.message1"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.174.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.174.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.174.message4"
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.175.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.175.message2"
+      }
+    ]
+  },
+  {
+    "Id": 63,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.176.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.176.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.176.message3"
+      }
+    ]
+  },
+  {
+    "Id": 212,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.177.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.177.message2"
+      }
+    ]
+  },
+  {
+    "Id": 213,
+    "ConversationCharacters": {
+      "LeftInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.178.message1"
+      }
+    ]
+  },
+  {
+    "Id": 214,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.179.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.179.message2"
+      }
+    ]
+  },
+  {
+    "Id": 232,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.180.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.180.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.180.message3"
+      }
+    ]
+  },
+  {
+    "Id": 129,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.181.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.181.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.181.message3"
+      }
+    ]
+  },
+  {
+    "Id": 130,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.182.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.182.message2"
+      }
+    ]
+  },
+  {
+    "Id": 131,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.183.message1"
+      }
+    ]
+  },
+  {
+    "Id": 168,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.184.message1"
+      }
+    ]
+  },
+  {
+    "Id": 132,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.185.message1"
+      }
+    ]
+  },
+  {
+    "Id": 133,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.186.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.186.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.186.message3"
+      }
+    ]
+  },
+  {
+    "Id": 134,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck",
+      "LeftOuter": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.187.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.187.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.187.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.187.message4"
+      }
+    ]
+  },
+  {
+    "Id": 248,
+    "ConversationCharacters": {
+      "RightInner": "PaulBunyan",
+      "LeftInner": "SleepingBeauty",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.132.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.132.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.132.message3"
+      }
+    ]
+  },
+  {
+    "Id": 204,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.205.message1"
+      }
+    ]
+  },
+  {
+    "Id": 205,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.206.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.206.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.206.message3"
+      }
+    ]
+  },
+  {
+    "Id": 206,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.207.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.207.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.207.message3"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.207.message4"
+      }
+    ]
+  },
+  {
+    "Id": 207,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.208.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.208.message2"
+      }
+    ]
+  },
+  {
+    "Id": 208,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.209.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.209.message2"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.209.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.209.message4"
+      }
+    ]
+  },
+  {
+    "Id": 209,
+    "ConversationCharacters": {
+      "LeftInner": "RedHood",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.210.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.210.message2"
+      }
+    ]
+  },
+  {
+    "Id": 275,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.211.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.211.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.211.message3"
+      }
+    ]
+  },
+  {
+    "Id": 210,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.213.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.213.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.213.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.213.message4"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.213.message5"
+      }
+    ]
+  },
+  {
+    "Id": 211,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Thumbelina"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.214.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.214.message2"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.214.message3"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.214.message4"
+      }
+    ]
+  },
+  {
+    "Id": 280,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.215.message1"
+      }
+    ]
+  },
+  {
+    "Id": 281,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.216.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.216.message2"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.216.message3"
+      }
+    ]
+  },
+  {
+    "Id": 282,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina",
+      "RightInner": "Buck",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.217.message1"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.217.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.217.message3"
+      }
+    ]
+  },
+  {
+    "Id": 283,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.218.message1"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.218.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.218.message3"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.218.message4"
+      }
+    ]
+  },
+  {
+    "Id": 284,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina",
+      "RightInner": "PeterPan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.219.message1"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.219.message2"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.219.message3"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.219.message4"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.219.message5"
+      }
+    ]
+  },
+  {
+    "Id": 285,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Thumbelina",
+      "LeftOuter": "Rapunzel"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.220.message1"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.220.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.220.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.220.message4"
+      }
+    ]
+  },
+  {
+    "Id": 286,
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "Thumbelina"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.221.message1"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.221.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.221.message3"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.221.message4"
+      }
+    ]
+  },
+  {
+    "Id": 287,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.222.message1"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.222.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.222.message3"
+      }
+    ]
+  },
+  {
+    "Id": 291,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.226.message1"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.226.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.226.message3"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.226.message4"
+      }
+    ]
+  },
+  {
+    "Id": 292,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.227.message1"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.227.message2"
+      }
+    ]
+  },
+  {
+    "Id": 332,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.240.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.240.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.240.message3"
+      }
+    ]
+  },
+  {
+    "Id": 320,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.229.message1"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.229.message2"
+      }
+    ]
+  },
+  {
+    "Id": 321,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "Pinocchio"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.230.message1"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.230.message2"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.230.message3"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.230.message4"
+      }
+    ]
+  },
+  {
+    "Id": 322,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "RedHood"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.231.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.231.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.231.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.231.message4"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.231.message5"
+      }
+    ]
+  },
+  {
+    "Id": 323,
+    "ConversationCharacters": {
+      "LeftInner": "SnowWhite",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.232.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.232.message2"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.232.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.232.message4"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.232.message5"
+      }
+    ]
+  },
+  {
+    "Id": 324,
+    "ConversationCharacters": {
+      "LeftInner": "PeterPan",
+      "RightInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.233.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.233.message2"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.233.message3"
+      }
+    ]
+  },
+  {
+    "Id": 325,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.234.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.234.message2"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.234.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.234.message4"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.234.message5"
+      }
+    ]
+  },
+  {
+    "Id": 326,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "SnowWhite"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.235.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.235.message2"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.235.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.235.message4"
+      }
+    ]
+  },
+  {
+    "Id": 327,
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.236.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.236.message2"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.236.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.236.message4"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "conversation.236.message5"
+      }
+    ]
+  },
+  {
+    "Id": 328,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PeterPan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.237.message1"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.237.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.237.message3"
+      },
+      {
+        "CharacterId": "PeterPan",
+        "Emotion": "Normal",
+        "Message": "conversation.237.message4"
+      }
+    ]
+  },
+  {
+    "Id": 329,
+    "ConversationCharacters": {
+      "LeftInner": "Thumbelina"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.238.message1"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.238.message2"
+      },
+      {
+        "CharacterId": "Thumbelina",
+        "Emotion": "Normal",
+        "Message": "conversation.238.message3"
+      }
+    ]
+  },
+  {
+    "Id": 330,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Merlin",
+      "LeftOuter": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.239.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.239.message2"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.239.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.239.message4"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.239.message5"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.239.message6"
+      }
+    ]
+  },
+  {
+    "Id": 306,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "SnowWhite"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.241.message1"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.241.message2"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.241.message3"
+      }
+    ]
+  },
+  {
+    "Id": 307,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.242.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.242.message2"
+      }
+    ]
+  },
+  {
+    "Id": 308,
+    "ConversationCharacters": {
+      "LeftInner": "Rapunzel",
+      "RightInner": "SnowWhite"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.243.message1"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.243.message2"
+      }
+    ]
+  },
+  {
+    "Id": 309,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "SnowWhite"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.244.message1"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.244.message2"
+      }
+    ]
+  },
+  {
+    "Id": 310,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "SnowWhite"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.245.message1"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.245.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.245.message3"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.245.message4"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.245.message5"
+      }
+    ]
+  },
+  {
+    "Id": 311,
+    "ConversationCharacters": {
+      "LeftInner": "SnowWhite"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.246.message1"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.246.message2"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.246.message3"
+      }
+    ]
+  },
+  {
+    "Id": 312,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "SnowWhite"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.247.message1"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.247.message2"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.247.message3"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.247.message4"
+      }
+    ]
+  },
+  {
+    "Id": 313,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.248.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.248.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.248.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.248.message4"
+      }
+    ]
+  },
+  {
+    "Id": 318,
+    "ConversationCharacters": {
+      "LeftInner": "SnowWhite",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.253.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.253.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.253.message3"
+      }
+    ]
+  },
+  {
+    "Id": 319,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck",
+      "RightOuter": "SnowWhite"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.254.message1"
+      },
+      {
+        "CharacterId": "SnowWhite",
+        "Emotion": "Normal",
+        "Message": "conversation.254.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.254.message3"
+      }
+    ]
+  },
+  {
+    "Id": 331,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.255.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.255.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.255.message3"
+      }
+    ]
+  },
+  {
+    "Id": 334,
+    "ConversationCharacters": {
+      "LeftInner": "Cinderella",
+      "RightInner": "Buck",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.256.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.256.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.256.message3"
+      }
+    ]
+  },
+  {
+    "Id": 335,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Cinderella",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.257.message1"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.257.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.257.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.257.message4"
+      }
+    ]
+  },
+  {
+    "Id": 336,
+    "ConversationCharacters": {
+      "LeftInner": "RedHood",
+      "RightInner": "Cinderella"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.258.message1"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.258.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.258.message3"
+      }
+    ]
+  },
+  {
+    "Id": 337,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Cinderella"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.259.message1"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.259.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.259.message3"
+      }
+    ]
+  },
+  {
+    "Id": 338,
+    "ConversationCharacters": {
+      "LeftInner": "Cinderella",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.260.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.260.message2"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.260.message3"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.260.message4"
+      }
+    ]
+  },
+  {
+    "Id": 339,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Rapunzel",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.261.message1"
+      },
+      {
+        "CharacterId": "Rapunzel",
+        "Emotion": "Normal",
+        "Message": "conversation.261.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.261.message3"
+      }
+    ]
+  },
+  {
+    "Id": 340,
+    "ConversationCharacters": {
+      "LeftInner": "Cinderella",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.262.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.262.message2"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.262.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.262.message4"
+      }
+    ]
+  },
+  {
+    "Id": 341,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck",
+      "RightOuter": "Cinderella"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.263.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.263.message2"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.263.message3"
+      }
+    ]
+  },
+  {
+    "Id": 342,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Pinocchio",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.264.message1"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.264.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.264.message3"
+      }
+    ]
+  },
+  {
+    "Id": 346,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.268.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.268.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.268.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.268.message4"
+      }
+    ]
+  },
+  {
+    "Id": 347,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Cinderella",
+      "LeftOuter": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.269.message1"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.269.message2"
+      },
+      {
+        "CharacterId": "Cinderella",
+        "Emotion": "Normal",
+        "Message": "conversation.269.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.269.message4"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.269.message5"
+      }
+    ]
+  },
+  {
+    "Id": 348,
+    "ConversationCharacters": {
+      "LeftInner": "Merlin",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.270.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.270.message2"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.270.message3"
+      }
+    ]
+  },
+  {
+    "Id": 349,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Merlin"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.271.message1"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.271.message2"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.271.message3"
+      }
+    ]
+  },
+  {
+    "Id": 350,
+    "ConversationCharacters": {
+      "LeftInner": "Pinocchio",
+      "RightInner": "Merlin"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.272.message1"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.272.message2"
+      },
+      {
+        "CharacterId": "Pinocchio",
+        "Emotion": "Normal",
+        "Message": "conversation.272.message3"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.272.message4"
+      }
+    ]
+  },
+  {
+    "Id": 351,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.273.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.273.message2"
+      }
+    ]
+  },
+  {
+    "Id": 352,
+    "ConversationCharacters": {
+      "LeftInner": "RedHood",
+      "RightInner": "Merlin"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.274.message1"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.274.message2"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.274.message3"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.274.message4"
+      }
+    ]
+  },
+  {
+    "Id": 353,
+    "ConversationCharacters": {
+      "LeftInner": "RedHood",
+      "RightInner": "Merlin"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.275.message1"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.275.message2"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.275.message3"
+      },
+      {
+        "CharacterId": "RedHood",
+        "Emotion": "Normal",
+        "Message": "conversation.275.message4"
+      }
+    ]
+  },
+  {
+    "Id": 354,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Merlin",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.276.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.276.message2"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.276.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.276.message4"
+      }
+    ]
+  },
+  {
+    "Id": 355,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.277.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.277.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.277.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.277.message4"
+      }
+    ]
+  },
+  {
+    "Id": 356,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.278.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.278.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.278.message3"
+      }
+    ]
+  },
+  {
+    "Id": 357,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "Merlin",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.279.message1"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.279.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.279.message3"
+      }
+    ]
+  },
+  {
+    "Id": 360,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.282.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.282.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.282.message3"
+      }
+    ]
+  },
+  {
+    "Id": 361,
+    "ConversationCharacters": {
+      "LeftInner": "Merlin",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.283.message1"
+      },
+      {
+        "CharacterId": "Merlin",
+        "Emotion": "Normal",
+        "Message": "conversation.283.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.283.message3"
+      }
+    ]
+  },
+  {
+    "Id": 417,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.321.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.321.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.321.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.321.message4"
+      }
+    ]
+  },
+  {
+    "Id": 418,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.322.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.322.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.322.message3"
+      }
+    ]
+  },
+  {
+    "Id": 419,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.323.message1"
+      }
+    ]
+  },
+  {
+    "Id": 420,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.324.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.324.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.324.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.324.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.324.message5"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.324.message6"
+      }
+    ]
+  },
+  {
+    "Id": 421,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.325.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.325.message2"
+      }
+    ]
+  },
+  {
+    "Id": 422,
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.326.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.326.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.326.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.326.message4"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.327.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.327.message2"
+      }
+    ]
+  },
+  {
+    "Id": 431,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c3.msg1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c3.msg2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c3.msg3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c3.msg4"
+      }
+    ]
+  },
+  {
+    "Id": 432,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c4.msg1"
+      }
+    ]
+  },
+  {
+    "Id": 433,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c5.msg1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c5.msg2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c5.msg3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c5.msg4"
+      }
+    ]
+  },
+  {
+    "Id": 434,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c6.msg1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c6.msg2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c6.msg3"
+      }
+    ]
+  },
+  {
+    "Id": 435,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c7.msg1"
+      }
+    ]
+  },
+  {
+    "Id": 436,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c8.msg1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.ext_c8.msg2"
+      }
+    ]
+  },
+  {
+    "Id": "extra1",
+    "ConversationCharacters": {
+      "LeftInner": "Leprechaun"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Leprechaun",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.1.message1"
+      },
+      {
+        "CharacterId": "Leprechaun",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.1.message2"
+      },
+      {
+        "CharacterId": "Leprechaun",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.1.message3"
+      },
+      {
+        "CharacterId": "Leprechaun",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.1.message4"
+      }
+    ]
+  },
+  {
+    "Id": "sd1",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.intro.1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.intro.2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.intro.3"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.intro.4"
+      }
+    ]
+  },
+  {
+    "Id": "sd17_1",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.monument.1"
+      }
+    ]
+  },
+  {
+    "Id": "sd17_2",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.monument.2"
+      }
+    ]
+  },
+  {
+    "Id": "sd18",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.monument.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.monument.2_1"
+      }
+    ]
+  },
+  {
+    "Id": "sd19",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.monument.3"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.monument.4"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.monument.5"
+      }
+    ]
+  },
+  {
+    "Id": "sd20",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.monument.1_1"
+      }
+    ]
+  },
+  {
+    "Id": "sd21",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.habitat.unlock.1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.habitat.unlock.3"
+      }
+    ]
+  },
+  {
+    "Id": "sd22",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.SD.skinning.3"
+      }
+    ]
+  },
+  {
+    "Id": "travel1",
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.firstTimeTravel.1_1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.firstTimeTravel.1_2"
+      },
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.firstTimeTravel.1_3"
+      }
+    ]
+  },
+  {
+    "Id": "delivery1",
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.delivery.1.1"
+      }
+    ]
+  },
+  {
+    "Id": "delivery2",
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.delivery.2.1"
+      }
+    ]
+  },
+  {
+    "Id": "delivery3",
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.delivery.3.1"
+      }
+    ]
+  },
+  {
+    "Id": "delivery4",
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.delivery.4.1"
+      }
+    ]
+  },
+  {
+    "Id": "delivery5",
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.delivery.5.1"
+      }
+    ]
+  },
+  {
+    "Id": "delivery6",
+    "ConversationCharacters": {
+      "LeftInner": "Sinbad"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Sinbad",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.delivery.6.1"
+      }
+    ]
+  }
+]

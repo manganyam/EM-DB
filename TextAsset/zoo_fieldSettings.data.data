@@ -1,0 +1,25 @@
+{
+  "Name": "zoo",
+  "GlobalQuestsEnabled": false,
+  "EnergyEnabled": false,
+  "IsIgnoreCreateBorders" : true,
+  "RenderQueue" : 2003,
+  
+  "WaterBorderLeft": 30,
+  "WaterBorderRight": 30,
+  "WaterBorderTop": 30,
+  "WaterBorderBottom": 30,
+  
+  "WaterCropCornerTopLeft": 54,
+  "WaterCropCornerTopRight": 56,
+  "WaterCropCornerBottomLeft": 58,
+  "WaterCropCornerBottomRight": 56,
+  
+  "CameraClampX": 5,
+  "CameraClampY": -34,
+  "CameraClampWidth": 118,
+  "CameraClampHeight": 70,
+  
+  "LayoutAddonsSeed": 4460,
+  "LayoutAddons": {}
+}

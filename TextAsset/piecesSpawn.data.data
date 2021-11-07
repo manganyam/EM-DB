@@ -1,0 +1,794 @@
+[
+  {
+    "Uid": "Spawn_A",
+    "Index": 2,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_A",
+    "Index": 3,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_A",
+    "Index": 4,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_A",
+    "Index": 5,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_A",
+    "Index": 6,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_A",
+    "Index": 7,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_A",
+    "Index": 8,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_B",
+    "Index": 2,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_B",
+    "Index": 3,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_B",
+    "Index": 4,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_B",
+    "Index": 5,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_B",
+    "Index": 6,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 1
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_B",
+    "Index": 7,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 2
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_B",
+    "Index": 8,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 2
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_C",
+    "Index": 2,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_C",
+    "Index": 3,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_C",
+    "Index": 4,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_C",
+    "Index": 5,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_C",
+    "Index": 6,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_C",
+    "Index": 7,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_C",
+    "Index": 8,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_D",
+    "Index": 2,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_D",
+    "Index": 3,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_D",
+    "Index": 4,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_D",
+    "Index": 5,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 1
+      },
+      {
+        "Currency": "Hard1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_D",
+    "Index": 6,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 2
+      },
+      {
+        "Currency": "Hard1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_D",
+    "Index": 7,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 2
+      },
+      {
+        "Currency": "Hard1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_D",
+    "Index": 8,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A3",
+        "Amount": 2
+      },
+      {
+        "Currency": "Hard1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_E",
+    "Index": 2,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_E",
+    "Index": 3,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_E",
+    "Index": 4,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_E",
+    "Index": 5,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_E",
+    "Index": 6,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_E",
+    "Index": 7,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_E",
+    "Index": 8,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_F",
+    "Index": 2,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_F",
+    "Index": 3,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_F",
+    "Index": 4,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_F",
+    "Index": 5,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_F",
+    "Index": 6,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_F",
+    "Index": 7,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_F",
+    "Index": 8,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_J",
+    "Index": 2,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_J",
+    "Index": 3,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_J",
+    "Index": 4,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_J",
+    "Index": 5,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_J",
+    "Index": 6,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_J",
+    "Index": 7,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_J",
+    "Index": 8,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_H",
+    "Index": 2,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_H",
+    "Index": 3,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_H",
+    "Index": 4,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_H",
+    "Index": 5,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Hard1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_H",
+    "Index": 6,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Hard1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_H",
+    "Index": 7,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Hard1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "Spawn_H",
+    "Index": 8,
+    "SpawnPieces": [
+      {
+        "Currency": "Event_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Event_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Hard1",
+        "Amount": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,6040 @@
+[
+  {
+    "Uid": 101000,
+    "TabType": "Coins",
+    "GameFieldType": "Any",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Amount": 150,
+    "Weight": {
+      "Uid": "Coins",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 35
+    },
+    "RandomType": "Base",
+    "IsPermanent": true,
+    "Icon": "CoinsShopIcon1",
+    "Name": "window.shop.coins.item1",
+    "Description": "window.market.description.coins"
+  },
+  {
+    "Uid": 102000,
+    "TabType": "Coins",
+    "GameFieldType": "Any",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Amount": 1000,
+    "Weight": {
+      "Uid": "Coins",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 225
+    },
+    "RandomType": "Base",
+    "IsPermanent": true,
+    "Icon": "CoinsShopIcon2",
+    "Name": "window.shop.coins.item2",
+    "Description": "window.market.description.coins"
+  },
+  {
+    "Uid": 103000,
+    "TabType": "Coins",
+    "GameFieldType": "Any",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Amount": 2500,
+    "Weight": {
+      "Uid": "Coins",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 545
+    },
+    "RandomType": "Base",
+    "IsPermanent": true,
+    "Icon": "CoinsShopIcon3",
+    "Name": "window.shop.coins.item3",
+    "Description": "window.market.description.coins"
+  },
+  {
+    "Uid": 211000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SK3_PR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 150
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sack"
+  },
+  {
+    "Uid": 212000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SK3_PR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 150
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sack"
+  },
+  {
+    "Uid": 201000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsEasy",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 5
+    },
+    "Capacity": 6,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 75
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 202000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsEasy",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 5
+    },
+    "Capacity": 6,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 75
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 203000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsEasy",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 5
+    },
+    "Capacity": 6,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 75
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 204000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsEasy",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 5
+    },
+    "Capacity": 6,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 75
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 205000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsEasy",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 5
+    },
+    "Capacity": 6,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 75
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 206000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsHard",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 6,
+    "Amount": 10,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 25
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 207000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsHard",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 6,
+    "Amount": 10,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 25
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 208000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsHard",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 6,
+    "Amount": 10,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 25
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 209000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsHard",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 6,
+    "Amount": 10,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 25
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 210000,
+    "TabType": "Supplies",
+    "GameFieldType": "Main, Main2",
+    "Bundle": "IngredientsHard",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 6,
+    "Amount": 10,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 25
+    },
+    "RandomType": "Ingredients",
+    "Description": "window.market.description.ingredients"
+  },
+  {
+    "Uid": 301000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 302000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 303000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 304000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesEasy",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 305000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesNormal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 306000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesHard",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 307000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesEasy",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 308000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesNormal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 309000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesHard",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 310000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesEasy",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 311000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesNormal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 312000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesHard",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 313000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Wonder",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesUnreal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 314000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Wonder",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesUnreal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 315000,
+    "TabType": "Building",
+    "GameFieldType": "Main",
+    "Bundle": "Wonder",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesUnreal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 316000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 317000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 318000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 319000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesEasy",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 320000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesNormal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 321000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesHard",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 322000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesEasy",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 323000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesNormal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 324000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesHard",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 325000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesEasy",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 326000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesNormal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 327000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Pieces",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesHard",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 328000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Wonder",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesUnreal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 329000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Wonder",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesUnreal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 330000,
+    "TabType": "Building",
+    "GameFieldType": "Main2",
+    "Bundle": "Wonder",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BasePiecesUnreal",
+    "Description": "window.market.description.piece"
+  },
+  {
+    "Uid": 403000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "NPC_B1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 35
+    },
+    "RandomType": "NPCPieces",
+    "Description": "window.market.description.npc_piece"
+  },
+  {
+    "Uid": 404000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "NPC_B2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 25
+    },
+    "RandomType": "NPCPieces",
+    "Description": "window.market.description.npc_piece"
+  },
+  {
+    "Uid": 415000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "CH_NPC",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 80
+    },
+    "RandomType": "NPCChests",
+    "Description": "window.market.description.npc_chest"
+  },
+  {
+    "Uid": 401000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Boost_CR1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 75
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 402000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 195
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 405000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "CH_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_chest"
+  },
+  {
+    "Uid": 427000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "ZooBox",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 428000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 428000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 428000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 414000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 8
+    },
+    "Capacity": 2,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_WR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 150
+    },
+    "RandomType": "Worker",
+    "Description": "window.market.description.worker"
+  },
+  {
+    "Uid": 403100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "NPC_B1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 35
+    },
+    "RandomType": "NPCPieces",
+    "Description": "window.market.description.npc_piece"
+  },
+  {
+    "Uid": 404100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "NPC_B2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 25
+    },
+    "RandomType": "NPCPieces",
+    "Description": "window.market.description.npc_piece"
+  },
+  {
+    "Uid": 415100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "CH_NPC",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 80
+    },
+    "RandomType": "NPCChests",
+    "Description": "window.market.description.npc_chest"
+  },
+  {
+    "Uid": 401100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Boost_CR1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 75
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 402100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 195
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 405100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "CH_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_chest"
+  },
+  {
+    "Uid": 427100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "ZooBox",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 428100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 428100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 428100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 414100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 8
+    },
+    "Capacity": 2,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_WR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 150
+    },
+    "RandomType": "Worker",
+    "Description": "window.market.description.worker"
+  },
+  {
+    "Uid": 406000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalSpring",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_A_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 406100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalSpring",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_A_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 407000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSpring",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_A",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 408000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSpring",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_A",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 409000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSpring",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_A1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 410000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalSummer",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_B_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 410100,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalSummer",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_B_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 411000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSummer",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_B",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 412000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSummer",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_B",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 416000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSummer",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_B_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 413000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSummer",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_B1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 420000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalAutumn",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_C_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 424000,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalAutumn",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_C_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 421000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalAutumn",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_C",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 422000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalAutumn",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_C",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 426000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalAutumn",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_C_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 423000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalAutumn",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_C1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 430000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalWinter",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_D_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 434000,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalWinter",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_D_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 431000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalWinter",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_D",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 432000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalWinter",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_D",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 436000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalWinter",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_D_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 433000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalWinter",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_D1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 440000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalEaster",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_E_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 444000,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalEaster",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_E_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 441000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalEaster",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_E",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 442000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalEaster",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_E",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 446000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalEaster",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_E_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 443000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalEaster",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_E1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 450000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalSpring21",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_F_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 454000,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalSpring21",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_F_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 451000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSpring21",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_F",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 452000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSpring21",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_F",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 456000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSpring21",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_F_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 453000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalSpring21",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_F1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 460000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalGardenGnomes",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_G_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 464000,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalGardenGnomes",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_G_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 461000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalGardenGnomes",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_G",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 462000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalGardenGnomes",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_G",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 466000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalGardenGnomes",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_G_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 463000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalGardenGnomes",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_G1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 470000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalTropicalParty",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_H_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 474000,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalTropicalParty",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_H_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 471000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalTropicalParty",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_H",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 472000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalTropicalParty",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_H",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 476000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalTropicalParty",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_H_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 473000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalTropicalParty",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_H1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 480000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalWishingWell",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_I_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 484000,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalWishingWell",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_I_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 481000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalWishingWell",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_I",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 482000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalWishingWell",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_I",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 486000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalWishingWell",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_I_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 483000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalWishingWell",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_I1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 490000,
+    "TabType": "Magic",
+    "GameFieldType": "Main",
+    "EventGameType": "SeasonalAutumnWinds",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_J_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 494000,
+    "TabType": "Magic",
+    "GameFieldType": "Main2",
+    "EventGameType": "SeasonalAutumnWinds",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_J_Free",
+      "Weight": 1
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.free_sn_chest"
+  },
+  {
+    "Uid": 491000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalAutumnWinds",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH1_J",
+      "Weight": 10
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 490
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 492000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalAutumnWinds",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH3_J",
+      "Weight": 2
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 290
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 496000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalAutumnWinds",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_CH_J_Rich",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 990
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.sn_chest"
+  },
+  {
+    "Uid": 493000,
+    "TabType": "Magic",
+    "GameFieldType": "Main, Main2",
+    "EventGameType": "SeasonalAutumnWinds",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "SN_J1",
+      "Weight": 1
+    },
+    "RandomType": "SeasonalPieces",
+    "Description": "window.market.description.seasonal"
+  },
+  {
+    "Uid": 501000,
+    "TabType": "Island",
+    "GameFieldType": "Event1",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 502000,
+    "TabType": "Island",
+    "GameFieldType": "Event1",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 503000,
+    "TabType": "Island",
+    "GameFieldType": "Event1",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 504000,
+    "TabType": "Island",
+    "GameFieldType": "Event1",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 505000,
+    "TabType": "Island",
+    "GameFieldType": "Event1",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 506000,
+    "TabType": "Island",
+    "GameFieldType": "Event1",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E1_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.UnicornIsland.event"
+  },
+  {
+    "Uid": 507000,
+    "TabType": "Island",
+    "GameFieldType": "Event1",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E1_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.UnicornIsland.event"
+  },
+  {
+    "Uid": 508000,
+    "TabType": "Island",
+    "GameFieldType": "Event2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 509000,
+    "TabType": "Island",
+    "GameFieldType": "Event2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 510000,
+    "TabType": "Island",
+    "GameFieldType": "Event2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 511000,
+    "TabType": "Island",
+    "GameFieldType": "Event2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 512000,
+    "TabType": "Island",
+    "GameFieldType": "Event2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 513000,
+    "TabType": "Island",
+    "GameFieldType": "Event2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E2_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.FluffyIsland.event"
+  },
+  {
+    "Uid": 514000,
+    "TabType": "Island",
+    "GameFieldType": "Event2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E2_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.FluffyIsland.event"
+  },
+  {
+    "Uid": 515000,
+    "TabType": "Island",
+    "GameFieldType": "Event3",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 516000,
+    "TabType": "Island",
+    "GameFieldType": "Event3",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 517000,
+    "TabType": "Island",
+    "GameFieldType": "Event3",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 518000,
+    "TabType": "Island",
+    "GameFieldType": "Event3",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 519000,
+    "TabType": "Island",
+    "GameFieldType": "Event3",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 520000,
+    "TabType": "Island",
+    "GameFieldType": "Event3",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E3_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.PhoenixIsland.event"
+  },
+  {
+    "Uid": 521000,
+    "TabType": "Island",
+    "GameFieldType": "Event3",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E3_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.PhoenixIsland.event"
+  },
+  {
+    "Uid": 522000,
+    "TabType": "Island",
+    "GameFieldType": "Event4",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 523000,
+    "TabType": "Island",
+    "GameFieldType": "Event4",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 524000,
+    "TabType": "Island",
+    "GameFieldType": "Event4",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 525000,
+    "TabType": "Island",
+    "GameFieldType": "Event4",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 526000,
+    "TabType": "Island",
+    "GameFieldType": "Event4",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 527000,
+    "TabType": "Island",
+    "GameFieldType": "Event4",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E4_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.NessyIsland.event"
+  },
+  {
+    "Uid": 528000,
+    "TabType": "Island",
+    "GameFieldType": "Event4",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E4_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.NessyIsland.event"
+  },
+  {
+    "Uid": 529000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday1",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 530000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday1",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 531000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday1",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 532000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday1",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 533000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday1",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 534000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday1",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "H1_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.HalloweenIsland.event"
+  },
+  {
+    "Uid": 535000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday1",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "H1_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.HalloweenIsland.event"
+  },
+  {
+    "Uid": 536000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 537000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 538000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 539000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 540000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday2",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 541000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "H2_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.ChristmasIsland.event"
+  },
+  {
+    "Uid": 542000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday2",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "H2_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.ChristmasIsland.event"
+  },
+  {
+    "Uid": 543000,
+    "TabType": "Island",
+    "GameFieldType": "Event6",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 544000,
+    "TabType": "Island",
+    "GameFieldType": "Event6",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 545000,
+    "TabType": "Island",
+    "GameFieldType": "Event6",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 546000,
+    "TabType": "Island",
+    "GameFieldType": "Event6",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 547000,
+    "TabType": "Island",
+    "GameFieldType": "Event6",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 548000,
+    "TabType": "Island",
+    "GameFieldType": "Event6",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E6_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.ChrysomallusIsland.event"
+  },
+  {
+    "Uid": 549000,
+    "TabType": "Island",
+    "GameFieldType": "Event6",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E6_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.ChrysomallusIsland.event"
+  },
+  {
+    "Uid": 550000,
+    "TabType": "Island",
+    "GameFieldType": "Event7",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 551000,
+    "TabType": "Island",
+    "GameFieldType": "Event7",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 552000,
+    "TabType": "Island",
+    "GameFieldType": "Event7",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 553000,
+    "TabType": "Island",
+    "GameFieldType": "Event7",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 554000,
+    "TabType": "Island",
+    "GameFieldType": "Event7",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 555000,
+    "TabType": "Island",
+    "GameFieldType": "Event7",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E7_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.WolfIsland.event"
+  },
+  {
+    "Uid": 556000,
+    "TabType": "Island",
+    "GameFieldType": "Event7",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E7_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.WolfIsland.event"
+  },
+  {
+    "Uid": 557000,
+    "TabType": "Island",
+    "GameFieldType": "Event8",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 558000,
+    "TabType": "Island",
+    "GameFieldType": "Event8",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 559000,
+    "TabType": "Island",
+    "GameFieldType": "Event8",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 560000,
+    "TabType": "Island",
+    "GameFieldType": "Event8",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 561000,
+    "TabType": "Island",
+    "GameFieldType": "Event8",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 562000,
+    "TabType": "Island",
+    "GameFieldType": "Event8",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E8_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.HsigoIsland.event"
+  },
+  {
+    "Uid": 563000,
+    "TabType": "Island",
+    "GameFieldType": "Event8",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E8_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.HsigoIsland.event"
+  },
+  {
+    "Uid": 564000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday3",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 565000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday3",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 566000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday3",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 567000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday3",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 568000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday3",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 569000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday3",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "H3_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.ValentineIsland.event"
+  },
+  {
+    "Uid": 570000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday3",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "H3_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.ValentineIsland.event"
+  },
+  {
+    "Uid": 584000,
+    "TabType": "Island",
+    "GameFieldType": "Event9",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 585000,
+    "TabType": "Island",
+    "GameFieldType": "Event9",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 586000,
+    "TabType": "Island",
+    "GameFieldType": "Event9",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 587000,
+    "TabType": "Island",
+    "GameFieldType": "Event9",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 588000,
+    "TabType": "Island",
+    "GameFieldType": "Event9",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 589000,
+    "TabType": "Island",
+    "GameFieldType": "Event9",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E9_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.TrexIsland.event"
+  },
+  {
+    "Uid": 580000,
+    "TabType": "Island",
+    "GameFieldType": "Event9",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E9_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.TrexIsland.event"
+  },
+  {
+    "Uid": 594000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday4",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 595000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday4",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 596000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday4",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 597000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday4",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 598000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday4",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 599000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday4",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "H4_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.AnniversaryIsland.event"
+  },
+  {
+    "Uid": 590000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday4",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "H4_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.AnniversaryIsland.event"
+  },
+  {
+    "Uid": 601000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 0
+    },
+    "Capacity": 10,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "BOX_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 99
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 602000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 0
+    },
+    "Capacity": 10,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "BOX_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 275
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 603000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 10,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "BOX_A3",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 450
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 604000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 4
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 604000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 4
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 604000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 4
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureNormal",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 605000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 4
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureHigh",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 605000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 4
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureHigh",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 605000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 4
+    },
+    "Capacity": 3,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "CreatureHigh",
+    "Description": "window.SD.market.item.information.message"
+  },
+  {
+    "Uid": 606000,
+    "TabType": "Magic",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 1
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Z_SK_PR_Free",
+      "Weight": 1
+    },
+    "RandomType": "CreatureFeed",
+    "Description": "window.market.description.Z_SK_PR_Free"
+  },
+  {
+    "Uid": 611000,
+    "TabType": "Decor",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 0
+    },
+    "Capacity": 11,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseLandmark",
+    "Description": "window.SD.market.item.landmark.message"
+  },
+  {
+    "Uid": 612000,
+    "TabType": "Decor",
+    "GameFieldType": "Zoo",
+    "Bundle": "Decor",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 0
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseDecoration",
+    "Description": "window.SD.market.item.decoration.message"
+  },
+  {
+    "Uid": 613000,
+    "TabType": "Decor",
+    "GameFieldType": "Zoo",
+    "Bundle": "Decor",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 0
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseDecoration",
+    "Description": "window.SD.market.item.decoration.message"
+  },
+  {
+    "Uid": 614000,
+    "TabType": "Decor",
+    "GameFieldType": "Zoo",
+    "Bundle": "Decor",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 9
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseDecoration",
+    "Description": "window.SD.market.item.decoration.message"
+  },
+  {
+    "Uid": 615000,
+    "TabType": "Decor",
+    "GameFieldType": "Zoo",
+    "Bundle": "Decor",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 12
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseDecoration",
+    "Description": "window.SD.market.item.decoration.message"
+  },
+  {
+    "Uid": 650000,
+    "TabType": "Boosters",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 5,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Energy1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "RareGems",
+      "Amount": 2
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.energy"
+  },
+  {
+    "Uid": 650000,
+    "TabType": "Boosters",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 8
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Boost_RC1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "RareGems",
+      "Amount": 6
+    },
+    "RandomType": "Base"
+  },
+  {
+    "Uid": 651000,
+    "TabType": "Boosters",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Boost_ST1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "LegendaryGems",
+      "Amount": 1
+    },
+    "RandomType": "Base"
+  },
+  {
+    "Uid": 651000,
+    "TabType": "Boosters",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 8
+    },
+    "Capacity": 99,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Boost_LC1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "RareGems",
+      "Amount": 19
+    },
+    "RandomType": "Base"
+  },
+  {
+    "Uid": 652000,
+    "TabType": "Boosters",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 9,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Boost_FR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "RareGems",
+      "Amount": 11
+    },
+    "RandomType": "Base"
+  },
+  {
+    "Uid": 652000,
+    "TabType": "Boosters",
+    "GameFieldType": "Zoo",
+    "UnlockLevel": {
+      "Currency": "ZooLevel",
+      "Amount": 5
+    },
+    "Capacity": 1,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Infinity1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "LegendaryGems",
+      "Amount": 21
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.InfinityEnergy"
+  },
+  {
+    "Uid": 701000,
+    "TabType": "Island",
+    "GameFieldType": "Event10",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 702000,
+    "TabType": "Island",
+    "GameFieldType": "Event10",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 703000,
+    "TabType": "Island",
+    "GameFieldType": "Event10",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 704000,
+    "TabType": "Island",
+    "GameFieldType": "Event10",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 705000,
+    "TabType": "Island",
+    "GameFieldType": "Event10",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 706000,
+    "TabType": "Island",
+    "GameFieldType": "Event10",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E10_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.KrakenIsland.event"
+  },
+  {
+    "Uid": 707000,
+    "TabType": "Island",
+    "GameFieldType": "Event10",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E10_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.KrakenIsland.event"
+  },
+  {
+    "Uid": 708000,
+    "TabType": "Island",
+    "GameFieldType": "Event11",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 709000,
+    "TabType": "Island",
+    "GameFieldType": "Event11",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 710000,
+    "TabType": "Island",
+    "GameFieldType": "Event11",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 711000,
+    "TabType": "Island",
+    "GameFieldType": "Event11",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 712000,
+    "TabType": "Island",
+    "GameFieldType": "Event11",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 713000,
+    "TabType": "Island",
+    "GameFieldType": "Event11",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E11_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.ThunderbirdIsland.event"
+  },
+  {
+    "Uid": 714000,
+    "TabType": "Island",
+    "GameFieldType": "Event11",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E11_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.ThunderbirdIsland.event"
+  },
+  {
+    "Uid": 715000,
+    "TabType": "Island",
+    "GameFieldType": "Event12",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 716000,
+    "TabType": "Island",
+    "GameFieldType": "Event12",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 717000,
+    "TabType": "Island",
+    "GameFieldType": "Event12",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 718000,
+    "TabType": "Island",
+    "GameFieldType": "Event12",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 719000,
+    "TabType": "Island",
+    "GameFieldType": "Event12",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 720000,
+    "TabType": "Island",
+    "GameFieldType": "Event12",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E12_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.QuetzalcoatlIsland.event"
+  },
+  {
+    "Uid": 721000,
+    "TabType": "Island",
+    "GameFieldType": "Event12",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E12_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.QuetzalcoatlIsland.event"
+  },
+  {
+    "Uid": 722000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday5",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 723000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday5",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 724000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday5",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 725000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday5",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 726000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday5",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 727000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday5",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "H5_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.MidsummerIsland.event"
+  },
+  {
+    "Uid": 728000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday5",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "H5_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.MidsummerIsland.event"
+  },
+  {
+    "Uid": 729000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday6",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 730000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday6",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 731000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday6",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 732000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday6",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 733000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday6",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 734000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday6",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "H6_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.SummerFairIsland.event"
+  },
+  {
+    "Uid": 735000,
+    "TabType": "Island",
+    "GameFieldType": "Holiday6",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "H6_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.SummerFairIsland.event"
+  },
+  {
+    "Uid": 736000,
+    "TabType": "Island",
+    "GameFieldType": "Event5",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 737000,
+    "TabType": "Island",
+    "GameFieldType": "Event5",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 738000,
+    "TabType": "Island",
+    "GameFieldType": "Event5",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 739000,
+    "TabType": "Island",
+    "GameFieldType": "Event5",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 740000,
+    "TabType": "Island",
+    "GameFieldType": "Event5",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 741000,
+    "TabType": "Island",
+    "GameFieldType": "Event5",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E5_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.BlueOxIsland.event"
+  },
+  {
+    "Uid": 742000,
+    "TabType": "Island",
+    "GameFieldType": "Event5",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E5_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.BlueOxIsland.event"
+  },
+  {
+    "Uid": 743000,
+    "TabType": "Island",
+    "GameFieldType": "Event13",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 744000,
+    "TabType": "Island",
+    "GameFieldType": "Event13",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 745000,
+    "TabType": "Island",
+    "GameFieldType": "Event13",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 746000,
+    "TabType": "Island",
+    "GameFieldType": "Event13",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 747000,
+    "TabType": "Island",
+    "GameFieldType": "Event13",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 748000,
+    "TabType": "Island",
+    "GameFieldType": "Event13",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E13_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.RedDragonIsland.event"
+  },
+  {
+    "Uid": 749000,
+    "TabType": "Island",
+    "GameFieldType": "Event13",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E13_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.RedDragonIsland.event"
+  },
+  {
+    "Uid": 750000,
+    "TabType": "Island",
+    "GameFieldType": "Event14",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 751000,
+    "TabType": "Island",
+    "GameFieldType": "Event14",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 752000,
+    "TabType": "Island",
+    "GameFieldType": "Event14",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 753000,
+    "TabType": "Island",
+    "GameFieldType": "Event14",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 754000,
+    "TabType": "Island",
+    "GameFieldType": "Event14",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 755000,
+    "TabType": "Island",
+    "GameFieldType": "Event14",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E14_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.JackelopeIsland.event"
+  },
+  {
+    "Uid": 756000,
+    "TabType": "Island",
+    "GameFieldType": "Event14",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E14_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.JackelopeIsland.event"
+  },
+  {
+    "Uid": 757000,
+    "TabType": "Island",
+    "GameFieldType": "Event15",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 758000,
+    "TabType": "Island",
+    "GameFieldType": "Event15",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 759000,
+    "TabType": "Island",
+    "GameFieldType": "Event15",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 760000,
+    "TabType": "Island",
+    "GameFieldType": "Event15",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 761000,
+    "TabType": "Island",
+    "GameFieldType": "Event15",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 762000,
+    "TabType": "Island",
+    "GameFieldType": "Event15",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E15_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.PegasusIsland.event"
+  },
+  {
+    "Uid": 763000,
+    "TabType": "Island",
+    "GameFieldType": "Event15",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E15_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.PegasusIsland.event"
+  },
+  {
+    "Uid": 764000,
+    "TabType": "Island",
+    "GameFieldType": "Event16",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 765000,
+    "TabType": "Island",
+    "GameFieldType": "Event16",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 766000,
+    "TabType": "Island",
+    "GameFieldType": "Event16",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 767000,
+    "TabType": "Island",
+    "GameFieldType": "Event16",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 768000,
+    "TabType": "Island",
+    "GameFieldType": "Event16",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 769000,
+    "TabType": "Island",
+    "GameFieldType": "Event16",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E16_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.MammothIsland.event"
+  },
+  {
+    "Uid": 770000,
+    "TabType": "Island",
+    "GameFieldType": "Event16",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E16_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.MammothIsland.event"
+  },
+  {
+    "Uid": 771000,
+    "TabType": "Island",
+    "GameFieldType": "Event17",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 1,
+    "Amount": 2,
+    "Weight": {
+      "Uid": "Boost_CR2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 390
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr_part"
+  },
+  {
+    "Uid": 772000,
+    "TabType": "Island",
+    "GameFieldType": "Event17",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 7
+    },
+    "Capacity": 1,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "Boost_CR",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.boost_cr"
+  },
+  {
+    "Uid": 773000,
+    "TabType": "Island",
+    "GameFieldType": "Event17",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsFirst",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 774000,
+    "TabType": "Island",
+    "GameFieldType": "Event17",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 1
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsSecond",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 775000,
+    "TabType": "Island",
+    "GameFieldType": "Event17",
+    "Bundle": "Chests",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 6
+    },
+    "Capacity": 2,
+    "Amount": 1,
+    "Weight": {
+      "Uid": "Empty",
+      "Weight": 1
+    },
+    "RandomType": "BaseChestsLast",
+    "Description": "window.market.description.chest"
+  },
+  {
+    "Uid": 776000,
+    "TabType": "Island",
+    "GameFieldType": "Event17",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 5,
+    "Weight": {
+      "Uid": "E16_A1",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Coins",
+      "Amount": 95
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.BandersnatchIsland.event"
+  },
+  {
+    "Uid": 777000,
+    "TabType": "Island",
+    "GameFieldType": "Event17",
+    "UnlockLevel": {
+      "Currency": "Level",
+      "Amount": 0
+    },
+    "Capacity": 5,
+    "Amount": 3,
+    "Weight": {
+      "Uid": "E16_A2",
+      "Weight": 1
+    },
+    "Price": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "RandomType": "Base",
+    "Description": "window.market.description.BandersnatchIsland.event"
+  }
+]

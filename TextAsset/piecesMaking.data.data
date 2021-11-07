@@ -1,0 +1,326 @@
+[
+  {
+    "Uid": "MK_A",
+    "Index": 1,
+    "Delay": 86400,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 50
+      }
+    ],
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Soft1",
+        "Weight": 10
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Mana1",
+        "Weight": 5
+      },
+      {
+        "Uid": "SK1_PR",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ],
+    "CreatureRewards": [
+      {
+        "Currency": "Common_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "MK_A",
+    "Index": 2,
+    "Delay": 86400,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 75
+      }
+    ],
+    "PieceAmount": 7,
+    "PieceWeights": [
+      {
+        "Uid": "Soft1",
+        "Weight": 10
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Mana1",
+        "Weight": 5
+      },
+      {
+        "Uid": "SK1_PR",
+        "Weight": 3
+      },
+      {
+        "Uid": "SK2_PR",
+        "Weight": 2
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_WR2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ],
+    "CreatureRewards": [
+      {
+        "Currency": "Common_A1",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "MK_A",
+    "Index": 3,
+    "Delay": 86400,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 100
+      }
+    ],
+    "PieceAmount": 8,
+    "PieceWeights": [
+      {
+        "Uid": "Soft1",
+        "Weight": 10
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 5
+      },
+      {
+        "Uid": "Mana1",
+        "Weight": 5
+      },
+      {
+        "Uid": "SK1_PR",
+        "Weight": 10
+      },
+      {
+        "Uid": "SK2_PR",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_CR2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_WR2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ],
+    "CreatureRewards": [
+      {
+        "Currency": "Common_A1",
+        "Amount": 3
+      },
+      {
+        "Currency": "Rare_A1",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Uid": "MK_A",
+    "Index": 4,
+    "Delay": 86400,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 150
+      }
+    ],
+    "PieceAmount": 8,
+    "PieceWeights": [
+      {
+        "Uid": "Soft1",
+        "Weight": 10
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 10
+      },
+      {
+        "Uid": "Mana1",
+        "Weight": 5
+      },
+      {
+        "Uid": "SK1_PR",
+        "Weight": 10
+      },
+      {
+        "Uid": "SK2_PR",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_CR2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_WR2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Hard2",
+        "Weight": 1
+      }
+    ],
+    "CreatureRewards": [
+      {
+        "Currency": "Common_A1",
+        "Amount": 4
+      },
+      {
+        "Currency": "Rare_A1",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "MK_A",
+    "Index": 5,
+    "Delay": 86400,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 200
+      }
+    ],
+    "PieceAmount": 10,
+    "PieceWeights": [
+      {
+        "Uid": "Soft1",
+        "Weight": 10
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 10
+      },
+      {
+        "Uid": "Mana1",
+        "Weight": 5
+      },
+      {
+        "Uid": "SK1_PR",
+        "Weight": 10
+      },
+      {
+        "Uid": "SK2_PR",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_CR2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_WR2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Hard2",
+        "Weight": 1
+      }
+    ],
+    "CreatureRewards": [
+      {
+        "Currency": "Common_A1",
+        "Amount": 5
+      },
+      {
+        "Currency": "Rare_A1",
+        "Amount": 3
+      }
+    ]
+  }
+]

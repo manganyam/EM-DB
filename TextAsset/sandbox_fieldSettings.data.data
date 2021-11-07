@@ -1,0 +1,22 @@
+{
+  "Name": "sandbox",
+  "GlobalQuestsEnabled": false,
+  "IsIgnoreCreateBorders": true,
+  "EnergyEnabled": true,
+  "RenderQueue" : 2003,
+
+  "WaterBorderLeft": 26,
+  "WaterBorderRight": 24,
+  "WaterBorderTop": 17,
+  "WaterBorderBottom": 20,
+
+  "WaterCropCornerTopLeft": 38,
+  "WaterCropCornerTopRight": 52,
+  "WaterCropCornerBottomLeft": 40,
+  "WaterCropCornerBottomRight": 30,
+
+  "CameraClampX": 9,
+  "CameraClampY": -26.4,
+  "CameraClampWidth": 75.43,
+  "CameraClampHeight": 49
+}

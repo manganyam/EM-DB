@@ -1,0 +1,286 @@
+[
+  {
+    "Uid": "MN_A",
+    "Index": 1,
+    "Loop": 3,
+    "Size": 7,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 5
+    },
+    "StepPiecesRange": {
+      "Min": 2,
+      "Max": 3
+    },
+    "StepPiecesRewards": [
+      {
+        "Uid": "Holder_A1",
+        "Weight": 12
+      },
+      {
+        "Uid": "Main_A1",
+        "Weight": 3
+      }
+    ],
+    "StepCurrencyRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 15
+      }
+    ],
+    "LastPiecesRewards": [
+      {
+        "Uid": "Soft1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ],
+    "Delay": 125
+  },
+  {
+    "Uid": "MN_A",
+    "Index": 2,
+    "Loop": 7,
+    "Size": 5,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepPiecesRange": {
+      "Min": 3,
+      "Max": 4
+    },
+    "StepPiecesRewards": [
+      {
+        "Uid": "Holder_A1",
+        "Weight": 6
+      },
+      {
+        "Uid": "Holder_A3",
+        "Weight": 4
+      },
+      {
+        "Uid": "Main_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 1
+      }
+    ],
+    "StepCurrencyRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 20
+      }
+    ],
+    "LastPiecesRewards": [
+      {
+        "Uid": "Soft1",
+        "Weight": 4
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ],
+    "Delay": 685
+  },
+  {
+    "Uid": "MN_A",
+    "Index": 3,
+    "Loop": -1,
+    "Size": 5,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 15
+    },
+    "StepPiecesRange": {
+      "Min": 4,
+      "Max": 5
+    },
+    "StepPiecesRewards": [
+      {
+        "Uid": "Holder_A1",
+        "Weight": 4
+      },
+      {
+        "Uid": "Holder_A3",
+        "Weight": 6
+      },
+      {
+        "Uid": "Holder_A5",
+        "Weight": 3
+      },
+      {
+        "Uid": "Main_A1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 3
+      }
+    ],
+    "StepCurrencyRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 25
+      }
+    ],
+    "LastPiecesRewards": [
+      {
+        "Uid": "Soft2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "MN_B",
+    "Index": 1,
+    "Loop": 7,
+    "Size": 7,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 5
+    },
+    "StepPiecesRange": {
+      "Min": 2,
+      "Max": 3
+    },
+    "StepPiecesRewards": [
+      {
+        "Uid": "Holder_A1",
+        "Weight": 12
+      },
+      {
+        "Uid": "Main_A1",
+        "Weight": 3
+      }
+    ],
+    "StepCurrencyRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 10
+      }
+    ],
+    "LastPiecesRewards": [
+      {
+        "Uid": "Soft1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ],
+    "Delay": 285
+  },
+  {
+    "Uid": "MN_B",
+    "Index": 2,
+    "Loop": 15,
+    "Size": 5,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepPiecesRange": {
+      "Min": 3,
+      "Max": 4
+    },
+    "StepPiecesRewards": [
+      {
+        "Uid": "Holder_A1",
+        "Weight": 6
+      },
+      {
+        "Uid": "Holder_A3",
+        "Weight": 4
+      },
+      {
+        "Uid": "Main_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 1
+      }
+    ],
+    "StepCurrencyRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 20
+      }
+    ],
+    "LastPiecesRewards": [
+      {
+        "Uid": "Soft1",
+        "Weight": 4
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ],
+    "Delay": 320
+  },
+  {
+    "Uid": "MN_B",
+    "Index": 3,
+    "Loop": -1,
+    "Size": 5,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 15
+    },
+    "StepPiecesRange": {
+      "Min": 4,
+      "Max": 5
+    },
+    "StepPiecesRewards": [
+      {
+        "Uid": "Holder_A1",
+        "Weight": 4
+      },
+      {
+        "Uid": "Holder_A3",
+        "Weight": 6
+      },
+      {
+        "Uid": "Holder_A5",
+        "Weight": 3
+      },
+      {
+        "Uid": "Main_A1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 3
+      }
+    ],
+    "StepCurrencyRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 30
+      }
+    ],
+    "LastPiecesRewards": [
+      {
+        "Uid": "Soft2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ]
+  }
+]

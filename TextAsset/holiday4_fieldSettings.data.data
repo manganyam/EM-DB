@@ -1,0 +1,25 @@
+{
+    "Name": "holiday4",
+    "GlobalQuestsEnabled": false,
+    "EnergyEnabled": false,
+    "IsIgnoreCreateBorders": true,
+    "RenderQueue": 2003,
+
+    "WaterBorderLeft": 24,
+    "WaterBorderRight": 20,
+    "WaterBorderTop": 10,
+    "WaterBorderBottom": 24,
+
+    "WaterCropCornerTopLeft": 55,
+    "WaterCropCornerTopRight": 55,
+    "WaterCropCornerBottomLeft": 36,
+    "WaterCropCornerBottomRight": 28,
+
+    "CameraClampX": 7,
+    "CameraClampY": -30,
+    "CameraClampWidth": 73,
+    "CameraClampHeight": 42,
+
+    "LayoutAddonsSeed": 4460,
+    "LayoutAddons": {}
+}

@@ -1,0 +1,294 @@
+[
+  {
+    "Uid": 1,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 40
+    },
+    "IsMain": true,
+    "Weights": [
+      20,
+      35,
+      41,
+      45
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 2,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 50
+    },
+    "IsMain": true,
+    "Weights": [
+      25,
+      23,
+      45,
+      40
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 3,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 60
+    },
+    "IsMain": true,
+    "Weights": [
+      24,
+      20,
+      8,
+      8
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 4,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 70
+    },
+    "IsMain": true,
+    "Weights": [
+      10,
+      5,
+      2,
+      2
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 5,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 80
+    },
+    "IsMain": true,
+    "Weights": [
+      5,
+      5,
+      1,
+      2
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 6,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 90
+    },
+    "IsMain": true,
+    "Weights": [
+      5,
+      4,
+      1,
+      1
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 7,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 100
+    },
+    "IsMain": true,
+    "Weights": [
+      5,
+      3,
+      1,
+      1
+    ],
+    "Counter": 1,
+    "IsFirst": true
+  },
+  {
+    "Uid": 8,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 110
+    },
+    "IsMain": true,
+    "Weights": [
+      2,
+      2,
+      1,
+      0.5
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 9,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 125
+    },
+    "IsMain": true,
+    "Weights": [
+      2,
+      1,
+      0.001,
+      0.5
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 10,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 150
+    },
+    "IsMain": true,
+    "Weights": [
+      1,
+      1,
+      0.001,
+      0.001
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 11,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 250
+    },
+    "IsMain": true,
+    "Weights": [
+      1,
+      0.1,
+      0.001,
+      0.001
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 12,
+    "Reward": {
+      "Currency": "Coins",
+      "Amount": 5
+    },
+    "Weights": [
+      15,
+      20,
+      25,
+      25
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 13,
+    "Reward": {
+      "Currency": "Coins",
+      "Amount": 7
+    },
+    "Weights": [
+      20,
+      20,
+      25,
+      25
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 14,
+    "Reward": {
+      "Currency": "Coins",
+      "Amount": 10
+    },
+    "Weights": [
+      20,
+      20,
+      15,
+      20
+    ],
+    "Counter": 2
+  },
+  {
+    "Uid": 15,
+    "Reward": {
+      "Currency": "Coins",
+      "Amount": 15
+    },
+    "Weights": [
+      20,
+      15,
+      12,
+      10
+    ],
+    "Counter": 2
+  },
+  {
+    "Uid": 16,
+    "Reward": {
+      "Currency": "Coins",
+      "Amount": 20
+    },
+    "Weights": [
+      12,
+      12,
+      10,
+      8
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 17,
+    "Reward": {
+      "Currency": "Coins",
+      "Amount": 25
+    },
+    "Weights": [
+      12,
+      12,
+      10,
+      8
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 18,
+    "Reward": {
+      "Currency": "Crystals",
+      "Amount": 1
+    },
+    "Weights": [
+      5,
+      5,
+      5,
+      5
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 19,
+    "Reward": {
+      "Currency": "Crystals",
+      "Amount": 2
+    },
+    "Weights": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Counter": 1
+  },
+  {
+    "Uid": 20,
+    "Reward": {
+      "Currency": "Crystals",
+      "Amount": 3
+    },
+    "Weights": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Counter": 1
+  }
+]

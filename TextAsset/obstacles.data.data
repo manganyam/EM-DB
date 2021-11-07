@@ -1,0 +1,2727 @@
+[
+  {
+    "Uid": "OB_A",
+    "Index": 1,
+    "Delay": 2,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 5
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 1
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 0,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 2,
+    "Delay": 5,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 10
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 1
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 0,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "Chest_A1"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 3,
+    "Delay": 10,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 15
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 1
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 3,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 3,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 1,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 3
+      }
+    ],
+    "ChestId": "Chest_A1"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 4,
+    "Delay": 30,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 15
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 1
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 3,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 3,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 1,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 3
+      }
+    ],
+    "ChestId": "Chest_A1"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 5,
+    "Delay": 60,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 12
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 20
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 3,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 7,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 7
+      }
+    ],
+    "ChestId": "Chest_A1"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 6,
+    "Delay": 90,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 15
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 20
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 3,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 4,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 1,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 5
+      }
+    ],
+    "ChestId": "Chest_A2"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 7,
+    "Delay": 240,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 17
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 25
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 4,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 5,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 5
+      }
+    ],
+    "ChestId": "Chest_A2"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 8,
+    "Delay": 600,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 20
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 25
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 3
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 4,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 5,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 5
+      }
+    ],
+    "ChestId": "Chest_A2"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 9,
+    "Delay": 720,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 22
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 30
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 2,
+      "Max": 3
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 6,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 9,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 6
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 9
+      }
+    ],
+    "ChestId": "Chest_A3"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 10,
+    "Delay": 900,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 25
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 35
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 2,
+      "Max": 3
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 6,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 12,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 6
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 12
+      }
+    ],
+    "ChestId": "Chest_A3"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 11,
+    "Delay": 1200,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 30
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 40
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 2,
+      "Max": 3
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 6,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 12,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 6
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 0,
+        "WeightAlternative": 12
+      }
+    ],
+    "ChestId": "Chest_A3"
+  },
+  {
+    "Uid": "OB_A",
+    "Index": 12,
+    "Delay": 2400,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 35
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 45
+      }
+    ],
+    "ChestId": "Chest_A3"
+  },
+  {
+    "Uid": "PR_OB",
+    "Index": 1,
+    "Delay": 15,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 5
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Garden_A1",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Garden_A2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "TT_OB",
+    "Index": 1,
+    "Delay": 2,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 1
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 10
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "TT_OB",
+    "Index": 2,
+    "Delay": 5,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 2
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 10
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_OB_A",
+    "Index": 1,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_OB_A",
+    "Index": 2,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 7
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A1"
+  },
+  {
+    "Uid": "E_OB_A",
+    "Index": 3,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 7,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A2"
+  },
+  {
+    "Uid": "E_OB_A",
+    "Index": 4,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 15
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 9,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A2"
+  },
+  {
+    "Uid": "E_OB_A",
+    "Index": 5,
+    "Delay": 180,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 20
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ChestId": "EChest_A3"
+  },
+  {
+    "Uid": "E_OB_B",
+    "Index": 1,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_OB_B",
+    "Index": 2,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 7
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B1"
+  },
+  {
+    "Uid": "E_OB_B",
+    "Index": 3,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 7,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 2,
+        "WeightAlternative": 2
+      }
+    ],
+    "ChestId": "EChest_B2"
+  },
+  {
+    "Uid": "E_OB_B",
+    "Index": 4,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 15
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 9,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B2"
+  },
+  {
+    "Uid": "E_OB_B",
+    "Index": 5,
+    "Delay": 180,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 20
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ChestId": "EChest_B3"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 1,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 2
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 3,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 2,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 3
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A1"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 3,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A1"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 4,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 7
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 3,
+        "WeightAlternative": 3
+      }
+    ],
+    "ChestId": "EChest_A2"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 5,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 7
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 3,
+        "WeightAlternative": 3
+      }
+    ],
+    "ChestId": "EChest_A2"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 6,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A2"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 7,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 15
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 7,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A2"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 8,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 15
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 9,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A2"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 9,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 20
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 10,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_A2"
+  },
+  {
+    "Uid": "H_OB_A",
+    "Index": 10,
+    "Delay": 180,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 25
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ChestId": "EChest_A3"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 1,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 2
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 3,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 2,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 3
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B1"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 3,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B1"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 4,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 7
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B2"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 5,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B2"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 6,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B2"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 7,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 15
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 7,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B2"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 8,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 15
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 9,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B2"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 9,
+    "Delay": 2,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 20
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 10,
+    "PieceWeights": [
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 5,
+        "WeightAlternative": 5
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "EChest_B2"
+  },
+  {
+    "Uid": "H_OB_B",
+    "Index": 10,
+    "Delay": 180,
+    "Price": {
+      "Currency": "EventEnergy",
+      "Amount": 25
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 0
+      }
+    ],
+    "ChestId": "EChest_B3"
+  },
+  {
+    "Uid": "HL_A",
+    "Index": 1,
+    "Delay": 2,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 3
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 1
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "HL_A",
+    "Index": 2,
+    "Delay": 30,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 10
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 5
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 1
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ],
+    "ChestId": "Chest_A1"
+  },
+  {
+    "Uid": "HL_A",
+    "Index": 3,
+    "Delay": 2,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 15
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 5
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 1
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 3,
+        "WeightAlternative": 3
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 7,
+        "WeightAlternative": 7
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      }
+    ]
+  },
+  {
+    "Uid": "HL_A",
+    "Index": 4,
+    "Delay": 60,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 20
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 10
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 1
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 6,
+        "WeightAlternative": 6
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 7,
+        "WeightAlternative": 7
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      }
+    ],
+    "ChestId": "Chest_A2"
+  },
+  {
+    "Uid": "HL_A",
+    "Index": 5,
+    "Delay": 2,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 25
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 15
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 6,
+        "WeightAlternative": 6
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 10,
+        "WeightAlternative": 10
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      }
+    ]
+  },
+  {
+    "Uid": "HL_A",
+    "Index": 6,
+    "Delay": 300,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 30
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 20
+      }
+    ],
+    "ChestId": "Chest_A3"
+  },
+  {
+    "Uid": "CP_OB_A",
+    "Index": 1,
+    "Delay": 2,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 2
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 3
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Garden_A1",
+        "Weight": 6,
+        "WeightAlternative": 6
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CP_OB_A",
+    "Index": 2,
+    "Delay": 15,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 3
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 5
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 3,
+    "PieceWeights": [
+      {
+        "Uid": "Garden_A1",
+        "Weight": 8,
+        "WeightAlternative": 8
+      },
+      {
+        "Uid": "Garden_A2",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CP_OB_A",
+    "Index": 3,
+    "Delay": 30,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 3
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 10
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 3,
+    "PieceWeights": [
+      {
+        "Uid": "Garden_A1",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Garden_A2",
+        "Weight": 4,
+        "WeightAlternative": 4
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CP_OB_A",
+    "Index": 4,
+    "Delay": 45,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 5
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 15
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Garden_A1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Garden_A2",
+        "Weight": 6,
+        "WeightAlternative": 6
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CP_OB_A",
+    "Index": 5,
+    "Delay": 60,
+    "Price": {
+      "Currency": "Energy",
+      "Amount": 7
+    },
+    "StepRewards": [
+      {
+        "Currency": "Experience",
+        "Amount": 20
+      }
+    ],
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HoldersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "HolidayPiecesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 7,
+    "PieceWeights": [
+      {
+        "Uid": "Garden_A1",
+        "Weight": 2,
+        "WeightAlternative": 2
+      },
+      {
+        "Uid": "Garden_A2",
+        "Weight": 8,
+        "WeightAlternative": 8
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1,
+        "WeightAlternative": 1
+      }
+    ]
+  }
+]

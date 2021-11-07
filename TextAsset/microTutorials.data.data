@@ -1,0 +1,29 @@
+[
+  {
+    "HintNum": 0,
+    "Conditions": [
+      {
+        "Name": "LevelLowerCondition",
+        "Target": "5"
+      }
+    ]
+  },
+  {
+    "HintNum": 1
+  },
+  {
+    "HintNum": 2,
+    "Conditions": [
+      {
+        "Name": "LevelLowerCondition",
+        "Target": "5"
+      }
+    ]
+  },
+  {
+    "HintNum": 3
+  },
+  {
+    "HintNum": 4
+  }
+]
