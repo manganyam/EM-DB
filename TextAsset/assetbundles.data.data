@@ -1,0 +1,1666 @@
+[
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": true,
+    "Uid": "graphicscommon",
+    "HashVersion": "426b718534cceafa544215a55edc84ce"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "scenescommon",
+    "HashVersion": "536dd06dde81b1e4cb2a62df0152b336"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res",
+    "HashVersion": "ddd65ed8a78b3a5c5b2fe8e7a7354a1d"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_event1\",\"fhd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_event1.fhd\",\"hd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_event1.hd\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_event1",
+    "HashVersion": "985591e1cc4708a72315997fa212b1b3"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/0fe33fdd16cc35546e2f5ba63b23e99b/res_event2\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event2",
+    "HashVersion": "0fe33fdd16cc35546e2f5ba63b23e99b"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_main",
+    "HashVersion": "51b043c7b1da437a9f661b960cfb12e0"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_event1\",\"fhd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_event1.fhd\",\"hd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_event1.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": true,
+    "Uid": "graphics_event1",
+    "HashVersion": "7edc34dc74b2cabd1b89fd663f8e0f00"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f2eb773876babcbd4602a4e1dcb905da/graphics_event2.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f2eb773876babcbd4602a4e1dcb905da/graphics_event2.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event2",
+    "HashVersion": "f2eb773876babcbd4602a4e1dcb905da"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": true,
+    "Uid": "graphics_main",
+    "HashVersion": "4d37497e5fcdd1f2db2ad8cef2d7e677"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "lang_russian",
+    "HashVersion": "10209d1d1f41ede62cdd93908eddba69"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "lang_japanese",
+    "HashVersion": "c8acb51f4f5cab1cfffd0a20d744f37c"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "lang_chinesetraditional",
+    "HashVersion": "4f983834f2ccd8ec5d16f80e523e1d53"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "lang_chinesesimplified",
+    "HashVersion": "eb788a3cf33b3b184dd4f56ffbb4ca81"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "lang_korean",
+    "HashVersion": "8248ce7d79920ece4c8d738f1ac297dd"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": true,
+    "Uid": "flags",
+    "HashVersion": "a3c1cffe602ff7715763cd29be158e35"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f0b2818d4f59c39539bd1ed8136fa27f/graphics_character_cinderella\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_cinderella",
+    "HashVersion": "f0b2818d4f59c39539bd1ed8136fa27f"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7b6f36e126683e1c42abe67fd6ade44e/graphics_character_peterpan\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_peterpan",
+    "HashVersion": "7b6f36e126683e1c42abe67fd6ade44e"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/cf5915a069eb2507930d6adddcbde168/graphics_character_pinocchio\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_pinocchio",
+    "HashVersion": "cf5915a069eb2507930d6adddcbde168"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/6fa38c4833fde9f7647bc608bc0e5eaf/graphics_character_rapunzel\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_rapunzel",
+    "HashVersion": "6fa38c4833fde9f7647bc608bc0e5eaf"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/e08fa001a1ec66758b4bf96cdcecb4a3/graphics_character_redhood\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_redhood",
+    "HashVersion": "e08fa001a1ec66758b4bf96cdcecb4a3"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_character_sinbad\",\"fhd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_character_sinbad.fhd\",\"hd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_character_sinbad.hd\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_sinbad",
+    "HashVersion": "d93847ee2e06c645d94b64175e5eebda"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5933e1512b0de372f8f9e019a53762fb/graphics_character_snowwhite\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_snowwhite",
+    "HashVersion": "5933e1512b0de372f8f9e019a53762fb"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/52066358867ad85bf30453a34b719060/graphics_character_thumbelina\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_thumbelina",
+    "HashVersion": "52066358867ad85bf30453a34b719060"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5b6961ae545f2915a904e1d35c515018/graphics_character_merlin\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_merlin",
+    "HashVersion": "5b6961ae545f2915a904e1d35c515018"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f8934e9db73cde23862c02031a96ea7a/graphics_character_mulan\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_mulan",
+    "HashVersion": "f8934e9db73cde23862c02031a96ea7a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4a265db606f9e61fcc3456965d4f0474/graphics_character_whiterabbit\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_whiterabbit",
+    "HashVersion": "4a265db606f9e61fcc3456965d4f0474"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4dc65aa0d33e18ae9c4393a7c7842c79/graphics_event3.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4dc65aa0d33e18ae9c4393a7c7842c79/graphics_event3.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event3",
+    "HashVersion": "4dc65aa0d33e18ae9c4393a7c7842c79"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/a61efde975b97972d9a96c7c75414800/res_event3\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event3",
+    "HashVersion": "a61efde975b97972d9a96c7c75414800"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/0c28b313801f2e8df2f0c48b747a31a2/graphics_zoo.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/0c28b313801f2e8df2f0c48b747a31a2/graphics_zoo.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_zoo",
+    "HashVersion": "0c28b313801f2e8df2f0c48b747a31a2"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c4ae8f26b09d1d72efe066241ac693df/res_zoo\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_zoo",
+    "HashVersion": "c4ae8f26b09d1d72efe066241ac693df"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "lang_turkish",
+    "HashVersion": "93d89a84bbb12b6f2b5608ae7e23484e"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/92c59550a182183729c388ff1501437e/graphics_event4.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/92c59550a182183729c388ff1501437e/graphics_event4.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event4",
+    "HashVersion": "92c59550a182183729c388ff1501437e"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/fca1b961d1b341e48339e4f23a13a6ef/res_event4\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event4",
+    "HashVersion": "fca1b961d1b341e48339e4f23a13a6ef"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/8d57c4e4e550169da9552791d85cc8f8/graphics_holiday2.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/8d57c4e4e550169da9552791d85cc8f8/graphics_holiday2.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday2",
+    "HashVersion": "8d57c4e4e550169da9552791d85cc8f8"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d196e6baa96880de47ca515e7a31bc8a/graphics_main_christmas.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d196e6baa96880de47ca515e7a31bc8a/graphics_main_christmas.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_main_christmas",
+    "HashVersion": "d196e6baa96880de47ca515e7a31bc8a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/83b24e690e32734eb152ee7f64bfa97c/res_holiday2\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday2",
+    "HashVersion": "83b24e690e32734eb152ee7f64bfa97c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/2581255854358563f9b5b58992ff3c7a/res_main_christmas\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_main_christmas",
+    "HashVersion": "2581255854358563f9b5b58992ff3c7a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5c90fabdb56d944afe42c5bda9d08cd2/graphics_event6.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5c90fabdb56d944afe42c5bda9d08cd2/graphics_event6.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event6",
+    "HashVersion": "5c90fabdb56d944afe42c5bda9d08cd2"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/246bd4ca09a3f7e5c3a2d5ebbba94488/graphics_event6_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/246bd4ca09a3f7e5c3a2d5ebbba94488/graphics_event6_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event6_content",
+    "HashVersion": "246bd4ca09a3f7e5c3a2d5ebbba94488"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1f9c493bdfa67469f87ee3c19c11ac2c/graphics_event7.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1f9c493bdfa67469f87ee3c19c11ac2c/graphics_event7.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event7",
+    "HashVersion": "1f9c493bdfa67469f87ee3c19c11ac2c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/ed0addac8fc0f5db8aae8bf66a71fa04/graphics_event7_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/ed0addac8fc0f5db8aae8bf66a71fa04/graphics_event7_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event7_content",
+    "HashVersion": "ed0addac8fc0f5db8aae8bf66a71fa04"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/68ae93fc6e61ae6114ae441136d05f75/graphics_event8.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/68ae93fc6e61ae6114ae441136d05f75/graphics_event8.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event8",
+    "HashVersion": "68ae93fc6e61ae6114ae441136d05f75"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/470780ffc179b5e9c5810eedc3ecf6b1/graphics_event8_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/470780ffc179b5e9c5810eedc3ecf6b1/graphics_event8_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event8_content",
+    "HashVersion": "470780ffc179b5e9c5810eedc3ecf6b1"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/83a879caeb19ec55535898e2e26a8e58/graphics_holiday2_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/83a879caeb19ec55535898e2e26a8e58/graphics_holiday2_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday2_content",
+    "HashVersion": "83a879caeb19ec55535898e2e26a8e58"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/45ff2821a47d5551632dc4c99ca56752/res_event6\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event6",
+    "HashVersion": "45ff2821a47d5551632dc4c99ca56752"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/b3ac326c36eb429e8d7ee143f3b963e6/res_event6_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event6_content",
+    "HashVersion": "b3ac326c36eb429e8d7ee143f3b963e6"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7ba4d944e27ffce7486339aa51c5f209/res_event7\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event7",
+    "HashVersion": "7ba4d944e27ffce7486339aa51c5f209"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/ba7bae12c14dda76c72583e702c288cd/res_event7_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event7_content",
+    "HashVersion": "ba7bae12c14dda76c72583e702c288cd"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/eaa2ad6f38f8f7fac392dc78c14af99b/res_event8\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event8",
+    "HashVersion": "eaa2ad6f38f8f7fac392dc78c14af99b"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4d98cbb2d5fa113ad4534b0855b37616/res_event8_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event8_content",
+    "HashVersion": "4d98cbb2d5fa113ad4534b0855b37616"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d272252a9e591b48e65d616fb4405383/res_holiday2_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday2_content",
+    "HashVersion": "d272252a9e591b48e65d616fb4405383"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d394e76b5d04691c7c3a0b0b364f3106/graphics_holiday3.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d394e76b5d04691c7c3a0b0b364f3106/graphics_holiday3.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday3",
+    "HashVersion": "d394e76b5d04691c7c3a0b0b364f3106"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/deceef29f5c09e757f13b3b75b55e546/graphics_holiday3_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/deceef29f5c09e757f13b3b75b55e546/graphics_holiday3_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday3_content",
+    "HashVersion": "deceef29f5c09e757f13b3b75b55e546"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7d45f7d042ab71fc5d58eb3b0dcc3be9/res_holiday3\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday3",
+    "HashVersion": "7d45f7d042ab71fc5d58eb3b0dcc3be9"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4c812a6ab3f0a058427f8221e009d66d/res_holiday3_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday3_content",
+    "HashVersion": "4c812a6ab3f0a058427f8221e009d66d"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/8372b8c7e25fc56f929965e3f9b4609a/graphics_main2.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/8372b8c7e25fc56f929965e3f9b4609a/graphics_main2.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_main2",
+    "HashVersion": "8372b8c7e25fc56f929965e3f9b4609a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c145a066237221b171394e91b2b2541f/res_main2\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_main2",
+    "HashVersion": "c145a066237221b171394e91b2b2541f"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4a87aee006555470a26004812b7777f0/graphics_main_spring.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4a87aee006555470a26004812b7777f0/graphics_main_spring.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_main_spring",
+    "HashVersion": "4a87aee006555470a26004812b7777f0"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/90d19072941344f79359821904391065/graphics_main_autumn.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/90d19072941344f79359821904391065/graphics_main_autumn.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_main_autumn",
+    "HashVersion": "90d19072941344f79359821904391065"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5ce31084f009f98fa8c584afd4646f08/res_main_autumn\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_main_autumn",
+    "HashVersion": "5ce31084f009f98fa8c584afd4646f08"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4a943221f85416e1ee2f486d23bd583d/res_main_spring\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_main_spring",
+    "HashVersion": "4a943221f85416e1ee2f486d23bd583d"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3ede658f537a6cf2c369b94018c4f757/graphics_event10.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3ede658f537a6cf2c369b94018c4f757/graphics_event10.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event10",
+    "HashVersion": "3ede658f537a6cf2c369b94018c4f757"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5986d9afd65502e7c54f1566f710647d/graphics_event10_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5986d9afd65502e7c54f1566f710647d/graphics_event10_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event10_content",
+    "HashVersion": "5986d9afd65502e7c54f1566f710647d"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/ad9800e3992b30aa70ca90e8b0b735cd/graphics_event11.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/ad9800e3992b30aa70ca90e8b0b735cd/graphics_event11.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event11",
+    "HashVersion": "ad9800e3992b30aa70ca90e8b0b735cd"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5648f4778b9c45840aec9c01ca2f6338/graphics_event11_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5648f4778b9c45840aec9c01ca2f6338/graphics_event11_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event11_content",
+    "HashVersion": "5648f4778b9c45840aec9c01ca2f6338"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/aac77637cf43abb300757ce1584c0da0/graphics_event12.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/aac77637cf43abb300757ce1584c0da0/graphics_event12.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event12",
+    "HashVersion": "aac77637cf43abb300757ce1584c0da0"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/96f7a54577f6e24fd6305a885df613ac/graphics_event12_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/96f7a54577f6e24fd6305a885df613ac/graphics_event12_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event12_content",
+    "HashVersion": "96f7a54577f6e24fd6305a885df613ac"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/25212a53c1aac596947dc01cee1d6943/graphics_event9.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/25212a53c1aac596947dc01cee1d6943/graphics_event9.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event9",
+    "HashVersion": "25212a53c1aac596947dc01cee1d6943"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/01767300776743040f963acf5dc1316f/graphics_event9_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/01767300776743040f963acf5dc1316f/graphics_event9_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event9_content",
+    "HashVersion": "01767300776743040f963acf5dc1316f"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/eba2a66f81f74c294eb5b6388a070486/graphics_holiday4.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/eba2a66f81f74c294eb5b6388a070486/graphics_holiday4.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday4",
+    "HashVersion": "eba2a66f81f74c294eb5b6388a070486"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/dda16f91cc915af05591c0a880e0312a/graphics_holiday4_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/dda16f91cc915af05591c0a880e0312a/graphics_holiday4_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday4_content",
+    "HashVersion": "dda16f91cc915af05591c0a880e0312a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/2101855f5748889f6a6975b64c5e2697/graphics_holiday5.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/2101855f5748889f6a6975b64c5e2697/graphics_holiday5.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday5",
+    "HashVersion": "2101855f5748889f6a6975b64c5e2697"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f28a4b45802315824935fbca913e07e4/graphics_holiday5_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f28a4b45802315824935fbca913e07e4/graphics_holiday5_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday5_content",
+    "HashVersion": "f28a4b45802315824935fbca913e07e4"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f9d265cfa5e6087b32530b971b8bf3b5/graphics_main2_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f9d265cfa5e6087b32530b971b8bf3b5/graphics_main2_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_main2_content",
+    "HashVersion": "f9d265cfa5e6087b32530b971b8bf3b5"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7be5c39c816ad4d1c3b82490ad48fbc8/res_event10\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event10",
+    "HashVersion": "7be5c39c816ad4d1c3b82490ad48fbc8"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/ee16bad8b9c1ab9845798ea51de5d919/res_event10_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event10_content",
+    "HashVersion": "ee16bad8b9c1ab9845798ea51de5d919"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/fa607c461f1dd9ebb7a030fa37fa4faa/res_event11\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event11",
+    "HashVersion": "fa607c461f1dd9ebb7a030fa37fa4faa"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/385ca0c0ce43eb180daad0c0c4f85bc2/res_event11_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event11_content",
+    "HashVersion": "385ca0c0ce43eb180daad0c0c4f85bc2"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/58ceb8536a2ca1146360793fe22faab7/res_event12\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event12",
+    "HashVersion": "58ceb8536a2ca1146360793fe22faab7"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7589391f9785d2e39a91d9e5c98ee1d5/res_event12_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event12_content",
+    "HashVersion": "7589391f9785d2e39a91d9e5c98ee1d5"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c13f816dc5f9db91588f7527016741d7/res_event9\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event9",
+    "HashVersion": "c13f816dc5f9db91588f7527016741d7"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/586ccae0ba6da77c7044b5daa090f8f1/res_event9_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event9_content",
+    "HashVersion": "586ccae0ba6da77c7044b5daa090f8f1"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/327b1ed692581e44f0a7f6130f4948c6/res_holiday4\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday4",
+    "HashVersion": "327b1ed692581e44f0a7f6130f4948c6"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1f504f9919c9baad9bc4a52dc1ee3d68/res_holiday4_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday4_content",
+    "HashVersion": "1f504f9919c9baad9bc4a52dc1ee3d68"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/e8f07c42a7c44ee3972770a3281b0a9c/res_holiday5\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday5",
+    "HashVersion": "e8f07c42a7c44ee3972770a3281b0a9c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/2d64db60e56e7ac8adde18a27fd40d04/res_holiday5_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday5_content",
+    "HashVersion": "2d64db60e56e7ac8adde18a27fd40d04"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/82a9f9154ffe0adf6229a35a59d60735/res_main2_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_main2_content",
+    "HashVersion": "82a9f9154ffe0adf6229a35a59d60735"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c49dce7b601a3daf215547d42d3eb3ef/graphics_character_alice\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_alice",
+    "HashVersion": "c49dce7b601a3daf215547d42d3eb3ef"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/22554ed0ce74af5ec3ad4ef3128fef36/graphics_character_babayaga\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_babayaga",
+    "HashVersion": "22554ed0ce74af5ec3ad4ef3128fef36"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_buck",
+    "HashVersion": "00bfb8fe267108589ad04a8314e428a9"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_chuck",
+    "HashVersion": "5052c3e35f755901cbbf93295a273044"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/682072775a15a0c25a2397dacf93fe8f/graphics_character_cupid\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_cupid",
+    "HashVersion": "682072775a15a0c25a2397dacf93fe8f"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/b8e035a5def5bffc1b4370338c4dcc82/graphics_character_dracula\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_dracula",
+    "HashVersion": "b8e035a5def5bffc1b4370338c4dcc82"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d2ea9ae24c316e213221c82cf3caf756/graphics_character_frogprince\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_frogprince",
+    "HashVersion": "d2ea9ae24c316e213221c82cf3caf756"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/0e66148961fa20d3807c40609e28d45c/graphics_character_goldenboy\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_goldenboy",
+    "HashVersion": "0e66148961fa20d3807c40609e28d45c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_heidi",
+    "HashVersion": "65dd307b5ce56b1e42830faa22503543"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c5d2d4c4217dc3a6806cc863112e98ac/graphics_character_johnhenry\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_johnhenry",
+    "HashVersion": "c5d2d4c4217dc3a6806cc863112e98ac"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_leprechaun",
+    "HashVersion": "bbd9cc64c5c18008163cd2ace7fdb13a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_mermaid",
+    "HashVersion": "753737a1c2ba8325cbb6042c2df6c532"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_paulbunyan",
+    "HashVersion": "e0f2ab5690c1a99e919fd9b20f1e5ad3"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4fde502522955aa54199c4bfc9338908/graphics_character_puck\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_puck",
+    "HashVersion": "4fde502522955aa54199c4bfc9338908"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_pussinboots",
+    "HashVersion": "5bd6399d6d138a08c9aff31e7fa6c31c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_sleepingbeauty",
+    "HashVersion": "e515fd15a212f12b8990a2d55271da01"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/4f1a0762a3051ddd9cd089526c87ad04/graphics_character_snowqueen\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_snowqueen",
+    "HashVersion": "4f1a0762a3051ddd9cd089526c87ad04"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_m2_sleepingbeauty",
+    "HashVersion": "ed4c71734ed67d6af81611c77c76f343"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/07bb8070c827cffee1f78f980a3aa469/graphics_character_claus\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_claus",
+    "HashVersion": "07bb8070c827cffee1f78f980a3aa469"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_event1_content\",\"fhd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_event1_content.fhd\",\"hd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/graphics_event1_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": true,
+    "Uid": "graphics_event1_content",
+    "HashVersion": "d52fc572f8b71bbc417884976dd43899"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d9ce49b908a9f561c2850d0023eaa47a/graphics_event2_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d9ce49b908a9f561c2850d0023eaa47a/graphics_event2_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event2_content",
+    "HashVersion": "d9ce49b908a9f561c2850d0023eaa47a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/9f8d02bd4f9867a1a46adca7bf7d933e/graphics_event3_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/9f8d02bd4f9867a1a46adca7bf7d933e/graphics_event3_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event3_content",
+    "HashVersion": "9f8d02bd4f9867a1a46adca7bf7d933e"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c388539004d1f0623acf099ca63bece1/graphics_event4_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c388539004d1f0623acf099ca63bece1/graphics_event4_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event4_content",
+    "HashVersion": "c388539004d1f0623acf099ca63bece1"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": true,
+    "Uid": "graphics_main_content",
+    "HashVersion": "0a6653ab74c5d080e15d5bd50b633879"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": true,
+    "Uid": "graphics_shared_content",
+    "HashVersion": "eaa0fa3ec26429b43e535305e16e82f0"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1c9cd31465afb7f9fe1b2f667554976c/graphics_zoo_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1c9cd31465afb7f9fe1b2f667554976c/graphics_zoo_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_zoo_content",
+    "HashVersion": "1c9cd31465afb7f9fe1b2f667554976c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f4eb3f5c3d1ff2a75ac0ef1f57958ba9/graphics_zoo_content_shared.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f4eb3f5c3d1ff2a75ac0ef1f57958ba9/graphics_zoo_content_shared.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_zoo_content_shared",
+    "HashVersion": "f4eb3f5c3d1ff2a75ac0ef1f57958ba9"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/6da1a5f2c6ac4d5ae6b7ad0b09637fb8/res_character_alice\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_alice",
+    "HashVersion": "6da1a5f2c6ac4d5ae6b7ad0b09637fb8"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/0f7c22b957fc46df15744744ae5ada7e/res_character_babayaga\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_babayaga",
+    "HashVersion": "0f7c22b957fc46df15744744ae5ada7e"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_buck",
+    "HashVersion": "e20d7e5062e5fce65562e739957caa6a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_chuck",
+    "HashVersion": "f3afd7f942f67ff200e4458e4469cf8c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/e022ba0b32bf05c91826fb83203c5282/res_character_cinderella\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_cinderella",
+    "HashVersion": "e022ba0b32bf05c91826fb83203c5282"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/81deee2e9fac3b2eb1aee837547980b6/res_character_claus\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_claus",
+    "HashVersion": "81deee2e9fac3b2eb1aee837547980b6"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/61214a7a73d5cb7d84fe2e38a9ad858a/res_character_cupid\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_cupid",
+    "HashVersion": "61214a7a73d5cb7d84fe2e38a9ad858a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/fdabba01f82de59c68c5db44be0214bf/res_character_dracula\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_dracula",
+    "HashVersion": "fdabba01f82de59c68c5db44be0214bf"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/a040f65ee1f1e9393f4bc47c4a3fea0a/res_character_frogprince\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_frogprince",
+    "HashVersion": "a040f65ee1f1e9393f4bc47c4a3fea0a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5aeb41ae158c55ca6131dae3273c28da/res_character_goldenboy\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_goldenboy",
+    "HashVersion": "5aeb41ae158c55ca6131dae3273c28da"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_heidi",
+    "HashVersion": "e5d851e631bbfa11384537b3ed9c289f"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/b60a2373b2ec809421b5185b09a8a91b/res_character_johnhenry\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_johnhenry",
+    "HashVersion": "b60a2373b2ec809421b5185b09a8a91b"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_leprechaun",
+    "HashVersion": "e68e9f696ca9aed1dffc618e0aaac0ff"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_m2_sleepingbeauty",
+    "HashVersion": "adc431744f77508ab29f476c604de49c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/9612c245a8fa945f17f9a89a7422c368/res_character_merlin\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_merlin",
+    "HashVersion": "9612c245a8fa945f17f9a89a7422c368"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_character_mermaid\",\"fhd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_character_mermaid.fhd\",\"hd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_character_mermaid.hd\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_mermaid",
+    "HashVersion": "6d4d694d1f155beec3ca95dfd4f6ec8b"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/194ffea85386ad9d56eebe306326dfd9/res_character_mulan\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_mulan",
+    "HashVersion": "194ffea85386ad9d56eebe306326dfd9"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_paulbunyan",
+    "HashVersion": "4e7e9fdfc32528fc4e68b6cd5cb19911"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/868de665de9f32c81563cad213f3c490/res_character_peterpan\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_peterpan",
+    "HashVersion": "868de665de9f32c81563cad213f3c490"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/21fb9f58154b22150b994540ea81542c/res_character_pinocchio\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_pinocchio",
+    "HashVersion": "21fb9f58154b22150b994540ea81542c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/17fd416cd47aedb5b3ef58bbd908db7a/res_character_puck\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_puck",
+    "HashVersion": "17fd416cd47aedb5b3ef58bbd908db7a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_pussinboots",
+    "HashVersion": "2d6b6ff4ec5cce784e4c49bd4ce4e2e7"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/248f1961e5468bbf6d92f8382a01fc1c/res_character_rapunzel\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_rapunzel",
+    "HashVersion": "248f1961e5468bbf6d92f8382a01fc1c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1af46dec072fd91ae74fd331703d1384/res_character_redhood\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_redhood",
+    "HashVersion": "1af46dec072fd91ae74fd331703d1384"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_character_sinbad\",\"fhd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_character_sinbad.fhd\",\"hd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_character_sinbad.hd\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_sinbad",
+    "HashVersion": "2f284805842f31a7a38084e6367d9ba8"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_sleepingbeauty",
+    "HashVersion": "6571442bb1d13b03b524731d6c43ca92"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1e0331ebfba6662147a74c04a550d517/res_character_snowqueen\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_snowqueen",
+    "HashVersion": "1e0331ebfba6662147a74c04a550d517"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d56bd74ae84fadf6e583eae9f788f761/res_character_snowwhite\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_snowwhite",
+    "HashVersion": "d56bd74ae84fadf6e583eae9f788f761"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/fc5801a00a98125cf21e6a2bacdf16d6/res_character_thumbelina\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_thumbelina",
+    "HashVersion": "fc5801a00a98125cf21e6a2bacdf16d6"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/21efc0d3ebb5a5516de9a5d3498e9b85/res_character_whiterabbit\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_whiterabbit",
+    "HashVersion": "21efc0d3ebb5a5516de9a5d3498e9b85"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_event1_content\",\"fhd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_event1_content.fhd\",\"hd\":\"file://D:/Evermerge/Assets/StreamingAssets/StandaloneWindows64/res_event1_content.hd\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_event1_content",
+    "HashVersion": "14c16af2ef232724d32069a72bd2851d"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1ab0242223e57c1dbd4962a10fc4f5b6/res_event2_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event2_content",
+    "HashVersion": "1ab0242223e57c1dbd4962a10fc4f5b6"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/9639dd1fbb4ea610ee1fb81dcee19df0/res_event3_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event3_content",
+    "HashVersion": "9639dd1fbb4ea610ee1fb81dcee19df0"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f88ce74d87ecaefd5173265c7fcb6d8a/res_event4_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event4_content",
+    "HashVersion": "f88ce74d87ecaefd5173265c7fcb6d8a"
+  },
+  {
+    "ManualLoad": true,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_main_content",
+    "HashVersion": "f1f499c2af054fa69282acdf9a6c11b4"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"\",\"fhd\":\"\",\"hd\":\"\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_shared_content",
+    "HashVersion": "4573286effa3c43e5c0c9c5d9b23a7f5"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/655d9009e183d4de837eb8a8c0a2b494/res_zoo_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_zoo_content",
+    "HashVersion": "655d9009e183d4de837eb8a8c0a2b494"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/85fbb10d646ba73ef6d3015bf9b622e4/res_zoo_content_shared\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_zoo_content_shared",
+    "HashVersion": "85fbb10d646ba73ef6d3015bf9b622e4"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c696f692a7f1a7806f07c9c6aa3b3be8/graphics_character_maui\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_maui",
+    "HashVersion": "c696f692a7f1a7806f07c9c6aa3b3be8"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d5449439fae8eb530a50b5c49cddb22a/res_character_maui\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_maui",
+    "HashVersion": "d5449439fae8eb530a50b5c49cddb22a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/90e5042bea24db3e33e445bb35b742a1/graphics_character_captainnemo\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_captainnemo",
+    "HashVersion": "90e5042bea24db3e33e445bb35b742a1"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/74432a848bcb13310f6c1aeb183be878/res_character_captainnemo\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_captainnemo",
+    "HashVersion": "74432a848bcb13310f6c1aeb183be878"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/07be7ede006243126dc64c36e805cfdc/graphics_character_tinkerbell\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_tinkerbell",
+    "HashVersion": "07be7ede006243126dc64c36e805cfdc"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/c4202561701ce21f348f1ef56a781eda/res_character_tinkerbell\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_tinkerbell",
+    "HashVersion": "c4202561701ce21f348f1ef56a781eda"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d8504c3c75b686171fb6c98e99f13e05/graphics_character_dorothy\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_dorothy",
+    "HashVersion": "d8504c3c75b686171fb6c98e99f13e05"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/a57491847708f20d67b1fcaeea3a048a/res_character_dorothy\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_dorothy",
+    "HashVersion": "a57491847708f20d67b1fcaeea3a048a"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d611843fe5a64e13f7697f24c568ee25/graphics_character_monkeyking\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "graphics_character_monkeyking",
+    "HashVersion": "d611843fe5a64e13f7697f24c568ee25"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/6664d76c479379cb9f59f874a345cadf/res_character_monkeyking\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_character_monkeyking",
+    "HashVersion": "6664d76c479379cb9f59f874a345cadf"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/bad1ea079707a8210cc300494c934d85/graphics_holiday6.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/bad1ea079707a8210cc300494c934d85/graphics_holiday6.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday6",
+    "HashVersion": "bad1ea079707a8210cc300494c934d85"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7b7c77a7477b8eb19535ed5d36069c86/res_holiday6\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday6",
+    "HashVersion": "7b7c77a7477b8eb19535ed5d36069c86"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d908fbc6f7509dde9687cda0ea25539b/graphics_holiday6_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/d908fbc6f7509dde9687cda0ea25539b/graphics_holiday6_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday6_content",
+    "HashVersion": "d908fbc6f7509dde9687cda0ea25539b"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/007f48e272bad897898872aeda0f9a9c/res_holiday6_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday6_content",
+    "HashVersion": "007f48e272bad897898872aeda0f9a9c"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_m2_chuck",
+    "HashVersion": "a804d09ac912667df56c079faa2fb419"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_m2_chuck",
+    "HashVersion": "986a511d433299ebd0a2ad4ac88939b6"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_m2_buck",
+    "HashVersion": "e45cb2300e9e85f7f93fe215429c665f"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_m2_buck",
+    "HashVersion": "a5c823afa364210dea31635c5bb61c54"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "graphics_character_pirate",
+    "HashVersion": "1ae0fc1378b7433a96e7091ce0a8d1e9"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "",
+    "IsDependsOnQuality": false,
+    "IsLocal": true,
+    "Uid": "res_character_pirate",
+    "HashVersion": "a72c1ecdd8b68315dabc7f4adaec7c97"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3505b9ec3218503e7cf515e064ee5557/graphics_sandbox.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3505b9ec3218503e7cf515e064ee5557/graphics_sandbox.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_sandbox",
+    "HashVersion": "3505b9ec3218503e7cf515e064ee5557"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/738802bdd68196ba4b0c87ebf2943297/res_sandbox\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_sandbox",
+    "HashVersion": "738802bdd68196ba4b0c87ebf2943297"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/0bc8de98146a4bcfda66da0eb1044557/graphics_holiday1.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/0bc8de98146a4bcfda66da0eb1044557/graphics_holiday1.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday1",
+    "HashVersion": "0bc8de98146a4bcfda66da0eb1044557"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/37727f6394e3bdfbef97a6654d5dbb46/res_holiday1\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday1",
+    "HashVersion": "37727f6394e3bdfbef97a6654d5dbb46"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1d65b2dd389fc5251c2cea8158202939/graphics_holiday1_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1d65b2dd389fc5251c2cea8158202939/graphics_holiday1_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_holiday1_content",
+    "HashVersion": "1d65b2dd389fc5251c2cea8158202939"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7de9c43dc5a54aaef42adf091ba6b6d4/res_holiday1_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_holiday1_content",
+    "HashVersion": "7de9c43dc5a54aaef42adf091ba6b6d4"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3c05efe061a36a1dfcf065aa80912616/graphics_skins_halloween.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3c05efe061a36a1dfcf065aa80912616/graphics_skins_halloween.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_skins_halloween",
+    "HashVersion": "3c05efe061a36a1dfcf065aa80912616"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/98d09ae5b84f25270e5e205c892e200e/res_skins_halloween\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_skins_halloween",
+    "HashVersion": "98d09ae5b84f25270e5e205c892e200e"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1d25ecfc6121ceac413ccb4c9574e5ab/graphics_skins_spring.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1d25ecfc6121ceac413ccb4c9574e5ab/graphics_skins_spring.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_skins_spring",
+    "HashVersion": "1d25ecfc6121ceac413ccb4c9574e5ab"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/a2b890e2030bd05ba6367006b50fb090/res_skins_spring\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_skins_spring",
+    "HashVersion": "a2b890e2030bd05ba6367006b50fb090"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/2c7ea2f65d91b9d3d8f34e6f9b609632/graphics_main_halloween.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/2c7ea2f65d91b9d3d8f34e6f9b609632/graphics_main_halloween.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_main_halloween",
+    "HashVersion": "2c7ea2f65d91b9d3d8f34e6f9b609632"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/11e24554c30ead7cd1c875802a54f481/res_main_halloween\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_main_halloween",
+    "HashVersion": "11e24554c30ead7cd1c875802a54f481"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5a1fb303ebe6481e01e92adb6b366a57/graphics_event5.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/5a1fb303ebe6481e01e92adb6b366a57/graphics_event5.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event5",
+    "HashVersion": "5a1fb303ebe6481e01e92adb6b366a57"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/0bbf481415807378ffbfc8b1f63a070d/res_event5\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event5",
+    "HashVersion": "0bbf481415807378ffbfc8b1f63a070d"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3830a54f7c5bcf863e48994a7527e061/graphics_event13.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3830a54f7c5bcf863e48994a7527e061/graphics_event13.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event13",
+    "HashVersion": "3830a54f7c5bcf863e48994a7527e061"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/773ca7e55cc74c1d819be11109f54519/res_event13\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event13",
+    "HashVersion": "773ca7e55cc74c1d819be11109f54519"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/678c29152d3eff79bf597f5e8879ee1d/graphics_event14.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/678c29152d3eff79bf597f5e8879ee1d/graphics_event14.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event14",
+    "HashVersion": "678c29152d3eff79bf597f5e8879ee1d"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f592df289dd68ffff5d100b095102423/res_event14\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event14",
+    "HashVersion": "f592df289dd68ffff5d100b095102423"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/b1ea13e4758e24a1e12824fb59f4ceb0/graphics_event15.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/b1ea13e4758e24a1e12824fb59f4ceb0/graphics_event15.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event15",
+    "HashVersion": "b1ea13e4758e24a1e12824fb59f4ceb0"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/849004f45abd606da52f74a1cae2b5ce/res_event15\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event15",
+    "HashVersion": "849004f45abd606da52f74a1cae2b5ce"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7588341e6a0d789a20f9d85619ce7e4e/graphics_event16.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7588341e6a0d789a20f9d85619ce7e4e/graphics_event16.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event16",
+    "HashVersion": "7588341e6a0d789a20f9d85619ce7e4e"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/b68e3a69fb4a0e0b2fdef5272e7ee682/res_event16\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event16",
+    "HashVersion": "b68e3a69fb4a0e0b2fdef5272e7ee682"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3e2aae15a7531e071fdaabd29bb34460/graphics_event17.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/3e2aae15a7531e071fdaabd29bb34460/graphics_event17.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event17",
+    "HashVersion": "3e2aae15a7531e071fdaabd29bb34460"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1efd2e9cd529408f712bc3b97702cabe/res_event17\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event17",
+    "HashVersion": "1efd2e9cd529408f712bc3b97702cabe"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/54235461f38514fe37f22a73ee703cf3/graphics_event5_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/54235461f38514fe37f22a73ee703cf3/graphics_event5_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event5_content",
+    "HashVersion": "54235461f38514fe37f22a73ee703cf3"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/27a0d475d287ba64e39c7155b2f02f33/res_event5_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event5_content",
+    "HashVersion": "27a0d475d287ba64e39c7155b2f02f33"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/65319fce107b99b75eaf3de3257d988d/graphics_event13_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/65319fce107b99b75eaf3de3257d988d/graphics_event13_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event13_content",
+    "HashVersion": "65319fce107b99b75eaf3de3257d988d"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/1a8373f85ad6bc612df2d6d2c85883ee/res_event13_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event13_content",
+    "HashVersion": "1a8373f85ad6bc612df2d6d2c85883ee"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/b202edf770599cd676912bc8760009f4/graphics_event14_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/b202edf770599cd676912bc8760009f4/graphics_event14_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event14_content",
+    "HashVersion": "b202edf770599cd676912bc8760009f4"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/e6a626b2275af510a3b4be12e7454351/res_event14_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event14_content",
+    "HashVersion": "e6a626b2275af510a3b4be12e7454351"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/bff4d1216e6c4002b9ef4fede1d99172/graphics_event15_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/bff4d1216e6c4002b9ef4fede1d99172/graphics_event15_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event15_content",
+    "HashVersion": "bff4d1216e6c4002b9ef4fede1d99172"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/20e73f2077e3e8fd65bd18e34ff86e9e/res_event15_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event15_content",
+    "HashVersion": "20e73f2077e3e8fd65bd18e34ff86e9e"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7a499029db4f3f6f5da2568a14be51d5/graphics_event16_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/7a499029db4f3f6f5da2568a14be51d5/graphics_event16_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event16_content",
+    "HashVersion": "7a499029db4f3f6f5da2568a14be51d5"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/21eaf36766a42963d57ced06911e55f3/res_event16_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event16_content",
+    "HashVersion": "21eaf36766a42963d57ced06911e55f3"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"fhd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/e6c55a4d060f0880c46b3ea973e492b8/graphics_event17_content.fhd\",\"hd\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/e6c55a4d060f0880c46b3ea973e492b8/graphics_event17_content.hd\"}",
+    "IsDependsOnQuality": true,
+    "IsLocal": false,
+    "Uid": "graphics_event17_content",
+    "HashVersion": "e6c55a4d060f0880c46b3ea973e492b8"
+  },
+  {
+    "ManualLoad": false,
+    "RemotePath": "{\"DefaultPath\":\"https://cdn-assets-prod-evermerge-neskinsoft-bfg.akamaized.net/assets/nodejs10/public/evermerge/android/prod/f79873b3fa86f3e3a8da50ab33fbfa11/res_event17_content\"}",
+    "IsDependsOnQuality": false,
+    "IsLocal": false,
+    "Uid": "res_event17_content",
+    "HashVersion": "f79873b3fa86f3e3a8da50ab33fbfa11"
+  }
+]

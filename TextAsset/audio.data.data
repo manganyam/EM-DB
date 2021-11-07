@@ -1,0 +1,672 @@
+[
+  {
+    "Uid": "Ambient1Music",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio",
+    "BundleName": "res",
+    "ClipName": "Ambient1Music",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Music"
+  },
+  {
+    "Uid": "MergeChest",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_chest",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "BuildCastle",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "build_castle",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "CrystalUse",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "crystal_use",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "DropObject",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "drop_object",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "CrystalDrag",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "crystal_drag",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "BuyEnergy",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "buy_energy",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "FireflyFall",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "firefly_fall",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "FireflyTap",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "firefly_tap",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "MergeCrystalDone",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_crystal_done",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "MergeCrystalParts",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_crystal_parts",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "MergeMain",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_main",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 0.7,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "MergeHardCurr",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_hard_curr",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "FogOpen",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "fog_open",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "BuySoftCurr",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "buy_soft_curr",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "WorkerHarvest",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "worker_harvest",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "MergeSoftCurr",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_soft_curr",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "ChestOpen",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "chest_open",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "ObjectRelease",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "object_release",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 0.8,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "ObjectTap",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "object_tap",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "GetEnergy",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "get_energy",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 0.7,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "OrderAppear",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "order_appear",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "PopupClose",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "popup_close",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 0.8,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "OrderComplete",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "order_complete",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "PopupNewLevel",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "popup_new_level",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "GetHardCurr",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "get_hard_curr",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 0.8,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "WorkerChop",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "worker_chop",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "PopupNewRecipe",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "popup_new_recipe",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "PopupOpen",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "popup_open",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 0.8,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "PopupTabs",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "popup_tabs",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "GetMagic",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "get_magic",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 0.8,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "QuestNew",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "quest_new",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "QuestCompleted",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "quest_completed",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.1,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "RemoverTake",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "remover_take",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "WorkerBuild",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "worker_build",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "ButtonClick",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "button_click",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "GetSoftCurr",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "get_soft_curr",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 0.8,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "WorkerFinish",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "worker_finish",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "GetXp",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "get_xp",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "WorkerMine",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "worker_mine",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "RemoverUse",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "remover_use",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "BuildMain",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "build_main",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "QuestHint",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "quest_hint",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "TimeBoost",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "time_boost",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "GiftOpen",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "gift_open",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "BuyMarket",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "buy_market",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "OrderClaim",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "order_claim",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "CastleMagic",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "castle_magic",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "GetCurrency",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "get_currency",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "GetIngredients",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "get_ingredients",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "EventStep",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "get_ingredients",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "HideAirship",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_soft_curr",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "SpawnAirship",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_hard_curr",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "IslandPurchased",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "build_castle",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "IslandUnlock",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "fog_open",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "FogManaHint",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "quest_hint",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "UseMana",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "worker_harvest",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "MergeCreature",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "merge_creature",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "InventoryAdded",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "inventory_added",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "InventoryRefused",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "inventory_refused",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "InventorySlotSwitch",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "inventory_slot_switch",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "BoxClick",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "box_click",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "EventChop",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "event_chop",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "CreatureFeed",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "creature_feed",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "AnniversaryAmbientMusic",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio",
+    "BundleName": "res",
+    "ClipName": "AnniversaryAmbientMusic",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Music"
+  },
+  {
+    "Uid": "ShipDeparture",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio/Sound",
+    "BundleName": "res",
+    "ClipName": "ship_departure",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Sound"
+  },
+  {
+    "Uid": "Ambient2Music",
+    "AssetPath": "Assets/Content/ContentResources/Resources/Audio",
+    "BundleName": "res",
+    "ClipName": "Ambient2Music",
+    "DefaultPitch": 1.0,
+    "DefaultVolume": 1.0,
+    "CacheForScenes": [],
+    "Tag": "Music"
+  }
+]

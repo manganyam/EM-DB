@@ -1,0 +1,73 @@
+{
+  "Name": "event1",
+  "GlobalQuestsEnabled": false,
+  "EnergyEnabled": false,
+  "IsIgnoreCreateBorders": true,
+  "RenderQueue": 2003,
+  "WaterBorderLeft": 15,
+  "WaterBorderRight": 20,
+  "WaterBorderTop": 5,
+  "WaterBorderBottom": 17,
+  "WaterCropCornerTopLeft": 45,
+  "WaterCropCornerTopRight": 57,
+  "WaterCropCornerBottomLeft": 33,
+  "WaterCropCornerBottomRight": 31,
+  "CameraClampX": 12.92,
+  "CameraClampY": -21.8,
+  "CameraClampWidth": 48,
+  "CameraClampHeight": 31.9,
+  "LayoutAddonsSeed": 4460,
+  "LayoutAddons": {
+    "BorderBottom1": [
+      "BorderBottom1_Addon_2",
+      null,
+      null,
+      null
+    ],
+    "BorderBottom2": [
+      "BorderBottom2_Addon_1",
+      null,
+      null,
+      null
+    ],
+    "BorderLeft1": [
+      "BorderLeft1_Addon_1",
+      null,
+      null,
+      null
+    ],
+    "BorderLeft2": [
+      "BorderLeft2_Addon_1",
+      null,
+      null,
+      null
+    ],
+    "BorderWallBottomLeft1": [
+      "BorderWallBottomLeft1_Addon_1",
+      null,
+      null,
+      null
+    ],
+    "BorderWallRight1": [
+      "BorderWallRight1_Addon_1",
+      "BorderWallRight1_Addon_2",
+      null,
+      null,
+      null
+    ],
+    "BorderWallTop1": [
+      "BorderWallTop1_Addon_1",
+      "BorderWallTop1_Addon_3",
+      null,
+      null,
+      null
+    ],
+    "BorderWallTopRight1": [
+      "BorderWallTopRight1_Addon_1",
+      "BorderWallTopRight1_Addon_2",
+      null,
+      null,
+      null
+    ]
+  }
+}

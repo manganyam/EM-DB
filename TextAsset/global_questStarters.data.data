@@ -1,0 +1,349 @@
+[
+  {
+    "Id": 439,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "439_FacebookJoin"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionQuestCompletedComponent, GameAssembly",
+        "Group": 1,
+        "Id": "QuestCompleted",
+        "Value": "424_UseMine"
+      },
+      {
+        "$type": "QuestStartConditionPlayerLevelComponent, GameAssembly",
+        "Group": 2,
+        "Id": "PlayerLevel",
+        "Value": 10
+      }
+    ]
+  },
+  {
+    "Id": 253,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "305_CreatePiece_SN_A"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalSpring"
+      }
+    ]
+  },
+  {
+    "Id": 412,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "411_CreatePiece_SN_B"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalSummer"
+      }
+    ]
+  },
+  {
+    "Id": 429,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "429_CreatePiece_SN_C"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalAutumn"
+      }
+    ]
+  },
+  {
+    "Id": 430,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "430_CreatePiece_SN_D"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalWinter"
+      }
+    ]
+  },
+  {
+    "Id": 440,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "440_CreatePiece_SN_E"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalEaster"
+      }
+    ]
+  },
+  {
+    "Id": 441,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "441_CreatePiece_SN_F"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalSpring21"
+      }
+    ]
+  },
+  {
+    "Id": 442,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "442_CreatePiece_SN_G"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalGardenGnomes"
+      }
+    ]
+  },
+  {
+    "Id": 443,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "443_CreatePiece_SN_H"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalTropicalParty"
+      }
+    ]
+  },
+  {
+    "Id": 446,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "446_CreatePiece_SN_I"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalWishingwell"
+      }
+    ]
+  },
+  {
+    "Id": 447,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "447_CreatePiece_SN_J"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionEventGameInProgressComponent, GameAssembly",
+        "Id": "EventGameInProgress",
+        "Value": "SeasonalAutumnwinds"
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "34_CreatePiece_PR_B5"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 63,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "74_CreatePiece_PR_D4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 212,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "228_CreatePiece_PR_E4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 213,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "229_CreatePiece_PR_F4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 214,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "230_CreatePiece_PR_G4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 232,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "248_CreatePiece_PR_H4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 333,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "332_CreatePiece_PR_I4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 426,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "426_CreatePiece_PR_J4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 444,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "444_CreatePiece_PR_K4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 445,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "445_CreatePiece_PR_L4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionAlwaysFalseComponent, GameAssembly",
+        "Id": "AlwaysFalse"
+      }
+    ]
+  },
+  {
+    "Id": 448,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "448_CreatePiece_Mana3"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionPieceUnlockedComponent, GameAssembly",
+        "Id": "PieceUnlocked",
+        "Value": "Mana2"
+      }
+    ]
+  },
+  {
+    "Id": 449,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "449_CreatePiece_Mana4"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionQuestCompletedComponent, GameAssembly",
+        "Id": "QuestCompleted",
+        "Value": "448_CreatePiece_Mana3"
+      }
+    ]
+  },
+  {
+    "Id": 450,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "450_CreatePiece_Mana5"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionQuestCompletedComponent, GameAssembly",
+        "Id": "QuestCompleted",
+        "Value": "449_CreatePiece_Mana4"
+      }
+    ]
+  },
+  {
+    "Id": 451,
+    "$type": "QuestStarterEntity, GameAssembly",
+    "QuestToStartIds": [
+      "451_CreatePiece_Mana6"
+    ],
+    "Conditions": [
+      {
+        "$type": "QuestStartConditionQuestCompletedComponent, GameAssembly",
+        "Id": "QuestCompleted",
+        "Value": "450_CreatePiece_Mana5"
+      }
+    ]
+  }
+]

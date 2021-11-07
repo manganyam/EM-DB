@@ -1,0 +1,332 @@
+[
+  {
+    "Step": 1,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 70
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "Boost_CR1",
+        "Amount": 1
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 15
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "Boost_CR2",
+        "Amount": 3
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 65
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 20
+    }
+  },
+  {
+    "Step": 2,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 280
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "SK1_PR",
+        "Amount": 2
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 125
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "CH1_TR",
+        "Amount": 1
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 110
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 20
+    }
+  },
+  {
+    "Step": 3,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 350
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "Hard3",
+        "Amount": 2
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 10
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "Hard4",
+        "Amount": 1
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 20
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 25
+    }
+  },
+  {
+    "Step": 4,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 430
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "CH1_TR",
+        "Amount": 2
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 100
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "CH1_GN",
+        "Amount": 3
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 275
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 25
+    }
+  },
+  {
+    "Step": 5,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 520
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "Boost_WR4",
+        "Amount": 2
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 45
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "Boost_WR",
+        "Amount": 1
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 65
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 35
+    }
+  },
+  {
+    "Step": 6,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 630
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "SK2_PR",
+        "Amount": 3
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 375
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "CH2_TR",
+        "Amount": 2
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 35
+    }
+  },
+  {
+    "Step": 7,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 770
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "CH2_TR",
+        "Amount": 2
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 200
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "CH2_GN",
+        "Amount": 2
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 475
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 45
+    }
+  },
+  {
+    "Step": 8,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 950
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "CH3_TR",
+        "Amount": 2
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "Boost_CR",
+        "Amount": 1
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 175
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 45
+    }
+  },
+  {
+    "Step": 9,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 1150
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "SK3_PR",
+        "Amount": 3
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 750
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "CH3_GN",
+        "Amount": 2
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 550
+    },
+    "StepRewards": {
+      "Currency": "Energy",
+      "Amount": 80
+    }
+  },
+  {
+    "Step": 10,
+    "Prices": [
+      {
+        "Currency": "Token",
+        "Amount": 1400
+      }
+    ],
+    "SourceNormalRewards": [
+      {
+        "Currency": "Infinity4",
+        "Amount": 1
+      }
+    ],
+    "NormalRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 1000
+    },
+    "SourcePremiumRewards": [
+      {
+        "Currency": "CH3_TR",
+        "Amount": 1
+      }
+    ],
+    "PremiumRewardsPrice": {
+      "Currency": "Crystals",
+      "Amount": 900
+    },
+    "StepRewards": {
+      "Currency": "Crystals",
+      "Amount": 25
+    }
+  }
+]

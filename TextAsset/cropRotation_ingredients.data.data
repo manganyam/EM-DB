@@ -1,0 +1,162 @@
+[
+  {
+    "IngredientName": "PR_A5",
+    "OrderGroup": 1,
+    "Level": 4,
+    "Seasons": [
+      "beginner",
+      "spring",
+      "summer"
+    ]
+  },
+  {
+    "IngredientName": "PR_B5",
+    "OrderGroup": 2,
+    "Level": 7,
+    "Seasons": [
+      "beginner",
+      "summer",
+      "fall"
+    ]
+  },
+  {
+    "IngredientName": "PR_C5",
+    "OrderGroup": 1,
+    "Level": 0,
+    "Seasons": [
+      "beginner",
+      "spring",
+      "winter"
+    ]
+  },
+  {
+    "IngredientName": "PR_D5",
+    "OrderGroup": 2,
+    "Level": 9,
+    "Seasons": [
+      "beginner",
+      "fall",
+      "winter"
+    ]
+  },
+  {
+    "IngredientName": "PR_E5",
+    "OrderGroup": 1,
+    "Level": 13,
+    "Seasons": [
+      "fall",
+      "winter"
+    ]
+  },
+  {
+    "IngredientName": "PR_F5",
+    "OrderGroup": 1,
+    "Level": 13,
+    "Seasons": [
+      "fall",
+      "summer"
+    ]
+  },
+  {
+    "IngredientName": "PR_G5",
+    "OrderGroup": 3,
+    "Level": 13,
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "IngredientName": "PR_H5",
+    "OrderGroup": 3,
+    "Level": 13,
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "IngredientName": "PR_I5",
+    "OrderGroup": 2,
+    "Level": 13,
+    "Seasons": [
+      "spring",
+      "summer"
+    ]
+  },
+  {
+    "IngredientName": "PR_J5",
+    "OrderGroup": 2,
+    "Level": 13,
+    "Seasons": [
+      "winter",
+      "spring"
+    ]
+  },
+  {
+    "IngredientName": "PR_K5",
+    "OrderGroup": 3,
+    "Level": 13,
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "IngredientName": "PR_L5",
+    "OrderGroup": 3,
+    "Level": 13,
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "IngredientName": "H2_PR_A5",
+    "OrderGroup": 4,
+    "Level": 1,
+    "IsEvent": true,
+    "Seasons": [
+      "beginner",
+      "winter",
+      "spring",
+      "summer",
+      "fall"
+    ]
+  },
+  {
+    "IngredientName": "H3_PR_A5",
+    "OrderGroup": 4,
+    "Level": 1,
+    "IsEvent": true,
+    "Seasons": [
+      "beginner",
+      "winter",
+      "spring",
+      "summer",
+      "fall"
+    ]
+  },
+  {
+    "IngredientName": "H4_PR_A5",
+    "OrderGroup": 4,
+    "Level": 1,
+    "IsEvent": true,
+    "Seasons": [
+      "beginner",
+      "winter",
+      "spring",
+      "summer",
+      "fall"
+    ]
+  },
+  {
+    "IngredientName": "H5_PR_A5",
+    "OrderGroup": 4,
+    "Level": 1,
+    "IsEvent": true,
+    "Seasons": [
+      "beginner",
+      "winter",
+      "spring",
+      "summer",
+      "fall"
+    ]
+  }
+]

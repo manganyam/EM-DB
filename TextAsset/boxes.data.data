@@ -1,0 +1,200 @@
+[
+  {
+    "Uid": "BOX_A1",
+    "Common": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Common_A1"
+      },
+      {
+        "Min": 2,
+        "Max": 2,
+        "Uid": "Common_B1"
+      }
+    ],
+    "Rare": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Rare_A1"
+      }
+    ]
+  },
+  {
+    "Uid": "BOX_A2",
+    "Common": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Common_A1"
+      },
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Common_B1"
+      },
+      {
+        "Min": 4,
+        "Max": 4,
+        "Uid": "Common_C1"
+      }
+    ],
+    "Rare": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Rare_A1"
+      },
+      {
+        "Min": 2,
+        "Max": 2,
+        "Uid": "Rare_B1"
+      }
+    ],
+    "Legendary": [
+      {
+        "Min": 1,
+        "Max": 1,
+        "Uid": "Legendary_A1"
+      }
+    ]
+  },
+  {
+    "Uid": "BOX_A3",
+    "Common": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Common_A1"
+      },
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Common_B1"
+      },
+      {
+        "Min": 4,
+        "Max": 4,
+        "Uid": "Common_C1"
+      }
+    ],
+    "Rare": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Rare_A1"
+      },
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Rare_B1"
+      },
+      {
+        "Min": 2,
+        "Max": 2,
+        "Uid": "Rare_C1"
+      }
+    ],
+    "Legendary": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Legendary_A1"
+      },
+      {
+        "Min": 2,
+        "Max": 2,
+        "Uid": "Legendary_B1"
+      }
+    ]
+  },
+  {
+    "Uid": "BOX_B1",
+    "Common": [
+      {
+        "Min": 3,
+        "Max": 4,
+        "Uid": "Common_A1"
+      },
+      {
+        "Min": 2,
+        "Max": 5,
+        "Uid": "Common_B1"
+      }
+    ]
+  },
+  {
+    "Uid": "BOX_B2",
+    "Common": [
+      {
+        "Min": 2,
+        "Max": 3,
+        "Uid": "Common_A1"
+      },
+      {
+        "Min": 1,
+        "Max": 2,
+        "Uid": "Common_B1"
+      }
+    ],
+    "Rare": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Rare_A1"
+      },
+      {
+        "Min": 1,
+        "Max": 3,
+        "Uid": "Rare_B1"
+      }
+    ]
+  },
+  {
+    "Uid": "BOX_B3",
+    "Common": [
+      {
+        "Min": 3,
+        "Max": 3,
+        "Uid": "Common_A1"
+      },
+      {
+        "Min": 1,
+        "Max": 3,
+        "Uid": "Common_B1"
+      }
+    ],
+    "Rare": [
+      {
+        "Min": 1,
+        "Max": 4,
+        "Uid": "Rare_A1"
+      }
+    ],
+    "Legendary": [
+      {
+        "Min": 2,
+        "Max": 4,
+        "Uid": "Legendary_A1"
+      }
+    ]
+  },
+  {
+    "Uid": "BOX_Feed",
+    "Common": [
+      {
+        "Min": 5,
+        "Max": 5,
+        "Uid": "Common_A1"
+      }
+    ],
+    "Rare": [
+      {
+        "Min": 1,
+        "Max": 1,
+        "Uid": "Rare_A1"
+      }
+    ]
+  }
+]

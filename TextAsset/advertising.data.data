@@ -1,0 +1,165 @@
+[
+  {
+    "Uid": 1,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "Soft3",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.soft"
+  },
+  {
+    "Uid": 1,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "Hard2",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.hard"
+  },
+  {
+    "Uid": 1,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "Mana1",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.mana"
+  },
+  {
+    "Uid": 2,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "CH1_A",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.chest"
+  },
+  {
+    "Uid": 2,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "A3",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.piece"
+  },
+  {
+    "Uid": 2,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "NPC_B1",
+      "Amount": 2
+    },
+    "Description": "window.flyingAd.description.npc_artefact"
+  },
+  {
+    "Uid": 3,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "PR_A5",
+      "Amount": 3
+    },
+    "Description": "window.flyingAd.description.ingredients"
+  },
+  {
+    "Uid": 3,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "Boost_WR2",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.boost_wr"
+  },
+  {
+    "Uid": 3,
+    "SpawnFields": [
+      "main",
+      "main2"
+    ],
+    "Reward": {
+      "Currency": "Boost_CR1",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.boost_cr"
+  },
+  {
+    "Uid": 4,
+    "SpawnFields": [
+      "zoo"
+    ],
+    "Reward": {
+      "Currency": "CR_A1",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.creature"
+  },
+  {
+    "Uid": 5,
+    "SpawnFields": [
+      "zoo"
+    ],
+    "Reward": {
+      "Currency": "CR_A1",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.creature"
+  },
+  {
+    "Uid": 6,
+    "SpawnFields": [
+      "zoo"
+    ],
+    "Reward": {
+      "Currency": "CR_A1",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.creature"
+  },
+  {
+    "Uid": 6,
+    "SpawnFields": [
+      "zoo"
+    ],
+    "Reward": {
+      "Currency": "CR_F1",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.creature"
+  },
+  {
+    "Uid": 6,
+    "SpawnFields": [
+      "zoo"
+    ],
+    "Reward": {
+      "Currency": "Z_SK_PR_Free",
+      "Amount": 1
+    },
+    "Description": "window.flyingAd.description.sack"
+  }
+]

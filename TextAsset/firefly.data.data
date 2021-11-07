@@ -1,0 +1,184 @@
+[
+  {
+    "Uid": "main",
+    "AmountProduction": {
+      "Min": 2,
+      "Max": 5
+    },
+    "AmountEvent": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountAd": {
+      "Min": 0,
+      "Max": 1
+    },
+    "AmountZooPixie": {
+      "Min": 0,
+      "Max": 1
+    },
+    "ZooPixieRatio": 0.2,
+    "DelaySpawn": {
+      "Min": 10,
+      "Max": 20
+    },
+    "SleepDelay": 1800,
+    "TapDelay": 45,
+    "TapDelayLimit": 5,
+    "Reward": {
+      "Currency": "Z_PR_A1",
+      "Amount": 1
+    }
+  },
+  {
+    "Uid": "zoo",
+    "AmountProduction": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountEvent": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountAd": {
+      "Min": 1,
+      "Max": 1
+    },
+    "AmountZooPixie": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ZooPixieRatio": 0,
+    "DelaySpawn": {
+      "Min": 20,
+      "Max": 30
+    },
+    "SleepDelay": 1800,
+    "TapDelay": 60,
+    "TapDelayLimit": 5
+  },
+  {
+    "Uid": "GnomeRush",
+    "AmountProduction": {
+      "Min": 2,
+      "Max": 5
+    },
+    "AmountEvent": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountAd": {
+      "Min": 0,
+      "Max": 1
+    },
+    "AmountZooPixie": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ZooPixieRatio": 0,
+    "DelaySpawn": {
+      "Min": 10,
+      "Max": 20
+    },
+    "SleepDelay": 1800,
+    "TapDelay": 45,
+    "TapDelayLimit": 5,
+    "Reward": {
+      "Currency": "Token",
+      "Amount": 5
+    }
+  },
+  {
+    "Uid": "CatchEnergizedFireflies",
+    "AmountProduction": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountEvent": {
+      "Min": 2,
+      "Max": 5
+    },
+    "AmountAd": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountZooPixie": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ZooPixieRatio": 0,
+    "DelaySpawn": {
+      "Min": 10,
+      "Max": 20
+    },
+    "SleepDelay": 1800,
+    "TapDelay": 45,
+    "TapDelayLimit": 5,
+    "Reward": {
+      "Currency": "Energy",
+      "Amount": 3
+    }
+  },
+  {
+    "Uid": "IslandEventGame",
+    "AmountProduction": {
+      "Min": 2,
+      "Max": 5
+    },
+    "AmountEvent": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountAd": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountZooPixie": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ZooPixieRatio": 0,
+    "DelaySpawn": {
+      "Min": 10,
+      "Max": 20
+    },
+    "SleepDelay": 1800,
+    "TapDelay": 45,
+    "TapDelayLimit": 5,
+    "Reward": {
+      "Currency": "EventToken",
+      "Amount": 1
+    }
+  },
+  {
+    "Uid": "FireflyCornucopiaEvent",
+    "AmountProduction": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountEvent": {
+      "Min": 0,
+      "Max": 1
+    },
+    "AmountAd": {
+      "Min": 0,
+      "Max": 0
+    },
+    "AmountZooPixie": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ZooPixieRatio": 0,
+    "DelaySpawn": {
+      "Min": 10,
+      "Max": 20
+    },
+    "SleepDelay": 1800,
+    "TapDelay": 45,
+    "TapDelayLimit": 5,
+    "Reward": {
+      "Currency": "CP_OB1_A",
+      "Amount": 1
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Uid": "HLD_MN",
+    "TokensForUpgrade": 0,
+    "RewardDelay": 14400,
+    "Rewards": [
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Uid": "HLD_MN",
+    "TokensForUpgrade": 25,
+    "RewardDelay": 14400,
+    "Rewards": [
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Uid": "HLD_MN",
+    "TokensForUpgrade": 55,
+    "RewardDelay": 14400,
+    "Rewards": [
+      {
+        "Currency": "IslandEnergy2",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Uid": "HLD_MN",
+    "TokensForUpgrade": 75,
+    "RewardDelay": 14400,
+    "Rewards": [
+      {
+        "Currency": "IslandEnergy3",
+        "Amount": 2
+      },
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Uid": "HLD_MN",
+    "TokensForUpgrade": 100,
+    "RewardDelay": 14400,
+    "Rewards": [
+      {
+        "Currency": "IslandEnergy1",
+        "Amount": 3
+      },
+      {
+        "Currency": "IslandEnergy3",
+        "Amount": 3
+      }
+    ]
+  }
+]

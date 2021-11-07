@@ -1,0 +1,18 @@
+[
+  {
+    "Key": "EnergyIncreaseRefillRateFactor",
+    "Value": 0.25
+  },
+  {
+    "Key": "BuildingDelayModifier",
+    "Value": 0.2
+  },
+  {
+    "Key": "TimersPriceModifier",
+    "Value": 5
+  },
+  {
+    "Key": "ShortenHarvestTimeFactor",
+    "Value": 0.5
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "Key": "MarketUpdateDelay",
+    "Value": 21600
+  },
+  {
+    "Key": "MarketUpdatePrice",
+    "Value": 99
+  },
+  {
+    "Key": "MinDelayHintArrow",
+    "Value": 30
+  },
+  {
+    "Key": "MaxDelayHintArrow",
+    "Value": 60
+  },
+  {
+    "Key": "MinDelayBounceBubble",
+    "Value": 15
+  },
+  {
+    "Key": "MaxDelayBounceBubble",
+    "Value": 30
+  },
+  {
+    "Key": "MaxOrders",
+    "Value": 6
+  },
+  {
+    "Key": "FreeTimeLimit",
+    "Value": 30
+  },
+  {
+    "Key": "StartLevelFirefly",
+    "Value": 6
+  },
+  {
+    "Key": "HourBasePrice",
+    "Value": 38
+  },
+  {
+    "Key": "DayBasePrice",
+    "Value": 632
+  },
+  {
+    "Key": "EnergyRefillDelay",
+    "Value": 180
+  },
+  {
+    "Key": "EnergyPriceResetDelay",
+    "Value": 86400
+  },
+  {
+    "Key": "EventEnergyRefillDelay",
+    "Value": 180
+  },
+  {
+    "Key": "EventEnergyPriceResetDelay",
+    "Value": 43200
+  },
+  {
+    "Key": "EnergyPriceAddPercent",
+    "Value": 70
+  },
+  {
+    "Key": "MaxStepEnergyPrice",
+    "Value": 2
+  },
+  {
+    "Key": "DelayToClaimFreeEnergy",
+    "Value": 7200
+  },
+  {
+    "Key": "StartLevelEventGame",
+    "Value": 7
+  },
+  {
+    "Key": "MergeHintMinimalEffectiveness",
+    "Value": 50
+  },
+  {
+    "Key": "MergeHintMinimalLevel",
+    "Value": 4
+  },
+  {
+    "Key": "EventLastChanceDelay",
+    "Value": 300
+  },
+  {
+    "Key": "StartLevelAD",
+    "Value": 6
+  },
+  {
+    "Key": "StartDelayFireflyAD",
+    "Value": 180
+  },
+  {
+    "Key": "AdBuildingMinTime",
+    "Value": 120
+  },
+  {
+    "Key": "AdBuildingMaxTime",
+    "Value": 10800
+  },
+  {
+    "Key": "AdBuildingSkipTime",
+    "Value": 900
+  },
+  {
+    "Key": "FBConnectReward",
+    "Value": 200
+  },
+  {
+    "Key": "ReplacePiecesReward",
+    "Value": 150
+  },
+  {
+    "Key": "LotteryEnergyLimitX",
+    "Value": 170
+  },
+  {
+    "Key": "LotteryEnergyLimitY",
+    "Value": 120
+  },
+  {
+    "Key": "LotteryEnergyLimitZ",
+    "Value": 95
+  },
+  {
+    "Key": "ExtraWorkerDelayNormal",
+    "Value": 604800
+  },
+  {
+    "Key": "ExtraWorkerDelayTutorial",
+    "Value": 259200
+  },
+  {
+    "Key": "EmptySearchPercent",
+    "Value": 90
+  },
+  {
+    "Key": "FogFocusDelay",
+    "Value": 1800
+  },
+  {
+    "Key": "EventWorkshopUpdatePrice",
+    "Value": 25
+  },
+  {
+    "Key": "CrystalsToCoins",
+    "Value": 4.28
+  },
+  {
+    "Key": "EnergyToCoins",
+    "Value": 5
+  },
+  {
+    "Key": "InventoryInitialCapacity",
+    "Value": 20
+  },
+  {
+    "Key": "InventoryIncrementSize",
+    "Value": 4
+  },
+  {
+    "Key": "InventoryIncrementPrice",
+    "Value": 100
+  },
+  {
+    "Key": "InventoryIncrementAfterLevel",
+    "Value": 5
+  },
+  {
+    "Key": "InventoryIncrementAdditionalPrice",
+    "Value": 50
+  },
+  {
+    "Key": "TravelButtonLockedByLevel",
+    "Value": 9
+  },
+  {
+    "Key": "LegendaryJackpotChance",
+    "Value": 0.01
+  },
+  {
+    "Key": "LoginRewardCurrency",
+    "Value": "Crystals"
+  },
+  {
+    "Key": "LoginRewardAmount",
+    "Value": 100
+  },
+  {
+    "Key": "FTUELegendaryJackpotCount",
+    "Value": 3
+  },
+  {
+    "Key": "MinLastDurationForDynamicOffer",
+    "Value": 0
+  },
+  {
+    "Key": "MaxZooLevel",
+    "Value": 60
+  },
+  {
+    "Key": "ZooLevelForUnlockTrade",
+    "Value": 8
+  },
+  {
+    "Key": "FspAmountForUnlockTrade",
+    "Value": 1
+  },
+  {
+    "Key": "PiecesTransferInventoryInitialCapacity",
+    "Value": 8
+  },
+  {
+    "Key": "PiecesTransferInventoryIncrementSize",
+    "Value": 4
+  },
+  {
+    "Key": "PiecesTransferInventoryMaxCapacity",
+    "Value": 20
+  },
+  {
+    "Key": "PiecesTransferAddingSlotLowPrice",
+    "Value": 150
+  },
+  {
+    "Key": "PiecesTransferAddingSlotAveragePrice",
+    "Value": 300
+  },
+  {
+    "Key": "PiecesTransferAddingSlotHighPrice",
+    "Value": 500
+  },
+  {
+    "Key": "PiecesTransferDeliveryTime",
+    "Value": 7200
+  },
+  {
+    "Key": "SmallGoldenTicketPrice",
+    "Value": 500
+  },
+  {
+    "Key": "MiddleGoldenTicketPrice",
+    "Value": 600
+  },
+  {
+    "Key": "LongGoldenTicketPrice",
+    "Value": 750
+  },
+  {
+    "Key": "ZooVipIslandLevelFirst",
+    "Value": 5
+  },
+  {
+    "Key": "ZooVipIslandLevelSecond",
+    "Value": 10
+  },
+  {
+    "Key": "ZooCraftStartLevel",
+    "Value": 6
+  }
+]

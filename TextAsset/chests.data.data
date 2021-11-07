@@ -1,0 +1,1365 @@
+[
+  {
+    "Uid": "CH_NPC",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 8,
+      "Max": 9
+    },
+    "PieceAmount": 2,
+    "PieceWeights": [
+      {
+        "Uid": "Soft1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 2
+      }
+    ]
+  },
+  {
+    "Uid": "CH_Free",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 1,
+      "Max": 3
+    },
+    "ResourcesAmount": {
+      "Min": 1,
+      "Max": 3
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Soft1",
+        "Weight": 12
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 8
+      }
+    ]
+  },
+  {
+    "Uid": "Z_SK_Free",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 8,
+    "PieceWeights": [
+      {
+        "Uid": "Z_PR_A1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "SN_CH_Free",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Seasonal_A1",
+        "Weight": 12
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "SN_CH_Rich",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 12,
+    "PieceWeights": [
+      {
+        "Uid": "Seasonal_A3",
+        "Weight": 5
+      },
+      {
+        "Uid": "Seasonal_A4",
+        "Weight": 4
+      },
+      {
+        "Uid": "Seasonal_A5",
+        "Weight": 3
+      },
+      {
+        "Uid": "Seasonal_A6",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "SN_CH_A",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 6,
+    "PieceWeights": [
+      {
+        "Uid": "Seasonal_A1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Seasonal_A2",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "SN_CH_A",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 10,
+    "PieceWeights": [
+      {
+        "Uid": "Seasonal_A1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Seasonal_A2",
+        "Weight": 4
+      },
+      {
+        "Uid": "Seasonal_A3",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "SN_CH_A",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 15,
+    "PieceWeights": [
+      {
+        "Uid": "Seasonal_A1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Seasonal_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Seasonal_A3",
+        "Weight": 5
+      },
+      {
+        "Uid": "Seasonal_A4",
+        "Weight": 3
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "SK_PR",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 3,
+      "Max": 4
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 0
+  },
+  {
+    "Uid": "SK_PR",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 7,
+      "Max": 8
+    },
+    "ResourcesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 0
+  },
+  {
+    "Uid": "SK_PR",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 10,
+      "Max": 12
+    },
+    "ResourcesAmount": {
+      "Min": 3,
+      "Max": 4
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 0
+  },
+  {
+    "Uid": "CH_TR",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_TR",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 8,
+    "PieceWeights": [
+      {
+        "Uid": "Hard2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft3",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_TR",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 12,
+    "PieceWeights": [
+      {
+        "Uid": "Hard3",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_GN",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 4,
+    "PieceWeights": [
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_GN",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 8,
+    "PieceWeights": [
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 5
+      },
+      {
+        "Uid": "Dynamic_A3",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_GN",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 12,
+    "PieceWeights": [
+      {
+        "Uid": "Dynamic_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Dynamic_A2",
+        "Weight": 5
+      },
+      {
+        "Uid": "Dynamic_A3",
+        "Weight": 5
+      }
+    ]
+  },
+  {
+    "Uid": "CH_H2_1",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Infinity1",
+        "Weight": 1
+      },
+      {
+        "Uid": "TEMP_4",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard3",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft5",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_H2_2",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "TEMP_5",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft4",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft5",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard3",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_H3_1",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Infinity1",
+        "Weight": 1
+      },
+      {
+        "Uid": "TEMP_7",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard3",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft5",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_H3_2",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "TEMP_8",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft4",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft5",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard3",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_A",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "PieceAmount": 3,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_A",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 4
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_A",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "ResourcesAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 10,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 5
+      },
+      {
+        "Uid": "Main_A3",
+        "Weight": 5
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_B",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "PieceAmount": 3,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_B",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 2
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Main_A3",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "CH_B",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 1
+    },
+    "CharactersAmount": {
+      "Min": 1,
+      "Max": 2
+    },
+    "PieceAmount": 10,
+    "PieceWeights": [
+      {
+        "Uid": "Main_A1",
+        "Weight": 8
+      },
+      {
+        "Uid": "Main_A2",
+        "Weight": 10
+      },
+      {
+        "Uid": "Main_A3",
+        "Weight": 10
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Boost_WR1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_A",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_A",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 7,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Event_A3",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_A",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 12,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Event_A3",
+        "Weight": 7
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_B",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_B",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 8,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Event_A3",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_B",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 12,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Event_A3",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_C",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_C",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 7,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Event_A2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Spawn_C1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_C",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 12,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Event_A2",
+        "Weight": 7
+      },
+      {
+        "Uid": "Spawn_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_C2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_D",
+    "Index": 1,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 5,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_D",
+    "Index": 2,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 8,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Event_A2",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      }
+    ]
+  },
+  {
+    "Uid": "E_CH_D",
+    "Index": 3,
+    "ProductionAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "CharactersAmount": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PieceAmount": 12,
+    "PieceWeights": [
+      {
+        "Uid": "Event_A1",
+        "Weight": 3
+      },
+      {
+        "Uid": "Event_A2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_B1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Spawn_B2",
+        "Weight": 3
+      },
+      {
+        "Uid": "Spawn_D1",
+        "Weight": 2
+      },
+      {
+        "Uid": "Spawn_D2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Soft2",
+        "Weight": 1
+      },
+      {
+        "Uid": "Hard1",
+        "Weight": 1
+      },
+      {
+        "Uid": "Boost_CR1",
+        "Weight": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,2177 @@
+[
+  {
+    "Id": 253,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message5"
+      }
+    ]
+  },
+  {
+    "Id": 412,
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.306.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.306.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.306.message3"
+      }
+    ]
+  },
+  {
+    "Id": 429,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.385.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.385.message2"
+      }
+    ]
+  },
+  {
+    "Id": 430,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.386.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.386.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.386.message3"
+      }
+    ]
+  },
+  {
+    "Id": 439,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.388.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.388.message2"
+      }
+    ]
+  },
+  {
+    "Id": 440,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.se_easter_1.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.se_easter_1.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.se_easter_1.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.se_easter_1.message4"
+      }
+    ]
+  },
+  {
+    "Id": 441,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.228.message5"
+      }
+    ]
+  },
+  {
+    "Id": 442,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_gardengnomes_1.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_gardengnomes_1.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_gardengnomes_1.message3"
+      }
+    ]
+  },
+  {
+    "Id": 443,
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Mermaid",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_1.message1"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_1.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_1.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_1.message4"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_1.message5"
+      }
+    ]
+  },
+  {
+    "Id": 446,
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.se_WishingWell_1.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_WishingWell_1.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.se_WishingWell_1.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.se_WishingWell_1.message4"
+      }
+    ]
+  },
+  {
+    "Id": 447,
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.se_AutumnWinds_1.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.se_AutumnWinds_1.message2"
+      }
+    ]
+  },
+  {
+    "Id": 448,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.mana3.msg1"
+      }
+    ]
+  },
+  {
+    "Id": 449,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.mana4.msg1"
+      }
+    ]
+  },
+  {
+    "Id": 450,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.mana5.msg1"
+      }
+    ]
+  },
+  {
+    "Id": 451,
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.mana6.msg1"
+      }
+    ]
+  },
+  {
+    "Id": "he2",
+    "ConversationCharacters": {
+      "LeftInner": "Claus",
+      "RightInner": "SleepingBeauty",
+      "RightOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas2.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas2.message2"
+      },
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas2.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas2.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas2.message5"
+      }
+    ]
+  },
+  {
+    "Id": "he3",
+    "ConversationCharacters": {
+      "LeftInner": "Claus"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas3.message1"
+      },
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas3.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he4",
+    "ConversationCharacters": {
+      "RightInner": "Claus"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas4.message1"
+      }
+    ]
+  },
+  {
+    "Id": "he5",
+    "ConversationCharacters": {
+      "LeftInner": "Claus",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas5.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas5.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas5.message3"
+      },
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas5.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he6",
+    "ConversationCharacters": {
+      "LeftInner": "Claus"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas6.message1"
+      },
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas6.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he7",
+    "ConversationCharacters": {
+      "LeftInner": "Claus"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas7.message1"
+      }
+    ]
+  },
+  {
+    "Id": "he8",
+    "ConversationCharacters": {
+      "LeftInner": "Claus",
+      "RightOuter": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Claus",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas8.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas8.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.christmas8.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_1",
+    "ConversationCharacters": {
+      "LeftInner": "Cupid",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine1.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine1.message2"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine1.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine1.message4"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine1.message5"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_2",
+    "ConversationCharacters": {
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine2.message1"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_3",
+    "ConversationCharacters": {
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine3.message1"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine3.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_4",
+    "ConversationCharacters": {
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine4.message1"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_1",
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine5.message1"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine5.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine5.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_2",
+    "ConversationCharacters": {
+      "RightOuter": "SleepingBeauty",
+      "RightInner": "PussInBoots",
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine6.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine6.message2"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine6.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine6.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine6.message5"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_3",
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine7.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine7.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine7.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_4",
+    "ConversationCharacters": {
+      "RightInner": "SleepingBeauty",
+      "LeftInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine8.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine8.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine8.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_5",
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine9.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine9.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine9.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_6",
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine10.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine10.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine10.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine10.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_7",
+    "ConversationCharacters": {
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine11.message1"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine11.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_8",
+    "ConversationCharacters": {
+      "RightInner": "SleepingBeauty",
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine12.message1"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine12.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine12.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_lvl_9",
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine13.message1"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine13.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine13.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_5",
+    "ConversationCharacters": {
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine14.message1"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine14.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_valentine_6",
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "Cupid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine15.message1"
+      },
+      {
+        "CharacterId": "Cupid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Valentine15.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_1",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "SleepingBeauty",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary1.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary1.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary1.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary1.message4"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary1.message5"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_2",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary2.message1"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_3",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary3.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary3.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_4",
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary4.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary4.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary4.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_1",
+    "ConversationCharacters": {
+      "LeftOuter": "Buck",
+      "RightInner": "SleepingBeauty",
+      "LeftInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary5.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary5.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary5.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary5.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_2",
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary6.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary6.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary6.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_3",
+    "ConversationCharacters": {
+      "RightInner": "PussInBoots",
+      "LeftInner": "Chuck",
+      "RightOuter": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary7.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary7.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary7.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_4",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary8.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary8.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_5",
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Chuck",
+      "LeftOuter": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary9.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary9.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary9.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_6",
+    "ConversationCharacters": {
+      "RightInner": "Mermaid",
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary10.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary10.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary10.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_7",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary11.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary11.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary11.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_8",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary12.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary12.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary12.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_lvl_9",
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary13.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary13.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary13.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_5",
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary14.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary14.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary14.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary14.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_anniversary_6",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary15.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary15.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary15.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Anniversary15.message4"
+      }
+    ]
+  },
+  {
+    "Id": "extra2",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.2.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.2.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.2.message3"
+      }
+    ]
+  },
+  {
+    "Id": "se_summer_2",
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.se_summer_2.message1"
+      }
+    ]
+  },
+  {
+    "Id": "se_autumn_2",
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.se_autumn_2.message1"
+      }
+    ]
+  },
+  {
+    "Id": "se_winter_2",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.se_winter_2.message1"
+      }
+    ]
+  },
+  {
+    "Id": "se_easter_2",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.se_easter_2.message1"
+      }
+    ]
+  },
+  {
+    "Id": "se_spring_2",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.2.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.2.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.extra.2.message3"
+      }
+    ]
+  },
+  {
+    "Id": "se_gardengnomes_2",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_gardengnomes_2.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_gardengnomes_2.message2"
+      }
+    ]
+  },
+  {
+    "Id": "se_tropicalparty_2",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "PaulBunyan",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_2.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_2.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_2.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_tropicalparty_2.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_1",
+    "ConversationCharacters": {
+      "LeftInner": "Puck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer1.message1"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer1.message2"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer1.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_2",
+    "ConversationCharacters": {
+      "LeftInner": "Puck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer2.message1"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer2.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_3",
+    "ConversationCharacters": {
+      "LeftInner": "Puck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer3.message1"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer3.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_4",
+    "ConversationCharacters": {
+      "LeftInner": "Puck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer4.message1"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer4.message2"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer4.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_1",
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer5.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer5.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer5.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_2",
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer6.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer6.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer6.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_3",
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer7.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer7.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer7.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer7.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_4",
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer8.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer8.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer8.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_5",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer9.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer9.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_6",
+    "ConversationCharacters": {
+      "LeftInner": "Mermaid",
+      "RightInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer10.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer10.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer10.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_7",
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer11.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer11.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer11.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_8",
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer12.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer12.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_lvl_9",
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Puck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer13.message1"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer13.message2"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer13.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_5",
+    "ConversationCharacters": {
+      "LeftInner": "Puck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer14.message1"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer14.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_midsummer_6",
+    "ConversationCharacters": {
+      "LeftInner": "Puck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer15.message1"
+      },
+      {
+        "CharacterId": "Puck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.Midsummer15.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_1",
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair1.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair1.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair1.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair1.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_2",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair2.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair2.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair2.message3"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair2.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_1",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan",
+      "RightOuter": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair3.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair3.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair3.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair3.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_2",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "PaulBunyan",
+      "RightOuter": "PussInBoots",
+      "LeftOuter": "Mermaid"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair4.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair4.message2"
+      },
+      {
+        "CharacterId": "Mermaid",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair4.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair4.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_3",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair5.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair5.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair5.message3"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair5.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_4",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair6.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair6.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair6.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_5",
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "Chuck",
+      "RightOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair7.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair7.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair7.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_6",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair8.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair8.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair8.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair8.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_7",
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair9.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair9.message2"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair9.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_8",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair10.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair10.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair10.message3"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_lvl_9",
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan",
+      "RightInner": "PussInBoots"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair11.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair11.message2"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair11.message3"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair11.message4"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair11.message5"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_3",
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair12.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair12.message2"
+      }
+    ]
+  },
+  {
+    "Id": "he_summerfair_4",
+    "ConversationCharacters": {
+      "RightOuter": "PaulBunyan",
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair13.message1"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair13.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair13.message3"
+      },
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.summerfair13.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_halloween_1",
+    "ConversationCharacters": {
+      "LeftInner": "Dracula",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Dracula",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.halloween1.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.halloween1.message2"
+      },
+      {
+        "CharacterId": "Dracula",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.halloween1.message3"
+      },
+      {
+        "CharacterId": "Dracula",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.halloween1.message4"
+      }
+    ]
+  },
+  {
+    "Id": "he_halloween_2",
+    "ConversationCharacters": {
+      "RightInner": "Buck",
+      "LeftInner": "Dracula",
+      "RightOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.halloween2.message1"
+      },
+      {
+        "CharacterId": "Dracula",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.halloween2.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.holiday.halloween2.message3"
+      }
+    ]
+  },
+  {
+    "Id": "se_wishingwell_2",
+    "ConversationCharacters": {
+      "LeftInner": "PussInBoots",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_WishingWell_2.message1"
+      },
+      {
+        "CharacterId": "PussInBoots",
+        "Emotion": "Normal",
+        "Message": "conversation.se_WishingWell_2.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.se_WishingWell_2.message3"
+      }
+    ]
+  },
+  {
+    "Id": "onboarding1",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.Onboarding1"
+      },
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.Onboarding1.1"
+      }
+    ]
+  },
+  {
+    "Id": "onboarding2",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.Onboarding2"
+      }
+    ]
+  },
+  {
+    "Id": "onboarding3",
+    "ConversationCharacters": {
+      "LeftInner": "Heidi"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Heidi",
+        "Emotion": "Normal",
+        "Message": "tutorial.conversation.Onboarding3"
+      }
+    ]
+  },
+  {
+    "Id": "se_autumnwinds_2",
+    "ConversationCharacters": {
+      "LeftInner": "PaulBunyan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "PaulBunyan",
+        "Emotion": "Normal",
+        "Message": "conversation.se_AutumnWinds_2.message1"
+      }
+    ]
+  }
+]

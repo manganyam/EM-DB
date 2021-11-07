@@ -1,0 +1,2037 @@
+[
+  {
+    "Uid": "RC_A",
+    "Delay": 45,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 2
+      }
+    ],
+    "Level": {
+      "Min": 4,
+      "Max": 5
+    },
+    "Seasons": [
+      "beginner"
+    ]
+  },
+  {
+    "Uid": "RC_B",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_B5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 5
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 8
+    },
+    "Seasons": [
+      "beginner"
+    ]
+  },
+  {
+    "Uid": "RC_C",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_D5",
+        "Amount": 9
+      },
+      {
+        "Currency": "PR_A5",
+        "Amount": 7
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 12
+    },
+    "Seasons": [
+      "beginner"
+    ]
+  },
+  {
+    "Uid": "RC_D",
+    "Delay": 300,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 2
+      }
+    ],
+    "Level": {
+      "Min": 6,
+      "Max": 10
+    },
+    "Seasons": [
+      "beginner",
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_E",
+    "Delay": 90,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 2
+      }
+    ],
+    "Level": {
+      "Min": 4,
+      "Max": 9
+    },
+    "Seasons": [
+      "beginner",
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_F",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_D5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_E5",
+        "Amount": 5
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall",
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_G",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_B5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 7,
+      "Max": 10
+    },
+    "Seasons": [
+      "beginner"
+    ]
+  },
+  {
+    "Uid": "RC_H",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_B5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_A5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 12
+    },
+    "Seasons": [
+      "beginner",
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_I",
+    "Delay": 10,
+    "Prices": [
+      {
+        "Currency": "PR_C5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 2
+      }
+    ],
+    "Level": {
+      "Min": 2,
+      "Max": 3
+    },
+    "Seasons": [
+      "beginner"
+    ]
+  },
+  {
+    "Uid": "RC_J",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 2
+      }
+    ],
+    "Level": {
+      "Min": 5,
+      "Max": 11
+    },
+    "Seasons": [
+      "beginner",
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_K",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_J5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_I5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_A5",
+        "Amount": 5
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_L",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_M",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_K5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_E5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_D5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_N",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_C5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 7
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 11
+    },
+    "Seasons": [
+      "beginner"
+    ]
+  },
+  {
+    "Uid": "RC_O",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_L5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 7
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_P",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_D5",
+        "Amount": 8
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 9
+    },
+    "Seasons": [
+      "beginner"
+    ]
+  },
+  {
+    "Uid": "RC_Q",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_D5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 2
+      }
+    ],
+    "Level": {
+      "Min": 9
+    },
+    "Seasons": [
+      "beginner",
+      "winter",
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_R",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 8
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 1
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 8
+    },
+    "Seasons": [
+      "beginner"
+    ]
+  },
+  {
+    "Uid": "RC_S",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_K5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_E5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_T",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 7
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 6
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_U",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_E5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_D5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_V",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_B5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_H5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_W",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_F5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 2
+      }
+    ],
+    "Seasons": [
+      "summer",
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_X",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_G5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_I5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_A5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_Y",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_H5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 6
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_Z",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_H5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 5
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_AA",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_B5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 2
+      }
+    ],
+    "Level": {
+      "Min": 7,
+      "Max": 11
+    },
+    "Seasons": [
+      "beginner",
+      "summer",
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AB",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_E5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_D5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter",
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AC",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_D5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 5
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 10
+    },
+    "Seasons": [
+      "beginner",
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AD",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_K5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_E5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AE",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_E5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_D5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_L5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_AF",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_F5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_K5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AG",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_G5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_AH",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_D5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_E5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter",
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AI",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_D5",
+        "Amount": 1
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_K5",
+        "Amount": 5
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AJ",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 1
+      },
+      {
+        "Currency": "PR_H5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_AK",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_F5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_K5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AL",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_B5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_E5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_K5",
+        "Amount": 5
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AM",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_L5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_AN",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_G5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_AO",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_E5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 7
+      },
+      {
+        "Currency": "PR_L5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_AP",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_E5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_K5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_AQ",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_H5",
+        "Amount": 8
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_AR",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_G5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_AS",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_G5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_AT",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_L5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_AU",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_G5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_I5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_AV",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_A5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_H5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_AW",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_A5",
+        "Amount": 7
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring",
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_AX",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_A5",
+        "Amount": 5
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring",
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_AY",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_H5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_AZ",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_L5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_BA",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_E5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 2
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_BB",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_E5",
+        "Amount": 5
+      },
+      {
+        "Currency": "PR_D5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_BC",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_A5",
+        "Amount": 1
+      },
+      {
+        "Currency": "PR_F5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 6
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_BD",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_H5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 2
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_BE",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_G5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 1
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring"
+    ]
+  },
+  {
+    "Uid": "RC_BF",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_I5",
+        "Amount": 1
+      },
+      {
+        "Currency": "PR_A5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring",
+      "summer"
+    ]
+  },
+  {
+    "Uid": "RC_BG",
+    "Delay": 1800,
+    "Prices": [
+      {
+        "Currency": "PR_F5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_B5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_D5",
+        "Amount": 6
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "fall"
+    ]
+  },
+  {
+    "Uid": "RC_BH",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_L5",
+        "Amount": 4
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 1
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_BI",
+    "Delay": 1200,
+    "Prices": [
+      {
+        "Currency": "PR_D5",
+        "Amount": 6
+      },
+      {
+        "Currency": "PR_C5",
+        "Amount": 3
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft2",
+        "Amount": 1
+      }
+    ],
+    "Level": {
+      "Min": 10
+    },
+    "Seasons": [
+      "beginner",
+      "winter"
+    ]
+  },
+  {
+    "Uid": "RC_BJ",
+    "Delay": 900,
+    "Prices": [
+      {
+        "Currency": "PR_C5",
+        "Amount": 3
+      },
+      {
+        "Currency": "PR_J5",
+        "Amount": 4
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "Mana1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Soft1",
+        "Amount": 1
+      }
+    ],
+    "Seasons": [
+      "spring",
+      "winter"
+    ]
+  },
+  {
+    "Uid": "H2_RC_A",
+    "Delay": 2400,
+    "Prices": [
+      {
+        "Currency": "H2_PR_A5",
+        "Amount": 10
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "HLD2_RES",
+        "Amount": 5
+      }
+    ],
+    "Seasons": [
+      "winter",
+      "spring",
+      "summer",
+      "fall",
+      "beginner"
+    ],
+    "IsEvent": true
+  },
+  {
+    "Uid": "H3_RC_A",
+    "Delay": 2400,
+    "Prices": [
+      {
+        "Currency": "H3_PR_A5",
+        "Amount": 10
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "HLD3_RES",
+        "Amount": 5
+      }
+    ],
+    "Seasons": [
+      "winter",
+      "spring",
+      "summer",
+      "fall",
+      "beginner"
+    ],
+    "IsEvent": true
+  },
+  {
+    "Uid": "H4_RC_A",
+    "Delay": 2400,
+    "Prices": [
+      {
+        "Currency": "H4_PR_A5",
+        "Amount": 10
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "HLD4_RES",
+        "Amount": 5
+      }
+    ],
+    "Seasons": [
+      "winter",
+      "spring",
+      "summer",
+      "fall",
+      "beginner"
+    ],
+    "IsEvent": true
+  },
+  {
+    "Uid": "H5_RC_A",
+    "Delay": 2400,
+    "Prices": [
+      {
+        "Currency": "H5_PR_A5",
+        "Amount": 10
+      }
+    ],
+    "Rewards": [
+      {
+        "Currency": "HLD5_RES",
+        "Amount": 5
+      }
+    ],
+    "Seasons": [
+      "winter",
+      "spring",
+      "summer",
+      "fall",
+      "beginner"
+    ],
+    "IsEvent": true
+  }
+]

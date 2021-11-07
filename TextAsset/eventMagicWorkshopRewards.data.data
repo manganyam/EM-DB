@@ -1,0 +1,616 @@
+[
+  {
+    "Uid": "Dynamic_A4",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 50
+      }
+    ],
+    "Delay": 1800
+  },
+  {
+    "Uid": "Dynamic_A4",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 50
+      }
+    ],
+    "Delay": 1800
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 100
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 100
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 3
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 100
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A3",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 150
+      }
+    ],
+    "Delay": 3600
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A3",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 155
+      }
+    ],
+    "Delay": 3600
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 5
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 200
+      }
+    ],
+    "Delay": 1800
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 5
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 3
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 305
+      }
+    ],
+    "Delay": 3600
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 305
+      }
+    ],
+    "Delay": 3600
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 400
+      }
+    ],
+    "Delay": 1800
+  },
+  {
+    "Uid": "Dynamic_A5",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 400
+      }
+    ],
+    "Delay": 1800
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 10
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 200
+      }
+    ],
+    "Delay": 10800
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 4
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 200
+      }
+    ],
+    "Delay": 14400
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A3",
+        "Amount": 3
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 250
+      }
+    ],
+    "Delay": 10800
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 4
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 250
+      }
+    ],
+    "Delay": 18000
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 5
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 250
+      }
+    ],
+    "Delay": 18000
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 3
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 250
+      }
+    ],
+    "Delay": 16200
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 305
+      }
+    ],
+    "Delay": 18000
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 400
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 450
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 5
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 450
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 5
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 500
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Dynamic_A6",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A3",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 500
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Boost_CR3",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 3
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 15
+      }
+    ],
+    "Delay": 9000
+  },
+  {
+    "Uid": "Boost_CR3",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 3
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 75
+      }
+    ],
+    "Delay": 5400
+  },
+  {
+    "Uid": "Boost_CR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 7
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 250
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "Boost_WR4",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A3",
+        "Amount": 1
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 25
+      }
+    ],
+    "Delay": 10800
+  },
+  {
+    "Uid": "Boost_WR4",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 50
+      }
+    ],
+    "Delay": 3600
+  },
+  {
+    "Uid": "Boost_WR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 3
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 125
+      }
+    ],
+    "Delay": 18000
+  },
+  {
+    "Uid": "Boost_WR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 3
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 305
+      }
+    ],
+    "Delay": 3600
+  },
+  {
+    "Uid": "CH1_TR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 50
+      }
+    ],
+    "Delay": 1800
+  },
+  {
+    "Uid": "CH1_TR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 3
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 250
+      }
+    ],
+    "Delay": 5400
+  },
+  {
+    "Uid": "CH2_TR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 3
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 200
+      }
+    ],
+    "Delay": 5400
+  },
+  {
+    "Uid": "CH2_TR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 4
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 250
+      }
+    ],
+    "Delay": 18000
+  },
+  {
+    "Uid": "CH3_TR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 1
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 5
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 500
+      }
+    ],
+    "Delay": 7200
+  },
+  {
+    "Uid": "CH3_TR",
+    "CreatePrices": [
+      {
+        "Currency": "Dynamic_A1",
+        "Amount": 2
+      },
+      {
+        "Currency": "Dynamic_A2",
+        "Amount": 2
+      },
+      {
+        "Currency": "Mana",
+        "Amount": 550
+      }
+    ],
+    "Delay": 7200
+  }
+]

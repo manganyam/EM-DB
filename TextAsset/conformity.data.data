@@ -1,0 +1,1574 @@
+[
+  {
+    "Uid": "CH_Free",
+    "Template": "CH_Free"
+  },
+  {
+    "Uid": "Z_SK_PR_Free",
+    "Template": "Z_SK_Free"
+  },
+  {
+    "Uid": "SN_CH_A_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_B_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_B_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "SN_CH_C_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_C_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "SN_CH_D_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_D_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "SN_CH_E_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_E_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "SN_CH_F_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_F_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "SN_CH_G_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_G_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "SN_CH_H_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_H_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "SN_CH_I_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_I_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "SN_CH_J_Free",
+    "Template": "SN_CH_Free"
+  },
+  {
+    "Uid": "SN_CH_J_Rich",
+    "Template": "SN_CH_Rich"
+  },
+  {
+    "Uid": "CH_NPC",
+    "Template": "CH_NPC"
+  },
+  {
+    "Uid": "SK1_PR",
+    "Template": "SK_PR"
+  },
+  {
+    "Uid": "CH1_A",
+    "Template": "CH_A"
+  },
+  {
+    "Uid": "CH1_B",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_C",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_D",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_E",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_F",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_G",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_H",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_I",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_J",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_K",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_L",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_M",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_N",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_O",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_P",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_Q",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_R",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_S",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_T",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_U",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_V",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_W",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_X",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_Y",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_Z",
+    "Template": "CH_B"
+  },
+  {
+    "Uid": "CH1_AA",
+    "Template": "CH_A"
+  },
+  {
+    "Uid": "E1_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E1_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E2_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E2_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E3_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E3_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E4_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E4_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E5_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E5_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E6_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E6_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E7_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E7_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E8_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E8_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E9_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E9_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E10_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E10_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E11_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E11_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E12_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E12_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E13_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E13_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E14_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E14_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E15_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E15_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E16_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E16_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "E17_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "E17_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "H1_CH1_A",
+    "Template": "E_CH_C"
+  },
+  {
+    "Uid": "H1_CH1_B",
+    "Template": "E_CH_D"
+  },
+  {
+    "Uid": "H2_CH1_A",
+    "Template": "E_CH_A"
+  },
+  {
+    "Uid": "H2_CH1_B",
+    "Template": "E_CH_B"
+  },
+  {
+    "Uid": "H2_CH1_C",
+    "Template": "CH_H2_1"
+  },
+  {
+    "Uid": "H2_CH2_C",
+    "Template": "CH_H2_2"
+  },
+  {
+    "Uid": "H3_CH1_A",
+    "Template": "E_CH_A"
+  },
+  {
+    "Uid": "H3_CH1_B",
+    "Template": "E_CH_B"
+  },
+  {
+    "Uid": "H3_CH1_C",
+    "Template": "CH_H3_1"
+  },
+  {
+    "Uid": "H3_CH2_C",
+    "Template": "CH_H3_2"
+  },
+  {
+    "Uid": "H4_CH1_A",
+    "Template": "E_CH_A"
+  },
+  {
+    "Uid": "H4_CH1_B",
+    "Template": "E_CH_B"
+  },
+  {
+    "Uid": "H5_CH1_A",
+    "Template": "E_CH_A"
+  },
+  {
+    "Uid": "H5_CH1_B",
+    "Template": "E_CH_B"
+  },
+  {
+    "Uid": "H6_CH1_A",
+    "Template": "E_CH_A"
+  },
+  {
+    "Uid": "H6_CH1_B",
+    "Template": "E_CH_B"
+  },
+  {
+    "Uid": "SN_CH1_A",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_B",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_C",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_D",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_E",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_F",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_G",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_H",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_I",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "SN_CH1_J",
+    "Template": "SN_CH_A"
+  },
+  {
+    "Uid": "CH1_TR",
+    "Template": "CH_TR"
+  },
+  {
+    "Uid": "CH1_GN",
+    "Template": "CH_GN"
+  },
+  {
+    "Uid": "MN_A1",
+    "Template": "MN_A"
+  },
+  {
+    "Uid": "MN_B1",
+    "Template": "MN_A"
+  },
+  {
+    "Uid": "MN_C1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_D1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_E1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_F1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_G1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_H1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_I1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_J1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_K1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_L1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_M1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_N1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_O1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_P1",
+    "Template": "MN_A"
+  },
+  {
+    "Uid": "MN_Q1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_R1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_S1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_T1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_U1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_V1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_W1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_X1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_Y1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_Z1",
+    "Template": "MN_B"
+  },
+  {
+    "Uid": "MN_AA1",
+    "Template": "MN_A"
+  },
+  {
+    "Uid": "E_SP_A1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_B1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_C1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_D1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_E1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_F1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_G1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_H1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_I1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_J1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_K1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_L1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_M1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_N1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_O1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_P1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_Q1",
+    "Template": "Spawn_A"
+  },
+  {
+    "Uid": "E_SP_R1",
+    "Template": "Spawn_B"
+  },
+  {
+    "Uid": "E_SP_S1",
+    "Template": "Spawn_C"
+  },
+  {
+    "Uid": "E_SP_T1",
+    "Template": "Spawn_D"
+  },
+  {
+    "Uid": "E_SP_U1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_V1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_W1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_X1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_Y1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_Z1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_AA1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_AB1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_AC1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_AD1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_AE1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_AF1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_AG1",
+    "Template": "Spawn_A"
+  },
+  {
+    "Uid": "E_SP_AH1",
+    "Template": "Spawn_B"
+  },
+  {
+    "Uid": "E_SP_AI1",
+    "Template": "Spawn_C"
+  },
+  {
+    "Uid": "E_SP_AJ1",
+    "Template": "Spawn_D"
+  },
+  {
+    "Uid": "E_SP_AK1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_AL1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_AM1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_AN1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_AO1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_AP1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_AQ1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_AR1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_AS1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_AT1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_AU1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_AV1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_AW1",
+    "Template": "Spawn_A"
+  },
+  {
+    "Uid": "E_SP_AX1",
+    "Template": "Spawn_B"
+  },
+  {
+    "Uid": "E_SP_AY1",
+    "Template": "Spawn_C"
+  },
+  {
+    "Uid": "E_SP_AZ1",
+    "Template": "Spawn_D"
+  },
+  {
+    "Uid": "E_SP_BA1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_BB1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_BC1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_BD1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_BE1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_BF1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_BG1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_BH1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_BI1",
+    "Template": "Spawn_A"
+  },
+  {
+    "Uid": "E_SP_BJ1",
+    "Template": "Spawn_B"
+  },
+  {
+    "Uid": "E_SP_BK1",
+    "Template": "Spawn_C"
+  },
+  {
+    "Uid": "E_SP_BL1",
+    "Template": "Spawn_D"
+  },
+  {
+    "Uid": "E_SP_BM1",
+    "Template": "Spawn_A"
+  },
+  {
+    "Uid": "E_SP_BN1",
+    "Template": "Spawn_B"
+  },
+  {
+    "Uid": "E_SP_BO1",
+    "Template": "Spawn_C"
+  },
+  {
+    "Uid": "E_SP_BP1",
+    "Template": "Spawn_D"
+  },
+  {
+    "Uid": "E_SP_BQ1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_BR1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_BS1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_BT1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_BU1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_BV1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_BW1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_BX1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_BY1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_BZ1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_CA1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_CB1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_CC1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_CD1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_CE1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_CF1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_CG1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_CH1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_CI1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_CJ1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "E_SP_CK1",
+    "Template": "Spawn_E"
+  },
+  {
+    "Uid": "E_SP_CL1",
+    "Template": "Spawn_F"
+  },
+  {
+    "Uid": "E_SP_CM1",
+    "Template": "Spawn_J"
+  },
+  {
+    "Uid": "E_SP_CN1",
+    "Template": "Spawn_H"
+  },
+  {
+    "Uid": "AM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "BM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "CM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "DM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "EM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "FM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "GM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "HM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "IM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "JM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "KM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "LM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "MM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "NM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "OM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "PM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "QM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "RM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "SM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "TM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "UM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "VM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "WM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "XM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "YM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "ZM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "AAM",
+    "Template": "MK_A"
+  },
+  {
+    "Uid": "OB_PR_A",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_B",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_C",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_D",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_E",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_F",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_G",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_H",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_I",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_J",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_K",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB_PR_L",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "H2_OB_PR_A",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "H3_OB_PR_A",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "H4_OB_PR_A",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "H5_OB_PR_A",
+    "Template": "PR_OB"
+  },
+  {
+    "Uid": "OB1_TT",
+    "Template": "TT_OB"
+  },
+  {
+    "Uid": "OB1_A",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_B",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_C",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_D",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_E",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_F",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_G",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_H",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_I",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_J",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_K",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_L",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_M",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_N",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_O",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_P",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_Q",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_R",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_S",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_T",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_U",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_V",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_W",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_X",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_Y",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_Z",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "OB1_AA",
+    "Template": "OB_A"
+  },
+  {
+    "Uid": "E1_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E1_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E2_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E2_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E3_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E3_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E4_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E4_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E5_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E5_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E6_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E6_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E7_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E7_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E8_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E8_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E9_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E9_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E10_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E10_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E11_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E11_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E12_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E12_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E13_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E13_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E14_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E14_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E15_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E15_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E16_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E16_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "E17_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "E17_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "H1_OB1_A",
+    "Template": "E_OB_A"
+  },
+  {
+    "Uid": "H1_OB1_B",
+    "Template": "E_OB_B"
+  },
+  {
+    "Uid": "H2_OB1_A",
+    "Template": "H_OB_A"
+  },
+  {
+    "Uid": "H2_OB1_B",
+    "Template": "H_OB_B"
+  },
+  {
+    "Uid": "H3_OB1_A",
+    "Template": "H_OB_A"
+  },
+  {
+    "Uid": "H3_OB1_B",
+    "Template": "H_OB_B"
+  },
+  {
+    "Uid": "H4_OB1_A",
+    "Template": "H_OB_A"
+  },
+  {
+    "Uid": "H4_OB1_B",
+    "Template": "H_OB_B"
+  },
+  {
+    "Uid": "H5_OB1_A",
+    "Template": "H_OB_A"
+  },
+  {
+    "Uid": "H5_OB1_B",
+    "Template": "H_OB_B"
+  },
+  {
+    "Uid": "H6_OB1_A",
+    "Template": "H_OB_A"
+  },
+  {
+    "Uid": "H6_OB1_B",
+    "Template": "H_OB_B"
+  },
+  {
+    "Uid": "CP_OB1_A",
+    "Template": "CP_OB_A"
+  },
+  {
+    "Uid": "HL1_A",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_B",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_C",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_D",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_E",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_F",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_G",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_H",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_I",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_J",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_K",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_L",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_M",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_N",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_O",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_P",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_Q",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_R",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_S",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_T",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_U",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_V",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_W",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_X",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_Y",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_Z",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "HL1_AA",
+    "Template": "HL_A"
+  },
+  {
+    "Uid": "PR_A4",
+    "Template": "PR_A"
+  },
+  {
+    "Uid": "PR_B4",
+    "Template": "PR_A"
+  },
+  {
+    "Uid": "PR_C4",
+    "Template": "PR_A"
+  },
+  {
+    "Uid": "PR_D4",
+    "Template": "PR_A"
+  },
+  {
+    "Uid": "PR_E4",
+    "Template": "PR_B"
+  },
+  {
+    "Uid": "PR_F4",
+    "Template": "PR_B"
+  },
+  {
+    "Uid": "PR_G4",
+    "Template": "PR_C"
+  },
+  {
+    "Uid": "PR_H4",
+    "Template": "PR_C"
+  },
+  {
+    "Uid": "PR_I4",
+    "Template": "PR_B"
+  },
+  {
+    "Uid": "PR_J4",
+    "Template": "PR_B"
+  },
+  {
+    "Uid": "PR_K4",
+    "Template": "PR_C"
+  },
+  {
+    "Uid": "PR_L4",
+    "Template": "PR_C"
+  },
+  {
+    "Uid": "Z_PR_A4",
+    "Template": "PR_Z"
+  },
+  {
+    "Uid": "H2_PR_A4",
+    "Template": "PR_A"
+  },
+  {
+    "Uid": "H3_PR_A4",
+    "Template": "PR_A"
+  },
+  {
+    "Uid": "H4_PR_A4",
+    "Template": "PR_A"
+  },
+  {
+    "Uid": "H5_PR_A4",
+    "Template": "PR_A"
+  }
+]
