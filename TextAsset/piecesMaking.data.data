@@ -44,6 +44,10 @@
         "Weight": 1
       }
     ],
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
     "CreatureRewards": [
       {
         "Currency": "Common_A1",
@@ -104,6 +108,10 @@
         "Weight": 1
       }
     ],
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
     "CreatureRewards": [
       {
         "Currency": "Common_A1",
@@ -168,6 +176,10 @@
         "Weight": 1
       }
     ],
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
     "CreatureRewards": [
       {
         "Currency": "Common_A1",
@@ -240,6 +252,10 @@
         "Weight": 1
       }
     ],
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
     "CreatureRewards": [
       {
         "Currency": "Common_A1",
@@ -312,6 +328,10 @@
         "Weight": 1
       }
     ],
+    "ResourcesAmount": {
+      "Min": 0,
+      "Max": 0
+    },
     "CreatureRewards": [
       {
         "Currency": "Common_A1",

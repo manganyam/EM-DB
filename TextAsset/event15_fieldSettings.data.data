@@ -7,18 +7,18 @@
 
   "WaterBorderLeft": 15,
   "WaterBorderRight": 10,
-  "WaterBorderTop": 5,
+  "WaterBorderTop": 10,
   "WaterBorderBottom": 17,
 
-  "WaterCropCornerTopLeft": 45,
+  "WaterCropCornerTopLeft": 40,
   "WaterCropCornerTopRight": 50,
   "WaterCropCornerBottomLeft": 36,
   "WaterCropCornerBottomRight": 26,
 
-  "CameraClampX": 17,
-  "CameraClampY": -24,
-  "CameraClampWidth": 54,
-  "CameraClampHeight": 36,
+  "CameraClampX": 15,
+  "CameraClampY": -20,
+  "CameraClampWidth": 56,
+  "CameraClampHeight": 40,
 
   
   "LayoutAddonsSeed": 4460,

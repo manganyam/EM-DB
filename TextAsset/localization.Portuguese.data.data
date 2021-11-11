@@ -297,9 +297,6 @@
     "window.codex.branch.E4_A": "Monstro do lago Ness"
   },
   {
-    "window.codex.branch.E5_A": "Blue Ox E5_A"
-  },
-  {
     "window.codex.branch.H1_A": "Monstros de halloween"
   },
   {
@@ -543,10 +540,10 @@
     "window.codex.branch.E4_CH_B": "Planalto"
   },
   {
-    "window.codex.branch.E5_CH_A": "E5_CH_A"
+    "window.codex.branch.E5_CH_A": "Feno"
   },
   {
-    "window.codex.branch.E5_CH_B": "E5_CH_B"
+    "window.codex.branch.E5_CH_B": "Madeira"
   },
   {
     "window.codex.branch.H1_CH_A": "Abóbora"
@@ -573,10 +570,10 @@
     "window.codex.branch.E12_CH_B": "Ressurreição"
   },
   {
-    "window.codex.branch.E13_CH_A": "E13_CH_A"
+    "window.codex.branch.E13_CH_A": "Escamoso"
   },
   {
-    "window.codex.branch.E13_CH_B": "E13_CH_B"
+    "window.codex.branch.E13_CH_B": "Masmorra"
   },
   {
     "window.codex.branch.SN_CH_A": "Baús da floração da primavera"
@@ -795,10 +792,10 @@
     "window.market.description.UnicornIsland.event": "Uma esfera de arco-íris! Use-a para criar unicórnios."
   },
   {
-    "window.market.description.BlueoxIsland.event": "Use this to create Blue Oxen."
+    "window.market.description.BlueOxIsland.event": "Use isso para criar o bezerro azul."
   },
   {
-    "window.market.description.ReddragonIsland.event": "Use this to create Red Dragons."
+    "window.market.description.RedDragonIsland.event": "Use isso para criar dragões vermelhos."
   },
   {
     "window.market.description.FluffyIsland.event": "Use para criar mais pelúcias."
@@ -936,10 +933,10 @@
     "window.market.hint.Y": "Partes da fazenda, {0}"
   },
   {
-    "window.market.hint.Z": "Z Pieces, {0}"
+    "window.market.hint.Z": "Peças de pedras mágicas, {0}"
   },
   {
-    "window.market.hint.AA": "Peças do acampamento dos gnomos, {0}"
+    "window.market.hint.AA": "Peças do baú dos gnomos, {0}"
   },
   {
     "window.market.hint.genericChest": "Peças do castelo, {0}"
@@ -1095,6 +1092,9 @@
     "window.storageCheck.title": "Não há espaço livre"
   },
   {
+    "window.storageCheck.cant.save": "Não há espaço suficiente em seu dispositivo para salvar esta foto. Libere um pouco de espaço de armazenamento."
+  },
+  {
     "window.storageCheck.message": "Seu dispositivo tem menos de {0} MB disponíveis. Você pode perder seu progresso sem espaço livre suficiente."
   },
   {
@@ -1146,7 +1146,7 @@
     "message.error.noMagicWands": "Não há varinhas mágicas por perto."
   },
   {
-    "message.error.MakeOrders": "Make orders to get more Wands."
+    "message.error.makeOrders": "Complete pedidos para conseguir mais varinhas."
   },
   {
     "message.error.clickOnBubble": "Complete a ação anterior primeiro."
@@ -1221,10 +1221,10 @@
     "common.button.free": "Grátis"
   },
   {
-    "common.button.adjust": "Adjust"
+    "common.button.adjust": "Trocar"
   },
   {
-    "common.button.buy.simple": "Buy"
+    "common.button.buy.simple": "Comprar"
   },
   {
     "common.button.buy": "Comprar {0}"
@@ -1272,7 +1272,7 @@
     "common.button.undo": "Desfazer"
   },
   {
-    "common.button.merge": "Merge"
+    "common.button.merge": "Fundir"
   },
   {
     "common.title.error": "Erro"
@@ -1459,6 +1459,9 @@
   },
   {
     "piece.description.NPC_Y": "Dizem que basta seguir a estrada de tijolos amarelos. Vai ser divertido, disseram. Desde que voltou da Terra de Oz, Dorothy sabe que não deve confiar em céus tempestuosos. Na verdade, ela se tornou uma espécie de especialista em clima."
+  },
+  {
+    "piece.description.NPC_Z": "Dizem que este herói do folclore chinês nasceu de uma pedra mágica formada a partir do caos. Isso cai muito bem, já que você nunca sabe o que o Rei Macaco vai fazer a seguir. Poderoso e impulsivo é uma combinação perigosa."
   },
   {
     "piece.name.A1": "Tronco"
@@ -3372,6 +3375,12 @@
     "piece.name.NPC_Y2": "Sandálias"
   },
   {
+    "piece.name.NPC_Z1": "Cajado pequeno"
+  },
+  {
+    "piece.name.NPC_Z2": "Cajado mágico"
+  },
+  {
     "piece.name.PR_A1": "Broto de trigo"
   },
   {
@@ -4320,6 +4329,9 @@
     "piece.name.NPC_Y": "Dorothy Gale"
   },
   {
+    "piece.name.NPC_Z": "Rei Macaco"
+  },
+  {
     "piece.name.HL1_A": "Broto de árvore"
   },
   {
@@ -4977,6 +4989,9 @@
     "conversation.character.Dorothy": "Dorothy Gale"
   },
   {
+    "conversation.character.MonkeyKing": "Rei Macaco"
+  },
+  {
     "quest.supermatch.title": "Faça uma super fusão"
   },
   {
@@ -5085,10 +5100,10 @@
     "quest.daily.message": "Completar todos os objetivos"
   },
   {
-    "quest.merge.mana.message": "Merge the Wands"
+    "quest.merge.mana.message": "Fundir as varinhas"
   },
   {
-    "quest.merge.five.mana.message": "Merge 5 Wands at once"
+    "quest.merge.five.mana.message": "Funda 5 varinhas de uma vez"
   },
   {
     "quest.market.title": "Comprar no mercado"
@@ -5205,6 +5220,9 @@
     "task.use.mine.mn_x.hint": "Esta mina lhe dará <sprite name=X1> ou <sprite name=X2> até que se esgote."
   },
   {
+    "task.use.mine.mn_z.hint": "Esta mina lhe dará <sprite name=Z1> ou <sprite name=Z2> até que se esgote."
+  },
+  {
     "task.use.mine.mn_aa.hint": "Esta mina lhe dará <sprite name=AA1> ou <sprite name=AA2> até que se esgote."
   },
   {
@@ -5314,6 +5332,9 @@
   },
   {
     "task.use.monument_y.hint": "Use este(a) <sprite name=YM> para obter itens úteis."
+  },
+  {
+    "task.use.monument_z.hint": "Use isso <sprite name=ZM> para obter uma variedade de produtos úteis."
   },
   {
     "task.use.monument_aa.hint": "Use este(a) <sprite name=AAM> para obter itens úteis."
@@ -5490,10 +5511,10 @@
     "notifications.restore.CreaturePortal.complete.message": "Last chance to use your Portal today! "
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.title": "Come and Claim!"
+    "notifications.restore.CreaturePortalReward.complete.title": "Claim Your Creature!"
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.message": "The legendary creature is ready to hatch from the Portal! "
+    "notifications.restore.CreaturePortalReward.complete.message": "A legendary creature is ready to hatch from your Portal! "
   },
   {
     "notifications.restore.monument.complete.title": "Ritual mágico completo!"
@@ -5574,16 +5595,16 @@
     "notifications.event.build.unicorn.complete.message": "Aqui está outro unicórnio! Confira!"
   },
   {
-    "notifications.event.build.blueox.complete.title": "Hey, meet a Blue Ox!"
+    "notifications.event.build.blueox.complete.title": "Ei, apresento o bezerro azul!"
   },
   {
-    "notifications.event.build.blueox.complete.message": "Another Blue Ox is here! Check it out!"
+    "notifications.event.build.blueox.complete.message": "Chegou outro bezerro azul! Venha ver!"
   },
   {
-    "notifications.event.build.reddragon.complete.title": "Hey, meet a Red Dragon!"
+    "notifications.event.build.reddragon.complete.title": "Ei, conheça um dragão vermelho!"
   },
   {
-    "notifications.event.build.reddragon.complete.message": "Another Red Dragon is here! Check it out!"
+    "notifications.event.build.reddragon.complete.message": "Aqui está outro dragão vermelho! Venha ver!"
   },
   {
     "notifications.event.build.fluffy.complete.title": "Ei! Conheça uma bolinha fofa nova!"
@@ -5922,10 +5943,10 @@
     "window.event.UnicornIsland.title": "Corrida de Unicórnios"
   },
   {
-    "window.event.BlueoxIsland.title": "Blue Ox Island"
+    "window.event.BlueOxIsland.title": "Ilha do Bezerro Azul"
   },
   {
-    "window.event.ReddgaronIsland.title": "Red Dragon Island"
+    "window.event.RedDragonIsland.title": "Ilha do Dragão Vermelho"
   },
   {
     "window.event.FluffyIsland.title": "Evento da Ilha de Pelúcia"
@@ -5997,10 +6018,10 @@
     "window.event.UnicornIsland.message": "Complete construções para receber <sprite name=icon_EventToken> e ganhar alguns prêmios mágicos!"
   },
   {
-    "window.event.BlueoxIsland.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.message": "Crie Bois Azuis para receber <sprite name=icon_EventToken> e ganhar alguns prêmios mágicos!"
   },
   {
-    "window.event.ReddragonIsland.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.message": "Crie Dragões Vermelhos para receber <sprite name=icon_EventToken>e ganhar alguns prêmios mágicos!"
   },
   {
     "window.event.FluffyIsland.message": "Crie bolinhas fofas para receber <sprite name=icon_EventToken> e coletar recompensas pelo caminho!"
@@ -6048,10 +6069,10 @@
     "window.event.UnicornIsland.preview.message": "Uma pitada da magia de unicórnio faz o mundo girar! O evento Corrida de Unicórnios chegará em breve!"
   },
   {
-    "window.event.BlueoxIsland.preview.message": "The Blue Ox event is coming! Let us give you prizes! Seriously!"
+    "window.event.BlueOxIsland.preview.message": "Comemore o outono com o amigo preferido do Paul e com um pouco de magia! O evento da Ilha do Bezerro Azul chegará em breve com um prêmio especial para a temporada!"
   },
   {
-    "window.event.ReddragonIsland.preview.message": "The Red Dragon event is coming! Let us give you prizes! Seriously!"
+    "window.event.RedDragonIsland.preview.message": "Você se atreve a procurar os tesouros nas masmorras guardadas por este feroz morador? Teste sua coragem na Ilha do Dragão Vermelho! Evento em breve!"
   },
   {
     "window.event.FluffyIsland.preview.message": "O que você ganha fundindo itens diferentes?\\n\\nDescubra o mais novo experimento do Merlin na Ilha de Pelúcia! O evento chegará em breve!"
@@ -6075,7 +6096,7 @@
     "window.event.HalloweenIsland.preview.message": "Essa é a época mais assustadora do ano! Comemore a Véspera de Halloween na Ilha com decorações divertidas e horripilantes para o seu reino! O evento chegará em breve!"
   },
   {
-    "window.event.Thanksgiving.preview.message": "Blue Ox + Thanksgiving announce text."
+    "window.event.Thanksgiving.preview.message": "Comemore o outono com o amigo preferido do Paul e com um pouco de magia! O evento da Ilha do Boi Azul chegará em breve com um prêmio especial para a temporada!"
   },
   {
     "window.event.MagicWorkshop.preview.message": "Está com vontade de criar algo? A oficina mágica viajante está a caminho!\\n\\nPegue-a enquanto estiver na cidade e use <sprite name=icon_Mana> para criar itens de alta qualidade e muito mais! Em breve!"
@@ -6111,10 +6132,10 @@
     "window.event.UnicornIsland.hint.message": "Complete construções para receber <sprite name=icon_EventToken> e ganhar alguns prêmios mágicos!"
   },
   {
-    "window.event.BlueoxIsland.hint.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.hint.message": "Crie Bois Azuis para receber <sprite name=icon_EventToken> e ganhar alguns prêmios mágicos!"
   },
   {
-    "window.event.ReddragonIsland.hint.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.hint.message": "Crie Dragões Vermelhos para receber <sprite name=icon_EventToken>e ganhar alguns prêmios mágicos!"
   },
   {
     "window.event.FluffyIsland.hint.message": "Crie bolinhas fofas para receber <sprite name=icon_EventToken> e ganhar alguns prêmios mágicos!"
@@ -9426,7 +9447,7 @@
     "conversation.y4.message2": "A vida na ilha é ótima, não é? O que fez você vir para o paraíso?"
   },
   {
-    "conversation.y4.message3": "Basicamente sem tornados."
+    "conversation.y4.message3": "Basicamente por causa dos tornados."
   },
   {
     "conversation.y5.message1": "Você realmente quer este pára-raios no quintal? Vai bagunçar o ambiente."
@@ -9685,6 +9706,99 @@
   },
   {
     "conversation.use.mn_y.message1": "Não há lugar como uma mina de fazenda para conseguir suprimentos! Certo, Totó!"
+  },
+  {
+    "conversation.npc_z3.message1": "Um cajado mágico! Hum, aposto que alguém está sentindo falta desse aqui."
+  },
+  {
+    "conversation.npc_z4.message1": "Que legal! Uma espada curvilínea. Com certeza, nós poderíamos lutar contra alguns piratas com isso!"
+  },
+  {
+    "conversation.npc_z4.message2": "Isso não é uma espada, Sininho. Isso é um cajado... um cajado de combate. Ai! Poderia ser de algum inimigo?"
+  },
+  {
+    "conversation.npc_z5.message1": "Um graveto, dois gravetos, três gravetos, mais gravetos!"
+  },
+  {
+    "conversation.npc_z5.message2": "Hã... Buck? O que você está fazendo aí?"
+  },
+  {
+    "conversation.npc_z5.message3": "Só juntando um pouco de lenha, chefe. Eu continuo encontrando esses gravetos por todo o lugar!"
+  },
+  {
+    "conversation.npc_z5.message4": "Acho que você não deveria queimá-los... Acho que pertencem a alguém."
+  },
+  {
+    "conversation.npc_z6.message1": "Então, eu tinha CERTEZA de que essa coisa era um graveto de chuva, mas não estou ouvindo nenhuma chuva. Deve estar quebrado."
+  },
+  {
+    "conversation.npc_z6.message2": "Criança, você bateu com a cabeça ao sair do País das Maravilhas? Isso é um cajado. Não é um graveto de chuva."
+  },
+  {
+    "conversation.npc_z6.message3": "Ahhhhhh sim! Isso faz muito mais sentido."
+  },
+  {
+    "conversation.npc_z7.message1": "Nossa, está uma bagunça aqui!"
+  },
+  {
+    "conversation.npc_z7.message2": "Você acha que pertence a um guerreiro? Nossas praias estão sitiadas!"
+  },
+  {
+    "conversation.npc_z7.message3": "Ei! De onde você veio? Você acha que estamos sob ataque? Minha nossa! Eu preciso proteger a toca!"
+  },
+  {
+    "conversation.npc_z8.message1": "A Mulan está causando pânico novamente sobre a segurança da ilha. Ela parece pensar que os cajados pertencem a um guerreiro."
+  },
+  {
+    "conversation.npc_z8.message2": "A Rainha do Gelo aqui parece pensar que estou exagerando. Bem, ela não vai rir quando seu castelo se transformar em simples cubos!"
+  },
+  {
+    "conversation.npc_z8.message3": "Ora, ora! Não vamos todos tirar conclusões precipitadas. Devíamos dar a este guerreiro a chance de falar primeiro! Precisamos encontrar mais desses cajados."
+  },
+  {
+    "conversation.npc_z9.message1": "Capacetes de coco? Confere. Armadura de folha de banana? Confere. Parece que temos todo o nosso equipamento para a batalha, Buck!"
+  },
+  {
+    "conversation.npc_z9.message2": "Batalha? Que história é essa de batalha? Eu quero participar!"
+  },
+  {
+    "conversation.npc_z9.message3": "A Mulan disse que podemos estar sob ataque. Aqui, pegue um capacete. Além disso, se ficar com fome, tem um pouco de coco dentro!"
+  },
+  {
+    "conversation.npc_z10.message1": "Onde uma batalha chama, Maui atende! Você vai participar da luta contra o dono do cajado mágico?"
+  },
+  {
+    "conversation.npc_z10.message2": "Ora, não farei nada disso! O amor é a única chamada que atenderei."
+  },
+  {
+    "conversation.npc_z10.message3": "Hã? Faça como quiser. Mais glória para o resto de nós."
+  },
+  {
+    "conversation.npc_z11.message1": "Por que todos estão vestidos como se estivessem no topo do terceiro ato? É... isso é um capacete de coco?"
+  },
+  {
+    "conversation.npc_z11.message2": "Para a batalha! Pela glória! Isso é EVERMERGE!"
+  },
+  {
+    "conversation.npc_z11.message3": "Ainda é sobre os cajados? Ai meu santo nevoeiro... Gente, tudo o que eles querem dizer é que estamos recebendo um novo visitante! Não há batalha nenhuma."
+  },
+  {
+    "conversation.npc_z11.message4": "Eu DISSE a eles que todos estavam exagerando."
+  },
+  {
+    "conversation.npc_z.message1": "Ai,ai... Acho que sei a quem pertence este cajado! A princesa estava certa, ele é mais amigo do que inimigo no final das contas..."
+  },
+  {
+    "conversation.npc_z.order.message1": "AHHH! Estamos sob ataque!!"
+  },
+  {
+    "conversation.npc_z.order.message2": "Dorothy querida, é apenas o Rei Macaco. Olá... Estamos muito felizes em vê-lo novamente!"
+  },
+  {
+    "conversation.npc_z.order.message3": "O que é essa tagarelice sobre um ataque? Acordei para o caos?"
+  },
+  {
+    "conversation.npc_z.order.message4": "Desculpe, eu confundi você com alguns outros inimigos meus..."
   },
   {
     "conversation.365.message1": "Olhe para este chapéu! O que você acha, como fica?"
@@ -10515,19 +10629,19 @@
     "message.compensation.LongChainsMigration": "Alguns dos nossos castelos agora estão mais fáceis de completar! Algumas peças podem ter mudado de aparência mas seu progresso em cada castelo não foi alterado."
   },
   {
-    "message.help.mana.title": "How to get mana"
+    "message.help.mana.title": "Como obter varinhas"
   },
   {
     "message.help.mana.1": "Coletar ingredientes"
   },
   {
-    "message.help.mana.2": "Make Orders"
+    "message.help.mana.2": "Faça pedidos de receitas"
   },
   {
-    "message.help.mana.3": "Merge Wands "
+    "message.help.mana.3": "Funda varinhas"
   },
   {
-    "message.help.mana.4": "Get Mana"
+    "message.help.mana.4": "Use magia para eliminar nevoeiros!"
   },
   {
     "window.LockMine.title": "Como desbloquear"
@@ -10653,16 +10767,16 @@
     "window.specialoffer.unicorn1.main": "Pegue esse para ter uma grande vantagem no evento da Corrida do Unicórnio!"
   },
   {
-    "window.specialoffer.blueox1.title": "Blue Ox Boost!"
+    "window.specialoffer.blueox1.title": "Reforço Bezerro Azul!"
   },
   {
-    "window.specialoffer.blueox1.main": "Buy this offer now and boost your progress in the Blue Ox event!"
+    "window.specialoffer.blueox1.main": "Pegue esse para aproveitar ao máximo o evento do Bezerro Azul!"
   },
   {
-    "window.specialoffer.reddragon1.title": "Red Dragon Boost!"
+    "window.specialoffer.reddragon1.title": "Reforço do Dragão Vermelho!"
   },
   {
-    "window.specialoffer.reddragon1.main": "Buy this offer now and boost your progress in the Red Dragon event!"
+    "window.specialoffer.reddragon1.main": "Pegue esse para aproveitar ao máximo o evento do Dragão Vermelho!"
   },
   {
     "window.specialoffer.fluffy1.title": "Reforço da bolinha"
@@ -10815,10 +10929,10 @@
     "window.specialoffer.reject.main": "Tem certeza que quer sair? Você não receberá esta oferta novamente!"
   },
   {
-    "window.specialoffer.CreaturePortal.title": "Premium Creature Portal "
+    "window.specialoffer.CreaturePortal.title": "Premium Portal "
   },
   {
-    "window.specialoffer.CreaturePortal.main": "Get a Premium Portal which will bring you {0} every day for {1} days!"
+    "window.specialoffer.CreaturePortal.main": "A premium creature portal will bring you {0} every day for {1} days!"
   },
   {
     "title.ext.item": "Item de jardim"
@@ -10998,7 +11112,7 @@
     "window.specialoffer.CompleteCreature3M5.main": "Tudo que você precisa para subir de nível sua criatura lendária!"
   },
   {
-    "piece.name.SO_Rainbow_Portal": "Rainbow Creature Portal"
+    "piece.name.SO_Rainbow_Portal": "Rainbow Portal"
   },
   {
     "piece.name.SO_Premium_Portal": "{0} Premium Portal"
@@ -12198,6 +12312,12 @@
     "piece.name.LM_37": "Mestre de poções"
   },
   {
+    "piece.name.LM_38": "Carooça de colheita"
+  },
+  {
+    "piece.name.LM_39": "Cornucópia abundante"
+  },
+  {
     "piece.desc.LM_11": "Evento Véspera de Halloween na Ilha 2020"
   },
   {
@@ -12279,58 +12399,55 @@
     "window.market.hint.SO_Premium_Portal": "Premium Portal will give you {0} every day for {1} days!"
   },
   {
-    "window.market.hint.BOX_A1.common": "Garantia de: {0} criaturas de um tipo."
+    "window.market.hint.BOX_A1.common": "Garantia de: {0} criaturas comuns."
   },
   {
-    "window.market.hint.BOX_A1.rare": "Garantia de: {0} criaturas de um tipo."
+    "window.market.hint.BOX_A1.rare": "Garantia de: {0} criaturas raras."
   },
   {
-    "window.market.hint.BOX_A2.common": "Garantia de: {0} criaturas de um tipo."
+    "window.market.hint.BOX_A2.common": "Garantia de: {0} criaturas comuns."
   },
   {
-    "window.market.hint.BOX_A2.rare": "Garantia de: {0} criaturas de um tipo."
+    "window.market.hint.BOX_A2.rare": "Garantia de: {0} criaturas raras."
   },
   {
-    "window.market.hint.BOX_A2.legendary": "Garantia de: {0} criaturas de um tipo."
+    "window.market.hint.BOX_A2.legendary": "Garantia de: {0} criaturas lendárias."
   },
   {
-    "window.market.hint.BOX_A3.common": "Garantia de: {0} criaturas de um tipo."
+    "window.market.hint.BOX_A3.common": "Garantia de: {0} criaturas comuns."
   },
   {
-    "window.market.hint.BOX_A3.rare": "Garantia de: {0} criaturas de um tipo."
+    "window.market.hint.BOX_A3.rare": "Garantia de: {0} criaturas raras."
   },
   {
-    "window.market.hint.BOX_A3.legendary": "Garantia de: {0} criaturas de um tipo."
+    "window.market.hint.BOX_A3.legendary": "Garantia de: {0} criaturas lendárias."
   },
   {
-    "window.market.hint.BOX_B1.common": "Garantia de criaturas de um tipo."
+    "window.market.hint.BOX_B1.common": "Garantia de criaturas comuns."
   },
   {
-    "window.market.hint.BOX_B2.common": "Garantia de criaturas de um tipo."
+    "window.market.hint.BOX_B2.common": "Garantia de criaturas comuns."
   },
   {
-    "window.market.hint.BOX_B2.rare": "Garantia de criaturas de um tipo."
+    "window.market.hint.BOX_B2.rare": "Garantia de criaturas raras."
   },
   {
-    "window.market.hint.BOX_B3.common": "Garantia de criaturas de um tipo."
+    "window.market.hint.BOX_B3.common": "Garantia de criaturas comuns."
   },
   {
-    "window.market.hint.BOX_B3.rare": "Garantia de criaturas de um tipo."
+    "window.market.hint.BOX_B3.rare": "Garantia de criaturas raras."
   },
   {
-    "window.market.hint.BOX_B3.legendary": "Garantia de criaturas de um tipo."
+    "window.market.hint.BOX_B3.legendary": "Garantia de criaturas lendárias."
   },
   {
-    "window.market.hint.BOX_Feed.common": "Garantia de criaturas de um tipo."
+    "window.market.hint.BOX_Feed.common": "Garantia de criaturas comuns."
   },
   {
-    "window.market.hint.BOX_Feed.rare": "Garantia de criaturas de um tipo."
+    "window.market.hint.BOX_Feed.rare": "Garantia de criaturas raras."
   },
   {
     "window.market.hint.BOX_Feed.legendary": "Garantia de: {0} criatura."
-  },
-  {
-    "window.market.hint.BOX.all": "Queda garantida de criaturas dentro deste intervalo com chances de receber os tipos listados."
   },
   {
     "window.container.title": "Abrir o pacote"
@@ -12433,6 +12550,12 @@
   },
   {
     "tutorial.conversation.habitat.unlock.3": "Quanto mais tipos de criaturas completar, mais habitats você desbloqueia. Então, vamos continuar fundindo criaturas!"
+  },
+  {
+    "tutorial.conversation.creatureportal.1": "Wow, it's a creature portal! Now these are cool. They transport legendary creatures directly to Mystic Isle! Go ahead, tap it to see how it works."
+  },
+  {
+    "tutorial.conversation.creatureportal.2": "Easy, right? Tomorrow you'll be able to transport another creature. Just come back and tap on the portal before it expires!"
   },
   {
     "message.error.habitat.locked": "Encontrar {0} para desbloquear este habitat"
@@ -12754,6 +12877,12 @@
   },
   {
     "window.doubleoffer.HalloweenOffers.main": "Promoção por tempo limitado para dar um impulso no seu progresso! Além de uma decoração sazonal especial!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.title": "Oferta de Ação de Graças!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.main": "Promoção por tempo limitado para dar um impulso no seu progresso! Além de uma decoração especial!"
   },
   {
     "window.habitat.info.common": "Comum:"
@@ -13692,76 +13821,79 @@
     "piece.name.E12_A1": "Esfera do Quetzalcoatl"
   },
   {
-    "piece.name.E12_A2": "Ovo alado"
+    "piece.name.E12_A2": "Small Egg"
   },
   {
-    "piece.name.E12_A3": "Zuma"
+    "piece.name.E12_A3": "Ovo alado"
   },
   {
-    "piece.name.E12_A4": "Ana"
+    "piece.name.E12_A4": "Zuma"
   },
   {
-    "piece.name.E12_A5": "Charmosa"
+    "piece.name.E12_A5": "Ana"
   },
   {
-    "piece.name.E12_A6": "Tânia"
+    "piece.name.E12_A6": "Charmosa"
   },
   {
-    "piece.name.E12_A7": "Serpentina"
+    "piece.name.E12_A7": "Tânia"
   },
   {
-    "piece.name.E12_A8": "Serpente alada"
+    "piece.name.E12_A8": "Serpentina"
   },
   {
-    "window.codex.branch.E13_A": "Red Dragon"
+    "window.codex.branch.E13_A": "Dragão Vermelho"
   },
   {
-    "piece.name.E13_A1": "Red Dragon"
+    "piece.name.E13_A1": "Orbe do dragão"
   },
   {
-    "piece.name.E13_A2": "Red Dragon"
+    "piece.name.E13_A2": "Ovo de dragão"
   },
   {
-    "piece.name.E13_A3": "Red Dragon"
+    "piece.name.E13_A3": "Pequeno sopro"
   },
   {
-    "piece.name.E13_A4": "Red Dragon"
+    "piece.name.E13_A4": "Faísca pequena"
   },
   {
-    "piece.name.E13_A5": "Red Dragon"
+    "piece.name.E13_A5": "Chama"
   },
   {
-    "piece.name.E13_A6": "Red Dragon"
+    "piece.name.E13_A6": "Bola de fogo"
   },
   {
-    "piece.name.E13_A7": "Red Dragon"
+    "piece.name.E13_A7": "Labareda"
   },
   {
-    "piece.name.E13_A8": "Red Dragon"
+    "piece.name.E13_A8": "Dragão alado"
   },
   {
-    "piece.name.E5_A1": "Blue Ox"
+    "window.codex.branch.E5_A": "Baby, o bezerro azul"
   },
   {
-    "piece.name.E5_A2": "Blue Ox"
+    "piece.name.E5_A1": "Orbe do boi"
   },
   {
-    "piece.name.E5_A3": "Blue Ox"
+    "piece.name.E5_A2": "Boizinho"
   },
   {
-    "piece.name.E5_A4": "Blue Ox"
+    "piece.name.E5_A3": "Boizito"
   },
   {
-    "piece.name.E5_A5": "Blue Ox"
+    "piece.name.E5_A4": "Boizul"
   },
   {
-    "piece.name.E5_A6": "Blue Ox"
+    "piece.name.E5_A5": "Boilescente"
   },
   {
-    "piece.name.E5_A7": "Blue Ox"
+    "piece.name.E5_A6": "Boizucho"
   },
   {
-    "piece.name.E5_A8": "Blue Ox"
+    "piece.name.E5_A7": "Azulino"
+  },
+  {
+    "piece.name.E5_A8": "Boiotino"
   },
   {
     "window.codex.branch.E_SP_AK": "Erva-de-gato"
@@ -14922,7 +15054,7 @@
     "conversation.holiday.summerfair8.message4": "Jogo estranho, honestamente. Eu sinto que deveria ter sido pago por isso."
   },
   {
-    "conversation.holiday.summerfair9.message1": "Eba! Encontrei outro bilhete E acabei de saber que Babe ganhou o Melhor Boi Azul. "
+    "conversation.holiday.summerfair9.message1": "Eba! Encontrei outro bilhete E acabei de saber que Babe ganhou o Melhor Bezerro Azul. "
   },
   {
     "conversation.holiday.summerfair9.message2": "Essa é uma categoria real?"
@@ -15111,220 +15243,220 @@
     "piece.name.E_SP_BP8": "Pato real"
   },
   {
-    "window.codex.branch.E_SP_BQ": "branch.E_SP_BQ"
+    "window.codex.branch.E_SP_BQ": "Sino"
   },
   {
-    "piece.name.E_SP_BQ1": "E_SP_BQ1"
+    "piece.name.E_SP_BQ1": "Sino badalando"
   },
   {
-    "piece.name.E_SP_BQ2": "E_SP_BQ2"
+    "piece.name.E_SP_BQ2": "Sino tinindo"
   },
   {
-    "piece.name.E_SP_BQ3": "E_SP_BQ3"
+    "piece.name.E_SP_BQ3": "Sino chique"
   },
   {
-    "piece.name.E_SP_BQ4": "E_SP_BQ4"
+    "piece.name.E_SP_BQ4": "Sino soando"
   },
   {
-    "piece.name.E_SP_BQ5": "E_SP_BQ5"
+    "piece.name.E_SP_BQ5": "Sino agradável"
   },
   {
-    "piece.name.E_SP_BQ6": "E_SP_BQ6"
+    "piece.name.E_SP_BQ6": "Sino suave"
   },
   {
-    "piece.name.E_SP_BQ7": "E_SP_BQ7"
+    "piece.name.E_SP_BQ7": "Sino melódico"
   },
   {
-    "piece.name.E_SP_BQ8": "E_SP_BQ8"
+    "piece.name.E_SP_BQ8": "Sino harmônico"
   },
   {
-    "window.codex.branch.E_SP_BR": "branch.E_SP_BR"
+    "window.codex.branch.E_SP_BR": "Estátua de madeira"
   },
   {
-    "piece.name.E_SP_BR1": "E_SP_BR1"
+    "piece.name.E_SP_BR1": "Estátua de roedor"
   },
   {
-    "piece.name.E_SP_BR2": "E_SP_BR2"
+    "piece.name.E_SP_BR2": "Estátua de coelho"
   },
   {
-    "piece.name.E_SP_BR3": "E_SP_BR3"
+    "piece.name.E_SP_BR3": "Estátua de esquilo"
   },
   {
-    "piece.name.E_SP_BR4": "E_SP_BR4"
+    "piece.name.E_SP_BR4": "Estátua de guaxinim"
   },
   {
-    "piece.name.E_SP_BR5": "E_SP_BR5"
+    "piece.name.E_SP_BR5": "Estátua de raposa"
   },
   {
-    "piece.name.E_SP_BR6": "E_SP_BR6"
+    "piece.name.E_SP_BR6": "Estátua de lobo"
   },
   {
-    "piece.name.E_SP_BR7": "E_SP_BR7"
+    "piece.name.E_SP_BR7": "Estátua de texugo"
   },
   {
-    "piece.name.E_SP_BR8": "E_SP_BR8"
+    "piece.name.E_SP_BR8": "Estátua de boi"
   },
   {
-    "window.codex.branch.E_SP_BS": "branch.E_SP_BS"
+    "window.codex.branch.E_SP_BS": "Trenó de extração"
   },
   {
-    "piece.name.E_SP_BS1": "E_SP_BS1"
+    "piece.name.E_SP_BS1": "Trenó simples"
   },
   {
-    "piece.name.E_SP_BS2": "E_SP_BS2"
+    "piece.name.E_SP_BS2": "Trenó pequeno"
   },
   {
-    "piece.name.E_SP_BS3": "E_SP_BS3"
+    "piece.name.E_SP_BS3": "Trenó tosco"
   },
   {
-    "piece.name.E_SP_BS4": "E_SP_BS4"
+    "piece.name.E_SP_BS4": "Trenó rústico"
   },
   {
-    "piece.name.E_SP_BS5": "E_SP_BS5"
+    "piece.name.E_SP_BS5": "Trenó robusto"
   },
   {
-    "piece.name.E_SP_BS6": "E_SP_BS6"
+    "piece.name.E_SP_BS6": "Trenó chique"
   },
   {
-    "piece.name.E_SP_BS7": "E_SP_BS7"
+    "piece.name.E_SP_BS7": "Trenó opulento"
   },
   {
-    "piece.name.E_SP_BS8": "E_SP_BS8"
+    "piece.name.E_SP_BS8": "Trenó elegante"
   },
   {
-    "window.codex.branch.E_SP_BT": "branch.E_SP_BT"
+    "window.codex.branch.E_SP_BT": "Serra de madeira"
   },
   {
-    "piece.name.E_SP_BT1": "E_SP_BT1"
+    "piece.name.E_SP_BT1": "Serra simples"
   },
   {
-    "piece.name.E_SP_BT2": "E_SP_BT2"
+    "piece.name.E_SP_BT2": "Serra pequena"
   },
   {
-    "piece.name.E_SP_BT3": "E_SP_BT3"
+    "piece.name.E_SP_BT3": "Serra tosca"
   },
   {
-    "piece.name.E_SP_BT4": "E_SP_BT4"
+    "piece.name.E_SP_BT4": "Serra rústica"
   },
   {
-    "piece.name.E_SP_BT5": "E_SP_BT5"
+    "piece.name.E_SP_BT5": "Serra chique"
   },
   {
-    "piece.name.E_SP_BT6": "E_SP_BT6"
+    "piece.name.E_SP_BT6": "Serra opulenta"
   },
   {
-    "piece.name.E_SP_BT7": "E_SP_BT7"
+    "piece.name.E_SP_BT7": "Motosserra poderosa"
   },
   {
-    "piece.name.E_SP_BT8": "E_SP_BT8"
+    "piece.name.E_SP_BT8": "Motosserra potente"
   },
   {
-    "window.codex.branch.E_SP_BU": "branch.E_SP_BU"
+    "window.codex.branch.E_SP_BU": "Espada"
   },
   {
-    "piece.name.E_SP_BU1": "E_SP_BU1"
+    "piece.name.E_SP_BU1": "Espada simples"
   },
   {
-    "piece.name.E_SP_BU2": "E_SP_BU2"
+    "piece.name.E_SP_BU2": "Espada tosca"
   },
   {
-    "piece.name.E_SP_BU3": "E_SP_BU3"
+    "piece.name.E_SP_BU3": "Espada rústica"
   },
   {
-    "piece.name.E_SP_BU4": "E_SP_BU4"
+    "piece.name.E_SP_BU4": "Espada de aprendiz"
   },
   {
-    "piece.name.E_SP_BU5": "E_SP_BU5"
+    "piece.name.E_SP_BU5": "Espada chique"
   },
   {
-    "piece.name.E_SP_BU6": "E_SP_BU6"
+    "piece.name.E_SP_BU6": "Espada opulenta"
   },
   {
-    "piece.name.E_SP_BU7": "E_SP_BU7"
+    "piece.name.E_SP_BU7": "Espada magistral"
   },
   {
-    "piece.name.E_SP_BU8": "E_SP_BU8"
+    "piece.name.E_SP_BU8": "Espada requintada"
   },
   {
-    "window.codex.branch.E_SP_BV": "branch.E_SP_BV"
+    "window.codex.branch.E_SP_BV": "Cálice"
   },
   {
-    "piece.name.E_SP_BV1": "E_SP_BV1"
+    "piece.name.E_SP_BV1": "Caneca comum"
   },
   {
-    "piece.name.E_SP_BV2": "E_SP_BV2"
+    "piece.name.E_SP_BV2": "Caneca tosca"
   },
   {
-    "piece.name.E_SP_BV3": "E_SP_BV3"
+    "piece.name.E_SP_BV3": "Caneca rústica"
   },
   {
-    "piece.name.E_SP_BV4": "E_SP_BV4"
+    "piece.name.E_SP_BV4": "Caneca resistente"
   },
   {
-    "piece.name.E_SP_BV5": "E_SP_BV5"
+    "piece.name.E_SP_BV5": "Cálice chique"
   },
   {
-    "piece.name.E_SP_BV6": "E_SP_BV6"
+    "piece.name.E_SP_BV6": "Cálice opulento"
   },
   {
-    "piece.name.E_SP_BV7": "E_SP_BV7"
+    "piece.name.E_SP_BV7": "Cálice elegante"
   },
   {
-    "piece.name.E_SP_BV8": "E_SP_BV8"
+    "piece.name.E_SP_BV8": "Cálice sublime"
   },
   {
-    "window.codex.branch.E_SP_BW": "branch.E_SP_BW"
+    "window.codex.branch.E_SP_BW": "Escudo"
   },
   {
-    "piece.name.E_SP_BW1": "E_SP_BW1"
+    "piece.name.E_SP_BW1": "Escudo simples"
   },
   {
-    "piece.name.E_SP_BW2": "E_SP_BW2"
+    "piece.name.E_SP_BW2": "Escudo tosco"
   },
   {
-    "piece.name.E_SP_BW3": "E_SP_BW3"
+    "piece.name.E_SP_BW3": "Escudo rústico"
   },
   {
-    "piece.name.E_SP_BW4": "E_SP_BW4"
+    "piece.name.E_SP_BW4": "Escudo robusto"
   },
   {
-    "piece.name.E_SP_BW5": "E_SP_BW5"
+    "piece.name.E_SP_BW5": "Escudo chique"
   },
   {
-    "piece.name.E_SP_BW6": "E_SP_BW6"
+    "piece.name.E_SP_BW6": "Escudo opulento"
   },
   {
-    "piece.name.E_SP_BW7": "E_SP_BW7"
+    "piece.name.E_SP_BW7": "Escudo poderoso"
   },
   {
-    "piece.name.E_SP_BW8": "E_SP_BW8"
+    "piece.name.E_SP_BW8": "Escudo potente"
   },
   {
-    "window.codex.branch.E_SP_BX": "branch.E_SP_BX"
+    "window.codex.branch.E_SP_BX": "Besta"
   },
   {
-    "piece.name.E_SP_BX1": "E_SP_BX1"
+    "piece.name.E_SP_BX1": "Besta simples"
   },
   {
-    "piece.name.E_SP_BX2": "E_SP_BX2"
+    "piece.name.E_SP_BX2": "Besta tosca"
   },
   {
-    "piece.name.E_SP_BX3": "E_SP_BX3"
+    "piece.name.E_SP_BX3": "Besta rústica"
   },
   {
-    "piece.name.E_SP_BX4": "E_SP_BX4"
+    "piece.name.E_SP_BX4": "Besta robusta"
   },
   {
-    "piece.name.E_SP_BX5": "E_SP_BX5"
+    "piece.name.E_SP_BX5": "Besta chique"
   },
   {
-    "piece.name.E_SP_BX6": "E_SP_BX6"
+    "piece.name.E_SP_BX6": "Besta opulenta"
   },
   {
-    "piece.name.E_SP_BX7": "E_SP_BX7"
+    "piece.name.E_SP_BX7": "Besta poderosa"
   },
   {
-    "piece.name.E_SP_BX8": "E_SP_BX8"
+    "piece.name.E_SP_BX8": "Besta potente"
   },
   {
     "window.codex.branch.H6_A": "Carrosel"
@@ -15549,10 +15681,10 @@
     "window.navigation.islandcard.UnicornIsland.title": "Ilha do Unicórnio"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.title": "Blue Ox Island"
+    "window.navigation.islandcard.BlueOxIsland.title": "Ilha do Bezerro Azul"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.title": "Red Dragon Island"
+    "window.navigation.islandcard.RedDragonIsland.title": "Ilha do Dragão Vermelho"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.title": "Ilha da Fênix"
@@ -15648,10 +15780,10 @@
     "window.navigation.islandcard.UnicornIsland.description": "Arco-íris cintilantes em abundância"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.BlueOxIsland.description": "Pastagens acolhedoras à frente"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.RedDragonIsland.description": "Uma masmorra cheia de tesouros"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.description": "Um mundo muito mais ardente que o sol"
@@ -15714,10 +15846,10 @@
     "window.navigation.help.popup.ZooIslandLock.message": "Continue jogando{0} para alcançar o nível{1} e desbloquear{2} !"
   },
   {
-    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim!"
+    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim before it expires!"
   },
   {
-    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim!"
+    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim before it expires!"
   },
   {
     "window.event.howToPlay": "Como jogar"
@@ -15771,10 +15903,10 @@
     "gameboard.bubble.button.landmark.skinning": "Trocar"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.claimed": "Today: claimed"
+    "gameboard.bubble.message.CreaturePortal.claimed": "Claimed Today"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.expired": "Expire in: {0} days"
+    "gameboard.bubble.message.CreaturePortal.expired": "Expires in: {0} days"
   },
   {
     "tutorial.conversation.SD.skinning.1": "Olá de novo! Você sabia que pode decorar a Ilha Mística para que ela fique do jeitinho que você gosta? Deixe-me mostrar como fazer!"
@@ -15786,7 +15918,7 @@
     "tutorial.conversation.SD.skinning.3": "Ei! Antes de prosseguir, o que acha de decorar um pouco a Ilha Mística? Venha que vou ajudá-lo a começar!"
   },
   {
-    "window.codex.branch.AA": "Acampamento dos gnomos"
+    "window.codex.branch.AA": "Baú dos gnomos"
   },
   {
     "piece.name.AA1": "Rolo de lona"
@@ -15813,7 +15945,7 @@
     "piece.name.AAM": "Acampamento da Enseada do Paraíso"
   },
   {
-    "window.codex.branch.HL_AA": "Origem do acampamento dos gnomos"
+    "window.codex.branch.HL_AA": "Origem do baú dos gnomos"
   },
   {
     "piece.name.HL1_AA": "Vaso de palmeira pequeno"
@@ -15834,7 +15966,7 @@
     "piece.name.HL6_AA": "Vaso de palmeira grande"
   },
   {
-    "window.codex.branch.CH_AA": "Acampamento dos gnomos"
+    "window.codex.branch.CH_AA": "Baú dos gnomos"
   },
   {
     "piece.name.CH1_AA": "Baú pequeno"
@@ -16062,7 +16194,7 @@
     "piece.name.QM": "Castelo do Kintaro"
   },
   {
-    "window.codex.branch.HL_Q": "Origem grama"
+    "window.codex.branch.HL_Q": "Origem da grama"
   },
   {
     "piece.name.HL1_Q": "Vaso de grama pequeno"
@@ -16143,7 +16275,7 @@
     "piece.name.HL5_R": "Vaso de bétula grande"
   },
   {
-    "piece.name.HL6_R": "Baú de bétula"
+    "piece.name.HL6_R": "Tronco de bétula"
   },
   {
     "window.codex.branch.CH_R": "Bétula"
@@ -16563,13 +16695,13 @@
     "piece.name.XM": "Castelo do Henry"
   },
   {
-    "window.codex.branch.HL_Y": "Fonte da fazenda"
+    "window.codex.branch.HL_Y": "Origem da fazenda"
   },
   {
     "piece.name.HL1_Y": "Vaso da fazenda pequeno"
   },
   {
-    "piece.name.HL2_Y": "Vaso da fazenda germinando"
+    "piece.name.HL2_Y": "Fazenda germinando"
   },
   {
     "piece.name.HL3_Y": "Vaso da fazenda"
@@ -16633,6 +16765,81 @@
   },
   {
     "piece.name.YM": "Castelo da Gale"
+  },
+  {
+    "window.codex.branch.HL_Z": "Origem da pedra mágica"
+  },
+  {
+    "piece.name.HL1_Z": "Vaso de pedra pequeno"
+  },
+  {
+    "piece.name.HL2_Z": "Rochedo"
+  },
+  {
+    "piece.name.HL3_Z": "Vaso de pedra"
+  },
+  {
+    "piece.name.HL4_Z": "Pedaço de pedra"
+  },
+  {
+    "piece.name.HL5_Z": "Vaso de pedra grande"
+  },
+  {
+    "piece.name.HL6_Z": "Placa de pedra"
+  },
+  {
+    "window.codex.branch.Z": "Pedra mágica"
+  },
+  {
+    "piece.name.Z1": "Rocha "
+  },
+  {
+    "piece.name.Z2": "Bloco de pedra"
+  },
+  {
+    "piece.name.Z3": "Cabana de pedra"
+  },
+  {
+    "piece.name.Z4": "Cabana de pedra grande"
+  },
+  {
+    "piece.name.Z5": "Cabana de pedra chique"
+  },
+  {
+    "piece.name.Z6": "Chalé de pedra"
+  },
+  {
+    "piece.name.Z7": "Casa de pedra"
+  },
+  {
+    "piece.name.Z8": "Palácio de pedra"
+  },
+  {
+    "piece.name.Z9": "Palácio de pedra chique"
+  },
+  {
+    "piece.name.Z10": "Chateau de pedra"
+  },
+  {
+    "piece.name.Z11": "Chateau de pedra grande"
+  },
+  {
+    "piece.name.Z12": "Castelo de pedra luxuoso"
+  },
+  {
+    "piece.name.ZM": "Castelo do macaco"
+  },
+  {
+    "window.codex.branch.CH_Z": "Pedra mágica"
+  },
+  {
+    "piece.name.CH1_Z": "Baú pequeno"
+  },
+  {
+    "piece.name.CH2_Z": "Baú grande"
+  },
+  {
+    "piece.name.CH3_Z": "Baú magnífico"
   },
   {
     "window.delivery.title": "Serviço de entrega"
@@ -18387,6 +18594,117 @@
     "conversation.use.wm.message2": "Eu? Acho que não. Mas a Terra do Nunca sempre dá um jeito de encontrar você no final..."
   },
   {
+    "conversation.z3.message1": "Você viu as plantas deste aqui, Chuck? Há muitas demandas para esta construção."
+  },
+  {
+    "conversation.z3.message2": "Nossa! Banheira de ouro? Cortinas de seda em todos os cômodos? Uma torre que pode tocar o céu?"
+  },
+  {
+    "conversation.z3.message3": "A última vez que tivemos um trabalho tão caro foi para o Rei Midas!"
+  },
+  {
+    "conversation.z3.message4": "Eu lembro bem. Pensei que nunca ia tirar todo aquele ouro da minha barba..."
+  },
+  {
+    "conversation.z4.message1": "Como vai indo a construção, rapazes?"
+  },
+  {
+    "conversation.z4.message2": "Bem, agora é só uma caverna rústica com poeira por todo lado. Mas não se preocupe, estamos trabalhando duro nesse projeto!"
+  },
+  {
+    "conversation.z4.message3": "Um reino no céu surgindo!"
+  },
+  {
+    "conversation.z5.message1": "Você já ouviu falar que esse macaco pode realmente lutar contra DEUSES? É muito legal. Ele talvez seja capaz de derrotar uma frota inteira de piratas."
+  },
+  {
+    "conversation.z5.message2": "Hum... Bem, ele não lutou comigo e venceu!"
+  },
+  {
+    "conversation.z5.message3": "Ele já lutou com você alguma vez?"
+  },
+  {
+    "conversation.z5.message4": "Isso não vem ao caso."
+  },
+  {
+    "conversation.z6.message1": "E, você estava à beira da morte, não é? E dormiu 100 anos? Que incrível!"
+  },
+  {
+    "conversation.z6.message2": "E não é?! Algo assim já aconteceu com você?"
+  },
+  {
+    "conversation.z6.message3": "Não. Eu sou imortal e imensamente poderoso."
+  },
+  {
+    "conversation.z7.message1": "Você pode fazer algo sobre essa mulher? Ela fica rondando minha casa pedindo uma das minhas patas."
+  },
+  {
+    "conversation.z7.message2": "Ei... Baba Yaga? Podemos fazer algo para ajudá-la?"
+  },
+  {
+    "conversation.z7.message3": "A pata de um macaco é a que traz mais sorte. E a pata de um macaco imortal é ainda melhor. Além disso, ele tem duas delas."
+  },
+  {
+    "conversation.z7.message4": "Você já pensou em um belo trevo de quatro folhas?"
+  },
+  {
+    "conversation.z8.message1": "Uau! Essas flores são demais! Uma ótima escolha de estilo. Mal posso esperar para ver o que você construirá a seguir!"
+  },
+  {
+    "conversation.z8.message2": "Sabe, sempre gostei mais de você."
+  },
+  {
+    "conversation.z9.message1": "O que é isso? O Rei Macaco ganha uma geladeira com uma daquelas telas que mostra o que tem dentro? E quanto ao resto de nós?"
+  },
+  {
+    "conversation.z9.message2": "Nós... nós apenas seguimos as plantas!"
+  },
+  {
+    "conversation.z9.message3": "Não conte a ela sobre a sapateira automatizada."
+  },
+  {
+    "conversation.z10.message1": "O ginásio coberto poderia ter mais armas para o treinamento. Não há mais nada em estoque?"
+  },
+  {
+    "conversation.z10.message2": "Tivemos muitas academias para instalar ultimamente, então pode ser que não tenha muita coisa sobrando. Podemos acrescentar alguma coisa, Chuck?"
+  },
+  {
+    "conversation.z10.message3": "Temos vários capacetes de coco e uma pedra pontuda que encontrei na praia. Isso funciona?"
+  },
+  {
+    "conversation.z10.message4": "Tudo bem. Deixa que eu cuido disso."
+  },
+  {
+    "conversation.z11.message1": "Esta torre é alta o suficiente para você, Sr. Rei Macaco? As plantas mencionavam “uma torre alta o suficiente para alcançar a rodovia das nuvens”. Nunca ouvimos falar disso."
+  },
+  {
+    "conversation.z11.message2": "Acredito que seja adequado o suficiente para encontrar uma nuvem para viajar. No entanto, poderia ser mais alta."
+  },
+  {
+    "conversation.z11.message3": "Nossa! Não pensei nisso! Claro! Rodovia de viagens de nuvem."
+  },
+  {
+    "conversation.z12.message1": "Só mais algumas pedras e veremos algo realmente mágico!"
+  },
+  {
+    "conversation.zm.message1": "Excelente! Este é o lugar perfeito para começar meu reinado de novo..."
+  },
+  {
+    "conversation.zm.message2": "Não tão rápido! Aqui, tudo é sujeito à votação do grupo. Você pode me fornecer seus dados de contato para nossa pesquisa mensal?"
+  },
+  {
+    "conversation.use.zm.message1": "Agora olhe para este castelo. É uma beleza, Buck!"
+  },
+  {
+    "conversation.use.zm.message2": "Claro que é, Chuck. Ah não! Você está ouvindo algo batendo? Acho que esquecemos de fixar a cama."
+  },
+  {
+    "conversation.use.mn_z.message1": "Um castelo digno de um rei só pode ser feito da pedra mais mágica!"
+  },
+  {
+    "conversation.use.mn_z.message2": "Ainda bem que encontramos esta mina de pedra mágica confiável."
+  },
+  {
     "window.island1_2.title": "Ilha Greenhorn"
   },
   {
@@ -18900,6 +19218,12 @@
     "window.collection.locked.hint.premium.event.LM_37": "Coletado no Evento de Véspera do Halloween 2021"
   },
   {
+    "window.collection.locked.hint.premium.event.LM_38": "Dia de Ação de Graças 2021"
+  },
+  {
+    "window.collection.locked.hint.premium.event.LM_39": "Dia de Ação de Graças 2021"
+  },
+  {
     "window.collection.description.LM_1": "Entre em um lugar místico cheio de criaturas mágicas... tudo o que você precisa é abrir os portões!"
   },
   {
@@ -19009,6 +19333,12 @@
   },
   {
     "window.collection.description.LM_37": "Remoção de verrugas? Soro contra envelhecimento? Uma visita ao Mestre de Poções pode fornecer as respostas que você procura! Mas cuidado, ele está sempre procurando por cobaias para testar suas poções."
+  },
+  {
+    "window.collection.description.LM_38": "A carroça da colheita está cheia de produtos coloridos e excêntricos para um grande banquete! Não fale nada para o peru!"
+  },
+  {
+    "window.collection.description.LM_39": "Diz a lenda que foi Zeus quem primeiro quebrou acidentalmente um chifre de cabra e recebeu o poder da comida sem fim. Isso é o que eu chamo de um acidente de sorte!"
   },
   {
     "window.collection.description.DC_1": "Crie privacidade com este arbusto perene que mantém uma cor vibrante durante o inverno."
@@ -19144,117 +19474,6 @@
   },
   {
     "window.collection.description.DC_45": "Relaxamento e restauração exalam do brilho suave desta lanterna de flores."
-  },
-  {
-    "window.decoration.description.LM_1": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_2": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_3": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_4": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_5": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_6": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_7": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_8": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_9": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_10": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_11": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_12": "Evento da Véspera de Halloween de 2020"
-  },
-  {
-    "window.decoration.description.LM_13": "Evento da Véspera de Halloween de 2020"
-  },
-  {
-    "window.decoration.description.LM_14": "Oferta da Black Friday de 2020"
-  },
-  {
-    "window.decoration.description.LM_15": "Evento do Polo Norte de 2020"
-  },
-  {
-    "window.decoration.description.LM_16": "Evento do Polo Norte de 2020"
-  },
-  {
-    "window.decoration.description.LM_17": "Oferta do Polo Norte de 2020"
-  },
-  {
-    "window.decoration.description.LM_18": "Evento do Jardim do Cupido de 2021"
-  },
-  {
-    "window.decoration.description.LM_19": "Evento do Jardim do Cupido de 2021"
-  },
-  {
-    "window.decoration.description.LM_20": "Oferta do Jardim do Cupido de 2021"
-  },
-  {
-    "window.decoration.description.LM_21": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_22": "Evento 2021: Festa do 1º EverMersário!"
-  },
-  {
-    "window.decoration.description.LM_23": "Evento 2021: Festa do 1º EverMersário!"
-  },
-  {
-    "window.decoration.description.LM_24": "Oferta da Festa do 1º EverMersário em 2021!"
-  },
-  {
-    "window.decoration.description.LM_25": "Evento de Solstício de verão de 2021"
-  },
-  {
-    "window.decoration.description.LM_26": "Evento de Solstício de verão de 2021"
-  },
-  {
-    "window.decoration.description.LM_27": "Evento de Solstício de verão de 2021"
-  },
-  {
-    "window.decoration.description.LM_28": "Evento Feira de Verão 2021"
-  },
-  {
-    "window.decoration.description.LM_29": "Evento Feira de Verão 2021"
-  },
-  {
-    "window.decoration.description.LM_30": "Evento Feira de Verão 2021"
-  },
-  {
-    "window.decoration.description.LM_31": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_32": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_33": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_34": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_35": "Mercado da Ilha Mística"
-  },
-  {
-    "window.decoration.description.LM_36": "Evento Véspera de Halloween 2021"
-  },
-  {
-    "window.decoration.description.LM_37": "Evento Véspera de Halloween 2021"
   },
   {
     "window.decoration.category.LM.common": "Construções padrão"
@@ -19458,31 +19677,34 @@
     "window.profile.stats.monuments.5star": "Castelos 5 estrelas"
   },
   {
+    "window.profile.stats.SDlevel.locked": "Ilha \\n Mística"
+  },
+  {
     "window.profile.stats.SDlevel": "Nível {0} \\n Ilha Mística"
   },
   {
     "window.profile.stats.mainlevel": "Nível {0} \\n Jogo Principal"
   },
   {
-    "window.profile.stats.next.level": "To next level: {0}/{1}"
+    "window.profile.stats.next.level": "Progresso de nível: {0}/{1}"
   },
   {
-    "window.profile.edit.avatar.inf": "Use your discoveries book to set any piece you 've unlocked as Avatar"
+    "window.profile.edit.avatar.inf": "Use seu livro de Descobertas para usar qualquer peça que você desbloqueou como sua foto de perfil!"
   },
   {
-    "window.profile.unlock.slot": "Unlock slot"
+    "window.profile.unlock.slot": "Desbloquear a estatística"
   },
   {
-    "window.profile.purchase.slot": "Purchase one more slot?"
+    "window.profile.purchase.slot": "Comprar mais um espaço?"
   },
   {
-    "window.profile.castles.main": "Main island castles"
+    "window.profile.castles.main": "Castelos da Ilha Principal"
   },
   {
-    "window.profile.castles.paradise": "Paradise cove castles"
+    "window.profile.castles.paradise": "Castelos da Enseada do Paraíso"
   },
   {
-    "window.profile.castles.keep.playing": "Keep playing to unlock this castle"
+    "window.profile.castles.keep.playing": "Continue jogando para desbloquear este castelo"
   },
   {
     "window.profile.stats.SDcreatures.legendary": "Criaturas lendárias coletadas"
@@ -19491,10 +19713,10 @@
     "window.profile.edit.name.button.random": "Aleatória"
   },
   {
-    "window.profile.connection.low": "Loading..."
+    "window.profile.connection.low": "Carregando..."
   },
   {
-    "window.profile.connection.check": "Please, check your connection"
+    "window.profile.connection.check": "Verifique sua conexão!"
   },
   {
     "window.profile.button.confirm": "Confirmar"
@@ -19617,7 +19839,7 @@
     "window.codex.branch.NPC_Y": "Dorothy Gale"
   },
   {
-    "window.codex.branch.NPC_Z": "branch.NPC_Z"
+    "window.codex.branch.NPC_Z": "Rei Macaco"
   },
   {
     "window.codex.branch.NPC_AA": "Bela adormecida"

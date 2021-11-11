@@ -297,9 +297,6 @@
     "window.codex.branch.E4_A": "尼斯湖水怪"
   },
   {
-    "window.codex.branch.E5_A": "Blue Ox E5_A"
-  },
-  {
     "window.codex.branch.H1_A": "萬聖節怪獸"
   },
   {
@@ -543,10 +540,10 @@
     "window.codex.branch.E4_CH_B": "高地"
   },
   {
-    "window.codex.branch.E5_CH_A": "E5_CH_A"
+    "window.codex.branch.E5_CH_A": "乾草"
   },
   {
-    "window.codex.branch.E5_CH_B": "E5_CH_B"
+    "window.codex.branch.E5_CH_B": "木材"
   },
   {
     "window.codex.branch.H1_CH_A": "南瓜"
@@ -573,10 +570,10 @@
     "window.codex.branch.E12_CH_B": "復活"
   },
   {
-    "window.codex.branch.E13_CH_A": "E13_CH_A"
+    "window.codex.branch.E13_CH_A": "鱗片"
   },
   {
-    "window.codex.branch.E13_CH_B": "E13_CH_B"
+    "window.codex.branch.E13_CH_B": "地牢"
   },
   {
     "window.codex.branch.SN_CH_A": "春季綻放"
@@ -795,10 +792,10 @@
     "window.market.description.UnicornIsland.event": "彩虹球！用它來創造獨角獸吧。"
   },
   {
-    "window.market.description.BlueoxIsland.event": "Use this to create Blue Oxen."
+    "window.market.description.BlueOxIsland.event": "使用這個來創造藍公牛。"
   },
   {
-    "window.market.description.ReddragonIsland.event": "Use this to create Red Dragons."
+    "window.market.description.RedDragonIsland.event": "使用這個來創造紅龍。"
   },
   {
     "window.market.description.FluffyIsland.event": "使用這個來創建更多毛可寶。"
@@ -936,7 +933,7 @@
     "window.market.hint.Y": "農舍組件，{0}"
   },
   {
-    "window.market.hint.Z": "Z Pieces, {0}"
+    "window.market.hint.Z": "神奇石組件，{0}"
   },
   {
     "window.market.hint.AA": "地精前哨站組件，{0}"
@@ -1095,6 +1092,9 @@
     "window.storageCheck.title": "沒有儲存空間"
   },
   {
+    "window.storageCheck.cant.save": "您裝置上的空間不足以儲存此個人檔案圖片。請釋放一些儲存空間。"
+  },
+  {
     "window.storageCheck.message": "您裝置的可用空間少於 {0} MB。若可用空間不足，您可能會失去已儲存的資料與進度。"
   },
   {
@@ -1146,7 +1146,7 @@
     "message.error.noMagicWands": "附近沒有神奇魔杖喔。"
   },
   {
-    "message.error.MakeOrders": "Make orders to get more Wands."
+    "message.error.makeOrders": "製作訂單來獲得更多魔杖。"
   },
   {
     "message.error.clickOnBubble": "請先完成上一個動作。"
@@ -1221,10 +1221,10 @@
     "common.button.free": "免費"
   },
   {
-    "common.button.adjust": "Adjust"
+    "common.button.adjust": "變更"
   },
   {
-    "common.button.buy.simple": "Buy"
+    "common.button.buy.simple": "購買"
   },
   {
     "common.button.buy": "購買 {0}"
@@ -1272,7 +1272,7 @@
     "common.button.undo": "復原"
   },
   {
-    "common.button.merge": "Merge"
+    "common.button.merge": "合併"
   },
   {
     "common.title.error": "錯誤"
@@ -1413,7 +1413,7 @@
     "piece.description.NPC_I": "沒有人真正在船上見過口若懸河的辛巴達，但他總是帶著巨額的財富返回。他將用盡方法對你推銷最新的商業冒險喔。"
   },
   {
-    "piece.description.NPC_J": "一杯牛奶大小的拇指姑娘贏得了仙女翅膀後，便安於家庭生活。如今，她熱衷於舉辦溫馨茶會，還喜歡豐富的花藝設計！只是別踩到她的地雷喔...... 她人雖小，但脾氣可大囉。"
+    "piece.description.NPC_J": "體型嬌小的拇指姑娘贏得了仙女翅膀後，便安於家庭生活。如今，她熱衷於舉辦溫馨茶會，還喜歡豐富的花藝設計！只是別踩到她的地雷喔...... 她人雖小，但脾氣可大囉。"
   },
   {
     "piece.description.NPC_K": "自從白雪公主之前所信任的很多人想方設法了斷她後，白雪公主開始懷疑她遇到的每個人，也討厭蘋果。你能怪她嗎？"
@@ -1431,7 +1431,7 @@
     "piece.description.NPC_O": "白兔從《夢遊仙境》到如今的變化不大，他總是杞人憂天，凡事都要按時間表進行，循規蹈矩在他認為是最好的方法。對啦，他完全不是「放輕鬆」的型。"
   },
   {
-    "piece.description.NPC_P": "這位古代夏威夷英雄的英勇事蹟可能不如以往宏大，但他仍然足智多謀。如今，你會瞥見他放鬆的在海上追風逐浪。哦，如果忍得住的話，千萬碰他的魚鉤喔。"
+    "piece.description.NPC_P": "這位古代夏威夷英雄的英勇事蹟可能不如以往宏大，但他仍然足智多謀。如今，你會瞥見他放鬆的在海上追風逐浪。哦，如果忍得住的話，千萬別碰他的魚鉤喔。"
   },
   {
     "piece.description.NPC_Q": "這位日本英雄從小就是有超人力的孩子，他在一座山上長大，與當地的小動物親愛有加。他已不再與怪獸對戰，但總有空間養新寵物。"
@@ -1459,6 +1459,9 @@
   },
   {
     "piece.description.NPC_Y": "人們說，沿著黃磚路走就對了。人們說會很有趣。從奧茲國返回之後，桃樂絲很清楚別相信暴風雨的天空。實際上，她儼然成為了氣象專家。"
+  },
+  {
+    "piece.description.NPC_Z": "傳說這位中國民間英雄是從混沌之中形成的神奇石誕生。這種說法恰如其分，因為你永遠不會知道孫悟空接下來的行動。強大和衝動構成了危險的組合。"
   },
   {
     "piece.name.A1": "圓木"
@@ -2382,7 +2385,7 @@
     "piece.name.SN_J9": "鳥歌花"
   },
   {
-    "piece.name.SN_J10": "收成樹"
+    "piece.name.SN_J10": "豐收樹"
   },
   {
     "piece.name.SN_J11": "華麗果園"
@@ -2511,7 +2514,7 @@
     "piece.name.EXT_E4": "開花嫩枝"
   },
   {
-    "piece.name.EXT_E5": "螳螂系"
+    "piece.name.EXT_E5": "螳螂枝幹"
   },
   {
     "piece.name.EXT_E6": "螳螂樹"
@@ -3370,6 +3373,12 @@
   },
   {
     "piece.name.NPC_Y2": "涼鞋"
+  },
+  {
+    "piece.name.NPC_Z1": "小金箍棒"
+  },
+  {
+    "piece.name.NPC_Z2": "神奇金箍棒"
   },
   {
     "piece.name.PR_A1": "小麥苗"
@@ -4320,6 +4329,9 @@
     "piece.name.NPC_Y": "桃樂絲·蓋爾"
   },
   {
+    "piece.name.NPC_Z": "孫悟空"
+  },
+  {
     "piece.name.HL1_A": "小木寶盆"
   },
   {
@@ -4977,6 +4989,9 @@
     "conversation.character.Dorothy": "桃樂絲·蓋爾"
   },
   {
+    "conversation.character.MonkeyKing": "孫悟空"
+  },
+  {
     "quest.supermatch.title": "進行超級合併"
   },
   {
@@ -5085,10 +5100,10 @@
     "quest.daily.message": "清除所有目標"
   },
   {
-    "quest.merge.mana.message": "Merge the Wands"
+    "quest.merge.mana.message": "合併魔杖"
   },
   {
-    "quest.merge.five.mana.message": "Merge 5 Wands at once"
+    "quest.merge.five.mana.message": "一次合併 5 根魔杖"
   },
   {
     "quest.market.title": "在市場購買"
@@ -5205,6 +5220,9 @@
     "task.use.mine.mn_x.hint": "此礦場會給你 <sprite name=X1> 或 <sprite name=X2> 直到完全耗盡。"
   },
   {
+    "task.use.mine.mn_z.hint": "此礦場會給你 <sprite name=Z1> 或 <sprite name=Z2> 直到完全耗盡。"
+  },
+  {
     "task.use.mine.mn_aa.hint": "此礦場會給你 <sprite name=AA1> 或 <sprite name=AA2> 直到完全耗盡。"
   },
   {
@@ -5314,6 +5332,9 @@
   },
   {
     "task.use.monument_y.hint": "使用此 <sprite name=YM> 來獲取各種有用的商品。"
+  },
+  {
+    "task.use.monument_z.hint": "使用此 <sprite name=ZM> 來獲取各種有用的商品。"
   },
   {
     "task.use.monument_aa.hint": "使用此 <sprite name=AAM> 來獲取各種有用的商品。"
@@ -5490,10 +5511,10 @@
     "notifications.restore.CreaturePortal.complete.message": "Last chance to use your Portal today! "
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.title": "Come and Claim!"
+    "notifications.restore.CreaturePortalReward.complete.title": "Claim Your Creature!"
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.message": "The legendary creature is ready to hatch from the Portal! "
+    "notifications.restore.CreaturePortalReward.complete.message": "A legendary creature is ready to hatch from your Portal! "
   },
   {
     "notifications.restore.monument.complete.title": "神奇儀式完成囉！"
@@ -5574,16 +5595,16 @@
     "notifications.event.build.unicorn.complete.message": "另一隻獨角獸在這裡！快來看看呀！"
   },
   {
-    "notifications.event.build.blueox.complete.title": "Hey, meet a Blue Ox!"
+    "notifications.event.build.blueox.complete.title": "嘿，來認識藍公牛吧！"
   },
   {
-    "notifications.event.build.blueox.complete.message": "Another Blue Ox is here! Check it out!"
+    "notifications.event.build.blueox.complete.message": "另一隻藍公牛來囉！快來瞧瞧吧！"
   },
   {
-    "notifications.event.build.reddragon.complete.title": "Hey, meet a Red Dragon!"
+    "notifications.event.build.reddragon.complete.title": "嘿，來認識紅龍吧！"
   },
   {
-    "notifications.event.build.reddragon.complete.message": "Another Red Dragon is here! Check it out!"
+    "notifications.event.build.reddragon.complete.message": "另一隻紅龍來囉！快來瞧瞧吧！"
   },
   {
     "notifications.event.build.fluffy.complete.title": "嘿，來認識新的毛可寶吧！"
@@ -5922,10 +5943,10 @@
     "window.event.UnicornIsland.title": "獨角獸熱潮"
   },
   {
-    "window.event.BlueoxIsland.title": "Blue Ox Island"
+    "window.event.BlueOxIsland.title": "藍公牛島"
   },
   {
-    "window.event.ReddgaronIsland.title": "Red Dragon Island"
+    "window.event.RedDragonIsland.title": "紅龍島"
   },
   {
     "window.event.FluffyIsland.title": "毛可寶島活動"
@@ -5997,10 +6018,10 @@
     "window.event.UnicornIsland.message": "完成建築物即可贏得 <sprite name=icon_EventToken> 還有一些神奇獎品喔！"
   },
   {
-    "window.event.BlueoxIsland.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.message": "創造藍公牛來贏得 <sprite name=icon_EventToken> 和一些神奇的獎品喔！"
   },
   {
-    "window.event.ReddragonIsland.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.message": "創造紅龍來贏得 <sprite name=icon_EventToken> 和一些神奇的獎品喔！"
   },
   {
     "window.event.FluffyIsland.message": "創造「毛可寶」來贏得 <sprite name=icon_EventToken> 並在活動期間領獎喔！"
@@ -6048,10 +6069,10 @@
     "window.event.UnicornIsland.preview.message": "來點兒獨角獸的魔法，天旋地轉真好玩！「獨角獸熱潮」活動即將推出！"
   },
   {
-    "window.event.BlueoxIsland.preview.message": "The Blue Ox event is coming! Let us give you prizes! Seriously!"
+    "window.event.BlueOxIsland.preview.message": "與保羅的頭號夥伴和一點秋之魔法來一起歡慶秋天吧！藍公牛島活動即將推出，還有特別為本季準備的地標獎品喔！"
   },
   {
-    "window.event.ReddragonIsland.preview.message": "The Red Dragon event is coming! Let us give you prizes! Seriously!"
+    "window.event.RedDragonIsland.preview.message": "你敢在這兇猛的地牢守衛面前尋寶嗎？來紅龍島試試你的勇氣吧！活動即將推出！"
   },
   {
     "window.event.FluffyIsland.preview.message": "當你將神獸和一隻......毛小夢混種時會生出什麼呢？\\n\\n在「毛可寶島」發現梅林的最新實驗！活動即將推出喔！"
@@ -6075,7 +6096,7 @@
     "window.event.HalloweenIsland.preview.message": "這是一年當中最鬼靈精怪的時候啦！在萬聖節前夕島上慶祝，為你的領地贏得驚悚有趣的裝飾吧！活動即將推出！"
   },
   {
-    "window.event.Thanksgiving.preview.message": "Blue Ox + Thanksgiving announce text."
+    "window.event.Thanksgiving.preview.message": "與保羅的頭號夥伴和一點秋之魔法來一起歡慶秋天吧！藍公牛島活動即將推出，還有特別為本季準備的地標獎品喔！"
   },
   {
     "window.event.MagicWorkshop.preview.message": "很想動手作嗎？移動的神奇工作坊就快來囉！\\n\\n趁它現身就趕緊抓住，並使用 <sprite name=icon_Mana> 來製作高級的組件等等喔！即將推出！"
@@ -6111,10 +6132,10 @@
     "window.event.UnicornIsland.hint.message": "完成建築物即可贏得 <sprite name=icon_EventToken> 還有一些神奇獎品喔！"
   },
   {
-    "window.event.BlueoxIsland.hint.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.hint.message": "創造藍公牛來贏得 <sprite name=icon_EventToken> 和一些神奇的獎品喔！"
   },
   {
-    "window.event.ReddragonIsland.hint.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.hint.message": "創造紅龍來贏得 <sprite name=icon_EventToken> 和一些神奇的獎品喔！"
   },
   {
     "window.event.FluffyIsland.hint.message": "創造「毛可寶」來贏得 <sprite name=icon_EventToken> 和一些神奇獎品喔！"
@@ -9297,7 +9318,7 @@
     "conversation.337.message1": "哇！白兔，屬於你的城堡耶。感覺如何？"
   },
   {
-    "conversation.337.message2": "嗯，比我平時住的地底洞穴升級許多。但若女王來訪的話，我想她會喜歡的。"
+    "conversation.337.message2": "嗯，比我平時住的地底洞穴升級許多。但若皇后來訪的話，我想她會喜歡的。"
   },
   {
     "conversation.337.message3": "又繼續談到那位皇后，然後哩......"
@@ -9685,6 +9706,99 @@
   },
   {
     "conversation.use.mn_y.message1": "沒有一個地方像農舍礦場所得到的供應品！對吧，托托？*汪汪*"
+  },
+  {
+    "conversation.npc_z3.message1": "一根神奇金箍棒！嗯，我敢打賭有人掉了這個。"
+  },
+  {
+    "conversation.npc_z4.message1": "哦， 酷！一把彎曲的劍。我們絕對可以用這個來跟海盜們對戰！"
+  },
+  {
+    "conversation.npc_z4.message2": "小叮鈴，那不是劍，而是一根金箍棒......戰鬥型金箍棒。*倒抽氣* 會不會是敵人的？"
+  },
+  {
+    "conversation.npc_z5.message1": "一根棍子、兩根棍子、三根棍子，更多棍子！"
+  },
+  {
+    "conversation.npc_z5.message2": "呃，巴克？你在那裡幹什麼？"
+  },
+  {
+    "conversation.npc_z5.message3": "老大，我只是在收集一些木柴呀，發現這邊到處都是這些棍子！"
+  },
+  {
+    "conversation.npc_z5.message4": "你最好別燒那些......我覺得它們有主人。"
+  },
+  {
+    "conversation.npc_z6.message1": "所以我很確定這東西是雨聲棒，但現在根本聽不到任何雨聲。可能是壞了。"
+  },
+  {
+    "conversation.npc_z6.message2": "孩子，你從夢遊仙境出來的路上撞壞腦袋了嗎？那是一根金箍棒，不是雨聲棒。"
+  },
+  {
+    "conversation.npc_z6.message3": "哦。原來如此，這樣更說得通了嘛。"
+  },
+  {
+    "conversation.npc_z7.message1": "哦，天啊，這些東西把這兒搞得一團糟！"
+  },
+  {
+    "conversation.npc_z7.message2": "*從灌木中彈跳出* 你覺得這東西屬於某個戰士嗎？我們的海岸遭到包圍了！"
+  },
+  {
+    "conversation.npc_z7.message3": "啊！你從哪兒來的？你覺得我們受到攻擊了嗎？我的天啊！我得保護洞穴！"
+  },
+  {
+    "conversation.npc_z8.message1": "木蘭又對島嶼的安全產生恐慌了。她似乎覺得這些金箍棒屬於某個戰士。"
+  },
+  {
+    "conversation.npc_z8.message2": "冰雪女王似乎覺得我反應過度了。嗯，當她的城堡崩壞成冰塊時，就笑不出來啦！"
+  },
+  {
+    "conversation.npc_z8.message3": "唉，唉。我們都別太快下結論。我們應該先給這位戰士一個發言的機會！我們需要找到更多金箍棒呀。"
+  },
+  {
+    "conversation.npc_z9.message1": "椰子頭盔？打勾。香蕉葉盔甲？打勾。巴克，看來戰鬥所需裝備，我們全都準備好了！"
+  },
+  {
+    "conversation.npc_z9.message2": "戰鬥？這是關於什麼的戰鬥？我也要參加！"
+  },
+  {
+    "conversation.npc_z9.message3": "木蘭說，我們可能受到攻擊。來，拿個頭盔。還有，如果你餓了，裡面有些椰子喔！"
+  },
+  {
+    "conversation.npc_z10.message1": "戰鬥的號角響起時，毛伊就來應戰！你會參加對抗神奇金箍棒之主的戰鬥嗎？"
+  },
+  {
+    "conversation.npc_z10.message2": "哎呀，我才不會做那種事！我只回應愛的呼喚。"
+  },
+  {
+    "conversation.npc_z10.message3": "哼？隨便你啦。這樣更多的榮耀就歸於我們其他人。"
+  },
+  {
+    "conversation.npc_z11.message1": "為什麼每個人都穿得像好戲正要開始？那是......椰子頭盔嗎？"
+  },
+  {
+    "conversation.npc_z11.message2": "為了戰鬥！為了榮耀！這裡是童話併國！"
+  },
+  {
+    "conversation.npc_z11.message3": "還在講關於金箍棒的事嗎？哦，我的迷霧啊......鄉親們，這些東西只代表我們會有一位新訪客！沒有戰鬥啦。"
+  },
+  {
+    "conversation.npc_z11.message4": "我早跟他們說過都反應過度了。"
+  },
+  {
+    "conversation.npc_z.message1": "*倒抽氣* 我想我知道這金箍棒的主人是誰！公主說得對， 畢竟他比敵人更朋友......"
+  },
+  {
+    "conversation.npc_z.order.message1": "啊！我們受到攻擊了！！"
+  },
+  {
+    "conversation.npc_z.order.message2": "*低語* 桃樂絲，親愛的，那只是孫悟空。嗯哼......我們很高興再次看到你舒展筋骨！"
+  },
+  {
+    "conversation.npc_z.order.message3": "大家在鬧哄哄吵什麼戰鬥？我從混沌世界醒過來嗎？"
+  },
+  {
+    "conversation.npc_z.order.message4": "抱歉，我嗯，把你和過去的敵人搞混了......"
   },
   {
     "conversation.365.message1": "瞧瞧這頂帽子！你覺得看起來怎麼樣？"
@@ -10515,19 +10629,19 @@
     "message.compensation.LongChainsMigration": "現在我們的各城堡中，有些更容易完成！某些組件外觀上有變更，但屬於你的每座城堡進度都已保存囉。"
   },
   {
-    "message.help.mana.title": "How to get mana"
+    "message.help.mana.title": "如何獲得魔杖"
   },
   {
     "message.help.mana.1": "收集食材"
   },
   {
-    "message.help.mana.2": "Make Orders"
+    "message.help.mana.2": "製作食譜訂單"
   },
   {
-    "message.help.mana.3": "Merge Wands "
+    "message.help.mana.3": "合併魔杖"
   },
   {
-    "message.help.mana.4": "Get Mana"
+    "message.help.mana.4": "使用魔法來揭開迷霧！"
   },
   {
     "window.LockMine.title": "如何解鎖"
@@ -10653,16 +10767,16 @@
     "window.specialoffer.unicorn1.main": "獲得這個即可在「獨角獸熱潮」活動中佔盡先機！"
   },
   {
-    "window.specialoffer.blueox1.title": "Blue Ox Boost!"
+    "window.specialoffer.blueox1.title": "藍公牛過關助手！"
   },
   {
-    "window.specialoffer.blueox1.main": "Buy this offer now and boost your progress in the Blue Ox event!"
+    "window.specialoffer.blueox1.main": "獲得這個即可在「藍公牛」活動中佔盡先機！"
   },
   {
-    "window.specialoffer.reddragon1.title": "Red Dragon Boost!"
+    "window.specialoffer.reddragon1.title": "紅龍過關助手！"
   },
   {
-    "window.specialoffer.reddragon1.main": "Buy this offer now and boost your progress in the Red Dragon event!"
+    "window.specialoffer.reddragon1.main": "獲得這個即可在「紅龍」活動中佔盡先機！"
   },
   {
     "window.specialoffer.fluffy1.title": "毛可寶過關助手"
@@ -10815,10 +10929,10 @@
     "window.specialoffer.reject.main": "你確定要離開嗎？不會再收到此優惠喔！"
   },
   {
-    "window.specialoffer.CreaturePortal.title": "Premium Creature Portal "
+    "window.specialoffer.CreaturePortal.title": "Premium Portal "
   },
   {
-    "window.specialoffer.CreaturePortal.main": "Get a Premium Portal which will bring you {0} every day for {1} days!"
+    "window.specialoffer.CreaturePortal.main": "A premium creature portal will bring you {0} every day for {1} days!"
   },
   {
     "title.ext.item": "花園組件"
@@ -10998,7 +11112,7 @@
     "window.specialoffer.CompleteCreature3M5.main": "升級傳奇神獸所需的一切！"
   },
   {
-    "piece.name.SO_Rainbow_Portal": "Rainbow Creature Portal"
+    "piece.name.SO_Rainbow_Portal": "Rainbow Portal"
   },
   {
     "piece.name.SO_Premium_Portal": "{0} Premium Portal"
@@ -12198,6 +12312,12 @@
     "piece.name.LM_37": "魔藥大師"
   },
   {
+    "piece.name.LM_38": "豐收貨車"
+  },
+  {
+    "piece.name.LM_39": "豐富聚寶盆"
+  },
+  {
     "piece.desc.LM_11": "萬聖節前夕島活動 2020"
   },
   {
@@ -12279,58 +12399,55 @@
     "window.market.hint.SO_Premium_Portal": "Premium Portal will give you {0} every day for {1} days!"
   },
   {
-    "window.market.hint.BOX_A1.common": "保證投下一種類型的 {0} 隻神獸。"
+    "window.market.hint.BOX_A1.common": "保證投下 {0} 隻大眾神獸。"
   },
   {
-    "window.market.hint.BOX_A1.rare": "保證投下一種類型的 {0} 隻神獸。"
+    "window.market.hint.BOX_A1.rare": "保證投下 {0} 隻稀奇神獸。"
   },
   {
-    "window.market.hint.BOX_A2.common": "保證投下一種類型的 {0} 隻神獸。"
+    "window.market.hint.BOX_A2.common": "保證投下 {0} 隻大眾神獸。"
   },
   {
-    "window.market.hint.BOX_A2.rare": "保證投下一種類型的 {0} 隻神獸。"
+    "window.market.hint.BOX_A2.rare": "保證投下 {0} 隻稀奇神獸。"
   },
   {
-    "window.market.hint.BOX_A2.legendary": "保證投下一種類型的 {0} 隻神獸。"
+    "window.market.hint.BOX_A2.legendary": "保證投下 {0} 隻傳奇神獸。"
   },
   {
-    "window.market.hint.BOX_A3.common": "保證投下一種類型的 {0} 隻神獸。"
+    "window.market.hint.BOX_A3.common": "保證投下 {0} 隻大眾神獸。"
   },
   {
-    "window.market.hint.BOX_A3.rare": "保證投下一種類型的 {0} 隻神獸。"
+    "window.market.hint.BOX_A3.rare": "保證投下 {0} 隻稀奇神獸。"
   },
   {
-    "window.market.hint.BOX_A3.legendary": "保證投下一種類型的 {0} 隻神獸。"
+    "window.market.hint.BOX_A3.legendary": "保證投下 {0} 隻傳奇神獸。"
   },
   {
-    "window.market.hint.BOX_B1.common": "保證投下一種類型的神獸。"
+    "window.market.hint.BOX_B1.common": "保證投下大眾神獸。"
   },
   {
-    "window.market.hint.BOX_B2.common": "保證投下一種類型的神獸。"
+    "window.market.hint.BOX_B2.common": "保證投下大眾神獸。"
   },
   {
-    "window.market.hint.BOX_B2.rare": "保證投下一種類型的神獸。"
+    "window.market.hint.BOX_B2.rare": "保證投下稀奇神獸。"
   },
   {
-    "window.market.hint.BOX_B3.common": "保證投下一種類型的神獸。"
+    "window.market.hint.BOX_B3.common": "保證投下大眾神獸。"
   },
   {
-    "window.market.hint.BOX_B3.rare": "保證投下一種類型的神獸。"
+    "window.market.hint.BOX_B3.rare": "保證投下稀奇神獸。"
   },
   {
-    "window.market.hint.BOX_B3.legendary": "保證投下一種類型的神獸。"
+    "window.market.hint.BOX_B3.legendary": "保證投下傳奇神獸。"
   },
   {
-    "window.market.hint.BOX_Feed.common": "保證投下一種類型的神獸。"
+    "window.market.hint.BOX_Feed.common": "保證投下大眾神獸。"
   },
   {
-    "window.market.hint.BOX_Feed.rare": "保證投下一種類型的神獸。"
+    "window.market.hint.BOX_Feed.rare": "保證投下稀奇神獸。"
   },
   {
     "window.market.hint.BOX_Feed.legendary": "保證投下 {0} 隻神獸。"
-  },
-  {
-    "window.market.hint.BOX.all": "保證投下此範圍的神獸數目在所列接收類型的機率中。"
   },
   {
     "window.container.title": "打開容器"
@@ -12433,6 +12550,12 @@
   },
   {
     "tutorial.conversation.habitat.unlock.3": "你完成的神獸種類越多，解鎖的棲息地就越多。那麼我們來繼續合併神獸吧！"
+  },
+  {
+    "tutorial.conversation.creatureportal.1": "Wow, it's a creature portal! Now these are cool. They transport legendary creatures directly to Mystic Isle! Go ahead, tap it to see how it works."
+  },
+  {
+    "tutorial.conversation.creatureportal.2": "Easy, right? Tomorrow you'll be able to transport another creature. Just come back and tap on the portal before it expires!"
   },
   {
     "message.error.habitat.locked": "尋找 {0} 來解鎖此棲息地"
@@ -12754,6 +12877,12 @@
   },
   {
     "window.doubleoffer.HalloweenOffers.main": "限時優惠，助你進度加速！外加特殊的季節裝飾！"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.title": "感恩節優惠！"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.main": "限時優惠，助你進度加速！還有特殊的佳節裝飾喔！"
   },
   {
     "window.habitat.info.common": "大眾"
@@ -13692,76 +13821,79 @@
     "piece.name.E12_A1": "羽蛇神寶珠"
   },
   {
-    "piece.name.E12_A2": "羽蛇神蛋"
+    "piece.name.E12_A2": "Small Egg"
   },
   {
-    "piece.name.E12_A3": "小族寶"
+    "piece.name.E12_A3": "羽蛇神蛋"
   },
   {
-    "piece.name.E12_A4": "阿奇寶"
+    "piece.name.E12_A4": "小族寶"
   },
   {
-    "piece.name.E12_A5": "尚堤哥"
+    "piece.name.E12_A5": "阿奇寶"
   },
   {
-    "piece.name.E12_A6": "托齊"
+    "piece.name.E12_A6": "尚堤哥"
   },
   {
-    "piece.name.E12_A7": "卡蘭羽蛇"
+    "piece.name.E12_A7": "托齊"
   },
   {
-    "piece.name.E12_A8": "羽蛇神"
+    "piece.name.E12_A8": "卡蘭羽蛇"
   },
   {
-    "window.codex.branch.E13_A": "Red Dragon"
+    "window.codex.branch.E13_A": "紅龍"
   },
   {
-    "piece.name.E13_A1": "Red Dragon"
+    "piece.name.E13_A1": "龍寶珠"
   },
   {
-    "piece.name.E13_A2": "Red Dragon"
+    "piece.name.E13_A2": "紅龍蛋"
   },
   {
-    "piece.name.E13_A3": "Red Dragon"
+    "piece.name.E13_A3": "小吐納"
   },
   {
-    "piece.name.E13_A4": "Red Dragon"
+    "piece.name.E13_A4": "思汀寶"
   },
   {
-    "piece.name.E13_A5": "Red Dragon"
+    "piece.name.E13_A5": "小火炬"
   },
   {
-    "piece.name.E13_A6": "Red Dragon"
+    "piece.name.E13_A6": "果凍豆兒"
   },
   {
-    "piece.name.E13_A7": "Red Dragon"
+    "piece.name.E13_A7": "炫光龍"
   },
   {
-    "piece.name.E13_A8": "Red Dragon"
+    "piece.name.E13_A8": "火旋神龍"
   },
   {
-    "piece.name.E5_A1": "Blue Ox"
+    "window.codex.branch.E5_A": "藍公牛寶貝"
   },
   {
-    "piece.name.E5_A2": "Blue Ox"
+    "piece.name.E5_A1": "公牛寶珠"
   },
   {
-    "piece.name.E5_A3": "Blue Ox"
+    "piece.name.E5_A2": "甜豆兒"
   },
   {
-    "piece.name.E5_A4": "Blue Ox"
+    "piece.name.E5_A3": "小蜜兒"
   },
   {
-    "piece.name.E5_A5": "Blue Ox"
+    "piece.name.E5_A4": "蜂香小牛"
   },
   {
-    "piece.name.E5_A6": "Blue Ox"
+    "piece.name.E5_A5": "咘巴巴"
   },
   {
-    "piece.name.E5_A7": "Blue Ox"
+    "piece.name.E5_A6": "甜心派"
   },
   {
-    "piece.name.E5_A8": "Blue Ox"
+    "piece.name.E5_A7": "香寶牛"
+  },
+  {
+    "piece.name.E5_A8": "藍公牛寶貝"
   },
   {
     "window.codex.branch.E_SP_AK": "貓草百合"
@@ -15111,220 +15243,220 @@
     "piece.name.E_SP_BP8": "鴨王"
   },
   {
-    "window.codex.branch.E_SP_BQ": "branch.E_SP_BQ"
+    "window.codex.branch.E_SP_BQ": "牛鈴"
   },
   {
-    "piece.name.E_SP_BQ1": "E_SP_BQ1"
+    "piece.name.E_SP_BQ1": "叮鈴鈴"
   },
   {
-    "piece.name.E_SP_BQ2": "E_SP_BQ2"
+    "piece.name.E_SP_BQ2": "牛鈴"
   },
   {
-    "piece.name.E_SP_BQ3": "E_SP_BQ3"
+    "piece.name.E_SP_BQ3": "花式鈴"
   },
   {
-    "piece.name.E_SP_BQ4": "E_SP_BQ4"
+    "piece.name.E_SP_BQ4": "響亮鈴"
   },
   {
-    "piece.name.E_SP_BQ5": "E_SP_BQ5"
+    "piece.name.E_SP_BQ5": "悅耳鈴"
   },
   {
-    "piece.name.E_SP_BQ6": "E_SP_BQ6"
+    "piece.name.E_SP_BQ6": "柔和動聽鈴"
   },
   {
-    "piece.name.E_SP_BQ7": "E_SP_BQ7"
+    "piece.name.E_SP_BQ7": "旋律優美鈴"
   },
   {
-    "piece.name.E_SP_BQ8": "E_SP_BQ8"
+    "piece.name.E_SP_BQ8": "美妙和諧鈴"
   },
   {
-    "window.codex.branch.E_SP_BR": "branch.E_SP_BR"
+    "window.codex.branch.E_SP_BR": "木雕像"
   },
   {
-    "piece.name.E_SP_BR1": "E_SP_BR1"
+    "piece.name.E_SP_BR1": "囊鼠雕像"
   },
   {
-    "piece.name.E_SP_BR2": "E_SP_BR2"
+    "piece.name.E_SP_BR2": "兔子雕像"
   },
   {
-    "piece.name.E_SP_BR3": "E_SP_BR3"
+    "piece.name.E_SP_BR3": "松鼠雕像"
   },
   {
-    "piece.name.E_SP_BR4": "E_SP_BR4"
+    "piece.name.E_SP_BR4": "浣熊雕像"
   },
   {
-    "piece.name.E_SP_BR5": "E_SP_BR5"
+    "piece.name.E_SP_BR5": "狐狸雕像"
   },
   {
-    "piece.name.E_SP_BR6": "E_SP_BR6"
+    "piece.name.E_SP_BR6": "狼雕像"
   },
   {
-    "piece.name.E_SP_BR7": "E_SP_BR7"
+    "piece.name.E_SP_BR7": "獾雕像"
   },
   {
-    "piece.name.E_SP_BR8": "E_SP_BR8"
+    "piece.name.E_SP_BR8": "公牛雕像"
   },
   {
-    "window.codex.branch.E_SP_BS": "branch.E_SP_BS"
+    "window.codex.branch.E_SP_BS": "伐木雪橇"
   },
   {
-    "piece.name.E_SP_BS1": "E_SP_BS1"
+    "piece.name.E_SP_BS1": "簡樸雪橇"
   },
   {
-    "piece.name.E_SP_BS2": "E_SP_BS2"
+    "piece.name.E_SP_BS2": "小雪橇"
   },
   {
-    "piece.name.E_SP_BS3": "E_SP_BS3"
+    "piece.name.E_SP_BS3": "粗糙雪橇"
   },
   {
-    "piece.name.E_SP_BS4": "E_SP_BS4"
+    "piece.name.E_SP_BS4": "質樸雪橇"
   },
   {
-    "piece.name.E_SP_BS5": "E_SP_BS5"
+    "piece.name.E_SP_BS5": "堅固雪橇"
   },
   {
-    "piece.name.E_SP_BS6": "E_SP_BS6"
+    "piece.name.E_SP_BS6": "花式雪橇"
   },
   {
-    "piece.name.E_SP_BS7": "E_SP_BS7"
+    "piece.name.E_SP_BS7": "富貴雪橇"
   },
   {
-    "piece.name.E_SP_BS8": "E_SP_BS8"
+    "piece.name.E_SP_BS8": "優雅雪橇"
   },
   {
-    "window.codex.branch.E_SP_BT": "branch.E_SP_BT"
+    "window.codex.branch.E_SP_BT": "木鋸"
   },
   {
-    "piece.name.E_SP_BT1": "E_SP_BT1"
+    "piece.name.E_SP_BT1": "簡樸鋸"
   },
   {
-    "piece.name.E_SP_BT2": "E_SP_BT2"
+    "piece.name.E_SP_BT2": "小鋸"
   },
   {
-    "piece.name.E_SP_BT3": "E_SP_BT3"
+    "piece.name.E_SP_BT3": "粗糙鋸"
   },
   {
-    "piece.name.E_SP_BT4": "E_SP_BT4"
+    "piece.name.E_SP_BT4": "質樸鋸"
   },
   {
-    "piece.name.E_SP_BT5": "E_SP_BT5"
+    "piece.name.E_SP_BT5": "花式鋸"
   },
   {
-    "piece.name.E_SP_BT6": "E_SP_BT6"
+    "piece.name.E_SP_BT6": "富貴鋸"
   },
   {
-    "piece.name.E_SP_BT7": "E_SP_BT7"
+    "piece.name.E_SP_BT7": "強大鏈鋸"
   },
   {
-    "piece.name.E_SP_BT8": "E_SP_BT8"
+    "piece.name.E_SP_BT8": "偉大鏈鋸"
   },
   {
-    "window.codex.branch.E_SP_BU": "branch.E_SP_BU"
+    "window.codex.branch.E_SP_BU": "劍"
   },
   {
-    "piece.name.E_SP_BU1": "E_SP_BU1"
+    "piece.name.E_SP_BU1": "簡樸劍"
   },
   {
-    "piece.name.E_SP_BU2": "E_SP_BU2"
+    "piece.name.E_SP_BU2": "粗糙劍"
   },
   {
-    "piece.name.E_SP_BU3": "E_SP_BU3"
+    "piece.name.E_SP_BU3": "質樸劍"
   },
   {
-    "piece.name.E_SP_BU4": "E_SP_BU4"
+    "piece.name.E_SP_BU4": "新手劍"
   },
   {
-    "piece.name.E_SP_BU5": "E_SP_BU5"
+    "piece.name.E_SP_BU5": "花式劍"
   },
   {
-    "piece.name.E_SP_BU6": "E_SP_BU6"
+    "piece.name.E_SP_BU6": "富貴劍"
   },
   {
-    "piece.name.E_SP_BU7": "E_SP_BU7"
+    "piece.name.E_SP_BU7": "大師劍"
   },
   {
-    "piece.name.E_SP_BU8": "E_SP_BU8"
+    "piece.name.E_SP_BU8": "精品劍"
   },
   {
-    "window.codex.branch.E_SP_BV": "branch.E_SP_BV"
+    "window.codex.branch.E_SP_BV": "盃"
   },
   {
-    "piece.name.E_SP_BV1": "E_SP_BV1"
+    "piece.name.E_SP_BV1": "簡樸馬克杯"
   },
   {
-    "piece.name.E_SP_BV2": "E_SP_BV2"
+    "piece.name.E_SP_BV2": "粗糙馬克杯"
   },
   {
-    "piece.name.E_SP_BV3": "E_SP_BV3"
+    "piece.name.E_SP_BV3": "質樸馬克杯"
   },
   {
-    "piece.name.E_SP_BV4": "E_SP_BV4"
+    "piece.name.E_SP_BV4": "堅固馬克杯"
   },
   {
-    "piece.name.E_SP_BV5": "E_SP_BV5"
+    "piece.name.E_SP_BV5": "花式盃"
   },
   {
-    "piece.name.E_SP_BV6": "E_SP_BV6"
+    "piece.name.E_SP_BV6": "富貴盃"
   },
   {
-    "piece.name.E_SP_BV7": "E_SP_BV7"
+    "piece.name.E_SP_BV7": "優雅盃"
   },
   {
-    "piece.name.E_SP_BV8": "E_SP_BV8"
+    "piece.name.E_SP_BV8": "絕美盃"
   },
   {
-    "window.codex.branch.E_SP_BW": "branch.E_SP_BW"
+    "window.codex.branch.E_SP_BW": "盾"
   },
   {
-    "piece.name.E_SP_BW1": "E_SP_BW1"
+    "piece.name.E_SP_BW1": "簡樸盾"
   },
   {
-    "piece.name.E_SP_BW2": "E_SP_BW2"
+    "piece.name.E_SP_BW2": "粗糙盾"
   },
   {
-    "piece.name.E_SP_BW3": "E_SP_BW3"
+    "piece.name.E_SP_BW3": "質樸盾"
   },
   {
-    "piece.name.E_SP_BW4": "E_SP_BW4"
+    "piece.name.E_SP_BW4": "堅固盾"
   },
   {
-    "piece.name.E_SP_BW5": "E_SP_BW5"
+    "piece.name.E_SP_BW5": "花式盾"
   },
   {
-    "piece.name.E_SP_BW6": "E_SP_BW6"
+    "piece.name.E_SP_BW6": "富貴盾"
   },
   {
-    "piece.name.E_SP_BW7": "E_SP_BW7"
+    "piece.name.E_SP_BW7": "強大盾"
   },
   {
-    "piece.name.E_SP_BW8": "E_SP_BW8"
+    "piece.name.E_SP_BW8": "偉大盾"
   },
   {
-    "window.codex.branch.E_SP_BX": "branch.E_SP_BX"
+    "window.codex.branch.E_SP_BX": "十字弓"
   },
   {
-    "piece.name.E_SP_BX1": "E_SP_BX1"
+    "piece.name.E_SP_BX1": "簡樸十字弓"
   },
   {
-    "piece.name.E_SP_BX2": "E_SP_BX2"
+    "piece.name.E_SP_BX2": "粗糙十字弓"
   },
   {
-    "piece.name.E_SP_BX3": "E_SP_BX3"
+    "piece.name.E_SP_BX3": "質樸十字弓"
   },
   {
-    "piece.name.E_SP_BX4": "E_SP_BX4"
+    "piece.name.E_SP_BX4": "堅固十字弓"
   },
   {
-    "piece.name.E_SP_BX5": "E_SP_BX5"
+    "piece.name.E_SP_BX5": "花式十字弓"
   },
   {
-    "piece.name.E_SP_BX6": "E_SP_BX6"
+    "piece.name.E_SP_BX6": "富貴十字弓"
   },
   {
-    "piece.name.E_SP_BX7": "E_SP_BX7"
+    "piece.name.E_SP_BX7": "強大十字弓"
   },
   {
-    "piece.name.E_SP_BX8": "E_SP_BX8"
+    "piece.name.E_SP_BX8": "偉大十字弓"
   },
   {
     "window.codex.branch.H6_A": "旋轉木馬"
@@ -15549,10 +15681,10 @@
     "window.navigation.islandcard.UnicornIsland.title": "獨角獸島"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.title": "Blue Ox Island"
+    "window.navigation.islandcard.BlueOxIsland.title": "藍公牛島"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.title": "Red Dragon Island"
+    "window.navigation.islandcard.RedDragonIsland.title": "紅龍島"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.title": "鳳凰島"
@@ -15648,10 +15780,10 @@
     "window.navigation.islandcard.UnicornIsland.description": "彩虹閃閃發亮之地"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.BlueOxIsland.description": "前方舒適的牧場"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.RedDragonIsland.description": "充滿寶藏的地牢"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.description": "太陽之外的火熱世界"
@@ -15714,10 +15846,10 @@
     "window.navigation.help.popup.ZooIslandLock.message": "繼續玩 {0} 來到達第 {1} 關並解鎖 {2}！"
   },
   {
-    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim!"
+    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim before it expires!"
   },
   {
-    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim!"
+    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim before it expires!"
   },
   {
     "window.event.howToPlay": "如何玩"
@@ -15771,10 +15903,10 @@
     "gameboard.bubble.button.landmark.skinning": "變更"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.claimed": "Today: claimed"
+    "gameboard.bubble.message.CreaturePortal.claimed": "Claimed Today"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.expired": "Expire in: {0} days"
+    "gameboard.bubble.message.CreaturePortal.expired": "Expires in: {0} days"
   },
   {
     "tutorial.conversation.SD.skinning.1": "又見面啦！你知道可以把神秘島裝飾成專屬於你的風格嗎？讓我來展示怎麼做吧！"
@@ -16633,6 +16765,81 @@
   },
   {
     "piece.name.YM": "蓋爾城堡"
+  },
+  {
+    "window.codex.branch.HL_Z": "神奇石來源"
+  },
+  {
+    "piece.name.HL1_Z": "小石寶盆"
+  },
+  {
+    "piece.name.HL2_Z": "小石塊"
+  },
+  {
+    "piece.name.HL3_Z": "石寶盆"
+  },
+  {
+    "piece.name.HL4_Z": "石塊"
+  },
+  {
+    "piece.name.HL5_Z": "大石寶盆"
+  },
+  {
+    "piece.name.HL6_Z": "石板"
+  },
+  {
+    "window.codex.branch.Z": "神奇石"
+  },
+  {
+    "piece.name.Z1": "巨石"
+  },
+  {
+    "piece.name.Z2": "石堆"
+  },
+  {
+    "piece.name.Z3": "小石屋"
+  },
+  {
+    "piece.name.Z4": "大石屋"
+  },
+  {
+    "piece.name.Z5": "花式石屋"
+  },
+  {
+    "piece.name.Z6": "石雅舍"
+  },
+  {
+    "piece.name.Z7": "石宅"
+  },
+  {
+    "piece.name.Z8": "石宮"
+  },
+  {
+    "piece.name.Z9": "花式石宮"
+  },
+  {
+    "piece.name.Z10": "石酒莊"
+  },
+  {
+    "piece.name.Z11": "豪華石酒莊"
+  },
+  {
+    "piece.name.Z12": "奢華石酒莊"
+  },
+  {
+    "piece.name.ZM": "孫悟空城堡"
+  },
+  {
+    "window.codex.branch.CH_Z": "神奇石"
+  },
+  {
+    "piece.name.CH1_Z": "小寶箱"
+  },
+  {
+    "piece.name.CH2_Z": "大寶箱"
+  },
+  {
+    "piece.name.CH3_Z": "超大寶箱"
   },
   {
     "window.delivery.title": "送貨服務"
@@ -18387,6 +18594,117 @@
     "conversation.use.wm.message2": "我？我不這麼覺得。夢幻島最終總有辦法找到你......"
   },
   {
+    "conversation.z3.message1": "查克，你看過這建築物的藍圖嗎？超多要求的。"
+  },
+  {
+    "conversation.z3.message2": "是喔！金浴缸？每個房間都要絲綢窗簾？能通天的塔？"
+  },
+  {
+    "conversation.z3.message3": "上次我們做如此昂貴的工作是為了邁達斯國王！"
+  },
+  {
+    "conversation.z3.message4": "我記得啊。還以為我永遠不會洗掉鬍子上的金子......"
+  },
+  {
+    "conversation.z4.message1": "建得怎麼樣了？"
+  },
+  {
+    "conversation.z4.message2": "嗯，我們現在有個質樸的洞穴和鬆散的泥土要處理。但別擔心，一切都在掌握中！"
+  },
+  {
+    "conversation.z4.message3": "一個天空王國即將推出！"
+  },
+  {
+    "conversation.z5.message1": "你聽說過這潑猴真的可以和眾神對戰嗎？超酷的。他也許能擊敗整個海盜艦隊喔。"
+  },
+  {
+    "conversation.z5.message2": "哼，他還沒跟我打過也沒贏過！"
+  },
+  {
+    "conversation.z5.message3": "他根本沒跟你對打過吧？"
+  },
+  {
+    "conversation.z5.message4": "那不是重點啦。"
+  },
+  {
+    "conversation.z6.message1": "那麼，你當時快死了，你說的？還睡了100年？多惱人啊。"
+  },
+  {
+    "conversation.z6.message2": "就是啊，對吧？！你碰過這種事嗎？"
+  },
+  {
+    "conversation.z6.message3": "才不。我是不朽之身，武功蓋世。"
+  },
+  {
+    "conversation.z7.message1": "你能對付這個女人嗎？她一直在我家附近轉來轉去，想要我的一隻猴掌。"
+  },
+  {
+    "conversation.z7.message2": "呃......芭芭雅加？有什麼我們能幫你的嗎？"
+  },
+  {
+    "conversation.z7.message3": "猴掌是世間最幸運之掌，一隻不朽猴子的掌更加幸運無比。再說，他還有兩隻呢。"
+  },
+  {
+    "conversation.z7.message4": "你有沒有想過用漂亮的四葉幸運草來代替？"
+  },
+  {
+    "conversation.z8.message1": "哇！這些花超讚的。選得風格這麼棒。等不及要看接下來你們蓋什麼了！"
+  },
+  {
+    "conversation.z8.message2": "你知道的，我一直最喜歡你喔。"
+  },
+  {
+    "conversation.z9.message1": "不好意思喔？孫悟空得到一個有螢幕顯示內容物的冰箱？那我們其他人呢？"
+  },
+  {
+    "conversation.z9.message2": "我們......我們只是按照藍圖辦事！"
+  },
+  {
+    "conversation.z9.message3": "*低語* 千萬別告訴她關於自動鞋架的事。"
+  },
+  {
+    "conversation.z10.message1": "室內健身房可以增添更多武器來進行訓練。庫存沒其他東西了嗎？"
+  },
+  {
+    "conversation.z10.message2": "我們最近有很多健身房要安裝，所以可能所剩不多了。有什麼要補充的嗎，查克？"
+  },
+  {
+    "conversation.z10.message3": "我們有幾個椰子頭盔和我在海灘上找到的一塊尖石。這些能用嗎？"
+  },
+  {
+    "conversation.z10.message4": "*嘆氣* 很好。我會想盡辦法的。"
+  },
+  {
+    "conversation.z11.message1": "孫悟空先生，這座塔對您來說夠高了嗎？藍圖提到 「一座高達雲端高速公路的塔」，從沒聽說過耶。"
+  },
+  {
+    "conversation.z11.message2": "我相信這足以找到一朵觔斗雲來騰雲駕霧。不過，這座塔可以再高一點。"
+  },
+  {
+    "conversation.z11.message3": "哦，哇，真沒想到有這種可能！旅行雲端的高速公路。"
+  },
+  {
+    "conversation.z12.message1": "再多幾塊石頭，我們就會看到真正神奇的東西！"
+  },
+  {
+    "conversation.zm.message1": "超讚！這真是我重新稱大王的完美地方......"
+  },
+  {
+    "conversation.zm.message2": "沒那麼快喔！恐怕這裡比較是團體投票的地方。可以請你提供聯絡資訊，好讓我們進行每月的問卷調查嗎？"
+  },
+  {
+    "conversation.use.zm.message1": "現在瞧瞧這座城堡。太美了吧，巴克！"
+  },
+  {
+    "conversation.use.zm.message2": "當然囉，查克。噢，糟糕了。你聽到斷裂聲了嗎？我覺得我們忘了用螺栓把床鎖好。"
+  },
+  {
+    "conversation.use.mn_z.message1": "適合美猴王的城堡只能用最神奇的石頭來造就！"
+  },
+  {
+    "conversation.use.mn_z.message2": "幸好我們找到了這座值得信賴的神奇石礦。"
+  },
+  {
     "window.island1_2.title": "新手號角島"
   },
   {
@@ -18900,6 +19218,12 @@
     "window.collection.locked.hint.premium.event.LM_37": "在萬聖節前夕 2021 活動中收集"
   },
   {
+    "window.collection.locked.hint.premium.event.LM_38": "感恩節 2021"
+  },
+  {
+    "window.collection.locked.hint.premium.event.LM_39": "感恩節 2021"
+  },
+  {
     "window.collection.description.LM_1": "踏入充滿神獸的神秘之地......你只需要打開大門！"
   },
   {
@@ -19009,6 +19333,12 @@
   },
   {
     "window.collection.description.LM_37": "想去掉肉贅？需要抗老精華液？向魔藥大師求教，也許能找到你要的解答喔！但要小心，他總是在尋找試藥的白老鼠。"
+  },
+  {
+    "window.collection.description.LM_38": "來豐收貨車挖寶，五彩繽紛的熟成美食絕對能舉辦一場盛宴。千萬別跟火雞說喔。"
+  },
+  {
+    "window.collection.description.LM_39": "傳說宙斯最初不小心折斷了羊角，使其獲得了源源不絕食物的法力。這真是幸運的意外呀。"
   },
   {
     "window.collection.description.DC_1": "運用這種常綠灌木來創造隱私性，整個冬季都保有美好的青綠。"
@@ -19146,117 +19476,6 @@
     "window.collection.description.DC_45": "這盞花燈籠的柔和光芒散發著放鬆與恢復感。"
   },
   {
-    "window.decoration.description.LM_1": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_2": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_3": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_4": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_5": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_6": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_7": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_8": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_9": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_10": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_11": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_12": "萬聖節前夕 2020 活動"
-  },
-  {
-    "window.decoration.description.LM_13": "萬聖節前夕 2020 活動"
-  },
-  {
-    "window.decoration.description.LM_14": "黑色星期五 2020 優惠"
-  },
-  {
-    "window.decoration.description.LM_15": "北極 2020 活動"
-  },
-  {
-    "window.decoration.description.LM_16": "北極 2020 活動"
-  },
-  {
-    "window.decoration.description.LM_17": "北極 2020 優惠"
-  },
-  {
-    "window.decoration.description.LM_18": "丘比特花園 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_19": "丘比特花園 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_20": "丘比特花園 2021 優惠"
-  },
-  {
-    "window.decoration.description.LM_21": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_22": "合併 1 週年慶 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_23": "合併 1 週年慶 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_24": "合併 1 週年慶 2021 優惠"
-  },
-  {
-    "window.decoration.description.LM_25": "仲夏 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_26": "仲夏 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_27": "仲夏 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_28": "夏日遊樂會 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_29": "夏日遊樂會 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_30": "夏日遊樂會 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_31": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_32": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_33": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_34": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_35": "神秘島市場"
-  },
-  {
-    "window.decoration.description.LM_36": "萬聖節前夕 2021 活動"
-  },
-  {
-    "window.decoration.description.LM_37": "萬聖節前夕 2021 活動"
-  },
-  {
     "window.decoration.category.LM.common": "標準地標"
   },
   {
@@ -19377,7 +19596,7 @@
     "window.market.description.energy": "領取後供 {0} 使用，但可以合併提升到第 4 層級的組件，以獲得更多能量。"
   },
   {
-    "window.market.description.InfinityEnergy": "使用這個來獲得 {0} 分鐘的無限能量！"
+    "window.market.description.InfinityEnergy": "使用這個來獲得<color=#7400B4>{0} 分鐘</color>的無限能量！"
   },
   {
     "piece.name.Boost_FR": "作物活化器"
@@ -19458,31 +19677,34 @@
     "window.profile.stats.monuments.5star": "五星級城堡"
   },
   {
+    "window.profile.stats.SDlevel.locked": "神秘\\n島"
+  },
+  {
     "window.profile.stats.SDlevel": "等級 {0} \\n神秘島"
   },
   {
     "window.profile.stats.mainlevel": "等級 {0} \\n主遊戲"
   },
   {
-    "window.profile.stats.next.level": "To next level: {0}/{1}"
+    "window.profile.stats.next.level": "等級進度：{0}/{1}"
   },
   {
-    "window.profile.edit.avatar.inf": "Use your discoveries book to set any piece you 've unlocked as Avatar"
+    "window.profile.edit.avatar.inf": "使用您的《收藏品書》，將您已解鎖的任何組件設定為個人檔案圖片！"
   },
   {
-    "window.profile.unlock.slot": "Unlock slot"
+    "window.profile.unlock.slot": "解鎖統計空位"
   },
   {
-    "window.profile.purchase.slot": "Purchase one more slot?"
+    "window.profile.purchase.slot": "還要加購一個空位？"
   },
   {
-    "window.profile.castles.main": "Main island castles"
+    "window.profile.castles.main": "主島城堡"
   },
   {
-    "window.profile.castles.paradise": "Paradise cove castles"
+    "window.profile.castles.paradise": "天堂灣城堡"
   },
   {
-    "window.profile.castles.keep.playing": "Keep playing to unlock this castle"
+    "window.profile.castles.keep.playing": "繼續玩來解鎖這座城堡"
   },
   {
     "window.profile.stats.SDcreatures.legendary": "收集的傳奇神獸"
@@ -19491,10 +19713,10 @@
     "window.profile.edit.name.button.random": "隨機"
   },
   {
-    "window.profile.connection.low": "Loading..."
+    "window.profile.connection.low": "載入中......"
   },
   {
-    "window.profile.connection.check": "Please, check your connection"
+    "window.profile.connection.check": "請檢查您的連線！"
   },
   {
     "window.profile.button.confirm": "確認"
@@ -19617,7 +19839,7 @@
     "window.codex.branch.NPC_Y": "桃樂絲·蓋爾"
   },
   {
-    "window.codex.branch.NPC_Z": "branch.NPC_Z"
+    "window.codex.branch.NPC_Z": "孫悟空"
   },
   {
     "window.codex.branch.NPC_AA": "睡美人"

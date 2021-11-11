@@ -613,6 +613,12 @@
       },
       {
         "TaskId": "Daily_Quest_11"
+      },
+      {
+        "TaskId": "Daily_Quest_12"
+      },
+      {
+        "TaskId": "Daily_Quest_13"
       }
     ]
   }

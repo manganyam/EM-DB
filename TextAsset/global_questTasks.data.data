@@ -1,0 +1,612 @@
+[
+  {
+    "$type": "TaskFacebookJoinEntity, GameAssembly",
+    "Id": "439_FacebookJoin",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "Facebook_quest_icon",
+        "Title": "quest.facebook.join.title",
+        "Message": "quest.facebook.join.message",
+        "Hint": "task.facebook.join.hint"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "305_CreatePiece_SN_A",
+    "PieceUid": "SN_A11",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalSpringEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalSpring.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "411_CreatePiece_SN_B",
+    "PieceUid": "SN_B11",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalSummerEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalSummer.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "429_CreatePiece_SN_C",
+    "PieceUid": "SN_C11",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalAutumnEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalAutumn.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "430_CreatePiece_SN_D",
+    "PieceUid": "SN_D11",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalWinterEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalWinter.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "440_CreatePiece_SN_E",
+    "PieceUid": "SN_E10",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalEasterEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalEaster.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "441_CreatePiece_SN_F",
+    "PieceUid": "SN_F10",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalSpring21Event",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalSpring212.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "442_CreatePiece_SN_G",
+    "PieceUid": "SN_G10",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalGardenGnomesEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalGardenGnomes.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "443_CreatePiece_SN_H",
+    "PieceUid": "SN_H10",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalTropicalPartyEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalTropicalParty.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "446_CreatePiece_SN_I",
+    "PieceUid": "SN_I10",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalWishingWellEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalWishingWell.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskSeasonalPieceEntity, GameAssembly",
+    "Id": "447_CreatePiece_SN_J",
+    "PieceUid": "SN_J11",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Ico": "IconSeasonalAutumnWindsEvent",
+        "Title": "quest.create.piece.title",
+        "Message": "window.SeasonalAutumnWinds.description"
+      }
+    }
+  },
+  {
+    "$type": "TaskCollectIngredientEntity, GameAssembly",
+    "Id": "34_CreatePiece_PR_B5",
+    "PieceUid": "PR_B5",
+    "TargetValue": 6,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.collect.ingredient.title",
+        "Message": "quest.collect.ingredient.message",
+        "Hint": "task.collect.ingredient.hint"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "74_CreatePiece_PR_D4",
+    "PieceUid": "PR_D4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "228_CreatePiece_PR_E4",
+    "PieceUid": "PR_E4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "229_CreatePiece_PR_F4",
+    "PieceUid": "PR_F4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "230_CreatePiece_PR_G4",
+    "PieceUid": "PR_G4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "248_CreatePiece_PR_H4",
+    "PieceUid": "PR_H4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "332_CreatePiece_PR_I4",
+    "PieceUid": "PR_I4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "426_CreatePiece_PR_J4",
+    "PieceUid": "PR_J4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "444_CreatePiece_PR_K4",
+    "PieceUid": "PR_K4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "445_CreatePiece_PR_L4",
+    "PieceUid": "PR_L4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "448_CreatePiece_Mana3",
+    "PieceUid": "Mana3",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "449_CreatePiece_Mana4",
+    "PieceUid": "Mana4",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "450_CreatePiece_Mana5",
+    "PieceUid": "Mana5",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCreatePieceEntity, GameAssembly",
+    "Id": "451_CreatePiece_Mana6",
+    "PieceUid": "Mana6",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestDescriptionComponent": {
+        "Title": "quest.create.piece.title",
+        "Message": "quest.create.piece.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCompleteDailyTaskEntity, GameAssembly",
+    "Id": "Daily_ClearAll",
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Soft4",
+            "Amount": 1
+          },
+          {
+            "Currency": "Hard4",
+            "Amount": 1
+          },
+          {
+            "Currency": "Soft5",
+            "Amount": 1
+          },
+          {
+            "Currency": "SK3_PR",
+            "Amount": 1
+          },
+          {
+            "Currency": "CH_NPC",
+            "Amount": 1
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "icon_daily_objectives",
+        "Message": "quest.daily.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskMatchEntity, GameAssembly",
+    "Id": "Daily_Quest_1",
+    "Group": "Permanent",
+    "TargetValue": 15,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 5
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "matchDailyQuestIcon",
+        "Message": "quest.match.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskSuperMatchEntity, GameAssembly",
+    "Id": "Daily_Quest_2",
+    "Group": "Permanent",
+    "TargetValue": 3,
+    "Value1": 5,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 5
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "quest_icon_super_match",
+        "Message": "quest.supermatch.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskPurchaseInMarketEntity, GameAssembly",
+    "Id": "Daily_Quest_3",
+    "Group": "Permanent",
+    "TargetValue": 1,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Crystals",
+            "Amount": 1
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "MarketIcon",
+        "Message": "quest.market.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskUseWorkerEntity, GameAssembly",
+    "Id": "Daily_Quest_4",
+    "Group": "Easy",
+    "TargetValue": 10,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 5
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "ChuckIcon",
+        "Message": "quest.use.worker.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskHitTreeEntity, GameAssembly",
+    "Id": "Daily_Quest_5",
+    "Group": "Easy",
+    "TargetValue": 6,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 5
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "quest_icon_hit_tree",
+        "Message": "quest.hit.tree.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCollectIngredientEntity, GameAssembly",
+    "Id": "Daily_Quest_6",
+    "Group": "Normal",
+    "TargetValue": 15,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 10
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "IngredientDailyQuestIcon",
+        "Message": "quest.collect.ingredient.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskOpenChestEntity, GameAssembly",
+    "Id": "Daily_Quest_7",
+    "Group": "Normal",
+    "TargetValue": 3,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 10
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "quest_icon_open_chest",
+        "Message": "quest.open.chest.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCurrencyCollectEntity, GameAssembly",
+    "Id": "Daily_Quest_8",
+    "Group": "Normal",
+    "PieceUid": "Coins",
+    "TargetValue": 200,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 10
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Message": "quest.currency.collect.soft.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCompleteOrderEntity, GameAssembly",
+    "Id": "Daily_Quest_9",
+    "Group": "Normal",
+    "TargetValue": 3,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 10
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Ico": "CompleateOrderDailyQuestIcon",
+        "Message": "quest.complete.orders.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCurrencySpendEntity, GameAssembly",
+    "Id": "Daily_Quest_10",
+    "Group": "Hard",
+    "PieceUid": "Coins",
+    "TargetValue": 150,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Crystals",
+            "Amount": 7
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Message": "quest.spend.currency.soft.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskCurrencySpendEntity, GameAssembly",
+    "Id": "Daily_Quest_11",
+    "Group": "Hard",
+    "PieceUid": "Crystals",
+    "TargetValue": 7,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Crystals",
+            "Amount": 10
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Message": "quest.spend.currency.hard.message"
+      }
+    }
+  },
+  {
+    "$type": "TaskMatchChainEntity, GameAssembly",
+    "Id": "Daily_Quest_12",
+    "Group": "Permanent",
+    "PieceUid": "Mana1",
+    "TargetValue": 3,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 5
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Message": "quest.merge.mana.message",
+        "Ico": "quest_icon_merge_mana"
+      }
+    }
+  },
+  {
+    "$type": "TaskSuperMatchChainEntity, GameAssembly",
+    "Id": "Daily_Quest_13",
+    "Group": "Easy",
+    "PieceUid": "Mana1",
+    "TargetValue": 1,
+    "Value1": 5,
+    "ComponentsCache": {
+      "QuestRewardComponent": {
+        "Value": [
+          {
+            "Currency": "Coins",
+            "Amount": 5
+          }
+        ]
+      },
+      "QuestDescriptionComponent": {
+        "Message": "quest.merge.five.mana.message",
+        "Ico": "quest_icon_super_merge_mana"
+      }
+    }
+  }
+]

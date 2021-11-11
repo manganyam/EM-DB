@@ -297,9 +297,6 @@
     "window.codex.branch.E4_A": "Monster van Loch Ness"
   },
   {
-    "window.codex.branch.E5_A": "Blue Ox E5_A"
-  },
-  {
     "window.codex.branch.H1_A": "Halloweenmonster"
   },
   {
@@ -543,10 +540,10 @@
     "window.codex.branch.E4_CH_B": "Hoogland"
   },
   {
-    "window.codex.branch.E5_CH_A": "E5_CH_A"
+    "window.codex.branch.E5_CH_A": "Hooi"
   },
   {
-    "window.codex.branch.E5_CH_B": "E5_CH_B"
+    "window.codex.branch.E5_CH_B": "Timmerhout"
   },
   {
     "window.codex.branch.H1_CH_A": "Pompoen"
@@ -573,10 +570,10 @@
     "window.codex.branch.E12_CH_B": "Wederopstanding"
   },
   {
-    "window.codex.branch.E13_CH_A": "E13_CH_A"
+    "window.codex.branch.E13_CH_A": "Schubben"
   },
   {
-    "window.codex.branch.E13_CH_B": "E13_CH_B"
+    "window.codex.branch.E13_CH_B": "Kerker"
   },
   {
     "window.codex.branch.SN_CH_A": "Lentebloem"
@@ -795,10 +792,10 @@
     "window.market.description.UnicornIsland.event": "Een regenboogbol: hiermee kun je eenhoorns maken."
   },
   {
-    "window.market.description.BlueoxIsland.event": "Use this to create Blue Oxen."
+    "window.market.description.BlueOxIsland.event": "Gebruik dit om blauwe ossen te maken."
   },
   {
-    "window.market.description.ReddragonIsland.event": "Use this to create Red Dragons."
+    "window.market.description.RedDragonIsland.event": "Gebruik dit om rode draken te maken."
   },
   {
     "window.market.description.FluffyIsland.event": "Gebruik dit om meer Fluffies te maken."
@@ -936,7 +933,7 @@
     "window.market.hint.Y": "Boerderij-objecten: {0}"
   },
   {
-    "window.market.hint.Z": "Z Pieces, {0}"
+    "window.market.hint.Z": "Magische stenen: {0}"
   },
   {
     "window.market.hint.AA": "Kaboutertent-objecten: {0}"
@@ -1095,6 +1092,9 @@
     "window.storageCheck.title": "Geen ruimte meer"
   },
   {
+    "window.storageCheck.cant.save": "Je kunt deze profielfoto niet opslaan omdat er onvoldoende opslagruimte op je apparaat is, dus maak ruimte vrij."
+  },
+  {
     "window.storageCheck.message": "Er is minder dan {0} MB beschikbaar op je apparaat. Je kunt de opgeslagen gegevens en voortgang kwijtraken als er onvoldoende ruimte vrij is."
   },
   {
@@ -1146,7 +1146,7 @@
     "message.error.noMagicWands": "Er zijn geen toverstokken in de buurt."
   },
   {
-    "message.error.MakeOrders": "Make orders to get more Wands."
+    "message.error.makeOrders": "Vervul bestellingen, dan krijg je meer toverstokken."
   },
   {
     "message.error.clickOnBubble": "Voltooi eerst de vorige actie."
@@ -1221,10 +1221,10 @@
     "common.button.free": "Gratis"
   },
   {
-    "common.button.adjust": "Adjust"
+    "common.button.adjust": "Wijzigen"
   },
   {
-    "common.button.buy.simple": "Buy"
+    "common.button.buy.simple": "Kopen"
   },
   {
     "common.button.buy": "Kopen: {0}"
@@ -1272,7 +1272,7 @@
     "common.button.undo": "Ongedaan maken"
   },
   {
-    "common.button.merge": "Merge"
+    "common.button.merge": "Samenvoegen"
   },
   {
     "common.title.error": "Fout"
@@ -1459,6 +1459,9 @@
   },
   {
     "piece.description.NPC_Y": "Sinds een tornado Dorothy met huis en al opzoog en naar het land van Oz blies, probeert ze tornado's uit alle macht te vermijden. Ze is tegenwoordig dan ook min of meer een weerspecialist."
+  },
+  {
+    "piece.description.NPC_Z": "Deze figuur uit de Chinese folklore is volgens de mythologie geboren uit een magische steen en heeft bovennatuurlijke krachten: hij is oersterk en razendsnel. Je weet nooit wat de Apenkoning gaat doen, want hij is ook nogal impulsief."
   },
   {
     "piece.name.A1": "Boomstam"
@@ -3372,6 +3375,12 @@
     "piece.name.NPC_Y2": "Sandalen"
   },
   {
+    "piece.name.NPC_Z1": "Stokje"
+  },
+  {
+    "piece.name.NPC_Z2": "Magische stok"
+  },
+  {
     "piece.name.PR_A1": "Graanscheut"
   },
   {
@@ -4320,6 +4329,9 @@
     "piece.name.NPC_Y": "Dorothy Gale"
   },
   {
+    "piece.name.NPC_Z": "Apenkoning"
+  },
+  {
     "piece.name.HL1_A": "Houten bakje"
   },
   {
@@ -4977,6 +4989,9 @@
     "conversation.character.Dorothy": "Dorothy Gale"
   },
   {
+    "conversation.character.MonkeyKing": "Apenkoning"
+  },
+  {
     "quest.supermatch.title": "Maak een supersamenvoeging"
   },
   {
@@ -5085,10 +5100,10 @@
     "quest.daily.message": "Haal alle doelen"
   },
   {
-    "quest.merge.mana.message": "Merge the Wands"
+    "quest.merge.mana.message": "Voeg de toverstokken samen"
   },
   {
-    "quest.merge.five.mana.message": "Merge 5 Wands at once"
+    "quest.merge.five.mana.message": "Voeg 5 toverstokken tegelijk samen"
   },
   {
     "quest.market.title": "Koop op de markt"
@@ -5205,6 +5220,9 @@
     "task.use.mine.mn_x.hint": "De mijn levert <sprite name=X1> of <sprite name=X2> op totdat deze leeg is."
   },
   {
+    "task.use.mine.mn_z.hint": "Deze mijn levert je <sprite name=Z1> of <sprite name=Z2> op totdat die leeg is."
+  },
+  {
     "task.use.mine.mn_aa.hint": "De mijn levert <sprite name=AA1> of <sprite name=AA2> op totdat deze leeg is."
   },
   {
@@ -5314,6 +5332,9 @@
   },
   {
     "task.use.monument_y.hint": "Gebruik dit <sprite name=YM>, dan krijg je allerlei nuttige objecten."
+  },
+  {
+    "task.use.monument_z.hint": "Gebruik dit <sprite name=ZM> om verschillende nuttige goederen te krijgen."
   },
   {
     "task.use.monument_aa.hint": "Gebruik dit <sprite name=AAM>, dan krijg je allerlei nuttige objecten."
@@ -5490,10 +5511,10 @@
     "notifications.restore.CreaturePortal.complete.message": "Last chance to use your Portal today! "
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.title": "Come and Claim!"
+    "notifications.restore.CreaturePortalReward.complete.title": "Claim Your Creature!"
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.message": "The legendary creature is ready to hatch from the Portal! "
+    "notifications.restore.CreaturePortalReward.complete.message": "A legendary creature is ready to hatch from your Portal! "
   },
   {
     "notifications.restore.monument.complete.title": "Magisch ritueel voltooid!"
@@ -5574,16 +5595,16 @@
     "notifications.event.build.unicorn.complete.message": "Er is nog een eenhoorn. Ga eens kijken!"
   },
   {
-    "notifications.event.build.blueox.complete.title": "Hey, meet a Blue Ox!"
+    "notifications.event.build.blueox.complete.title": "Er wacht een blauwe os op je!"
   },
   {
-    "notifications.event.build.blueox.complete.message": "Another Blue Ox is here! Check it out!"
+    "notifications.event.build.blueox.complete.message": "Er is een nieuwe blauwe os. Kijk maar eens!"
   },
   {
-    "notifications.event.build.reddragon.complete.title": "Hey, meet a Red Dragon!"
+    "notifications.event.build.reddragon.complete.title": "Er wacht een rode draak op je!"
   },
   {
-    "notifications.event.build.reddragon.complete.message": "Another Red Dragon is here! Check it out!"
+    "notifications.event.build.reddragon.complete.message": "Er is een nieuwe rode draak. Kijk maar eens!"
   },
   {
     "notifications.event.build.fluffy.complete.title": "Hé, er is een nieuwe Fluffie!"
@@ -5922,10 +5943,10 @@
     "window.event.UnicornIsland.title": "Eenhoornkabaal"
   },
   {
-    "window.event.BlueoxIsland.title": "Blue Ox Island"
+    "window.event.BlueOxIsland.title": "Blauwe os-eiland"
   },
   {
-    "window.event.ReddgaronIsland.title": "Red Dragon Island"
+    "window.event.RedDragonIsland.title": "Rode draak-eiland"
   },
   {
     "window.event.FluffyIsland.title": "Fluffie-event"
@@ -5997,10 +6018,10 @@
     "window.event.UnicornIsland.message": "Maak eenhoorns om <sprite name=icon_EventToken> en magische prijzen te winnen!"
   },
   {
-    "window.event.BlueoxIsland.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.message": "Maak blauwe ossen om magische prijzen te verdienen en <sprite name=icon_EventToken> te winnen!"
   },
   {
-    "window.event.ReddragonIsland.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.message": "Maak rode draken om magische prijzen te verdienen en <sprite name=icon_EventToken> te winnen!"
   },
   {
     "window.event.FluffyIsland.message": "Maak Fluffies om <sprite name=icon_EventToken> en magische beloningen te winnen!"
@@ -6048,10 +6069,10 @@
     "window.event.UnicornIsland.preview.message": "Het Eenhoornkabaal-event komt eraan: maak je dag magisch met kisten vol beloningen!"
   },
   {
-    "window.event.BlueoxIsland.preview.message": "The Blue Ox event is coming! Let us give you prizes! Seriously!"
+    "window.event.BlueOxIsland.preview.message": "Vier de komst van de herfst met Pauls beste vriend en een vleugje herfstmagie! Het Blauwe os-event begint bijna en je kunt hierin een speciale seizoensdecoratie winnen."
   },
   {
-    "window.event.ReddragonIsland.preview.message": "The Red Dragon event is coming! Let us give you prizes! Seriously!"
+    "window.event.RedDragonIsland.preview.message": "Durf jij de schatten te zoeken die deze woeste kerkerbewoner bewaakt? Ga de uitdaging aan in het Rode draak-event, dat binnenkort begint!"
   },
   {
     "window.event.FluffyIsland.preview.message": "Wat krijg je als je een manticore en een floefel kruist?\\n\\nKijk welk experiment Merlijn op Fluffie-eiland heeft uitgevoerd. Dit nieuwe event begint bijna!"
@@ -6075,7 +6096,7 @@
     "window.event.HalloweenIsland.preview.message": "Het is de engste tijd van het jaar! Vier het binnenkort op het nieuwe Halloweennacht-eiland en win decoraties voor je eiland."
   },
   {
-    "window.event.Thanksgiving.preview.message": "Blue Ox + Thanksgiving announce text."
+    "window.event.Thanksgiving.preview.message": "Vier de komst van de herfst met Pauls beste vriend en een vleugje herfstmagie! Het event Blauwe os-eiland begint bijna en je kunt hierin een speciale seizoensdecoratie winnen."
   },
   {
     "window.event.MagicWorkshop.preview.message": "Wil je met je handen werken? De reizende magische werkplaats komt eraan!\\n\\nGa erheen en gebruik <sprite name=icon_Mana> om objecten van een hoger niveau en nog meer te maken."
@@ -6111,10 +6132,10 @@
     "window.event.UnicornIsland.hint.message": "Maak eenhoorns om <sprite name=icon_EventToken> en magische prijzen te winnen!"
   },
   {
-    "window.event.BlueoxIsland.hint.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.hint.message": "Maak blauwe ossen om magische prijzen te verdienen en <sprite name=icon_EventToken> te winnen!"
   },
   {
-    "window.event.ReddragonIsland.hint.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.hint.message": "Maak rode draken om magische prijzen te verdienen en <sprite name=icon_EventToken> te winnen!"
   },
   {
     "window.event.FluffyIsland.hint.message": "Maak Fluffies om <sprite name=icon_EventToken> en magische prijzen te winnen!"
@@ -9687,6 +9708,99 @@
     "conversation.use.mn_y.message1": "Zoals het klokje in een boerderijmijn tikt... Wat denk je, Toto? (Geblaf)"
   },
   {
+    "conversation.npc_z3.message1": "Een magische stok! Ik wed dat iemand die mist."
+  },
+  {
+    "conversation.npc_z4.message1": "Cool, een zwaard! Daarmee kunnen we piraten van ons afslaan."
+  },
+  {
+    "conversation.npc_z4.message2": "Dat is geen zwaard, Tinkelbel, maar een vechtstok. Zou die van een vijand zijn?"
+  },
+  {
+    "conversation.npc_z5.message1": "Eén, twee, drie, dat gaat lekker!"
+  },
+  {
+    "conversation.npc_z5.message2": "Paulus, wat ben je aan het doen?"
+  },
+  {
+    "conversation.npc_z5.message3": "Ik verzamel brandhout, baas. Dit gebied is bezaaid met stokken!"
+  },
+  {
+    "conversation.npc_z5.message4": "Die moet je niet opstoken. Ik denk dat ze van iemand zijn."
+  },
+  {
+    "conversation.npc_z6.message1": "Ik was er zeker van dat dit een regenmaker was, maar het regent helemaal niet. Dat ding is kapot."
+  },
+  {
+    "conversation.npc_z6.message2": "Meisje, heb jij je hoofd gestoten toen je uit Wonderland vertrok? Dat is een stok, geen regenmaker."
+  },
+  {
+    "conversation.npc_z6.message3": "Ooo! Geen wonder."
+  },
+  {
+    "conversation.npc_z7.message1": "O jee, wat is het hier toch een troep!"
+  },
+  {
+    "conversation.npc_z7.message2": "(Springt uit struik) Ik denk dat die stokken van een krijger zijn. Onze kust wordt belegerd!"
+  },
+  {
+    "conversation.npc_z7.message3": "Aaah! Waar kom jij opeens vandaan? Denk je dat we worden aangevallen? Ik moet snel mijn huis beveiligen!"
+  },
+  {
+    "conversation.npc_z8.message1": "Mulan is zo'n paniekzaaier. Ze zegt tegen iedereen dat de stokken van een krijger zijn."
+  },
+  {
+    "conversation.npc_z8.message2": "De Sneeuwkoningin vindt dat ik overdrijf, maar het lachen zal haar wel vergaan als haar kasteel straks in puin ligt."
+  },
+  {
+    "conversation.npc_z8.message3": "Laten we het hoofd koel houden. We moeten eerst een gesprek met die krijger aangaan. Kom, we gaan meer stokken zoeken."
+  },
+  {
+    "conversation.npc_z9.message1": "Kokosnoothelmen? Check. Bananenbladharnas? Check. We zijn klaar voor de strijd, Paulus."
+  },
+  {
+    "conversation.npc_z9.message2": "Strijd? Is er een strijd? Ik wil meevechten!"
+  },
+  {
+    "conversation.npc_z9.message3": "Mulan zegt dat we worden aangevallen. Hier is een helm. En als je honger krijgt, kun je het kokosvlees aan de binnenkant eten."
+  },
+  {
+    "conversation.npc_z10.message1": "Als er een gevecht is, doet Maui mee! Vecht jij ook mee tegen de eigenaar van de magische stok?"
+  },
+  {
+    "conversation.npc_z10.message2": "Ik pieker er niet over. Ik geloof alleen in liefde."
+  },
+  {
+    "conversation.npc_z10.message3": "Hè? Wat je wilt. Dan gaan wij wel met de eer strijken."
+  },
+  {
+    "conversation.npc_z11.message1": "Waarom zien jullie eruit alsof jullie in een derderangstoneelstuk spelen? Is dat een kokosnoothelm?"
+  },
+  {
+    "conversation.npc_z11.message2": "Voor de strijd! Voor de glorie! Dit is EVERMERGE!"
+  },
+  {
+    "conversation.npc_z11.message3": "Heeft dit met de stokken te maken? Niet te geloven... Mensen, we gaan niet vechten. Er komt gewoon een nieuwe bewoner aan."
+  },
+  {
+    "conversation.npc_z11.message4": "Ik zei toch dat ze allemaal overdreven reageerden."
+  },
+  {
+    "conversation.npc_z.message1": "Ik denk dat ik weet van wie die stokken zijn! De prinses heeft gelijk. Hij is onze vriend, geen vijand."
+  },
+  {
+    "conversation.npc_z.order.message1": "Aaah, we worden aangevallen!"
+  },
+  {
+    "conversation.npc_z.order.message2": "(Fluistert) Dorothy, schat, dat is de Apenkoning... Hallo, we vinden het zo leuk om je weer te zien!"
+  },
+  {
+    "conversation.npc_z.order.message3": "Waarom heeft iedereen het over een aanval? Wat is er gebeurd toen ik sliep?"
+  },
+  {
+    "conversation.npc_z.order.message4": "Sorry, ik zag je aan voor een van mijn vele vijanden."
+  },
+  {
     "conversation.365.message1": "Moet je die hoed zien! Hoe staat die mij?"
   },
   {
@@ -10515,19 +10629,19 @@
     "message.compensation.LongChainsMigration": "Je kunt enkele kastelen nu makkelijker afmaken. Sommige objecten zien er anders uit, maar je voortgang voor elk kasteel is behouden!"
   },
   {
-    "message.help.mana.title": "How to get mana"
+    "message.help.mana.title": "Zo krijg je toverstokken"
   },
   {
     "message.help.mana.1": "Verzamel ingrediënten"
   },
   {
-    "message.help.mana.2": "Make Orders"
+    "message.help.mana.2": "Maak gerechten"
   },
   {
-    "message.help.mana.3": "Merge Wands "
+    "message.help.mana.3": "Voeg toverstokken samen"
   },
   {
-    "message.help.mana.4": "Get Mana"
+    "message.help.mana.4": "Gebruik magie om mist te verwijderen"
   },
   {
     "window.LockMine.title": "Ontgrendel-uitleg"
@@ -10653,16 +10767,16 @@
     "window.specialoffer.unicorn1.main": "Versnel hiermee je voortgang in het Eenhoornkabaal-event!"
   },
   {
-    "window.specialoffer.blueox1.title": "Blue Ox Boost!"
+    "window.specialoffer.blueox1.title": "Blauwe os-boost"
   },
   {
-    "window.specialoffer.blueox1.main": "Buy this offer now and boost your progress in the Blue Ox event!"
+    "window.specialoffer.blueox1.main": "Versnel hiermee je voortgang in het Blauwe os-event!"
   },
   {
-    "window.specialoffer.reddragon1.title": "Red Dragon Boost!"
+    "window.specialoffer.reddragon1.title": "Rode draak-boost"
   },
   {
-    "window.specialoffer.reddragon1.main": "Buy this offer now and boost your progress in the Red Dragon event!"
+    "window.specialoffer.reddragon1.main": "Versnel hiermee je voortgang in het Rode draak-event!"
   },
   {
     "window.specialoffer.fluffy1.title": "Fluffieboost"
@@ -10815,10 +10929,10 @@
     "window.specialoffer.reject.main": "Weet je zeker dat je deze aanbieding niet wilt? Die komt maar één keer!"
   },
   {
-    "window.specialoffer.CreaturePortal.title": "Premium Creature Portal "
+    "window.specialoffer.CreaturePortal.title": "Premium Portal "
   },
   {
-    "window.specialoffer.CreaturePortal.main": "Get a Premium Portal which will bring you {0} every day for {1} days!"
+    "window.specialoffer.CreaturePortal.main": "A premium creature portal will bring you {0} every day for {1} days!"
   },
   {
     "title.ext.item": "Tuinobject"
@@ -10998,7 +11112,7 @@
     "window.specialoffer.CompleteCreature3M5.main": "Alles wat je nodig hebt om een legendarisch dier van een hoger niveau te krijgen."
   },
   {
-    "piece.name.SO_Rainbow_Portal": "Rainbow Creature Portal"
+    "piece.name.SO_Rainbow_Portal": "Rainbow Portal"
   },
   {
     "piece.name.SO_Premium_Portal": "{0} Premium Portal"
@@ -12198,6 +12312,12 @@
     "piece.name.LM_37": "Drankduivel"
   },
   {
+    "piece.name.LM_38": "Oogstwagen"
+  },
+  {
+    "piece.name.LM_39": "Hoorn des overvloeds"
+  },
+  {
     "piece.desc.LM_11": "Halloweennacht 2020"
   },
   {
@@ -12279,58 +12399,55 @@
     "window.market.hint.SO_Premium_Portal": "Premium Portal will give you {0} every day for {1} days!"
   },
   {
-    "window.market.hint.BOX_A1.common": "Gegarandeerde levering van {0} dieren van één soort."
+    "window.market.hint.BOX_A1.common": "Gegarandeerde levering van {0} alledaagse dieren."
   },
   {
-    "window.market.hint.BOX_A1.rare": "Gegarandeerde levering van {0} dieren van één soort."
+    "window.market.hint.BOX_A1.rare": "Gegarandeerde levering van {0} zeldzame dieren."
   },
   {
-    "window.market.hint.BOX_A2.common": "Gegarandeerde levering van {0} dieren van één soort."
+    "window.market.hint.BOX_A2.common": "Gegarandeerde levering van {0} alledaagse dieren."
   },
   {
-    "window.market.hint.BOX_A2.rare": "Gegarandeerde levering van{0} dieren van één soort."
+    "window.market.hint.BOX_A2.rare": "Gegarandeerde levering van {0} zeldzame dieren."
   },
   {
-    "window.market.hint.BOX_A2.legendary": "Gegarandeerde levering van {0} dieren van één soort."
+    "window.market.hint.BOX_A2.legendary": "Gegarandeerde levering van {0} legendarische dieren."
   },
   {
-    "window.market.hint.BOX_A3.common": "Gegarandeerde levering van {0} dieren van één soort."
+    "window.market.hint.BOX_A3.common": "Gegarandeerde levering van {0} alledaagse dieren."
   },
   {
-    "window.market.hint.BOX_A3.rare": "Gegarandeerde levering van {0} dieren van één soort."
+    "window.market.hint.BOX_A3.rare": "Gegarandeerde levering van {0} zeldzame dieren."
   },
   {
-    "window.market.hint.BOX_A3.legendary": "Gegarandeerde levering van {0} dieren van één soort."
+    "window.market.hint.BOX_A3.legendary": "Gegarandeerde levering van {0} legendarische dieren."
   },
   {
-    "window.market.hint.BOX_B1.common": "Gegarandeerde levering van dieren van één soort."
+    "window.market.hint.BOX_B1.common": "Gegarandeerde levering van alledaagse dieren."
   },
   {
-    "window.market.hint.BOX_B2.common": "Gegarandeerde levering van dieren van één soort."
+    "window.market.hint.BOX_B2.common": "Gegarandeerde levering van alledaagse dieren."
   },
   {
-    "window.market.hint.BOX_B2.rare": "Gegarandeerde levering van dieren van één soort."
+    "window.market.hint.BOX_B2.rare": "Gegarandeerde levering van zeldzame dieren."
   },
   {
-    "window.market.hint.BOX_B3.common": "Gegarandeerde levering van dieren van één soort."
+    "window.market.hint.BOX_B3.common": "Gegarandeerde levering van alledaagse dieren."
   },
   {
-    "window.market.hint.BOX_B3.rare": "Gegarandeerde levering van dieren van één soort."
+    "window.market.hint.BOX_B3.rare": "Gegarandeerde levering van zeldzame dieren."
   },
   {
-    "window.market.hint.BOX_B3.legendary": "Gegarandeerde levering van dieren van één soort."
+    "window.market.hint.BOX_B3.legendary": "Gegarandeerde levering van legendarische dieren."
   },
   {
-    "window.market.hint.BOX_Feed.common": "Gegarandeerde levering van dieren van één soort."
+    "window.market.hint.BOX_Feed.common": "Gegarandeerde levering van alledaagse dieren."
   },
   {
-    "window.market.hint.BOX_Feed.rare": "Gegarandeerde levering van dieren van één soort."
+    "window.market.hint.BOX_Feed.rare": "Gegarandeerde levering van zeldzame dieren."
   },
   {
     "window.market.hint.BOX_Feed.legendary": "Gegarandeerde levering van {0} dier."
-  },
-  {
-    "window.market.hint.BOX.all": "Gegarandeerde levering van dieren in deze categorieën en een kans op deze soort, zoals vermeld."
   },
   {
     "window.container.title": "Pakket openen"
@@ -12433,6 +12550,12 @@
   },
   {
     "tutorial.conversation.habitat.unlock.3": "Hoe meer dieren je voltooit, hoe meer habitats je vrijspeelt, dus blijf dieren samenvoegen!"
+  },
+  {
+    "tutorial.conversation.creatureportal.1": "Wow, it's a creature portal! Now these are cool. They transport legendary creatures directly to Mystic Isle! Go ahead, tap it to see how it works."
+  },
+  {
+    "tutorial.conversation.creatureportal.2": "Easy, right? Tomorrow you'll be able to transport another creature. Just come back and tap on the portal before it expires!"
   },
   {
     "message.error.habitat.locked": "Zoek {0} om deze habitat te ontgrendelen"
@@ -12741,7 +12864,7 @@
     "window.doubleoffer.BlackFridayOffers.title": "Seizoensaanbieding"
   },
   {
-    "window.doubleoffer.BlackFridayOffers.main": "Tijdelijke deal om je voortgang te versnellen en je krijgt er een bijzondere seizoensdecoratie bij!"
+    "window.doubleoffer.BlackFridayOffers.main": "Tijdelijke aanbieding om je voortgang te versnellen en je krijgt er een bijzondere seizoensdecoratie bij!"
   },
   {
     "window.doubleoffer.ChristmasOffers.title": "Kerstsale!"
@@ -12753,7 +12876,13 @@
     "window.doubleoffer.HalloweenOffers.title": "Halloweensale!"
   },
   {
-    "window.doubleoffer.HalloweenOffers.main": "Tijdelijke deal om je voortgang te versnellen en je krijgt er een bijzondere seizoensdecoratie bij!"
+    "window.doubleoffer.HalloweenOffers.main": "Tijdelijke aanbieding om je voortgang te versnellen en je krijgt er een bijzondere seizoensdecoratie bij!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.title": "Thanksgiving-sale!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.main": "Tijdelijke aanbieding om je voortgang te versnellen en je krijgt er een bijzondere seizoensdecoratie bij!"
   },
   {
     "window.habitat.info.common": "Alledaags"
@@ -13692,76 +13821,79 @@
     "piece.name.E12_A1": "Quetzalcoatlusbol"
   },
   {
-    "piece.name.E12_A2": "Quetzalcoatl-ei"
+    "piece.name.E12_A2": "Small Egg"
   },
   {
-    "piece.name.E12_A3": "Zuma"
+    "piece.name.E12_A3": "Quetzalcoatl-ei"
   },
   {
-    "piece.name.E12_A4": "Atzi"
+    "piece.name.E12_A4": "Zuma"
   },
   {
-    "piece.name.E12_A5": "Chantico"
+    "piece.name.E12_A5": "Atzi"
   },
   {
-    "piece.name.E12_A6": "Tozi"
+    "piece.name.E12_A6": "Chantico"
   },
   {
-    "piece.name.E12_A7": "Acalan"
+    "piece.name.E12_A7": "Tozi"
   },
   {
-    "piece.name.E12_A8": "Quetzalcoatl"
+    "piece.name.E12_A8": "Acalan"
   },
   {
-    "window.codex.branch.E13_A": "Red Dragon"
+    "window.codex.branch.E13_A": "Rode draak"
   },
   {
-    "piece.name.E13_A1": "Red Dragon"
+    "piece.name.E13_A1": "Drakenbol"
   },
   {
-    "piece.name.E13_A2": "Red Dragon"
+    "piece.name.E13_A2": "Drakenei"
   },
   {
-    "piece.name.E13_A3": "Red Dragon"
+    "piece.name.E13_A3": "Brandje"
   },
   {
-    "piece.name.E13_A4": "Red Dragon"
+    "piece.name.E13_A4": "Fikkie"
   },
   {
-    "piece.name.E13_A5": "Red Dragon"
+    "piece.name.E13_A5": "Hens"
   },
   {
-    "piece.name.E13_A6": "Red Dragon"
+    "piece.name.E13_A6": "Fakkelfien"
   },
   {
-    "piece.name.E13_A7": "Red Dragon"
+    "piece.name.E13_A7": "Toorts"
   },
   {
-    "piece.name.E13_A8": "Red Dragon"
+    "piece.name.E13_A8": "Vuurstorm"
   },
   {
-    "piece.name.E5_A1": "Blue Ox"
+    "window.codex.branch.E5_A": "Babe de blauwe os"
   },
   {
-    "piece.name.E5_A2": "Blue Ox"
+    "piece.name.E5_A1": "Ossenbol"
   },
   {
-    "piece.name.E5_A3": "Blue Ox"
+    "piece.name.E5_A2": "Snoesje"
   },
   {
-    "piece.name.E5_A4": "Blue Ox"
+    "piece.name.E5_A3": "Schattebout"
   },
   {
-    "piece.name.E5_A5": "Blue Ox"
+    "piece.name.E5_A4": "Oelepetoetje"
   },
   {
-    "piece.name.E5_A6": "Blue Ox"
+    "piece.name.E5_A5": "Snoepie"
   },
   {
-    "piece.name.E5_A7": "Blue Ox"
+    "piece.name.E5_A6": "Liefje"
   },
   {
-    "piece.name.E5_A8": "Blue Ox"
+    "piece.name.E5_A7": "Osseplos"
+  },
+  {
+    "piece.name.E5_A8": "Blauwe babe"
   },
   {
     "window.codex.branch.E_SP_AK": "Kattenkruid"
@@ -15111,220 +15243,220 @@
     "piece.name.E_SP_BP8": "Koning Eend"
   },
   {
-    "window.codex.branch.E_SP_BQ": "branch.E_SP_BQ"
+    "window.codex.branch.E_SP_BQ": "Koeienbel"
   },
   {
-    "piece.name.E_SP_BQ1": "E_SP_BQ1"
+    "piece.name.E_SP_BQ1": "Kerstbel"
   },
   {
-    "piece.name.E_SP_BQ2": "E_SP_BQ2"
+    "piece.name.E_SP_BQ2": "Koeienbel"
   },
   {
-    "piece.name.E_SP_BQ3": "E_SP_BQ3"
+    "piece.name.E_SP_BQ3": "Luxueuze bel"
   },
   {
-    "piece.name.E_SP_BQ4": "E_SP_BQ4"
+    "piece.name.E_SP_BQ4": "Rinkelende bel"
   },
   {
-    "piece.name.E_SP_BQ5": "E_SP_BQ5"
+    "piece.name.E_SP_BQ5": "Twinkelende bel"
   },
   {
-    "piece.name.E_SP_BQ6": "E_SP_BQ6"
+    "piece.name.E_SP_BQ6": "Lieflijke bel"
   },
   {
-    "piece.name.E_SP_BQ7": "E_SP_BQ7"
+    "piece.name.E_SP_BQ7": "Melodieuze bel"
   },
   {
-    "piece.name.E_SP_BQ8": "E_SP_BQ8"
+    "piece.name.E_SP_BQ8": "Harmonieuze bel"
   },
   {
-    "window.codex.branch.E_SP_BR": "branch.E_SP_BR"
+    "window.codex.branch.E_SP_BR": "Houten beeld"
   },
   {
-    "piece.name.E_SP_BR1": "E_SP_BR1"
+    "piece.name.E_SP_BR1": "Marmottenbeeld"
   },
   {
-    "piece.name.E_SP_BR2": "E_SP_BR2"
+    "piece.name.E_SP_BR2": "Konijnenbeeld"
   },
   {
-    "piece.name.E_SP_BR3": "E_SP_BR3"
+    "piece.name.E_SP_BR3": "Eekhoornbeeld"
   },
   {
-    "piece.name.E_SP_BR4": "E_SP_BR4"
+    "piece.name.E_SP_BR4": "Wasberenbeeld"
   },
   {
-    "piece.name.E_SP_BR5": "E_SP_BR5"
+    "piece.name.E_SP_BR5": "Vossenbeeld"
   },
   {
-    "piece.name.E_SP_BR6": "E_SP_BR6"
+    "piece.name.E_SP_BR6": "Wolvenbeeld"
   },
   {
-    "piece.name.E_SP_BR7": "E_SP_BR7"
+    "piece.name.E_SP_BR7": "Dassenbeeld"
   },
   {
-    "piece.name.E_SP_BR8": "E_SP_BR8"
+    "piece.name.E_SP_BR8": "Ossenbeeld"
   },
   {
-    "window.codex.branch.E_SP_BS": "branch.E_SP_BS"
+    "window.codex.branch.E_SP_BS": "Houtslee"
   },
   {
-    "piece.name.E_SP_BS1": "E_SP_BS1"
+    "piece.name.E_SP_BS1": "Eenvoudige slee"
   },
   {
-    "piece.name.E_SP_BS2": "E_SP_BS2"
+    "piece.name.E_SP_BS2": "Sleetje"
   },
   {
-    "piece.name.E_SP_BS3": "E_SP_BS3"
+    "piece.name.E_SP_BS3": "Ruwe slee"
   },
   {
-    "piece.name.E_SP_BS4": "E_SP_BS4"
+    "piece.name.E_SP_BS4": "Rustieke slee"
   },
   {
-    "piece.name.E_SP_BS5": "E_SP_BS5"
+    "piece.name.E_SP_BS5": "Solide slee"
   },
   {
-    "piece.name.E_SP_BS6": "E_SP_BS6"
+    "piece.name.E_SP_BS6": "Luxueuze slee"
   },
   {
-    "piece.name.E_SP_BS7": "E_SP_BS7"
+    "piece.name.E_SP_BS7": "Superluxe slee"
   },
   {
-    "piece.name.E_SP_BS8": "E_SP_BS8"
+    "piece.name.E_SP_BS8": "Sierlijke slee"
   },
   {
-    "window.codex.branch.E_SP_BT": "branch.E_SP_BT"
+    "window.codex.branch.E_SP_BT": "Houtzaag"
   },
   {
-    "piece.name.E_SP_BT1": "E_SP_BT1"
+    "piece.name.E_SP_BT1": "Eenvoudige zaag"
   },
   {
-    "piece.name.E_SP_BT2": "E_SP_BT2"
+    "piece.name.E_SP_BT2": "Zaagje"
   },
   {
-    "piece.name.E_SP_BT3": "E_SP_BT3"
+    "piece.name.E_SP_BT3": "Ruwe zaag"
   },
   {
-    "piece.name.E_SP_BT4": "E_SP_BT4"
+    "piece.name.E_SP_BT4": "Rustieke zaag"
   },
   {
-    "piece.name.E_SP_BT5": "E_SP_BT5"
+    "piece.name.E_SP_BT5": "Luxueuze zaag"
   },
   {
-    "piece.name.E_SP_BT6": "E_SP_BT6"
+    "piece.name.E_SP_BT6": "Superluxe zaag"
   },
   {
-    "piece.name.E_SP_BT7": "E_SP_BT7"
+    "piece.name.E_SP_BT7": "Krachtige zaag"
   },
   {
-    "piece.name.E_SP_BT8": "E_SP_BT8"
+    "piece.name.E_SP_BT8": "Kettingzaag"
   },
   {
-    "window.codex.branch.E_SP_BU": "branch.E_SP_BU"
+    "window.codex.branch.E_SP_BU": "Zwaard"
   },
   {
-    "piece.name.E_SP_BU1": "E_SP_BU1"
+    "piece.name.E_SP_BU1": "Eenvoudig zwaard"
   },
   {
-    "piece.name.E_SP_BU2": "E_SP_BU2"
+    "piece.name.E_SP_BU2": "Bot zwaard"
   },
   {
-    "piece.name.E_SP_BU3": "E_SP_BU3"
+    "piece.name.E_SP_BU3": "Scherp zwaard"
   },
   {
-    "piece.name.E_SP_BU4": "E_SP_BU4"
+    "piece.name.E_SP_BU4": "Vlijmscherp zwaard"
   },
   {
-    "piece.name.E_SP_BU5": "E_SP_BU5"
+    "piece.name.E_SP_BU5": "Luxueus zwaard"
   },
   {
-    "piece.name.E_SP_BU6": "E_SP_BU6"
+    "piece.name.E_SP_BU6": "Superluxe zwaard"
   },
   {
-    "piece.name.E_SP_BU7": "E_SP_BU7"
+    "piece.name.E_SP_BU7": "Glimmend zwaard"
   },
   {
-    "piece.name.E_SP_BU8": "E_SP_BU8"
+    "piece.name.E_SP_BU8": "Uniek zwaard"
   },
   {
-    "window.codex.branch.E_SP_BV": "branch.E_SP_BV"
+    "window.codex.branch.E_SP_BV": "Kelk"
   },
   {
-    "piece.name.E_SP_BV1": "E_SP_BV1"
+    "piece.name.E_SP_BV1": "Eenvoudige beker"
   },
   {
-    "piece.name.E_SP_BV2": "E_SP_BV2"
+    "piece.name.E_SP_BV2": "Ruwe beker"
   },
   {
-    "piece.name.E_SP_BV3": "E_SP_BV3"
+    "piece.name.E_SP_BV3": "Rustieke beker"
   },
   {
-    "piece.name.E_SP_BV4": "E_SP_BV4"
+    "piece.name.E_SP_BV4": "Stevige beker"
   },
   {
-    "piece.name.E_SP_BV5": "E_SP_BV5"
+    "piece.name.E_SP_BV5": "Luxueuze kelk"
   },
   {
-    "piece.name.E_SP_BV6": "E_SP_BV6"
+    "piece.name.E_SP_BV6": "Superluxe kelk"
   },
   {
-    "piece.name.E_SP_BV7": "E_SP_BV7"
+    "piece.name.E_SP_BV7": "Sierlijke kelk"
   },
   {
-    "piece.name.E_SP_BV8": "E_SP_BV8"
+    "piece.name.E_SP_BV8": "Sublieme kelk"
   },
   {
-    "window.codex.branch.E_SP_BW": "branch.E_SP_BW"
+    "window.codex.branch.E_SP_BW": "Schild"
   },
   {
-    "piece.name.E_SP_BW1": "E_SP_BW1"
+    "piece.name.E_SP_BW1": "Eenvoudig schild"
   },
   {
-    "piece.name.E_SP_BW2": "E_SP_BW2"
+    "piece.name.E_SP_BW2": "Ruw schild"
   },
   {
-    "piece.name.E_SP_BW3": "E_SP_BW3"
+    "piece.name.E_SP_BW3": "Rustiek schild"
   },
   {
-    "piece.name.E_SP_BW4": "E_SP_BW4"
+    "piece.name.E_SP_BW4": "Stevig schild"
   },
   {
-    "piece.name.E_SP_BW5": "E_SP_BW5"
+    "piece.name.E_SP_BW5": "Luxueus schild"
   },
   {
-    "piece.name.E_SP_BW6": "E_SP_BW6"
+    "piece.name.E_SP_BW6": "Superluxe schild"
   },
   {
-    "piece.name.E_SP_BW7": "E_SP_BW7"
+    "piece.name.E_SP_BW7": "Krachtig schild"
   },
   {
-    "piece.name.E_SP_BW8": "E_SP_BW8"
+    "piece.name.E_SP_BW8": "Machtig schild"
   },
   {
-    "window.codex.branch.E_SP_BX": "branch.E_SP_BX"
+    "window.codex.branch.E_SP_BX": "Kruisboog"
   },
   {
-    "piece.name.E_SP_BX1": "E_SP_BX1"
+    "piece.name.E_SP_BX1": "Simpele kruisboog"
   },
   {
-    "piece.name.E_SP_BX2": "E_SP_BX2"
+    "piece.name.E_SP_BX2": "Ruwe kruisboog"
   },
   {
-    "piece.name.E_SP_BX3": "E_SP_BX3"
+    "piece.name.E_SP_BX3": "Rustieke kruisboog"
   },
   {
-    "piece.name.E_SP_BX4": "E_SP_BX4"
+    "piece.name.E_SP_BX4": "Solide kruisboog"
   },
   {
-    "piece.name.E_SP_BX5": "E_SP_BX5"
+    "piece.name.E_SP_BX5": "Luxueuze kruisboog"
   },
   {
-    "piece.name.E_SP_BX6": "E_SP_BX6"
+    "piece.name.E_SP_BX6": "Superluxe kruisboog"
   },
   {
-    "piece.name.E_SP_BX7": "E_SP_BX7"
+    "piece.name.E_SP_BX7": "Krachtige kruisboog"
   },
   {
-    "piece.name.E_SP_BX8": "E_SP_BX8"
+    "piece.name.E_SP_BX8": "Machtige kruisboog"
   },
   {
     "window.codex.branch.H6_A": "Draamolenpaard"
@@ -15549,10 +15681,10 @@
     "window.navigation.islandcard.UnicornIsland.title": "Eenhoorneiland"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.title": "Blue Ox Island"
+    "window.navigation.islandcard.BlueOxIsland.title": "Blauwe os-eiland"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.title": "Red Dragon Island"
+    "window.navigation.islandcard.RedDragonIsland.title": "Rode draak-eiland"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.title": "Fenikseiland"
@@ -15648,10 +15780,10 @@
     "window.navigation.islandcard.UnicornIsland.description": "Vol kleurrijke regenbogen"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.BlueOxIsland.description": "Weilanden zo ver als het oog reikt"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.RedDragonIsland.description": "Een kerker vol schatten"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.description": "Een vurige wereld"
@@ -15714,10 +15846,10 @@
     "window.navigation.help.popup.ZooIslandLock.message": "Blijf spelen op {0} tot je level {1} bereikt en {2}​ vrijspeelt!"
   },
   {
-    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim!"
+    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim before it expires!"
   },
   {
-    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim!"
+    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim before it expires!"
   },
   {
     "window.event.howToPlay": "Speel-uitleg"
@@ -15771,10 +15903,10 @@
     "gameboard.bubble.button.landmark.skinning": "Wijzigen"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.claimed": "Today: claimed"
+    "gameboard.bubble.message.CreaturePortal.claimed": "Claimed Today"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.expired": "Expire in: {0} days"
+    "gameboard.bubble.message.CreaturePortal.expired": "Expires in: {0} days"
   },
   {
     "tutorial.conversation.SD.skinning.1": "Hoi! Wist je dat je Mystiek eiland helemaal naar jouw smaak kunt decoreren? Ik zal je laten zien hoe het moet."
@@ -16633,6 +16765,81 @@
   },
   {
     "piece.name.YM": "Kasteel Gale"
+  },
+  {
+    "window.codex.branch.HL_Z": "Magische-steenbron"
+  },
+  {
+    "piece.name.HL1_Z": "Stenen bakje"
+  },
+  {
+    "piece.name.HL2_Z": "Brokje"
+  },
+  {
+    "piece.name.HL3_Z": "Stenen bak"
+  },
+  {
+    "piece.name.HL4_Z": "Stuk steen"
+  },
+  {
+    "piece.name.HL5_Z": "Grote stenen bak"
+  },
+  {
+    "piece.name.HL6_Z": "Stenen plaat"
+  },
+  {
+    "window.codex.branch.Z": "Magische steen"
+  },
+  {
+    "piece.name.Z1": "Rots"
+  },
+  {
+    "piece.name.Z2": "Steenblok"
+  },
+  {
+    "piece.name.Z3": "Stenen hut"
+  },
+  {
+    "piece.name.Z4": "Grote stenen hut"
+  },
+  {
+    "piece.name.Z5": "Luxe stenen hut"
+  },
+  {
+    "piece.name.Z6": "Stenen huisje"
+  },
+  {
+    "piece.name.Z7": "Stenen huis"
+  },
+  {
+    "piece.name.Z8": "Stenen paleis"
+  },
+  {
+    "piece.name.Z9": "Luxe stenen paleis"
+  },
+  {
+    "piece.name.Z10": "Stenen chateau"
+  },
+  {
+    "piece.name.Z11": "Luxe stenen chateau"
+  },
+  {
+    "piece.name.Z12": "Superluxe stenen chateau"
+  },
+  {
+    "piece.name.ZM": "Kasteel aap"
+  },
+  {
+    "window.codex.branch.CH_Z": "Magische steen"
+  },
+  {
+    "piece.name.CH1_Z": "Kistje"
+  },
+  {
+    "piece.name.CH2_Z": "Kist"
+  },
+  {
+    "piece.name.CH3_Z": "Grote kist"
   },
   {
     "window.delivery.title": "Bezorgingsservice"
@@ -18387,6 +18594,117 @@
     "conversation.use.wm.message2": "Nee, dat denk ik niet. Nooitgedachtland vindt me wel weer..."
   },
   {
+    "conversation.z3.message1": "Heb je de blauwdrukken voor deze woning gezien, Klaas? De eigenaar is erg veeleisend."
+  },
+  {
+    "conversation.z3.message2": "Zeg dat wel. Een gouden bad, zijden gordijnen en een toren die de lucht raakt. Toe maar."
+  },
+  {
+    "conversation.z3.message3": "De laatste keer dat we zo'n duur huis bouwden, was voor koning Midas!"
+  },
+  {
+    "conversation.z3.message4": "Dat weet ik nog. Ik dacht dat ik het bladgoud nooit uit mijn baard zou krijgen."
+  },
+  {
+    "conversation.z4.message1": "Hoe staat het ermee, mannen?"
+  },
+  {
+    "conversation.z4.message2": "Het is nu nog een grot met zand erin. Maar maak je geen zorgen, we maken er iets moois van!"
+  },
+  {
+    "conversation.z4.message3": "Een koninkrijk in de lucht!"
+  },
+  {
+    "conversation.z5.message1": "Heb je gehoord dat die aap zelfs goden kan verslaan? Dat is waanzinnig. Dan kan hij ook wel een schip vol piraten verslaan."
+  },
+  {
+    "conversation.z5.message2": "Pfff. Nou, hij heeft nog niet van mij gewonnen."
+  },
+  {
+    "conversation.z5.message3": "Heeft hij überhaupt al met je gevochten?"
+  },
+  {
+    "conversation.z5.message4": "Daar gaat het niet om."
+  },
+  {
+    "conversation.z6.message1": "Je was bijna dood, zeg je? En je hebt 100 jaar geslapen? Wat naar voor je."
+  },
+  {
+    "conversation.z6.message2": "Ja, hè? Is dat jou weleens overkomen?"
+  },
+  {
+    "conversation.z6.message3": "Nee. Ik ben onsterfelijk en heel machtig."
+  },
+  {
+    "conversation.z7.message1": "Kun je deze vrouw verjagen? Ze hangt alsmaar rond mijn huis en wil een van mijn poten."
+  },
+  {
+    "conversation.z7.message2": "Baba Yaga, kunnen we iets voor je doen?"
+  },
+  {
+    "conversation.z7.message3": "Een apenpoot, vooral van een onsterfelijke aap, brengt meer geluk dan wat ook. Hij heeft er vier, dus hij kan er best eentje missen."
+  },
+  {
+    "conversation.z7.message4": "Misschien kun je een klavertjevier gebruiken?"
+  },
+  {
+    "conversation.z8.message1": "Die bloemen zijn schitterend! Jij hebt echt smaak. Ik kan niet wachten om te zien wat je hierna bouwt."
+  },
+  {
+    "conversation.z8.message2": "Ik heb jou altijd het leukst gevonden."
+  },
+  {
+    "conversation.z9.message1": "Pardon? De Apenkoning krijgt een koelkast met een touchscreen, maar wij moeten het doen met een simpel koelkastje?"
+  },
+  {
+    "conversation.z9.message2": "We doen alleen wat er in de blauwdrukken staat!"
+  },
+  {
+    "conversation.z9.message3": "(Fluistert) Zeg maar niets over dat automatische schoenenrek."
+  },
+  {
+    "conversation.z10.message1": "Ik heb meer wapens in de sportzaal nodig voor mijn training. Heb je niets op voorraad?"
+  },
+  {
+    "conversation.z10.message2": "We hebben de laatste tijd veel sportzalen geïnstalleerd, dus misschien is er niet veel meer over. Wat denk je, Klaas?"
+  },
+  {
+    "conversation.z10.message3": "We hebben een paar kokosnoothelmen en een puntige steen die ik op het strand heb gevonden. Werkt dat?"
+  },
+  {
+    "conversation.z10.message4": "(Zucht) Ik moet het er maar mee doen."
+  },
+  {
+    "conversation.z11.message1": "Is deze toren hoog genoeg, meneer Apenkoning? In de blauwdrukken staat 'een toren die hoog genoeg is om de wolkensnelweg te bereiken'. Maar daar heb ik nog nooit van gehoord."
+  },
+  {
+    "conversation.z11.message2": "Ik denk dat ik via deze toren wel een wolk kan bereiken waarop ik kan reizen. Maar een beetje hoger zou beter zijn."
+  },
+  {
+    "conversation.z11.message3": "Wolkreizen, dat was niet bij me opgekomen. Natuurlijk..."
+  },
+  {
+    "conversation.z12.message1": "Nog een paar stenen, dan gebeurt er iets heel magisch!"
+  },
+  {
+    "conversation.zm.message1": "Uitstekend! Dit is de perfecte plek om de baas uit te hangen."
+  },
+  {
+    "conversation.zm.message2": "Rustig aan. Wij zijn een democratie. Mag ik je contactgegevens voor onze maandelijkse enquête?"
+  },
+  {
+    "conversation.use.zm.message1": "Moet je dit kasteel zien. Wat een schoonheid, Paulus!"
+  },
+  {
+    "conversation.use.zm.message2": "Inderdaad, Klaas. O nee, hoorde je dat gekraak? Volgens mij hebben we het bed niet goed vastgeschroefd."
+  },
+  {
+    "conversation.use.mn_z.message1": "Een kasteel voor een koning kan alleen worden gebouwd met de meest magische stenen!"
+  },
+  {
+    "conversation.use.mn_z.message2": "Het is maar goed dat we een magische-stenenmijn hebben gevonden."
+  },
+  {
     "window.island1_2.title": "Groentjeseiland"
   },
   {
@@ -18900,6 +19218,12 @@
     "window.collection.locked.hint.premium.event.LM_37": "Verzamel in Halloweennacht 2021-event"
   },
   {
+    "window.collection.locked.hint.premium.event.LM_38": "Thanksgiving 2021"
+  },
+  {
+    "window.collection.locked.hint.premium.event.LM_39": "Thanksgiving 2021"
+  },
+  {
     "window.collection.description.LM_1": "Ga naar een mystieke plek vol magische dieren... Je hoeft alleen maar de poort te openen!"
   },
   {
@@ -19009,6 +19333,12 @@
   },
   {
     "window.collection.description.LM_37": "Wil je van je wratten af? Of zoek je een anti-ouderdomsserum? Bij de Drankduivel vind je alles. Maar wees voorzichtig, want hij probeert je misschien te rekruteren als proever."
+  },
+  {
+    "window.collection.description.LM_38": "De oogstwagen bevat een kleurrijk, decadent feestmaal. Er is voor iedereen genoeg!"
+  },
+  {
+    "window.collection.description.LM_39": "Volgens de legende brak Zeus per ongeluk de hoorn van een geit af en kreeg daarop onbeperkt eten. Een geluk bij een ongeluk!"
   },
   {
     "window.collection.description.DC_1": "Maak een afscheiding met deze eeuwig groene struik die de hele winter zijn kleur behoudt."
@@ -19144,117 +19474,6 @@
   },
   {
     "window.collection.description.DC_45": "De zachte gloed van deze bloesemlantaarn is goed voor ontspanning en herstel."
-  },
-  {
-    "window.decoration.description.LM_1": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_2": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_3": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_4": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_5": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_6": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_7": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_8": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_9": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_10": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_11": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_12": "Halloweennacht 2020-event"
-  },
-  {
-    "window.decoration.description.LM_13": "Halloweennacht 2020-event"
-  },
-  {
-    "window.decoration.description.LM_14": "Black Friday 2020-aanbieding"
-  },
-  {
-    "window.decoration.description.LM_15": "Noordpool 2020-event"
-  },
-  {
-    "window.decoration.description.LM_16": "Noordpool 2020-event"
-  },
-  {
-    "window.decoration.description.LM_17": "Noordpool 2020-aanbieding"
-  },
-  {
-    "window.decoration.description.LM_18": "Cupido 2021-event"
-  },
-  {
-    "window.decoration.description.LM_19": "Cupido 2021-event"
-  },
-  {
-    "window.decoration.description.LM_20": "Cupido 2021-aanbieding"
-  },
-  {
-    "window.decoration.description.LM_21": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_22": "1e samenvoegjaardag 2021-event"
-  },
-  {
-    "window.decoration.description.LM_23": "1e samenvoegjaardag 2021-event"
-  },
-  {
-    "window.decoration.description.LM_24": "1e samenvoegjaardag 2021-aanbieding"
-  },
-  {
-    "window.decoration.description.LM_25": "Midzomerfeest 2021-event"
-  },
-  {
-    "window.decoration.description.LM_26": "Midzomerfeest 2021-event"
-  },
-  {
-    "window.decoration.description.LM_27": "Midzomerfeest 2021-event"
-  },
-  {
-    "window.decoration.description.LM_28": "Zomerkermis 2021-event"
-  },
-  {
-    "window.decoration.description.LM_29": "Zomerkermis 2021-event"
-  },
-  {
-    "window.decoration.description.LM_30": "Zomerkermis 2021-event"
-  },
-  {
-    "window.decoration.description.LM_31": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_32": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_33": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_34": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_35": "Markt op Mystiek eiland"
-  },
-  {
-    "window.decoration.description.LM_36": "Halloweennacht 2021-event"
-  },
-  {
-    "window.decoration.description.LM_37": "Halloweennacht 2021-event"
   },
   {
     "window.decoration.category.LM.common": "Standaarddecoraties"
@@ -19458,31 +19677,34 @@
     "window.profile.stats.monuments.5star": "5-sterrenkastelen"
   },
   {
+    "window.profile.stats.SDlevel.locked": "Mystiek \\n eiland"
+  },
+  {
     "window.profile.stats.SDlevel": "Level {0} \\n Mystiek eiland"
   },
   {
     "window.profile.stats.mainlevel": "Level {0} \\n Hoofdgame"
   },
   {
-    "window.profile.stats.next.level": "To next level: {0}/{1}"
+    "window.profile.stats.next.level": "Levelvoortgang: {0}/{1}"
   },
   {
-    "window.profile.edit.avatar.inf": "Use your discoveries book to set any piece you 've unlocked as Avatar"
+    "window.profile.edit.avatar.inf": "In je Ontdekkingenboek kun je elk ontgrendeld object instellen als je profielfoto."
   },
   {
-    "window.profile.unlock.slot": "Unlock slot"
+    "window.profile.unlock.slot": "Statistiekvak ontgrendelen"
   },
   {
-    "window.profile.purchase.slot": "Purchase one more slot?"
+    "window.profile.purchase.slot": "Nog een vak kopen?"
   },
   {
-    "window.profile.castles.main": "Main island castles"
+    "window.profile.castles.main": "Kastelen op hoofdeiland"
   },
   {
-    "window.profile.castles.paradise": "Paradise cove castles"
+    "window.profile.castles.paradise": "Kastelen op Paradijsbaai"
   },
   {
-    "window.profile.castles.keep.playing": "Keep playing to unlock this castle"
+    "window.profile.castles.keep.playing": "Blijf spelen om dit kasteel te ontgrendelen"
   },
   {
     "window.profile.stats.SDcreatures.legendary": "Verzamelde legendarische dieren"
@@ -19491,10 +19713,10 @@
     "window.profile.edit.name.button.random": "Willekeurig"
   },
   {
-    "window.profile.connection.low": "Loading..."
+    "window.profile.connection.low": "Laden..."
   },
   {
-    "window.profile.connection.check": "Please, check your connection"
+    "window.profile.connection.check": "Controleer je verbinding"
   },
   {
     "window.profile.button.confirm": "Bevestigen"
@@ -19617,7 +19839,7 @@
     "window.codex.branch.NPC_Y": "Dorothy Gale"
   },
   {
-    "window.codex.branch.NPC_Z": "branch.NPC_Z"
+    "window.codex.branch.NPC_Z": "Apenkoning"
   },
   {
     "window.codex.branch.NPC_AA": "Doornroosje"

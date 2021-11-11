@@ -297,9 +297,6 @@
     "window.codex.branch.E4_A": "네스호 괴물"
   },
   {
-    "window.codex.branch.E5_A": "Blue Ox E5_A"
-  },
-  {
     "window.codex.branch.H1_A": "할로윈 몬스터"
   },
   {
@@ -543,10 +540,10 @@
     "window.codex.branch.E4_CH_B": "하이랜드"
   },
   {
-    "window.codex.branch.E5_CH_A": "E5_CH_A"
+    "window.codex.branch.E5_CH_A": "건초"
   },
   {
-    "window.codex.branch.E5_CH_B": "E5_CH_B"
+    "window.codex.branch.E5_CH_B": "목재"
   },
   {
     "window.codex.branch.H1_CH_A": "호박"
@@ -573,10 +570,10 @@
     "window.codex.branch.E12_CH_B": "부활"
   },
   {
-    "window.codex.branch.E13_CH_A": "E13_CH_A"
+    "window.codex.branch.E13_CH_A": "비늘"
   },
   {
-    "window.codex.branch.E13_CH_B": "E13_CH_B"
+    "window.codex.branch.E13_CH_B": "지하감옥"
   },
   {
     "window.codex.branch.SN_CH_A": "봄 꽃"
@@ -633,43 +630,43 @@
     "window.codex.branch.Boost_ST": "마법의 별"
   },
   {
-    "window.codex.branch.HL_A": "나무 소스"
+    "window.codex.branch.HL_A": "나무 자원"
   },
   {
-    "window.codex.branch.HL_B": "돌 소스"
+    "window.codex.branch.HL_B": "돌 자원"
   },
   {
-    "window.codex.branch.HL_C": "마차 소스"
+    "window.codex.branch.HL_C": "마차 자원"
   },
   {
-    "window.codex.branch.HL_D": "산호 소스"
+    "window.codex.branch.HL_D": "산호 자원"
   },
   {
-    "window.codex.branch.HL_E": "달 소스"
+    "window.codex.branch.HL_E": "달 자원"
   },
   {
-    "window.codex.branch.HL_F": "마법의 나무 소스"
+    "window.codex.branch.HL_F": "마법의 나무 자원"
   },
   {
-    "window.codex.branch.HL_G": "꽃 소스"
+    "window.codex.branch.HL_G": "꽃 자원"
   },
   {
-    "window.codex.branch.HL_H": "서커스 소스"
+    "window.codex.branch.HL_H": "서커스 자원"
   },
   {
-    "window.codex.branch.HL_I": "등대 소스"
+    "window.codex.branch.HL_I": "등대 자원"
   },
   {
-    "window.codex.branch.HL_J": "연꽃 소스"
+    "window.codex.branch.HL_J": "연꽃 자원"
   },
   {
-    "window.codex.branch.HL_K": "마법의 사과 소스"
+    "window.codex.branch.HL_K": "마법의 사과 자원"
   },
   {
-    "window.codex.branch.HL_L": "마차 소스"
+    "window.codex.branch.HL_L": "마차 자원"
   },
   {
-    "window.codex.branch.HL_M": "실험실 소스"
+    "window.codex.branch.HL_M": "실험실 자원"
   },
   {
     "window.codex.branch.E_SP_Q": "눈사람"
@@ -795,10 +792,10 @@
     "window.market.description.UnicornIsland.event": "무지개 구! 이것을 사용하여 유니콘을 만드십시오."
   },
   {
-    "window.market.description.BlueoxIsland.event": "Use this to create Blue Oxen."
+    "window.market.description.BlueOxIsland.event": "푸른 황소를 만드려면 이것을 사용하세요."
   },
   {
-    "window.market.description.ReddragonIsland.event": "Use this to create Red Dragons."
+    "window.market.description.RedDragonIsland.event": "지하감옥을 만드려면 이것을 사용하세요."
   },
   {
     "window.market.description.FluffyIsland.event": "더 많은 플루피코어를 만들려면 이것을 사용하십시오."
@@ -936,7 +933,7 @@
     "window.market.hint.Y": "농가 조각, {0}"
   },
   {
-    "window.market.hint.Z": "Z Pieces, {0}"
+    "window.market.hint.Z": "마법의 돌 조각, {0}"
   },
   {
     "window.market.hint.AA": "땅속요정 전초기지 조각, {0}"
@@ -1095,6 +1092,9 @@
     "window.storageCheck.title": "무료 저장소 없음"
   },
   {
+    "window.storageCheck.cant.save": "당신의 기기에 이 프로파일 사진을 저장할 수 있는 충분한 공간이 없습니다. 저장 공간을 만들어 주십시오."
+  },
+  {
     "window.storageCheck.message": "귀하의 장치는 사용 가능한 공간이 {0} MB 이하입니다. 사용 가능한 여유 공간이 없으면 저장과 데이터를 잃을 수 있습니다."
   },
   {
@@ -1146,7 +1146,7 @@
     "message.error.noMagicWands": "근처에 마술 지팡이가 없습니다."
   },
   {
-    "message.error.MakeOrders": "Make orders to get more Wands."
+    "message.error.makeOrders": "더 많은 지팡이를 얻으려면 주문하십시오."
   },
   {
     "message.error.clickOnBubble": "먼저 이전 작업을 완료하십시오."
@@ -1221,10 +1221,10 @@
     "common.button.free": "무료"
   },
   {
-    "common.button.adjust": "Adjust"
+    "common.button.adjust": "변화"
   },
   {
-    "common.button.buy.simple": "Buy"
+    "common.button.buy.simple": "구매"
   },
   {
     "common.button.buy": "{0} 구매하기"
@@ -1272,7 +1272,7 @@
     "common.button.undo": "무효"
   },
   {
-    "common.button.merge": "Merge"
+    "common.button.merge": "병합"
   },
   {
     "common.title.error": "오류"
@@ -1459,6 +1459,9 @@
   },
   {
     "piece.description.NPC_Y": "그들이 말한 노란 벽돌 길을 따라 가세요. 재미있을거라고 말했어요. 오즈의 땅에서 돌아온 이후 도로시는 폭풍우가 몰아치는 하늘을 믿을 수 없다는 것을 잘 알고 있어요. 그녀는 진짜 날씨 전문가가되었답니다."
+  },
+  {
+    "piece.description.NPC_Z": "이 중국 민속 영웅은 혼돈으로 만들어진 마법의 돌에서 태어 났다고합니다. 원숭이 왕이 다음에 무엇을 할지는 전혀 알 수 없답니다. 강한 것과 충동적인 것은 위험한 조합이죠."
   },
   {
     "piece.name.A1": "통나무"
@@ -2106,7 +2109,7 @@
     "piece.name.SN_B7": "파인애플 꽃"
   },
   {
-    "piece.name.SN_B8": "활짝 꽃 핀 파인애플"
+    "piece.name.SN_B8": "활짝 꽃 핀 \\n파인애플"
   },
   {
     "piece.name.SN_B9": "열대의 나비"
@@ -2142,19 +2145,19 @@
     "piece.name.SN_C7": "큰 가을 부쉘"
   },
   {
-    "piece.name.SN_C8": "멋진 가을 부쉘"
+    "piece.name.SN_C8": "멋진 가을 \\n부쉘"
   },
   {
-    "piece.name.SN_C9": "화려한 해바라기"
+    "piece.name.SN_C9": "화려한 \\n해바라기"
   },
   {
-    "piece.name.SN_C10": "무성한 가을 나무"
+    "piece.name.SN_C10": "무성한 \\n가을 나무"
   },
   {
     "piece.name.SN_C11": "위대한 가을 나무"
   },
   {
-    "piece.name.SN_C12": "낙엽의 은신처"
+    "piece.name.SN_C12": "낙엽의 \\n은신처"
   },
   {
     "piece.name.SN_D1": "서리가 내린 새싹"
@@ -2169,10 +2172,10 @@
     "piece.name.SN_D4": "솔방울"
   },
   {
-    "piece.name.SN_D5": "자라나는 솔방울"
+    "piece.name.SN_D5": "자라나는 \\n 솔방울"
   },
   {
-    "piece.name.SN_D6": "작은 겨울 월계수"
+    "piece.name.SN_D6": "작은 겨울 \\n월계수"
   },
   {
     "piece.name.SN_D7": "겨울 월계수"
@@ -2181,16 +2184,16 @@
     "piece.name.SN_D8": "우아한 겨울 월계수"
   },
   {
-    "piece.name.SN_D9": "먼지 덮힌 나무"
+    "piece.name.SN_D9": "먼지 덮힌 \\n나무"
   },
   {
-    "piece.name.SN_D10": "쌀쌀한 산꼭대기"
+    "piece.name.SN_D10": "쌀쌀한 \\n산꼭대기"
   },
   {
-    "piece.name.SN_D11": "눈 덮힌 안식처"
+    "piece.name.SN_D11": "눈 덮힌 \\n안식처"
   },
   {
-    "piece.name.SN_D12": "겨울 원더 랜드"
+    "piece.name.SN_D12": "겨울 원더 \\n랜드"
   },
   {
     "piece.name.SN_E1": "일반 달걀"
@@ -2211,19 +2214,19 @@
     "piece.name.SN_E6": "일반 바구니"
   },
   {
-    "piece.name.SN_E7": "부활절 바구니"
+    "piece.name.SN_E7": "부활절 \\n바구니"
   },
   {
-    "piece.name.SN_E8": "장식한 바구니"
+    "piece.name.SN_E8": "장식한 \\n바구니"
   },
   {
-    "piece.name.SN_E9": "화려한 바구니"
+    "piece.name.SN_E9": "화려한 \\n바구니"
   },
   {
     "piece.name.SN_E10": "리치 바구니"
   },
   {
-    "piece.name.SN_E11": "우아한 바구니"
+    "piece.name.SN_E11": "우아한 \\n바구니"
   },
   {
     "piece.name.SN_F1": "꽃봉우리"
@@ -2250,7 +2253,7 @@
     "piece.name.SN_F8": "애벌레 꽃"
   },
   {
-    "piece.name.SN_F9": "누에고치 나무"
+    "piece.name.SN_F9": "누에고치 \\n나무"
   },
   {
     "piece.name.SN_F10": "꽃이 만발한 나비"
@@ -2517,19 +2520,19 @@
     "piece.name.EXT_E6": "사마귀 나무"
   },
   {
-    "piece.name.EXT_E7": "꽃 사마귀 나무"
+    "piece.name.EXT_E7": "꽃 사마귀 \\n나무"
   },
   {
-    "piece.name.EXT_E8": "번성하는 사마귀 나무"
+    "piece.name.EXT_E8": "번성하는 \\n사마귀 나무"
   },
   {
-    "piece.name.EXT_E9": "사마귀 안식처"
+    "piece.name.EXT_E9": "사마귀 \\n안식처"
   },
   {
     "piece.name.EXT_F1": "새싹"
   },
   {
-    "piece.name.EXT_F2": "자라나는 새싹"
+    "piece.name.EXT_F2": "자라나는 \\n새싹"
   },
   {
     "piece.name.EXT_F3": "피어나는 꽃"
@@ -3370,6 +3373,12 @@
   },
   {
     "piece.name.NPC_Y2": "샌들"
+  },
+  {
+    "piece.name.NPC_Z1": "작은 지팡이"
+  },
+  {
+    "piece.name.NPC_Z2": "마법 지팡이"
   },
   {
     "piece.name.PR_A1": "밀 새싹"
@@ -4320,6 +4329,9 @@
     "piece.name.NPC_Y": "도로시 게일"
   },
   {
+    "piece.name.NPC_Z": "원숭이 왕"
+  },
+  {
     "piece.name.HL1_A": "작은 나무\\n 화분"
   },
   {
@@ -4977,6 +4989,9 @@
     "conversation.character.Dorothy": "도로시 게일"
   },
   {
+    "conversation.character.MonkeyKing": "원숭이 왕"
+  },
+  {
     "quest.supermatch.title": "슈퍼 병합 만들기"
   },
   {
@@ -5085,10 +5100,10 @@
     "quest.daily.message": "모든 목표 제거하기"
   },
   {
-    "quest.merge.mana.message": "Merge the Wands"
+    "quest.merge.mana.message": "지팡이 병합"
   },
   {
-    "quest.merge.five.mana.message": "Merge 5 Wands at once"
+    "quest.merge.five.mana.message": "한 번에 5 개의 지팡이 병합"
   },
   {
     "quest.market.title": "시장에서 구매"
@@ -5205,6 +5220,9 @@
     "task.use.mine.mn_x.hint": "이 광산은 당신에게 <sprite name=X1>또는 <sprite name=X2>을 고갈 될 때까지 줄 것입니다."
   },
   {
+    "task.use.mine.mn_z.hint": "이 광산은 당신에게 <sprite name=Z1>또는 <sprite name=Z2>이 고갈 될 때까지 줄 것입니다."
+  },
+  {
     "task.use.mine.mn_aa.hint": "이 광산은 당신에게 <sprite name=AA1>또는 <sprite name=AA2>을 고갈 될 때까지 줄 것입니다."
   },
   {
@@ -5314,6 +5332,9 @@
   },
   {
     "task.use.monument_y.hint": "다양하고 유용한 물건들을 얻으려면 이<sprite name=YM> 을 사용하세요."
+  },
+  {
+    "task.use.monument_z.hint": "다양하고 유용한 물건들을 얻으려면 이 <sprite name=ZM>을 사용하세요."
   },
   {
     "task.use.monument_aa.hint": "다양하고 유용한 물건들을 얻으려면 이<sprite name=AAM> 을 사용하세요."
@@ -5490,10 +5511,10 @@
     "notifications.restore.CreaturePortal.complete.message": "Last chance to use your Portal today! "
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.title": "Come and Claim!"
+    "notifications.restore.CreaturePortalReward.complete.title": "Claim Your Creature!"
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.message": "The legendary creature is ready to hatch from the Portal! "
+    "notifications.restore.CreaturePortalReward.complete.message": "A legendary creature is ready to hatch from your Portal! "
   },
   {
     "notifications.restore.monument.complete.title": "마술 의식 완료!"
@@ -5574,16 +5595,16 @@
     "notifications.event.build.unicorn.complete.message": "또 다른 유니콘이 여기 있습니다! 확인해 보세요!"
   },
   {
-    "notifications.event.build.blueox.complete.title": "Hey, meet a Blue Ox!"
+    "notifications.event.build.blueox.complete.title": "푸른 황소를 만나세요!"
   },
   {
-    "notifications.event.build.blueox.complete.message": "Another Blue Ox is here! Check it out!"
+    "notifications.event.build.blueox.complete.message": "또 다른 푸른 황소가 여기 있습니다! 확인해보세요!"
   },
   {
-    "notifications.event.build.reddragon.complete.title": "Hey, meet a Red Dragon!"
+    "notifications.event.build.reddragon.complete.title": "레드 드래곤을 만나세요!"
   },
   {
-    "notifications.event.build.reddragon.complete.message": "Another Red Dragon is here! Check it out!"
+    "notifications.event.build.reddragon.complete.message": "또 다른 레드 드래곤이 여기 있습니다! 확인해보세요!"
   },
   {
     "notifications.event.build.fluffy.complete.title": "이봐요, 새로운 플루피코어를 만나세요!"
@@ -5922,10 +5943,10 @@
     "window.event.UnicornIsland.title": "유니콘 러쉬"
   },
   {
-    "window.event.BlueoxIsland.title": "Blue Ox Island"
+    "window.event.BlueOxIsland.title": "푸른 황소 섬"
   },
   {
-    "window.event.ReddgaronIsland.title": "Red Dragon Island"
+    "window.event.RedDragonIsland.title": "레드 드래곤 섬"
   },
   {
     "window.event.FluffyIsland.title": "플루피코어 섬 이벤트"
@@ -5997,10 +6018,10 @@
     "window.event.UnicornIsland.message": "<sprite name=icon_EventToken>을 얻으려면 유니콘을 만들고 마법의 상을 획득하세요!"
   },
   {
-    "window.event.BlueoxIsland.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.message": "<sprite name=icon_EventToken>을 획득하려면 푸른 황소를 만들고 마법의 상품을 받으세요!"
   },
   {
-    "window.event.ReddragonIsland.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.message": "<sprite name=icon_EventToken>을 획득하려면 레드 드레곤을 만들고 마법의 상품을 받으세요!"
   },
   {
     "window.event.FluffyIsland.message": "<sprite name=icon_EventToken> 을 획득하려면 플로피코어를 만들고 그 과정에서 보상을 모으세요!"
@@ -6048,10 +6069,10 @@
     "window.event.UnicornIsland.preview.message": "유니콘 마법을 조금 뿌리면 세상을 '둥글게' 돌 수 있게 할 수 있어요! 유니콘 러쉬 이벤트가 곧 옵니다!"
   },
   {
-    "window.event.BlueoxIsland.preview.message": "The Blue Ox event is coming! Let us give you prizes! Seriously!"
+    "window.event.BlueOxIsland.preview.message": "폴의 일등 친구와 함께 가을을 축하하세요! 시즌을 위한 스페셜 랜드마크 상품이 푸른 황소 섬 이벤트와 함께 옵니다!"
   },
   {
-    "window.event.ReddragonIsland.preview.message": "The Red Dragon event is coming! Let us give you prizes! Seriously!"
+    "window.event.RedDragonIsland.preview.message": "감히 이 무서운 지하 감옥에서 보물을 찾을 수 있겠어요? 레드 드래곤 섬에서 당신의 능력을 시험하세요! 곧 이벤트가 옵니다!"
   },
   {
     "window.event.FluffyIsland.preview.message": "멘티코어와 플루플을 지날때 무엇을 얻나요?\\n\\n 플루피코어 섬에 대한 멀린의 최신 실험을 확인하세요! 이벤트 커밍쑨!"
@@ -6075,7 +6096,7 @@
     "window.event.HalloweenIsland.preview.message": "일년 중 가장 으스스한 시간입니다! 할로윈 이브 섬에서 축하하고 당신의 땅을 꾸미기에 좋은 재미있는 장식들을 획득하세요! 곧 이벤트가 옵니다!"
   },
   {
-    "window.event.Thanksgiving.preview.message": "Blue Ox + Thanksgiving announce text."
+    "window.event.Thanksgiving.preview.message": "폴의 일등 친구와 함께 가을을 축하하세요! 시즌을 위한 스페셜 랜드마크 상품이 푸른 황소 섬 이벤트와 함께 옵니다!"
   },
   {
     "window.event.MagicWorkshop.preview.message": "뭔가 만들고 싶으세요? 여행하는 마법의 워크샵이 오고 있어요!\\n\\n마을에 있는 동안 그것을 잡아서 높은 층 조각 등을 만들때 <sprite name=icon_Mana>을 사용하세요! 개봉 박두!"
@@ -6111,10 +6132,10 @@
     "window.event.UnicornIsland.hint.message": "<sprite name=icon_EventToken>을 획득하려면 유니콘을 만들고 마법의 상을 받으세요!"
   },
   {
-    "window.event.BlueoxIsland.hint.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.hint.message": "<sprite name=icon_EventToken>을 획득하려면 푸른 황소를 만들고 마법의 상품을 받으세요!"
   },
   {
-    "window.event.ReddragonIsland.hint.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.hint.message": "<sprite name=icon_EventToken>을 획득하려면 레드 드레곤을 만들고 마법의 상품을 받으세요!"
   },
   {
     "window.event.FluffyIsland.hint.message": "<sprite name=icon_EventToken>을 획득하려면 플루피코어를 만들고 마법의 상을 받으세요!"
@@ -9414,7 +9435,7 @@
     "conversation.y3.message2": "글쎄요, 보통 사이즈?"
   },
   {
-    "conversation.y3.message3": "그들은 F5에 맞설 수 있나요? 집이 시속 318 마일을 견딜 수 없다면,이 아기는 곧장 하늘로 빨려 들어갈 것입니다!"
+    "conversation.y3.message3": "그들은 F5에 맞설 수 있나요? 집이 시속 318 마일을 견딜 수 없다면,이 집은 곧장 하늘로 빨려 들어갈 것입니다!"
   },
   {
     "conversation.y3.message4": "다시 한번 살펴 보겠습니다..."
@@ -9426,13 +9447,13 @@
     "conversation.y4.message2": "섬의 삶은 훌륭하지 않나요? 무엇 때문에 파라다이스로 나왔나요?"
   },
   {
-    "conversation.y4.message3": "토네이도가 없다는게 가장 우선이죠."
+    "conversation.y4.message3": "토네이도가 없다는것이 가장 중요했죠."
   },
   {
     "conversation.y5.message1": "정말 뒷마당에 있는 이 피뢰침을 원해요? 분위기가 엉망진창이군요."
   },
   {
-    "conversation.y5.message2": "폭풍은 나를 따라 다니는 방법이 있어요. 후회하는 것보다 안전한게 좋죠."
+    "conversation.y5.message2": "폭풍이 나를 따라 다니는 방법이 있어요. 후회하는 것보다 안전한게 좋죠."
   },
   {
     "conversation.y6.message1": "당신이 여기에 있어서 정말 기뻐요. 당신은 오즈에 대해 모두 말해줘야해요! 이상한 나라 같았나요?"
@@ -9624,10 +9645,10 @@
     "conversation.npc_y5.message2": "신발이라고요?! 와우, 이렇게 작은 건 본 적이 없어요. 나는 곤충을 위한 작은 카누라고 생각했어요."
   },
   {
-    "conversation.npc_y5.message3": "고마워요, 수염 난 남자! 흠, 여전히 좋고 작은 보트를 만드는지 궁금하네요..."
+    "conversation.npc_y5.message3": "고마워요, 털보씨! 흠, 여전히 좋고 작은 보트를 만드는지 궁금하네요..."
   },
   {
-    "conversation.npc_y6.message1": "오 나의 안개! 이 신발이 정말 귀엽지 않나요?"
+    "conversation.npc_y6.message1": "오 나의 안개! 이 신발 정말 귀엽지 않나요?"
   },
   {
     "conversation.npc_y6.message2": "나에게는 실용적이지 않은 것 같아요. 전력 질주를 할 수 있나요?"
@@ -9685,6 +9706,99 @@
   },
   {
     "conversation.use.mn_y.message1": "농가 광산처럼 물품을 구할 수 있는 곳은 없어요! 그렇죠, 토토? *짖는소리*"
+  },
+  {
+    "conversation.npc_z3.message1": "마법의 지팡이! 흠, 누군가가 이것을 놓치고 있다고 확신합니다."
+  },
+  {
+    "conversation.npc_z4.message1": "오 멋지네요! 매력적인 검. 우리는 이것으로 해적과 확실히 싸울 수 있습니다!"
+  },
+  {
+    "conversation.npc_z4.message2": "그건 검이 아니에요, 벨. 그건 지팡이... 전투 지팡이라고요. * 헐떡* 이것이 적이 될 수 있겠죠?"
+  },
+  {
+    "conversation.npc_z5.message1": "막대기 하나, 막대기 두개, 막대기 세개, 더 많은 막대기들!"
+  },
+  {
+    "conversation.npc_z5.message2": "어, 벅? 거기서 뭐하는 거에요?"
+  },
+  {
+    "conversation.npc_z5.message3": "장작을 좀 모으고 있어요. 나는 사방에서 이 막대기를 계속 찾고있어요!"
+  },
+  {
+    "conversation.npc_z5.message4": "막대기들을 태우고 싶지 않을 텐데요... 내 생각에는 그 막대기들 주인이 따로 있는것 같아요."
+  },
+  {
+    "conversation.npc_z6.message1": "나는 이것이 레인 스틱이라고 확신했었지만, 빗소리가 전혀 들리지 않아요. 고장난건지도 몰라요."
+  },
+  {
+    "conversation.npc_z6.message2": "꼬마야, 이상한 나라에서 나오다가 머리를 다쳤어요? 그건 지팡이에요. 레인 스틱이 아니고요."
+  },
+  {
+    "conversation.npc_z6.message3": "오오오, 이제 좀 이해가 되네요."
+  },
+  {
+    "conversation.npc_z7.message1": "오 이런, 이것들이 여기 주변을 너무 엉망으로 만들고 있어요!"
+  },
+  {
+    "conversation.npc_z7.message2": "* 관목에서 튀어 나옴* 이 지팡이가 전사의 것인가요? 우리의 해안이 포위되었어요!"
+  },
+  {
+    "conversation.npc_z7.message3": "아! 당신은 어디서 왔나요? 우리가 공격을 받고 있다고 생각하세요? 세상에! 굴을 지켜야겠어요!"
+  },
+  {
+    "conversation.npc_z8.message1": "뮬란은 섬의 보안에 대해 다시 패닉에 빠졌어요. 그녀는 지팡이가 전사의 것이라고 생각하는 것 같습니다."
+  },
+  {
+    "conversation.npc_z8.message2": "얼음 여왕은 내가 과잉 반응을 한다고 생각하는 것 같아요. 글쎄, 그녀의 성이 큐브로 무너져도 웃지 않을겁니다!"
+  },
+  {
+    "conversation.npc_z8.message3": "자, 이제. 성급히 결론을 내리지 맙시다. 이 전사에게 먼저 말할 기회를 주어야할것 같아요! 이 지팡이들을 더 찾아야합니다."
+  },
+  {
+    "conversation.npc_z9.message1": "코코넛 헬멧? 확인. 바나나 잎 갑옷? 확인. 전투를 위한 모든 장비를 가지고있는 것 같아요, 벅!"
+  },
+  {
+    "conversation.npc_z9.message2": "전투? 전투라뇨? 나도 끼고싶어요!"
+  },
+  {
+    "conversation.npc_z9.message3": "뮬란이 우리가 공격을 받고 있다고 했어요. 여기, 헬멧을 가져 가세요. 게다가, 배가 고프면 헬멧 안에 코코넛이 있으니 먹어요!"
+  },
+  {
+    "conversation.npc_z10.message1": "전투가 시작되면 마우이가 대답합니다! 마법 지팡이의 주인과의 싸움에 참여 하시겠습니까?"
+  },
+  {
+    "conversation.npc_z10.message2": "왜죠, 나는 그런 일을 하지 않을거에요! 사랑만이 내가 대답 할 유일한 것 입니다."
+  },
+  {
+    "conversation.npc_z10.message3": "뭐라고요? 딱 당신답군요. 나머지 사람들에게는 더 많은 영광이 있기를."
+  },
+  {
+    "conversation.npc_z11.message1": "왜 모두가 제 3 막의 시작인것 처럼 옷을 입나요? 저거... 코코넛 헬멧 아닌가요?"
+  },
+  {
+    "conversation.npc_z11.message2": "전투를 위한! 영광을 위한! 에버머지입니다!"
+  },
+  {
+    "conversation.npc_z11.message3": "여전히 지팡이에 관한 것인가요? 오 나의 안개... 사람들, 그것은 새로운 방문자가 우리에게 온다는 의미입니다! 전투가 없어요."
+  },
+  {
+    "conversation.npc_z11.message4": "내가 그들이 모두 과잉 반응하고 있다고 말했잖아요."
+  },
+  {
+    "conversation.npc_z.message1": "* 헐떡* 나는 이 지팡이가 누구의 것인지 알 것같아요! 공주님의 말이 맞았어요. 그는 결국 적이라기 보다는 친구죠..."
+  },
+  {
+    "conversation.npc_z.order.message1": "아아! 공격을 받고 있어요!!"
+  },
+  {
+    "conversation.npc_z.order.message2": "* 속삭임* 도로시, 그건 그냥 원숭이 왕이야. 에헴... 우리는 당신을 다시 만나서 정말 기뻐요!"
+  },
+  {
+    "conversation.npc_z.order.message3": "공격에 대해 도대체 뭐라고 하는거죠? 내가 혼란에서 깨어난건가요?"
+  },
+  {
+    "conversation.npc_z.order.message4": "미안해요, 내가 음, 다른 적들과 헷갈리게 만들었어요..."
   },
   {
     "conversation.365.message1": "이 모자 좀 보세요! 잘 어울리는거 같아요?"
@@ -9990,7 +10104,7 @@
     "conversation.mana3.msg1": "약간의 마법이 에버머지의 차이를 만듭니다!"
   },
   {
-    "conversation.mana4.msg1": "그들이 뭐라고 말하는지 알다시피, 지팡이가 클수록 더 많은 마법이 있습니다! 어쨌든 에버머지에서는 말이죠."
+    "conversation.mana4.msg1": "그들이 말하다시피, 에버머지에는 지팡이가 클수록 더 많은 마법이 있답니다!"
   },
   {
     "conversation.mana5.msg1": "하루에 지팡이 한 개면 안개가 걷혀요! 아마도 이정도의 안개를 치우려면 하루에 하나 이상의 지팡이가 필요할 수 있을겁니다..."
@@ -10449,7 +10563,7 @@
     "window.SeasonalWishingWell.ending": "소원비는 우물 시즌이 끝났습니다!"
   },
   {
-    "window.event.seasonal.ending.description": "이미 가지고 있는 조각들을 합쳐서 만들 수도 있고, {0} 을 위해 바꿀 수도 있어요!"
+    "window.event.seasonal.ending.description": "이미 가지고 있는 조각들을 합쳐서 만들 수도 있고, {0} 를 위해 바꿀 수도 있어요!"
   },
   {
     "window.HalloweenIsland.house.hint.title": "드라큘라의 성을 짓는 방법"
@@ -10479,7 +10593,7 @@
     "message.help.monument.2": "건축하기 위한 토대 위에 조각을 놓으십시오."
   },
   {
-    "message.help.monument.3": "캐슬에서 보상을 모으세요!"
+    "message.help.monument.3": "캐슬에서 보상을\\n 모으세요!"
   },
   {
     "window.upgradeMonument.title": "캐슬 업그레이드"
@@ -10515,19 +10629,19 @@
     "message.compensation.LongChainsMigration": "몇개의 캐슬은 완료하기가 쉬워졌어요! 몇몇 조각들은 다른 모습으로 바뀌었지만, 각각 캐슬에 대한 진행 상황은 보존되었습니다."
   },
   {
-    "message.help.mana.title": "How to get mana"
+    "message.help.mana.title": "지팡이를 얻는 방법"
   },
   {
     "message.help.mana.1": "재료 수집"
   },
   {
-    "message.help.mana.2": "Make Orders"
+    "message.help.mana.2": "레시피 주문하기"
   },
   {
-    "message.help.mana.3": "Merge Wands "
+    "message.help.mana.3": "지팡이 병합"
   },
   {
-    "message.help.mana.4": "Get Mana"
+    "message.help.mana.4": "안개를 열 수 있는 마법을 사용하세요!"
   },
   {
     "window.LockMine.title": "잠금 해제 방법"
@@ -10653,16 +10767,16 @@
     "window.specialoffer.unicorn1.main": "유니콘 러쉬 이벤트를 최대한 활용하려면 이것을 이용하십시오!"
   },
   {
-    "window.specialoffer.blueox1.title": "Blue Ox Boost!"
+    "window.specialoffer.blueox1.title": "푸른 황소 부스트!"
   },
   {
-    "window.specialoffer.blueox1.main": "Buy this offer now and boost your progress in the Blue Ox event!"
+    "window.specialoffer.blueox1.main": "푸른 황소 이벤트를 최대한 활용하려면 이것을 구입하십시오!"
   },
   {
-    "window.specialoffer.reddragon1.title": "Red Dragon Boost!"
+    "window.specialoffer.reddragon1.title": "레드 드래곤 부스트!"
   },
   {
-    "window.specialoffer.reddragon1.main": "Buy this offer now and boost your progress in the Red Dragon event!"
+    "window.specialoffer.reddragon1.main": "레드 드레곤 이벤트를 최대한 활용하려면 이것을 얻으십시오!"
   },
   {
     "window.specialoffer.fluffy1.title": "플루피코어 부스트"
@@ -10704,7 +10818,7 @@
     "window.specialoffer.HeroBoost1.title": "영웅 부스트 제공"
   },
   {
-    "window.specialoffer.HeroBoost1.main": "이 패키지로 다음 영웅의 잠금 해제까지 한 걸음 가까이 가십시오!"
+    "window.specialoffer.HeroBoost1.main": "이 패키지로 다음 영웅의 잠금 해제까지 한 걸음 가까이\\n 가십시오!"
   },
   {
     "window.specialoffer.CompleteHero1.title": "영웅을 잠금 해제하십시오!"
@@ -10770,7 +10884,7 @@
     "window.specialoffer.ChestRush1.title": "보물 찾기 부스트"
   },
   {
-    "window.specialoffer.ChestRush1.main": "보물 찾기 이벤트를 최대한 활용하려면 이것을 이용하십시오."
+    "window.specialoffer.ChestRush1.main": "보물 찾기 이벤트를 최대한 활용하려면\\n 이것을 이용하십시오."
   },
   {
     "window.specialoffer.4ChestRush1.title": "보물 찾기 부스트"
@@ -10815,10 +10929,10 @@
     "window.specialoffer.reject.main": "나가시겠습니까? 이 제안을 다시 받을 수 없습니다!"
   },
   {
-    "window.specialoffer.CreaturePortal.title": "Premium Creature Portal "
+    "window.specialoffer.CreaturePortal.title": "Premium Portal "
   },
   {
-    "window.specialoffer.CreaturePortal.main": "Get a Premium Portal which will bring you {0} every day for {1} days!"
+    "window.specialoffer.CreaturePortal.main": "A premium creature portal will bring you {0} every day for {1} days!"
   },
   {
     "title.ext.item": "정원 조각"
@@ -10998,7 +11112,7 @@
     "window.specialoffer.CompleteCreature3M5.main": "당신의 전설적인 생물체를 레벨 업 할때 필요한 모든것!"
   },
   {
-    "piece.name.SO_Rainbow_Portal": "Rainbow Creature Portal"
+    "piece.name.SO_Rainbow_Portal": "Rainbow Portal"
   },
   {
     "piece.name.SO_Premium_Portal": "{0} Premium Portal"
@@ -11439,7 +11553,7 @@
     "piece.name.CR_Z5": "다윈"
   },
   {
-    "piece.name.CR_Z6": "코르넬리우스"
+    "piece.name.CR_Z6": "코르넬리\\n우스"
   },
   {
     "piece.name.CR_AC1": "도도 새 알"
@@ -12198,6 +12312,12 @@
     "piece.name.LM_37": "물약 마스터"
   },
   {
+    "piece.name.LM_38": "추수 수레"
+  },
+  {
+    "piece.name.LM_39": "풍요로운 \\n코르누코피아"
+  },
+  {
     "piece.desc.LM_11": "할로윈 이브 아일랜드 2020"
   },
   {
@@ -12279,58 +12399,55 @@
     "window.market.hint.SO_Premium_Portal": "Premium Portal will give you {0} every day for {1} days!"
   },
   {
-    "window.market.hint.BOX_A1.common": "한 종류의 생물체 {0}의 드롭을 보장합니다."
+    "window.market.hint.BOX_A1.common": "{0} 흔한 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_A1.rare": "한 종류의 생물체 {0}의 드롭을 보장합니다."
+    "window.market.hint.BOX_A1.rare": "{0} 희귀 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_A2.common": "한 종류의 생물체 {0}의 드롭을 보장합니다."
+    "window.market.hint.BOX_A2.common": "{0} 흔한 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_A2.rare": "한 종류의 생물체 {0}의 드롭을 보장합니다."
+    "window.market.hint.BOX_A2.rare": "{0} 희귀 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_A2.legendary": "한 종류의 생물체 {0}의 드롭을 보장합니다."
+    "window.market.hint.BOX_A2.legendary": "{0} 전설의 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_A3.common": "한 종류의 생물체 {0}의 드롭을 보장합니다."
+    "window.market.hint.BOX_A3.common": "{0} 흔한 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_A3.rare": "한 종류의 생물체 {0}의 드롭을 보장합니다."
+    "window.market.hint.BOX_A3.rare": "{0} 희귀 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_A3.legendary": "한 종류의 생물체 {0}의 드롭을 보장합니다."
+    "window.market.hint.BOX_A3.legendary": "{0} 전설의 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_B1.common": "한 종류의 생물체의 드롭을 보장합니다."
+    "window.market.hint.BOX_B1.common": "흔한 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_B2.common": "한 종류의 생물체의 드롭을 보장합니다."
+    "window.market.hint.BOX_B2.common": "흔한 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_B2.rare": "한 종류의 생물체의 드롭을 보장합니다."
+    "window.market.hint.BOX_B2.rare": "희귀 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_B3.common": "한 종류의 생물체의 드롭을 보장합니다."
+    "window.market.hint.BOX_B3.common": "흔한 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_B3.rare": "한 종류의 생물체의 드롭을 보장합니다."
+    "window.market.hint.BOX_B3.rare": "희귀 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_B3.legendary": "한 종류의 생물체의 드롭을 보장합니다."
+    "window.market.hint.BOX_B3.legendary": "전설의 생물체 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_Feed.common": "한 종류의 생물체의 드롭을 보장합니다."
+    "window.market.hint.BOX_Feed.common": "흔한 생물체의 드롭을 보장합니다."
   },
   {
-    "window.market.hint.BOX_Feed.rare": "한 종류의 생물체의 드롭을 보장합니다."
+    "window.market.hint.BOX_Feed.rare": "희귀 생물체의 드롭을 보장합니다."
   },
   {
     "window.market.hint.BOX_Feed.legendary": "생물체 {0}의 드롭을 보장합니다."
-  },
-  {
-    "window.market.hint.BOX.all": "정해진 범위안에 생물체를 떨어뜨리면 나열되어 있는 타입을 받을 수 있는 기회가 보장됩니다."
   },
   {
     "window.container.title": "컨테이너 열기"
@@ -12433,6 +12550,12 @@
   },
   {
     "tutorial.conversation.habitat.unlock.3": "더 많은 종류의 생물체를 완성할수록 더 많은 서식지를 잠금 해제 할 수 있습니다! 그러니까 계속해서 생물체들을 병합합시다!"
+  },
+  {
+    "tutorial.conversation.creatureportal.1": "Wow, it's a creature portal! Now these are cool. They transport legendary creatures directly to Mystic Isle! Go ahead, tap it to see how it works."
+  },
+  {
+    "tutorial.conversation.creatureportal.2": "Easy, right? Tomorrow you'll be able to transport another creature. Just come back and tap on the portal before it expires!"
   },
   {
     "message.error.habitat.locked": "이 서식지를 잠금 해제하려면 {0} 찾기"
@@ -12754,6 +12877,12 @@
   },
   {
     "window.doubleoffer.HalloweenOffers.main": "제한 된 시간동안 진행 상황을 부스트 업 시킬 수 있는 딜! 게다가 특별한 시즈널 장식까지!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.title": "추수감사절 세일!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.main": "제한 된 시간동안 진행 상황을 부스트 업 시킬 수 있는 딜! 게다가 특별한 홀리데이 장식까지!"
   },
   {
     "window.habitat.info.common": "일반"
@@ -13692,76 +13821,79 @@
     "piece.name.E12_A1": "케찰코아틀 알"
   },
   {
-    "piece.name.E12_A2": "케찰코아틀 알"
+    "piece.name.E12_A2": "Small Egg"
   },
   {
-    "piece.name.E12_A3": "주마"
+    "piece.name.E12_A3": "케찰코아틀 알"
   },
   {
-    "piece.name.E12_A4": "아찌"
+    "piece.name.E12_A4": "주마"
   },
   {
-    "piece.name.E12_A5": "찬티코"
+    "piece.name.E12_A5": "아찌"
   },
   {
-    "piece.name.E12_A6": "토지"
+    "piece.name.E12_A6": "찬티코"
   },
   {
-    "piece.name.E12_A7": "아칼란"
+    "piece.name.E12_A7": "토지"
   },
   {
-    "piece.name.E12_A8": "케찰코아틀"
+    "piece.name.E12_A8": "아칼란"
   },
   {
-    "window.codex.branch.E13_A": "Red Dragon"
+    "window.codex.branch.E13_A": "레드 드래곤"
   },
   {
-    "piece.name.E13_A1": "Red Dragon"
+    "piece.name.E13_A1": "드래곤 오두막"
   },
   {
-    "piece.name.E13_A2": "Red Dragon"
+    "piece.name.E13_A2": "빨간 용 알"
   },
   {
-    "piece.name.E13_A3": "Red Dragon"
+    "piece.name.E13_A3": "아기 용"
   },
   {
-    "piece.name.E13_A4": "Red Dragon"
+    "piece.name.E13_A4": "쏘기"
   },
   {
-    "piece.name.E13_A5": "Red Dragon"
+    "piece.name.E13_A5": "토처"
   },
   {
-    "piece.name.E13_A6": "Red Dragon"
+    "piece.name.E13_A6": "젤리빈"
   },
   {
-    "piece.name.E13_A7": "Red Dragon"
+    "piece.name.E13_A7": "불꽃"
   },
   {
-    "piece.name.E13_A8": "Red Dragon"
+    "piece.name.E13_A8": "불기둥"
   },
   {
-    "piece.name.E5_A1": "Blue Ox"
+    "window.codex.branch.E5_A": "푸른 황소 베이브"
   },
   {
-    "piece.name.E5_A2": "Blue Ox"
+    "piece.name.E5_A1": "황소 구"
   },
   {
-    "piece.name.E5_A3": "Blue Ox"
+    "piece.name.E5_A2": "달콤한 콩"
   },
   {
-    "piece.name.E5_A4": "Blue Ox"
+    "piece.name.E5_A3": "내 사랑"
   },
   {
-    "piece.name.E5_A5": "Blue Ox"
+    "piece.name.E5_A4": "꿀 다발"
   },
   {
-    "piece.name.E5_A6": "Blue Ox"
+    "piece.name.E5_A5": "부바"
   },
   {
-    "piece.name.E5_A7": "Blue Ox"
+    "piece.name.E5_A6": "슈가 파이"
   },
   {
-    "piece.name.E5_A8": "Blue Ox"
+    "piece.name.E5_A7": "버터컵"
+  },
+  {
+    "piece.name.E5_A8": "푸른 황소 베이브"
   },
   {
     "window.codex.branch.E_SP_AK": "캐트닙 백합"
@@ -15111,220 +15243,220 @@
     "piece.name.E_SP_BP8": "왕의 오리"
   },
   {
-    "window.codex.branch.E_SP_BQ": "branch.E_SP_BQ"
+    "window.codex.branch.E_SP_BQ": "카우 벨"
   },
   {
-    "piece.name.E_SP_BQ1": "E_SP_BQ1"
+    "piece.name.E_SP_BQ1": "징글 벨"
   },
   {
-    "piece.name.E_SP_BQ2": "E_SP_BQ2"
+    "piece.name.E_SP_BQ2": "카우 벨"
   },
   {
-    "piece.name.E_SP_BQ3": "E_SP_BQ3"
+    "piece.name.E_SP_BQ3": "멋진 종"
   },
   {
-    "piece.name.E_SP_BQ4": "E_SP_BQ4"
+    "piece.name.E_SP_BQ4": "울리는 종"
   },
   {
-    "piece.name.E_SP_BQ5": "E_SP_BQ5"
+    "piece.name.E_SP_BQ5": "기쁨의 종"
   },
   {
-    "piece.name.E_SP_BQ6": "E_SP_BQ6"
+    "piece.name.E_SP_BQ6": "감미로운 벨"
   },
   {
-    "piece.name.E_SP_BQ7": "E_SP_BQ7"
+    "piece.name.E_SP_BQ7": "멜로디 벨"
   },
   {
-    "piece.name.E_SP_BQ8": "E_SP_BQ8"
+    "piece.name.E_SP_BQ8": "조화로운 종"
   },
   {
-    "window.codex.branch.E_SP_BR": "branch.E_SP_BR"
+    "window.codex.branch.E_SP_BR": "나무 동상"
   },
   {
-    "piece.name.E_SP_BR1": "E_SP_BR1"
+    "piece.name.E_SP_BR1": "두더지 동상"
   },
   {
-    "piece.name.E_SP_BR2": "E_SP_BR2"
+    "piece.name.E_SP_BR2": "토끼 동상"
   },
   {
-    "piece.name.E_SP_BR3": "E_SP_BR3"
+    "piece.name.E_SP_BR3": "다람쥐 동상"
   },
   {
-    "piece.name.E_SP_BR4": "E_SP_BR4"
+    "piece.name.E_SP_BR4": "너구리 동상"
   },
   {
-    "piece.name.E_SP_BR5": "E_SP_BR5"
+    "piece.name.E_SP_BR5": "여우 동상"
   },
   {
-    "piece.name.E_SP_BR6": "E_SP_BR6"
+    "piece.name.E_SP_BR6": "늑대 동상"
   },
   {
-    "piece.name.E_SP_BR7": "E_SP_BR7"
+    "piece.name.E_SP_BR7": "오소리 동상"
   },
   {
-    "piece.name.E_SP_BR8": "E_SP_BR8"
+    "piece.name.E_SP_BR8": "황소 조각상"
   },
   {
-    "window.codex.branch.E_SP_BS": "branch.E_SP_BS"
+    "window.codex.branch.E_SP_BS": "통나무 썰매"
   },
   {
-    "piece.name.E_SP_BS1": "E_SP_BS1"
+    "piece.name.E_SP_BS1": "일반 썰매"
   },
   {
-    "piece.name.E_SP_BS2": "E_SP_BS2"
+    "piece.name.E_SP_BS2": "작은 썰매"
   },
   {
-    "piece.name.E_SP_BS3": "E_SP_BS3"
+    "piece.name.E_SP_BS3": "거친 썰매"
   },
   {
-    "piece.name.E_SP_BS4": "E_SP_BS4"
+    "piece.name.E_SP_BS4": "소박한 썰매"
   },
   {
-    "piece.name.E_SP_BS5": "E_SP_BS5"
+    "piece.name.E_SP_BS5": "튼튼한 썰매"
   },
   {
-    "piece.name.E_SP_BS6": "E_SP_BS6"
+    "piece.name.E_SP_BS6": "멋진 썰매"
   },
   {
-    "piece.name.E_SP_BS7": "E_SP_BS7"
+    "piece.name.E_SP_BS7": "리치 썰매"
   },
   {
-    "piece.name.E_SP_BS8": "E_SP_BS8"
+    "piece.name.E_SP_BS8": "우아한 썰매"
   },
   {
-    "window.codex.branch.E_SP_BT": "branch.E_SP_BT"
+    "window.codex.branch.E_SP_BT": "나무 톱"
   },
   {
-    "piece.name.E_SP_BT1": "E_SP_BT1"
+    "piece.name.E_SP_BT1": "일반 톱"
   },
   {
-    "piece.name.E_SP_BT2": "E_SP_BT2"
+    "piece.name.E_SP_BT2": "작은 톱"
   },
   {
-    "piece.name.E_SP_BT3": "E_SP_BT3"
+    "piece.name.E_SP_BT3": "거친 톱"
   },
   {
-    "piece.name.E_SP_BT4": "E_SP_BT4"
+    "piece.name.E_SP_BT4": "소박한 톱"
   },
   {
-    "piece.name.E_SP_BT5": "E_SP_BT5"
+    "piece.name.E_SP_BT5": "멋진 톱"
   },
   {
-    "piece.name.E_SP_BT6": "E_SP_BT6"
+    "piece.name.E_SP_BT6": "리치 톱"
   },
   {
-    "piece.name.E_SP_BT7": "E_SP_BT7"
+    "piece.name.E_SP_BT7": "강력한 전기 톱"
   },
   {
-    "piece.name.E_SP_BT8": "E_SP_BT8"
+    "piece.name.E_SP_BT8": "장대한 전기 톱"
   },
   {
-    "window.codex.branch.E_SP_BU": "branch.E_SP_BU"
+    "window.codex.branch.E_SP_BU": "검"
   },
   {
-    "piece.name.E_SP_BU1": "E_SP_BU1"
+    "piece.name.E_SP_BU1": "일반 검"
   },
   {
-    "piece.name.E_SP_BU2": "E_SP_BU2"
+    "piece.name.E_SP_BU2": "러프 검"
   },
   {
-    "piece.name.E_SP_BU3": "E_SP_BU3"
+    "piece.name.E_SP_BU3": "소박한 검"
   },
   {
-    "piece.name.E_SP_BU4": "E_SP_BU4"
+    "piece.name.E_SP_BU4": "초보자 검"
   },
   {
-    "piece.name.E_SP_BU5": "E_SP_BU5"
+    "piece.name.E_SP_BU5": "멋진 검"
   },
   {
-    "piece.name.E_SP_BU6": "E_SP_BU6"
+    "piece.name.E_SP_BU6": "리치 검"
   },
   {
-    "piece.name.E_SP_BU7": "E_SP_BU7"
+    "piece.name.E_SP_BU7": "뛰어난 검"
   },
   {
-    "piece.name.E_SP_BU8": "E_SP_BU8"
+    "piece.name.E_SP_BU8": "절묘한 검"
   },
   {
-    "window.codex.branch.E_SP_BV": "branch.E_SP_BV"
+    "window.codex.branch.E_SP_BV": "고블릿"
   },
   {
-    "piece.name.E_SP_BV1": "E_SP_BV1"
+    "piece.name.E_SP_BV1": "일반 머그잔"
   },
   {
-    "piece.name.E_SP_BV2": "E_SP_BV2"
+    "piece.name.E_SP_BV2": "거친 머그잔"
   },
   {
-    "piece.name.E_SP_BV3": "E_SP_BV3"
+    "piece.name.E_SP_BV3": "소박한 머그잔"
   },
   {
-    "piece.name.E_SP_BV4": "E_SP_BV4"
+    "piece.name.E_SP_BV4": "튼튼한 머그잔"
   },
   {
-    "piece.name.E_SP_BV5": "E_SP_BV5"
+    "piece.name.E_SP_BV5": "멋진 잔"
   },
   {
-    "piece.name.E_SP_BV6": "E_SP_BV6"
+    "piece.name.E_SP_BV6": "리치 잔"
   },
   {
-    "piece.name.E_SP_BV7": "E_SP_BV7"
+    "piece.name.E_SP_BV7": "우아한 잔"
   },
   {
-    "piece.name.E_SP_BV8": "E_SP_BV8"
+    "piece.name.E_SP_BV8": "숭고한 잔"
   },
   {
-    "window.codex.branch.E_SP_BW": "branch.E_SP_BW"
+    "window.codex.branch.E_SP_BW": "방패"
   },
   {
-    "piece.name.E_SP_BW1": "E_SP_BW1"
+    "piece.name.E_SP_BW1": "일반 방패"
   },
   {
-    "piece.name.E_SP_BW2": "E_SP_BW2"
+    "piece.name.E_SP_BW2": "거친 방패"
   },
   {
-    "piece.name.E_SP_BW3": "E_SP_BW3"
+    "piece.name.E_SP_BW3": "소박한 방패"
   },
   {
-    "piece.name.E_SP_BW4": "E_SP_BW4"
+    "piece.name.E_SP_BW4": "튼튼한 방패"
   },
   {
-    "piece.name.E_SP_BW5": "E_SP_BW5"
+    "piece.name.E_SP_BW5": "멋진 방패"
   },
   {
-    "piece.name.E_SP_BW6": "E_SP_BW6"
+    "piece.name.E_SP_BW6": "리치 방패"
   },
   {
-    "piece.name.E_SP_BW7": "E_SP_BW7"
+    "piece.name.E_SP_BW7": "강력한 방패"
   },
   {
-    "piece.name.E_SP_BW8": "E_SP_BW8"
+    "piece.name.E_SP_BW8": "장대한 방패"
   },
   {
-    "window.codex.branch.E_SP_BX": "branch.E_SP_BX"
+    "window.codex.branch.E_SP_BX": "석궁"
   },
   {
-    "piece.name.E_SP_BX1": "E_SP_BX1"
+    "piece.name.E_SP_BX1": "일반 석궁"
   },
   {
-    "piece.name.E_SP_BX2": "E_SP_BX2"
+    "piece.name.E_SP_BX2": "거친 석궁"
   },
   {
-    "piece.name.E_SP_BX3": "E_SP_BX3"
+    "piece.name.E_SP_BX3": "소박한 석궁"
   },
   {
-    "piece.name.E_SP_BX4": "E_SP_BX4"
+    "piece.name.E_SP_BX4": "튼튼한 석궁"
   },
   {
-    "piece.name.E_SP_BX5": "E_SP_BX5"
+    "piece.name.E_SP_BX5": "멋진 석궁"
   },
   {
-    "piece.name.E_SP_BX6": "E_SP_BX6"
+    "piece.name.E_SP_BX6": "리치 석궁"
   },
   {
-    "piece.name.E_SP_BX7": "E_SP_BX7"
+    "piece.name.E_SP_BX7": "강력한 석궁"
   },
   {
-    "piece.name.E_SP_BX8": "E_SP_BX8"
+    "piece.name.E_SP_BX8": "장대한 석궁"
   },
   {
     "window.codex.branch.H6_A": "회전 목마"
@@ -15549,10 +15681,10 @@
     "window.navigation.islandcard.UnicornIsland.title": "유니콘 섬"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.title": "Blue Ox Island"
+    "window.navigation.islandcard.BlueOxIsland.title": "푸른 황소 섬"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.title": "Red Dragon Island"
+    "window.navigation.islandcard.RedDragonIsland.title": "레드 드래곤 섬"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.title": "피닉스 섬"
@@ -15648,10 +15780,10 @@
     "window.navigation.islandcard.UnicornIsland.description": "반짝이는 무지개의 풍부한 맛"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.BlueOxIsland.description": "앞에 아늑한 목초지"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.RedDragonIsland.description": "보물로 가득한 지하감옥"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.description": "태양 너머의 불타는 세계"
@@ -15714,10 +15846,10 @@
     "window.navigation.help.popup.ZooIslandLock.message": "{0}에서 {1}레벨에 도달하고 {2}을 잠금 해제하려면 계속 플레이 하세요!"
   },
   {
-    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim!"
+    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim before it expires!"
   },
   {
-    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim!"
+    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim before it expires!"
   },
   {
     "window.event.howToPlay": "게임 방법"
@@ -15771,10 +15903,10 @@
     "gameboard.bubble.button.landmark.skinning": "변화"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.claimed": "Today: claimed"
+    "gameboard.bubble.message.CreaturePortal.claimed": "Claimed Today"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.expired": "Expire in: {0} days"
+    "gameboard.bubble.message.CreaturePortal.expired": "Expires in: {0} days"
   },
   {
     "tutorial.conversation.SD.skinning.1": "또 만났네요! 당신에게 아주 딱 맞게 신비한 섬을 장식할 수 있다는것을 알고 있었나요? 어떻게 되었는지 보여 드리겠습니다!"
@@ -15804,7 +15936,7 @@
     "piece.name.AA5": "성대한 캠프"
   },
   {
-    "piece.name.AA6": "자리잡은 캠프"
+    "piece.name.AA6": "완성된 캠프"
   },
   {
     "piece.name.AA7": "멋진 캠프"
@@ -15876,10 +16008,10 @@
     "window.codex.branch.HL_P": "보트 자원"
   },
   {
-    "piece.name.HL1_P": "작은 서핑 화분"
+    "piece.name.HL1_P": "작은 서핑 \\n화분"
   },
   {
-    "piece.name.HL2_P": "작은 서핑 보드"
+    "piece.name.HL2_P": "작은 서핑 \\n보드"
   },
   {
     "piece.name.HL3_P": "서핑 화분"
@@ -15936,7 +16068,7 @@
     "piece.name.NM": "캐슬 뮬란"
   },
   {
-    "window.codex.branch.HL_N": "드래곤 원천"
+    "window.codex.branch.HL_N": "드레곤 자원"
   },
   {
     "piece.name.HL1_N": "작은 드래곤 화분"
@@ -15951,10 +16083,10 @@
     "piece.name.HL4_N": "드래곤 트리"
   },
   {
-    "piece.name.HL5_N": "큰 드래곤 화분"
+    "piece.name.HL5_N": "큰 드래곤\\n화분"
   },
   {
-    "piece.name.HL6_N": "큰 드래곤 나무"
+    "piece.name.HL6_N": "큰 드래곤 \\n나무"
   },
   {
     "window.codex.branch.CH_N": "드레곤"
@@ -15978,13 +16110,13 @@
     "piece.name.O2": "카드 버로우"
   },
   {
-    "piece.name.O3": "멋진 카드 버로우"
+    "piece.name.O3": "멋진 카드\\n 버로우"
   },
   {
     "piece.name.O4": "카드 하우스"
   },
   {
-    "piece.name.O5": "멋진 카드 하우스"
+    "piece.name.O5": "멋진 카드 \\n하우스"
   },
   {
     "piece.name.O6": "카드 궁전"
@@ -15999,13 +16131,13 @@
     "piece.name.OM": "토끼 캐슬"
   },
   {
-    "window.codex.branch.HL_O": "카드 원천"
+    "window.codex.branch.HL_O": "카드 자원"
   },
   {
     "piece.name.HL1_O": "카드 토양"
   },
   {
-    "piece.name.HL2_O": "작은 카드 더미"
+    "piece.name.HL2_O": "작은 카드 \\n더미"
   },
   {
     "piece.name.HL3_O": "카드 화분"
@@ -16044,13 +16176,13 @@
     "piece.name.Q3": "잔디 오두막"
   },
   {
-    "piece.name.Q4": "멋진 잔디 오두막"
+    "piece.name.Q4": "멋진 잔디 \\n오두막"
   },
   {
     "piece.name.Q5": "잔디 하우스"
   },
   {
-    "piece.name.Q6": "멋진 잔디 하우스"
+    "piece.name.Q6": "멋진 잔디 \\n하우스"
   },
   {
     "piece.name.Q7": "잔디 궁전"
@@ -16062,13 +16194,13 @@
     "piece.name.QM": "킨타로 캐슬"
   },
   {
-    "window.codex.branch.HL_Q": "잔디 원천"
+    "window.codex.branch.HL_Q": "잔디 자원"
   },
   {
-    "piece.name.HL1_Q": "작은 잔디 화분"
+    "piece.name.HL1_Q": "작은 잔디 \\n화분"
   },
   {
-    "piece.name.HL2_Q": "잔디 그루터기"
+    "piece.name.HL2_Q": "잔디 \\n그루터기"
   },
   {
     "piece.name.HL3_Q": "잔디 화분"
@@ -16098,22 +16230,22 @@
     "window.codex.branch.R": "자작 나무"
   },
   {
-    "piece.name.R1": "자작 나무 로그"
+    "piece.name.R1": "자작 나무 \\n로그"
   },
   {
-    "piece.name.R2": "자작 나무 둥지"
+    "piece.name.R2": "자작 나무 \\n둥지"
   },
   {
     "piece.name.R3": "큰 자작 나무 둥지"
   },
   {
-    "piece.name.R4": "자작 나무 오두막"
+    "piece.name.R4": "자작 나무 \\n오두막"
   },
   {
     "piece.name.R5": "치킨 하우스"
   },
   {
-    "piece.name.R6": "멋진 치킨 하우스"
+    "piece.name.R6": "멋진 치킨 \\n 하우스"
   },
   {
     "piece.name.R7": "치킨 궁전"
@@ -16122,28 +16254,28 @@
     "piece.name.R8": "치킨 샤토"
   },
   {
-    "piece.name.RM": "캐슬 바바 야가"
+    "piece.name.RM": "캐슬 바바 \\n야가"
   },
   {
-    "window.codex.branch.HL_R": "자작 나무 원천"
+    "window.codex.branch.HL_R": "자작 나무 자원"
   },
   {
-    "piece.name.HL1_R": "작은 자작 나무 화분"
+    "piece.name.HL1_R": "작은 자작 \\n나무 화분"
   },
   {
-    "piece.name.HL2_R": "자작 나무 그루터기"
+    "piece.name.HL2_R": "자작 나무 \\n그루터기"
   },
   {
-    "piece.name.HL3_R": "자작 나무 화분"
+    "piece.name.HL3_R": "자작 나무 \\n화분"
   },
   {
-    "piece.name.HL4_R": "자작 나무 로그"
+    "piece.name.HL4_R": "자작 통나무"
   },
   {
     "piece.name.HL5_R": "큰 자작 나무 화분"
   },
   {
-    "piece.name.HL6_R": "자작 나무 트렁크"
+    "piece.name.HL6_R": "자작 나무 \\n트렁크"
   },
   {
     "window.codex.branch.CH_R": "자작 나무"
@@ -16167,7 +16299,7 @@
     "piece.name.S2": "얼음 바위"
   },
   {
-    "piece.name.S3": "떠다니는 빙산"
+    "piece.name.S3": "떠다니는 \\n빙산"
   },
   {
     "piece.name.S4": "얼음 동굴"
@@ -16176,7 +16308,7 @@
     "piece.name.S5": "얼음 오두막"
   },
   {
-    "piece.name.S6": "멋진 얼음 오두막"
+    "piece.name.S6": "멋진 얼음 \\n오두막"
   },
   {
     "piece.name.S7": "얼음 하우스"
@@ -16188,16 +16320,16 @@
     "piece.name.S9": "얼음 샤토"
   },
   {
-    "piece.name.SM": "눈꽃 여왕 캐슬"
+    "piece.name.SM": "눈꽃 여왕 \\n캐슬"
   },
   {
-    "window.codex.branch.HL_S": "얼음 원천"
+    "window.codex.branch.HL_S": "얼음 자원"
   },
   {
-    "piece.name.HL1_S": "작은 얼음 화분"
+    "piece.name.HL1_S": "작은 얼음\\n화분"
   },
   {
-    "piece.name.HL2_S": "작은 얼음 블록"
+    "piece.name.HL2_S": "작은 얼음 \\n블록"
   },
   {
     "piece.name.HL3_S": "얼음 화분"
@@ -16236,13 +16368,13 @@
     "piece.name.T3": "버섯 오두막"
   },
   {
-    "piece.name.T4": "큰 버섯 오두막"
+    "piece.name.T4": "큰 버섯 \\n오두막"
   },
   {
     "piece.name.T5": "버섯 하우스"
   },
   {
-    "piece.name.T6": "멋진 버섯 오두막"
+    "piece.name.T6": "멋진 버섯 \\n오두막"
   },
   {
     "piece.name.T7": "버섯 작은 집"
@@ -16272,7 +16404,7 @@
     "piece.name.HL4_U": "주전자"
   },
   {
-    "piece.name.HL5_U": "큰 주전자 화분"
+    "piece.name.HL5_U": "큰 주전자 \\n화분"
   },
   {
     "piece.name.HL6_U": "큰 주전자"
@@ -16293,25 +16425,25 @@
     "window.codex.branch.U": "주전자"
   },
   {
-    "piece.name.U1": "이가 빠진 찻잔"
+    "piece.name.U1": "이가 빠진 \\n찻잔"
   },
   {
     "piece.name.U2": "작은 찻잔"
   },
   {
-    "piece.name.U3": "이가 빠진 주전자"
+    "piece.name.U3": "이가 빠진 \\n주전자"
   },
   {
-    "piece.name.U4": "주전자 오두막"
+    "piece.name.U4": "주전자 \\n오두막"
   },
   {
-    "piece.name.U5": "주전자 하우스"
+    "piece.name.U5": "주전자 \\n하우스"
   },
   {
-    "piece.name.U6": "큰 주전자 하우스"
+    "piece.name.U6": "큰 주전자 \\n하우스"
   },
   {
-    "piece.name.U7": "주전자 코티지"
+    "piece.name.U7": "주전자 \\n작은집"
   },
   {
     "piece.name.U8": "주전자 궁전"
@@ -16326,7 +16458,7 @@
     "window.codex.branch.HL_V": "잠수함 소스"
   },
   {
-    "piece.name.HL1_V": "작은 볼트 화분"
+    "piece.name.HL1_V": "작은 볼트 \\n화분"
   },
   {
     "piece.name.HL2_V": "작은 볼트"
@@ -16365,13 +16497,13 @@
     "piece.name.V2": "너트와 볼트"
   },
   {
-    "piece.name.V3": "잠수함 프레임"
+    "piece.name.V3": "잠수함 \\n프레임"
   },
   {
     "piece.name.V4": "잠수함 몸체"
   },
   {
-    "piece.name.V5": "평범한 잠수함"
+    "piece.name.V5": "평범한 \\n잠수함"
   },
   {
     "piece.name.V6": "큰 잠수함"
@@ -16380,25 +16512,25 @@
     "piece.name.V7": "멋진 잠수함"
   },
   {
-    "piece.name.V8": "풍부한 잠수함"
+    "piece.name.V8": "풍부한 \\n잠수함"
   },
   {
-    "piece.name.V9": "우아한 잠수함"
+    "piece.name.V9": "우아한 \\n잠수함"
   },
   {
-    "piece.name.V10": "최고의 잠수함"
+    "piece.name.V10": "최고의 \\n잠수함"
   },
   {
     "piece.name.VM": "니모 캐슬"
   },
   {
-    "window.codex.branch.HL_T": "버섯 원천"
+    "window.codex.branch.HL_T": "버섯 자원"
   },
   {
-    "piece.name.HL1_T": "작은 버섯 화분"
+    "piece.name.HL1_T": "작은 버섯 \\n화분"
   },
   {
-    "piece.name.HL2_T": "작은 버섯 통나무"
+    "piece.name.HL2_T": "작은 버섯 \\n통나무"
   },
   {
     "piece.name.HL3_T": "버섯 화분"
@@ -16410,7 +16542,7 @@
     "piece.name.HL5_T": "큰 버섯 화분"
   },
   {
-    "piece.name.HL6_T": "큰 버섯 통나무"
+    "piece.name.HL6_T": "큰 버섯 \\n통나무"
   },
   {
     "window.codex.branch.CH_T": "버섯"
@@ -16425,25 +16557,25 @@
     "piece.name.CH3_T": "위대한 상자"
   },
   {
-    "window.codex.branch.HL_W": "요정 나무 소스"
+    "window.codex.branch.HL_W": "요정 나무 자원"
   },
   {
-    "piece.name.HL1_W": "작은 요정 화분"
+    "piece.name.HL1_W": "작은 요정 \\n화분"
   },
   {
-    "piece.name.HL2_W": "작은 요정 그루터기"
+    "piece.name.HL2_W": "작은 요정 \\n그루터기"
   },
   {
     "piece.name.HL3_W": "요정 화분"
   },
   {
-    "piece.name.HL4_W": "요정 그루터기"
+    "piece.name.HL4_W": "요정 \\n그루터기"
   },
   {
     "piece.name.HL5_W": "큰 요정 화분"
   },
   {
-    "piece.name.HL6_W": "큰 요정 그루터기"
+    "piece.name.HL6_W": "큰 요정 \\n그루터기"
   },
   {
     "window.codex.branch.CH_W": "요정 나무"
@@ -16494,13 +16626,13 @@
     "piece.name.WM": "캐슬 벨"
   },
   {
-    "window.codex.branch.HL_X": "기차 소스"
+    "window.codex.branch.HL_X": "기차 자원"
   },
   {
-    "piece.name.HL1_X": "작은 기차 화분"
+    "piece.name.HL1_X": "작은 기차 \\n화분"
   },
   {
-    "piece.name.HL2_X": "작은 기차 채석장"
+    "piece.name.HL2_X": "작은 기차 \\n채석장"
   },
   {
     "piece.name.HL3_X": "기차 화분"
@@ -16512,7 +16644,7 @@
     "piece.name.HL5_X": "큰 기차 화분"
   },
   {
-    "piece.name.HL6_X": "큰 기차 채석장"
+    "piece.name.HL6_X": "큰 기차 \\n채석장"
   },
   {
     "window.codex.branch.CH_X": "기차"
@@ -16566,22 +16698,22 @@
     "window.codex.branch.HL_Y": "농가 자원"
   },
   {
-    "piece.name.HL1_Y": "작은 농장 화분"
+    "piece.name.HL1_Y": "작은 농장 \\n화분"
   },
   {
-    "piece.name.HL2_Y": "작은 농장 공급"
+    "piece.name.HL2_Y": "작은 농장 \\n재료"
   },
   {
     "piece.name.HL3_Y": "농장 화분"
   },
   {
-    "piece.name.HL4_Y": "농장 공급"
+    "piece.name.HL4_Y": "농장 재료"
   },
   {
     "piece.name.HL5_Y": "큰 농장 화분"
   },
   {
-    "piece.name.HL6_Y": "큰 농장 공급"
+    "piece.name.HL6_Y": "큰 농장 재료"
   },
   {
     "window.codex.branch.CH_Y": "농가"
@@ -16633,6 +16765,81 @@
   },
   {
     "piece.name.YM": "캐슬 게일"
+  },
+  {
+    "window.codex.branch.HL_Z": "맙버의 돌 자원"
+  },
+  {
+    "piece.name.HL1_Z": "작은 돌 화분"
+  },
+  {
+    "piece.name.HL2_Z": "바윗돌"
+  },
+  {
+    "piece.name.HL3_Z": "돌 화분"
+  },
+  {
+    "piece.name.HL4_Z": "돌 덩어리"
+  },
+  {
+    "piece.name.HL5_Z": "큰 돌 화분"
+  },
+  {
+    "piece.name.HL6_Z": "석판"
+  },
+  {
+    "window.codex.branch.Z": "마법의 돌"
+  },
+  {
+    "piece.name.Z1": "전석"
+  },
+  {
+    "piece.name.Z2": "돌 블록"
+  },
+  {
+    "piece.name.Z3": "돌 오두막"
+  },
+  {
+    "piece.name.Z4": "큰 돌 오두막"
+  },
+  {
+    "piece.name.Z5": "멋진 돌 \\n오두막"
+  },
+  {
+    "piece.name.Z6": "돌로 지은 \\n작은집"
+  },
+  {
+    "piece.name.Z7": "돌로 지은 \\n하우스"
+  },
+  {
+    "piece.name.Z8": "돌로 된 궁전"
+  },
+  {
+    "piece.name.Z9": "돌로 된 멋진 궁전"
+  },
+  {
+    "piece.name.Z10": "돌로 지은 \\n샤토"
+  },
+  {
+    "piece.name.Z11": "돌로 지은 \\n그랜드 샤토"
+  },
+  {
+    "piece.name.Z12": "화려한 돌 샤토"
+  },
+  {
+    "piece.name.ZM": "원숭이 성"
+  },
+  {
+    "window.codex.branch.CH_Z": "마법의 돌"
+  },
+  {
+    "piece.name.CH1_Z": "작은 상자"
+  },
+  {
+    "piece.name.CH2_Z": "큰 상자"
+  },
+  {
+    "piece.name.CH3_Z": "위대한 상자"
   },
   {
     "window.delivery.title": "배달 서비스"
@@ -18387,6 +18594,117 @@
     "conversation.use.wm.message2": "저요? 그럴것같지 않아요. 네버랜드는 항상 당신을 찾는 방법을 가지고 있어요..."
   },
   {
+    "conversation.z3.message1": "이건 청사진 본 적 있나요, 척? 로타가 이 빌드를 요구합니다."
+  },
+  {
+    "conversation.z3.message2": "와! 황금빛 욕조요? 모든 방에 실크 커튼이요? 하늘에 닿을 수 있는 탑?"
+  },
+  {
+    "conversation.z3.message3": "지난번에 우리가 그렇게 비싼 일을 했을 때는 마이다스 왕을 위해서였습니다!"
+  },
+  {
+    "conversation.z3.message4": "그것을 기억해요. 내 턱수염의 금은 절대 빨지 않을 거라고 생각했는데..."
+  },
+  {
+    "conversation.z4.message1": "건물 짓는건 어떻게 되가나요?"
+  },
+  {
+    "conversation.z4.message2": "글쎄요, 우리는 지금 더 많은 시골 풍의 동굴과 흙을 털고 있어요. 하지만 걱정하지 마세요. 진행중이니까요!"
+  },
+  {
+    "conversation.z4.message3": "하늘에 하나의 왕국이 다가오고 있습니다!"
+  },
+  {
+    "conversation.z5.message1": "이 원숭이가 실제로 신과 싸울 수 있다고 하는걸 들은적 있나요? 너무 멋지죠. 그는 아마도 해적들의 함대 전체를 무찌를 수 있을 것입니다."
+  },
+  {
+    "conversation.z5.message2": "흠. 글쎄, 그는 나와 싸우지 않고 이겼어요!"
+  },
+  {
+    "conversation.z5.message3": "그가 아직 당신과 싸우지도 않았다고요?"
+  },
+  {
+    "conversation.z5.message4": "그건 내 요점이 아니고요."
+  },
+  {
+    "conversation.z6.message1": "그리고, 당신이 거의 죽을 뻔했었다고 말하지 않았나요? 그리고 100 년을 잤다고요? 정말 골치아픈 일이네요."
+  },
+  {
+    "conversation.z6.message2": "그쵸?! 당신에게 그런 일이 일어난 적이 있나요?"
+  },
+  {
+    "conversation.z6.message3": "아뇨. 나는 불멸하고 엄청나게 강력하답니다."
+  },
+  {
+    "conversation.z7.message1": "이 여자를 좀 어떻게 해 줄 수 있나요? 그녀는 내 집 주위를 맴돌며 내 발을 하나 달라고 계속 요구중이에요."
+  },
+  {
+    "conversation.z7.message2": "어... 바바 야가? 당신을 돕기 위해 우리가 해줄 수 있는 일이 있을까요?"
+  },
+  {
+    "conversation.z7.message3": "원숭이의 발은 가장 운이 좋은 발입니다 - 불멸의 원숭이의 발은 심지어 더 운이 좋죠. 게다가 두 개를 다 가지고 있어요."
+  },
+  {
+    "conversation.z7.message4": "대신 멋진 네잎 클로버에 대해 생각해봤나요?"
+  },
+  {
+    "conversation.z8.message1": "와우! 이 꽃들 정말 죽이네요. 진짜 멋진 스타일이에요. 다음에 무엇을 만들지 너무 궁금해요!"
+  },
+  {
+    "conversation.z8.message2": "난 항상 당신을 가장 좋아했어요."
+  },
+  {
+    "conversation.z9.message1": "뭐라고요? 원숭이 왕은 안에 무엇이 있는지 보여주는 스크린이 있는 냉장고를 가져 오나요? 나머지 사람들은요?"
+  },
+  {
+    "conversation.z9.message2": "우리는... 우리는 청사진을 따를뿐입니다!"
+  },
+  {
+    "conversation.z9.message3": "* 속삭임* 자동화 된 신발장에 대해 말하지 마세요."
+  },
+  {
+    "conversation.z10.message1": "실내 체육관은 훈련을 위해 더 많은 무기를 사용할 수 있어요. 다른 재고는 없나요?"
+  },
+  {
+    "conversation.z10.message2": "최근에 설치해야 할 체육관이 많아서 많이 남아 있지 않을 수도 있어요. 우리가 추가 할 수 있는게 없나요, 척?"
+  },
+  {
+    "conversation.z10.message3": "해변에서 코코넛 헬멧과 뾰족한 돌을 찾았습니다. 그거면 되나요?"
+  },
+  {
+    "conversation.z10.message4": "* 한숨* 아주 좋네요. 기한을 맞춰야겠어요."
+  },
+  {
+    "conversation.z11.message1": "이 탑은 미스터 원숭이을 위해 충분히 높은가요? 청사진에는 '구름 고속도로에 도달 할 수있을 만큼 높은 타워' 가 언급되어 있는데요."
+  },
+  {
+    "conversation.z11.message2": "나는 그것이 여행을 위한 구름을 찾기에 충분하다고 믿어요. 하지만 그것은 더 클 수도 있어요."
+  },
+  {
+    "conversation.z11.message3": "오, 와우, 나에게는 일어나지도 않을 일이네요. 구름 여행 고속도로라니."
+  },
+  {
+    "conversation.z12.message1": "돌 몇 개만 더 있으면 정말 마법 같은 것을 볼 수 있습니다!"
+  },
+  {
+    "conversation.zm.message1": "훌륭해요! 이곳은 나의 새로운 통치를 시작하기에 완벽한 장소입니다..."
+  },
+  {
+    "conversation.zm.message2": "잠깐 기다려요! 이것은 유감스럽게도 단체 투표로 결정하는 장소랍니다. 월간 설문 조사를 위해 연락처 정보를 좀 주실래요?"
+  },
+  {
+    "conversation.use.zm.message1": "이제 이 성을보세요. 아름다움 그 자체죠, 벅!"
+  },
+  {
+    "conversation.use.zm.message2": "물론이죠, 척 오 안돼. 충돌 소리가 들리나요? 내가 침대에 볼트를 조이는것을 깜빡한것 같아요."
+  },
+  {
+    "conversation.use.mn_z.message1": "왕에게 어울리는 성은 최고 마법의 돌로만 만들 수 있습니다!"
+  },
+  {
+    "conversation.use.mn_z.message2": "다행인건 이 믿을 수 있는 마법의 돌 광산을 찾았다는 거에요."
+  },
+  {
     "window.island1_2.title": "초록뿔 섬"
   },
   {
@@ -18900,6 +19218,12 @@
     "window.collection.locked.hint.premium.event.LM_37": "할로윈 이브 2021 이벤트에서 수집되었습니다."
   },
   {
+    "window.collection.locked.hint.premium.event.LM_38": "2021 추수감사절"
+  },
+  {
+    "window.collection.locked.hint.premium.event.LM_39": "2021 추수감사절"
+  },
+  {
     "window.collection.description.LM_1": "마법의 생명체로 가득한 신비로운 곳으로 발을 내딛으세요... 문을 열기만 하면 됩니다!"
   },
   {
@@ -19009,6 +19333,12 @@
   },
   {
     "window.collection.description.LM_37": "사마귀 제거? 주름 세럼? 물약 마스터에게 다녀가면 당신이 찾고 있는것에 대한 답을 찾을 겁니다! 그래도 조심하세요. 그는 항상 맛을 봐줄 사람을 찾고 있거든요."
+  },
+  {
+    "window.collection.description.LM_38": "잔치를 하려면 추수 수레를 뒤져서 탐스럽고 맛있게 익은 음식과 과일들을 찾아야 해요. 칠면조에게는 말하지 마세요."
+  },
+  {
+    "window.collection.description.LM_39": "전설에 따르면 제우스는 우연히 염소의 뿔을 부러뜨리고 끝없이 음식이 제공되는 힘을 얻었다고 합니다. 행운의 사건에 대해 이야기 해보세요."
   },
   {
     "window.collection.description.DC_1": "겨울 내내 좋은 색을 유지하는 이 상록 관목으로 프라이버시를 지키세요."
@@ -19146,117 +19476,6 @@
     "window.collection.description.DC_45": "이 꽃 등불의 부드러운 빛에서 휴식과 회복이 스며 나옵니다."
   },
   {
-    "window.decoration.description.LM_1": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_2": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_3": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_4": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_5": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_6": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_7": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_8": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_9": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_10": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_11": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_12": "할로윈 이브 2020 이벤트"
-  },
-  {
-    "window.decoration.description.LM_13": "할로윈 이브 2020 이벤트"
-  },
-  {
-    "window.decoration.description.LM_14": "블랙 프라이데이 오퍼 2020"
-  },
-  {
-    "window.decoration.description.LM_15": "북극 2020 이벤트"
-  },
-  {
-    "window.decoration.description.LM_16": "북극 2020 이벤트"
-  },
-  {
-    "window.decoration.description.LM_17": "북극 2020 오퍼"
-  },
-  {
-    "window.decoration.description.LM_18": "큐피드 정원 2021 이벤트"
-  },
-  {
-    "window.decoration.description.LM_19": "큐피드 정원 2021 이벤트"
-  },
-  {
-    "window.decoration.description.LM_20": "큐피드의 정원 2021 오퍼"
-  },
-  {
-    "window.decoration.description.LM_21": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_22": "2021 년 1 차 합병 이벤트"
-  },
-  {
-    "window.decoration.description.LM_23": "2021 년 1 차 합병 이벤트"
-  },
-  {
-    "window.decoration.description.LM_24": "2021 년 1 차 합병 오퍼"
-  },
-  {
-    "window.decoration.description.LM_25": "2021 년 한여름 이벤트"
-  },
-  {
-    "window.decoration.description.LM_26": "2021 년 한여름 이벤트"
-  },
-  {
-    "window.decoration.description.LM_27": "2021 년 한여름 이벤트"
-  },
-  {
-    "window.decoration.description.LM_28": "여름 축제 2021 이벤트"
-  },
-  {
-    "window.decoration.description.LM_29": "여름 축제 2021 이벤트"
-  },
-  {
-    "window.decoration.description.LM_30": "여름 축제 2021 이벤트"
-  },
-  {
-    "window.decoration.description.LM_31": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_32": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_33": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_34": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_35": "신비한 섬 시장"
-  },
-  {
-    "window.decoration.description.LM_36": "할로윈 이브 2021 이벤트"
-  },
-  {
-    "window.decoration.description.LM_37": "할로윈 이브 2021 이벤트"
-  },
-  {
     "window.decoration.category.LM.common": "표준 랜드마크"
   },
   {
@@ -19377,7 +19596,7 @@
     "window.market.description.energy": "클레임 후 사용할 수 있도록 {0}을 주지만, 에너지를 더 얻기 위해 4단계로 조각으로 병합할 수 있습니다."
   },
   {
-    "window.market.description.InfinityEnergy": "{0}분 동안 무제한 에너지를 얻으려면 이것을 사용하십시오!"
+    "window.market.description.InfinityEnergy": "<color=#7400B4>{0}분</color> 동안 무제한 에너지를 얻으려면 이것을 사용하십시오!"
   },
   {
     "piece.name.Boost_FR": "작물 소생제"
@@ -19458,31 +19677,34 @@
     "window.profile.stats.monuments.5star": "5 성급 캐슬"
   },
   {
+    "window.profile.stats.SDlevel.locked": "신비한 \\n 섬"
+  },
+  {
     "window.profile.stats.SDlevel": "레벨 {0}\\n신비한 섬"
   },
   {
     "window.profile.stats.mainlevel": "레벨 {0}\\n메인 게임"
   },
   {
-    "window.profile.stats.next.level": "To next level: {0}/{1}"
+    "window.profile.stats.next.level": "레벨 진행 : {0}/{1}"
   },
   {
-    "window.profile.edit.avatar.inf": "Use your discoveries book to set any piece you 've unlocked as Avatar"
+    "window.profile.edit.avatar.inf": "디스커버리 북을 사용하여 잠금 해제 한 조각을 프로필 사진으로 설정하세요!"
   },
   {
-    "window.profile.unlock.slot": "Unlock slot"
+    "window.profile.unlock.slot": "상태 슬롯 잠금 해제"
   },
   {
-    "window.profile.purchase.slot": "Purchase one more slot?"
+    "window.profile.purchase.slot": "슬롯을 하나 더 구매 하시겠습니까?"
   },
   {
-    "window.profile.castles.main": "Main island castles"
+    "window.profile.castles.main": "홈 아일랜드 캐슬"
   },
   {
-    "window.profile.castles.paradise": "Paradise cove castles"
+    "window.profile.castles.paradise": "파라다이스 숲 캐슬"
   },
   {
-    "window.profile.castles.keep.playing": "Keep playing to unlock this castle"
+    "window.profile.castles.keep.playing": "이 캐슬을 잠금 해제하려면 계속 플레이하기"
   },
   {
     "window.profile.stats.SDcreatures.legendary": "수집 된 전설적인 생물들"
@@ -19491,10 +19713,10 @@
     "window.profile.edit.name.button.random": "랜덤"
   },
   {
-    "window.profile.connection.low": "Loading..."
+    "window.profile.connection.low": "로딩 중 ..."
   },
   {
-    "window.profile.connection.check": "Please, check your connection"
+    "window.profile.connection.check": "연결 상태를 확인하세요!"
   },
   {
     "window.profile.button.confirm": "확인"
@@ -19617,7 +19839,7 @@
     "window.codex.branch.NPC_Y": "도로시 게일"
   },
   {
-    "window.codex.branch.NPC_Z": "branch.NPC_Z"
+    "window.codex.branch.NPC_Z": "원숭이 왕"
   },
   {
     "window.codex.branch.NPC_AA": "잠자는 숲 속의 미녀"

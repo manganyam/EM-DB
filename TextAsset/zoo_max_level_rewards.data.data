@@ -42,8 +42,8 @@
     "Index": 1,
     "Rewards": [
       {
-        "Currency": "BOX_A1",
-        "Amount": 2
+        "Currency": "BOX_B1",
+        "Amount": 1
       },
       {
         "Currency": "BOX_Feed",
@@ -61,7 +61,7 @@
       },
       {
         "Currency": "BOX_B1",
-        "Amount": 2
+        "Amount": 1
       }
     ],
     "IsMaxLevel": true
@@ -70,11 +70,11 @@
     "Index": 3,
     "Rewards": [
       {
-        "Currency": "BOX_B3",
+        "Currency": "BOX_B2",
         "Amount": 1
       },
       {
-        "Currency": "BOX_A1",
+        "Currency": "BOX_Feed",
         "Amount": 1
       }
     ],

@@ -5997,6 +5997,569 @@
     ]
   },
   {
+    "Id": "M2_107_CreatePiece_NPC_Z3",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z3.message1"
+      }
+    ]
+  },
+  {
+    "Id": "M2_108_CreatePiece_NPC_Z4",
+    "ConversationCharacters": {
+      "LeftInner": "TinkerBell",
+      "RightInner": "Mulan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "TinkerBell",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z4.message1"
+      },
+      {
+        "CharacterId": "Mulan",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z4.message2"
+      }
+    ]
+  },
+  {
+    "Id": "M2_109_CreatePiece_NPC_Z5",
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z5.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z5.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z5.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z5.message4"
+      }
+    ]
+  },
+  {
+    "Id": "M2_110_CreatePiece_NPC_Z6",
+    "ConversationCharacters": {
+      "LeftInner": "Alice",
+      "RightInner": "BabaYaga"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Alice",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z6.message1"
+      },
+      {
+        "CharacterId": "BabaYaga",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z6.message2"
+      },
+      {
+        "CharacterId": "Alice",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z6.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_111_CreatePiece_NPC_Z7",
+    "ConversationCharacters": {
+      "LeftInner": "WhiteRabbit",
+      "RightInner": "Mulan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "WhiteRabbit",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z7.message1"
+      },
+      {
+        "CharacterId": "Mulan",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z7.message2"
+      },
+      {
+        "CharacterId": "WhiteRabbit",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z7.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_112_CreatePiece_NPC_Z8",
+    "ConversationCharacters": {
+      "LeftInner": "SnowQueen",
+      "RightInner": "Mulan",
+      "LeftOuter": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SnowQueen",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z8.message1"
+      },
+      {
+        "CharacterId": "Mulan",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z8.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z8.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_113_CreatePiece_NPC_Z9",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "TinkerBell",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z9.message1"
+      },
+      {
+        "CharacterId": "TinkerBell",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z9.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z9.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_114_CreatePiece_NPC_Z10",
+    "ConversationCharacters": {
+      "LeftInner": "Maui",
+      "RightInner": "FrogPrince"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Maui",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z10.message1"
+      },
+      {
+        "CharacterId": "FrogPrince",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z10.message2"
+      },
+      {
+        "CharacterId": "Maui",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z10.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_115_CreatePiece_NPC_Z11",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Chuck",
+      "LeftOuter": "SnowQueen"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z11.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z11.message2"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z11.message3"
+      },
+      {
+        "CharacterId": "SnowQueen",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z11.message4"
+      }
+    ]
+  },
+  {
+    "Id": "M2_116_CreatePiece_NPC_Z",
+    "ConversationCharacters": {
+      "LeftInner": "Mulan"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Mulan",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z.message1"
+      }
+    ]
+  },
+  {
+    "Id": "M2_117_CompleteOrder",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "Dorothy",
+      "RightOuter": "MonkeyKing"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Dorothy",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z.order.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z.order.message2"
+      },
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z.order.message3"
+      },
+      {
+        "CharacterId": "Dorothy",
+        "Emotion": "Normal",
+        "Message": "conversation.npc_z.order.message4"
+      }
+    ]
+  },
+  {
+    "Id": "M2_213_CreatePiece_Z3",
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.z3.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.z3.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.z3.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.z3.message4"
+      }
+    ]
+  },
+  {
+    "Id": "M2_214_CreatePiece_Z4",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "MonkeyKing",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.z4.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.z4.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.z4.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_215_CreatePiece_Z5",
+    "ConversationCharacters": {
+      "LeftInner": "TinkerBell",
+      "RightInner": "Maui"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "TinkerBell",
+        "Emotion": "Normal",
+        "Message": "conversation.z5.message1"
+      },
+      {
+        "CharacterId": "Maui",
+        "Emotion": "Normal",
+        "Message": "conversation.z5.message2"
+      },
+      {
+        "CharacterId": "TinkerBell",
+        "Emotion": "Normal",
+        "Message": "conversation.z5.message3"
+      },
+      {
+        "CharacterId": "Maui",
+        "Emotion": "Normal",
+        "Message": "conversation.z5.message4"
+      }
+    ]
+  },
+  {
+    "Id": "M2_216_CreatePiece_Z6",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "MonkeyKing"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.z6.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.z6.message2"
+      },
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.z6.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_217_CreatePiece_Z7",
+    "ConversationCharacters": {
+      "LeftInner": "MonkeyKing",
+      "RightInner": "Buck",
+      "LeftOuter": "BabaYaga",
+      "RightOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.z7.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.z7.message2"
+      },
+      {
+        "CharacterId": "BabaYaga",
+        "Emotion": "Normal",
+        "Message": "conversation.z7.message3"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.z7.message4"
+      }
+    ]
+  },
+  {
+    "Id": "M2_218_CreatePiece_Z8",
+    "ConversationCharacters": {
+      "LeftInner": "Alice",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Alice",
+        "Emotion": "Normal",
+        "Message": "conversation.z8.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.z8.message2"
+      }
+    ]
+  },
+  {
+    "Id": "M2_219_CreatePiece_Z9",
+    "ConversationCharacters": {
+      "LeftInner": "SnowQueen",
+      "RightInner": "Chuck",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SnowQueen",
+        "Emotion": "Normal",
+        "Message": "conversation.z9.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.z9.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.z9.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_220_CreatePiece_Z10",
+    "ConversationCharacters": {
+      "LeftInner": "Buck",
+      "RightInner": "MonkeyKing",
+      "LeftOuter": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.z10.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.z10.message2"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.z10.message3"
+      },
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.z10.message4"
+      }
+    ]
+  },
+  {
+    "Id": "M2_221_CreatePiece_Z11",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "MonkeyKing",
+      "LeftOuter": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.z11.message1"
+      },
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.z11.message2"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.z11.message3"
+      }
+    ]
+  },
+  {
+    "Id": "M2_222_CreatePiece_Z12",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.z12.message1"
+      }
+    ]
+  },
+  {
+    "Id": "M2_223_CreatePiece_ZM",
+    "ConversationCharacters": {
+      "LeftInner": "SleepingBeauty",
+      "RightInner": "MonkeyKing"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.zm.message1"
+      },
+      {
+        "CharacterId": "SleepingBeauty",
+        "Emotion": "Normal",
+        "Message": "conversation.zm.message2"
+      }
+    ]
+  },
+  {
+    "Id": "M2_249_UseMonument_ZM",
+    "ConversationCharacters": {
+      "LeftInner": "Chuck",
+      "RightInner": "Buck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.use.zm.message1"
+      },
+      {
+        "CharacterId": "Buck",
+        "Emotion": "Normal",
+        "Message": "conversation.use.zm.message2"
+      }
+    ]
+  },
+  {
+    "Id": "M2_236_UseMine_Z",
+    "ConversationCharacters": {
+      "LeftInner": "MonkeyKing",
+      "RightInner": "Chuck"
+    },
+    "Bubbles": [
+      {
+        "CharacterId": "MonkeyKing",
+        "Emotion": "Normal",
+        "Message": "conversation.use.mn_z.message1"
+      },
+      {
+        "CharacterId": "Chuck",
+        "Emotion": "Normal",
+        "Message": "conversation.use.mn_z.message2"
+      }
+    ]
+  },
+  {
     "Id": "ftue1",
     "ConversationCharacters": {
       "LeftInner": "Chuck",

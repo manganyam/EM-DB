@@ -3,10 +3,6 @@
     "Season": "winter",
     "Rewards": [
       {
-        "Currency": "Coins",
-        "Amount": 200
-      },
-      {
         "Currency": "SK3_PR",
         "Amount": 1
       }
@@ -15,10 +11,6 @@
   {
     "Season": "spring",
     "Rewards": [
-      {
-        "Currency": "Coins",
-        "Amount": 200
-      },
       {
         "Currency": "SK3_PR",
         "Amount": 1
@@ -29,10 +21,6 @@
     "Season": "summer",
     "Rewards": [
       {
-        "Currency": "Coins",
-        "Amount": 200
-      },
-      {
         "Currency": "SK3_PR",
         "Amount": 1
       }
@@ -41,10 +29,6 @@
   {
     "Season": "fall",
     "Rewards": [
-      {
-        "Currency": "Coins",
-        "Amount": 200
-      },
       {
         "Currency": "SK3_PR",
         "Amount": 1

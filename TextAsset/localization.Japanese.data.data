@@ -297,9 +297,6 @@
     "window.codex.branch.E4_A": "ネス湖のモンスター"
   },
   {
-    "window.codex.branch.E5_A": "Blue Ox E5_A"
-  },
-  {
     "window.codex.branch.H1_A": "ハロウィンモンスター"
   },
   {
@@ -543,10 +540,10 @@
     "window.codex.branch.E4_CH_B": "ハイランドの宝箱"
   },
   {
-    "window.codex.branch.E5_CH_A": "E5_CH_A"
+    "window.codex.branch.E5_CH_A": "干し草"
   },
   {
-    "window.codex.branch.E5_CH_B": "E5_CH_B"
+    "window.codex.branch.E5_CH_B": "木材"
   },
   {
     "window.codex.branch.H1_CH_A": "かぼちゃの宝箱"
@@ -573,10 +570,10 @@
     "window.codex.branch.E12_CH_B": "復活"
   },
   {
-    "window.codex.branch.E13_CH_A": "E13_CH_A"
+    "window.codex.branch.E13_CH_A": "うろこ"
   },
   {
-    "window.codex.branch.E13_CH_B": "E13_CH_B"
+    "window.codex.branch.E13_CH_B": "ダンジョン"
   },
   {
     "window.codex.branch.SN_CH_A": "春の花の宝箱"
@@ -795,10 +792,10 @@
     "window.market.description.UnicornIsland.event": "虹のオーブを使ってユニコーンを作ることができます。"
   },
   {
-    "window.market.description.BlueoxIsland.event": "Use this to create Blue Oxen."
+    "window.market.description.BlueOxIsland.event": "これを使って青い牛を作りましょう。"
   },
   {
-    "window.market.description.ReddragonIsland.event": "Use this to create Red Dragons."
+    "window.market.description.RedDragonIsland.event": "これを使ってレッドドラゴンを作りましょう。"
   },
   {
     "window.market.description.FluffyIsland.event": "これを使ってフラッフィコアを作りましょう。"
@@ -936,7 +933,7 @@
     "window.market.hint.Y": "農家のピース、{0}"
   },
   {
-    "window.market.hint.Z": "Z Pieces, {0}"
+    "window.market.hint.Z": "魔法の石のピース{0}個"
   },
   {
     "window.market.hint.AA": "ノームの前哨地ピース{0}個"
@@ -1095,6 +1092,9 @@
     "window.storageCheck.title": "空き容量がありません"
   },
   {
+    "window.storageCheck.cant.save": "このプロフィール写真を保存するには、デバイスのストレージが不足しています。 ストレージの空き容量を確保してください。"
+  },
+  {
     "window.storageCheck.message": "お使いのデバイスの空き容量は{0}MB未満です。十分な空き容量がないと保存されたデータや進行データを失う場合があります。"
   },
   {
@@ -1146,7 +1146,7 @@
     "message.error.noMagicWands": "近くに魔法のワンドがありません。"
   },
   {
-    "message.error.MakeOrders": "Make orders to get more Wands."
+    "message.error.makeOrders": "注文に応じて、より多くのワンドを手に入れましょう。"
   },
   {
     "message.error.clickOnBubble": "まず最後のアクションを終わらせましょう。"
@@ -1221,10 +1221,10 @@
     "common.button.free": "無料"
   },
   {
-    "common.button.adjust": "Adjust"
+    "common.button.adjust": "変更"
   },
   {
-    "common.button.buy.simple": "Buy"
+    "common.button.buy.simple": "購入"
   },
   {
     "common.button.buy": "{0}で購入"
@@ -1272,7 +1272,7 @@
     "common.button.undo": "元に戻す"
   },
   {
-    "common.button.merge": "Merge"
+    "common.button.merge": "マージ"
   },
   {
     "common.title.error": "エラー"
@@ -1459,6 +1459,9 @@
   },
   {
     "piece.description.NPC_Y": "「黄色いレンガの道をたどればいいんだ。きっと楽しいよ」と彼らは言いました。オズの国から帰ってきたドロシーは、荒れ模様の空を信じないようになり、天気の専門家のようになりました。"
+  },
+  {
+    "piece.description.NPC_Z": "この中国の白話小説のヒーロー、孫悟空は、混沌から生まれた不思議な石から誕生したと言われています。次に何をしでかすかわからない孫悟空。パワフルで衝動的というのは危険な組み合わせです。"
   },
   {
     "piece.name.A1": "丸太"
@@ -2361,13 +2364,13 @@
     "piece.name.SN_J2": "秋のつぼみ"
   },
   {
-    "piece.name.SN_J3": "小さな秋の花"
+    "piece.name.SN_J3": "小さな\\n秋の花"
   },
   {
     "piece.name.SN_J4": "秋の花"
   },
   {
-    "piece.name.SN_J5": "かわいい秋の花"
+    "piece.name.SN_J5": "かわいい\\n秋の花"
   },
   {
     "piece.name.SN_J6": "秋のベリーの花"
@@ -2376,7 +2379,7 @@
     "piece.name.SN_J7": "コハクの花"
   },
   {
-    "piece.name.SN_J8": "開花したコハクの花"
+    "piece.name.SN_J8": "開花した\\nコハクの花"
   },
   {
     "piece.name.SN_J9": "小鳥の唄の花"
@@ -2385,7 +2388,7 @@
     "piece.name.SN_J10": "収穫の木"
   },
   {
-    "piece.name.SN_J11": "豊かな果樹園"
+    "piece.name.SN_J11": "豊かな\\n果樹園"
   },
   {
     "piece.name.EXT_A1": "小さな植物"
@@ -3372,6 +3375,12 @@
     "piece.name.NPC_Y2": "サンダル"
   },
   {
+    "piece.name.NPC_Z1": "小さなこん棒"
+  },
+  {
+    "piece.name.NPC_Z2": "魔法のこん棒"
+  },
+  {
     "piece.name.PR_A1": "小麦の芽"
   },
   {
@@ -4320,6 +4329,9 @@
     "piece.name.NPC_Y": "ドロシー・ゲイル"
   },
   {
+    "piece.name.NPC_Z": "孫悟空"
+  },
+  {
     "piece.name.HL1_A": "小さな木のプランター"
   },
   {
@@ -4977,6 +4989,9 @@
     "conversation.character.Dorothy": "ドロシー・ゲイル"
   },
   {
+    "conversation.character.MonkeyKing": "孫悟空"
+  },
+  {
     "quest.supermatch.title": "スーパーマージを作る"
   },
   {
@@ -5085,10 +5100,10 @@
     "quest.daily.message": "全タスクを達成する"
   },
   {
-    "quest.merge.mana.message": "Merge the Wands"
+    "quest.merge.mana.message": "ワンドをマージする"
   },
   {
-    "quest.merge.five.mana.message": "Merge 5 Wands at once"
+    "quest.merge.five.mana.message": "5本のワンドを一度にマージする"
   },
   {
     "quest.market.title": "マーケットで購入する"
@@ -5205,6 +5220,9 @@
     "task.use.mine.mn_x.hint": "この鉱山は資源が枯渇するまで\\n<sprite name=X1>または<sprite name=X2>を供給します。"
   },
   {
+    "task.use.mine.mn_z.hint": "この鉱山は資源が枯渇するまで<sprite name=Z1>または<sprite name=Z2>を供給します"
+  },
+  {
     "task.use.mine.mn_aa.hint": "この鉱山は資源が枯渇するまで\\n<sprite name=AA1>または<sprite name=AA2>を供給します。"
   },
   {
@@ -5314,6 +5332,9 @@
   },
   {
     "task.use.monument_y.hint": "<sprite name=YM>を使うと様々な種類の役立つアイテムが\\n手に入ります。"
+  },
+  {
+    "task.use.monument_z.hint": "<sprite name=ZM>を使うと様々な種類の役立つアイテムが手に入ります。"
   },
   {
     "task.use.monument_aa.hint": "<sprite name=AAM>を使うと様々な種類の役立つアイテムが\\n手に入ります。"
@@ -5490,10 +5511,10 @@
     "notifications.restore.CreaturePortal.complete.message": "Last chance to use your Portal today! "
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.title": "Come and Claim!"
+    "notifications.restore.CreaturePortalReward.complete.title": "Claim Your Creature!"
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.message": "The legendary creature is ready to hatch from the Portal! "
+    "notifications.restore.CreaturePortalReward.complete.message": "A legendary creature is ready to hatch from your Portal! "
   },
   {
     "notifications.restore.monument.complete.title": "魔法の儀式が終了！"
@@ -5574,16 +5595,16 @@
     "notifications.event.build.unicorn.complete.message": "ユニコーンがもう一頭現れたよ！急いで見に行こっ！"
   },
   {
-    "notifications.event.build.blueox.complete.title": "Hey, meet a Blue Ox!"
+    "notifications.event.build.blueox.complete.title": "ねえ、青い牛に会いに行こう！"
   },
   {
-    "notifications.event.build.blueox.complete.message": "Another Blue Ox is here! Check it out!"
+    "notifications.event.build.blueox.complete.message": "また青い牛が現れたんだって！急いで見に行こっ！"
   },
   {
-    "notifications.event.build.reddragon.complete.title": "Hey, meet a Red Dragon!"
+    "notifications.event.build.reddragon.complete.title": "ねえ、赤いドラゴンに会いに行こう！"
   },
   {
-    "notifications.event.build.reddragon.complete.message": "Another Red Dragon is here! Check it out!"
+    "notifications.event.build.reddragon.complete.message": "また赤いドラゴンが現れたんだって！急いで見に行こっ！"
   },
   {
     "notifications.event.build.fluffy.complete.title": "新しいフラッフィコアに会いに行こう！"
@@ -5922,10 +5943,10 @@
     "window.event.UnicornIsland.title": "ユニコーンラッシュ"
   },
   {
-    "window.event.BlueoxIsland.title": "Blue Ox Island"
+    "window.event.BlueOxIsland.title": "青い牛の島"
   },
   {
-    "window.event.ReddgaronIsland.title": "Red Dragon Island"
+    "window.event.RedDragonIsland.title": "レッドドラゴン島"
   },
   {
     "window.event.FluffyIsland.title": "フラッフィコア島イベント"
@@ -5997,10 +6018,10 @@
     "window.event.UnicornIsland.message": "ユニコーンを完成させて<sprite name=icon_EventToken>とマジカルな賞品を獲得してね！"
   },
   {
-    "window.event.BlueoxIsland.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.message": "青い牛を作って<sprite name=icon_EventToken>とマジカルな賞品を獲得してね！"
   },
   {
-    "window.event.ReddragonIsland.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.message": "レッドドラゴンを作って<sprite name=icon_EventToken>とマジカルな賞品を獲得してね！"
   },
   {
     "window.event.FluffyIsland.message": "フラッフィコアを完成させて <sprite name=icon_EventToken> と\\nマジカルな賞品を獲得してね！"
@@ -6048,10 +6069,10 @@
     "window.event.UnicornIsland.preview.message": "ユニコーンのきらきらマジックで世界が\\n回る！ユニコーンラッシュもうすぐ開催！"
   },
   {
-    "window.event.BlueoxIsland.preview.message": "The Blue Ox event is coming! Let us give you prizes! Seriously!"
+    "window.event.BlueOxIsland.preview.message": "ポールの一番の相棒とちょっとした秋の魔法で秋の訪れを祝おう！ 青い牛の島イベントを近日開催！賞品として、季節限定の特別なランドマークをゲットしよう！"
   },
   {
-    "window.event.ReddragonIsland.preview.message": "The Red Dragon event is coming! Let us give you prizes! Seriously!"
+    "window.event.RedDragonIsland.preview.message": "君には、この獰猛なダンジョンの住人が守る財宝を探す勇気がある？レッドドラゴン島で君の勇気を試そう！イベントはまもなく開催！"
   },
   {
     "window.event.FluffyIsland.preview.message": "マンティコアとフラッフィを掛け合わせたら…何ができる？\\n\\nフラッフィコア島でマーリンの最新の実験を見に行こう！\\nイベントはもうすぐ開催！"
@@ -6063,7 +6084,7 @@
     "window.event.NessyIsland.preview.message": "おや！ネス湖の湖底から訪問者がやってくるよ…ネッシー島で出迎えよう！イベントは近日開催！"
   },
   {
-    "window.event.KrakenIsland.preview.message": "8本の巨大な腕を持ち、船を力強くハグすることで有名なものはな～んだ？答えはもちろん、伝説のクラーケン！イベントは近日開催！"
+    "window.event.KrakenIsland.preview.message": "8本の巨大な腕を持ち、船を力強くハグすることで有名なものは\\nな～んだ？答えはもちろん、伝説のクラーケン！\\nイベントは近日開催！"
   },
   {
     "window.event.QuetzalcoatlIsland.preview.message": "ケツァルコアトルって3倍の速さで言える？今が練習のチャンス！古代のヘビがエバーマージキングダムに滑り込んできた！イベントはまもなく開催！"
@@ -6075,7 +6096,7 @@
     "window.event.HalloweenIsland.preview.message": "1年で一番こわ～い季節！ハロウズイブ島で可愛いモンスターたちとパーティーを楽しんで不気味なコレクションアイテムを獲得してね。イベントはまもなく開催！"
   },
   {
-    "window.event.Thanksgiving.preview.message": "Blue Ox + Thanksgiving announce text."
+    "window.event.Thanksgiving.preview.message": "ポールの一番の相棒とちょっとした秋の魔法で秋の訪れを祝おう！ 青い牛の島イベントを近日開催！賞品として、季節限定の特別なランドマークをゲットしよう！"
   },
   {
     "window.event.MagicWorkshop.preview.message": "旅する魔法のワークショップがもうすぐやって来る！\\n\\n ピンクの星を見かけたらすかさずキャッチ！\\n<sprite name=icon_Mana>を使ってアップグレードアイテムを作りましょう。お楽しみに！"
@@ -6111,10 +6132,10 @@
     "window.event.UnicornIsland.hint.message": "いろんなものを作って<sprite name=icon_EventToken>と\\nマジカルな賞品を獲得してね！"
   },
   {
-    "window.event.BlueoxIsland.hint.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.hint.message": "青い牛を作って<sprite name=icon_EventToken>とマジカルな賞品を獲得してね！"
   },
   {
-    "window.event.ReddragonIsland.hint.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.hint.message": "レッドドラゴンを作って<sprite name=icon_EventToken>とマジカルな賞品を獲得してね！"
   },
   {
     "window.event.FluffyIsland.hint.message": "フラッフィコアを完成させて<sprite name=icon_EventToken>と\\nマジカルな賞品を獲得してね！"
@@ -9303,7 +9324,7 @@
     "conversation.337.message3": "やっぱりまだ女王のことが気になってるのか…"
   },
   {
-    "conversation.337.message4": "チャック、焦るなって。新生活は始まったばかりだろ？"
+    "conversation.337.message4": "チャック、落ち着けって。彼の新生活は始まったばかりなんだから。"
   },
   {
     "conversation.use.mn_x.message1": "採掘をするのは久しぶりだが、腕まくりをして働く気は満々だよ！"
@@ -9324,7 +9345,7 @@
     "conversation.x4.message1": "ヘンリーさん、この設計図を説明してもらえませんか？これ、家に見えるんですが列車にも見えるし…家ですかそれとも列車？"
   },
   {
-    "conversation.x4.message2": "両方だよ！遊びに来た人たちにエバーマージキングダムの輸送そして交通の未来を見てもらいたんだ。"
+    "conversation.x4.message2": "両方だよ！遊びに来た人たちにエバーマージキングダムの輸送そして交通の未来を見てもらいたいんだ。"
   },
   {
     "conversation.x4.message3": "そうですか…チャック、それじゃやっぱりこのエンジンも必要になるぜ。"
@@ -9630,7 +9651,7 @@
     "conversation.npc_y6.message1": "あら～！ずいぶんかわいい靴ね？"
   },
   {
-    "conversation.npc_y6.message2": "俺にはちょっと実用的ではないように思えるんだが。この靴で全力疾走できるのか？"
+    "conversation.npc_y6.message2": "私にはちょっと実用的ではないように思えるんだけど。この靴で全力疾走できるの？"
   },
   {
     "conversation.npc_y7.message1": "どうして？私は、これとそっくりな靴を履いて初めての舞踏会に行ったのよ。ああ、たくさんの素敵な思い出がよみがえるわ。"
@@ -9685,6 +9706,99 @@
   },
   {
     "conversation.use.mn_y.message1": "農家の鉱山ほど物資の調達に適した場所はないわ！そうでしょ、トト？《ワンワン》"
+  },
+  {
+    "conversation.npc_z3.message1": "魔法のこん棒だわ！う～ん、これをなくして困っている人がいるんじゃないかしら。"
+  },
+  {
+    "conversation.npc_z4.message1": "わあ、カッコいい！湾曲した剣だ。これで海賊たちと戦うことができるわね！"
+  },
+  {
+    "conversation.npc_z4.message2": "ベル、それは剣じゃないわ。それはこん棒よ…戦闘用のこん棒ね。《ハッとして》ひょっとして敵が現れたとか？"
+  },
+  {
+    "conversation.npc_z5.message1": "棒が1本、棒が2本、棒が3本…まだまだあるぞ！"
+  },
+  {
+    "conversation.npc_z5.message2": "あー、バック？そこで何をしているんだ？"
+  },
+  {
+    "conversation.npc_z5.message3": "薪を集めてるだけだよ。こんな棒があちこちに落ちているんだ！"
+  },
+  {
+    "conversation.npc_z5.message4": "燃やすのはやめた方がいいかもしれないぞ…誰かの持ち物じゃないか？"
+  },
+  {
+    "conversation.npc_z6.message1": "私、これは絶対にレインスティックだと思ったんだけど、雨の音はまったくしないのよね。壊れてるのかも。"
+  },
+  {
+    "conversation.npc_z6.message2": "おまえさん、不思議の国から出てくる途中で頭でもぶつけたのかい？あれはこん棒だ。レインスティックじゃない。"
+  },
+  {
+    "conversation.npc_z6.message3": "な～るほど。確かに、その方がよっぽどあり得るわね。"
+  },
+  {
+    "conversation.npc_z7.message1": "大変だ、おかげで辺りがすっかり散らかってる！"
+  },
+  {
+    "conversation.npc_z7.message2": "《茂みから飛び出して》それって戦士のものだと思う？だとしたら、私たちの海岸は包囲されているってことだわ！"
+  },
+  {
+    "conversation.npc_z7.message3": "アァァ！君は一体どこから現れたんだ？我々は攻撃の危機にさらされているのか？何ということだ！身を潜める巣穴を確保しなくては！"
+  },
+  {
+    "conversation.npc_z8.message1": "ムーランたら、また島の安全についてパニックを引き起こしているのね。こん棒は戦士のものだと考えているらしいけど。"
+  },
+  {
+    "conversation.npc_z8.message2": "雪の女王は、私が過剰反応していると思っているのね。まあ、自分の城が粉々に崩れ落ちたら、笑ってはいられないでしょうけどね！"
+  },
+  {
+    "conversation.npc_z8.message3": "さあ、もうそのくらいにして。結論を急ぐのはやめましょう。まずはこの戦士に発言の機会を与えるべきよ！こん棒をもっと探しましょう。"
+  },
+  {
+    "conversation.npc_z9.message1": "ココナッツのかぶと？よし。バナナの葉の鎧？よし。戦いのための装備はすべて整ったようだな、バック！"
+  },
+  {
+    "conversation.npc_z9.message2": "戦い？戦いって何の？私も参加するっ！"
+  },
+  {
+    "conversation.npc_z9.message3": "ムーランが、俺たちは攻撃の危機にさらされているかもしれないって言うんだ。ほら、ヘルメットをやろう。もし腹が減ったら、中にココナッツが入ってるぞ！"
+  },
+  {
+    "conversation.npc_z10.message1": "戦いを挑まれて、このマウイ様がじっとしていられるか！お前も不思議なこん棒の持ち主との戦いに参加するか？"
+  },
+  {
+    "conversation.npc_z10.message2": "僕はそういったことは一切しない主義なんだ！僕が応えるのは、愛だけさ！"
+  },
+  {
+    "conversation.npc_z10.message3": "は？好きにしろ。残りのみんなでより多くの栄光を手にできるだけだ。"
+  },
+  {
+    "conversation.npc_z11.message1": "なぜみんなそんな格好をしているの？それってまさか…ココナッツのかぶと？"
+  },
+  {
+    "conversation.npc_z11.message2": "戦いのため！栄光のため！エバーマージのためだ！"
+  },
+  {
+    "conversation.npc_z11.message3": "まだこん棒の話をしているの？やだ、霧が出てきたわ…みんな、これは戦いなんかじゃないわ。新しい訪問者がやってくるってことよ！"
+  },
+  {
+    "conversation.npc_z11.message4": "みんな過剰反応しているって、私が言った通りね。"
+  },
+  {
+    "conversation.npc_z.message1": "《ハッとして》私、こん棒の持ち主がわかった気がする！眠り姫は正しかったわ。だって、彼は敵と言うよりも友達だもの…"
+  },
+  {
+    "conversation.npc_z.order.message1": "キャアアア！攻撃よ！！"
+  },
+  {
+    "conversation.npc_z.order.message2": "《ささやき声で》ドロシー、あれは孫悟空よ。コホン…またあなたの元気な姿が見れてうれしいわ！"
+  },
+  {
+    "conversation.npc_z.order.message3": "攻撃って一体何の話だ？何か混乱が起きているのか？"
+  },
+  {
+    "conversation.npc_z.order.message4": "ごめんなさい。私、その、ほかの敵と混同してしまったの…"
   },
   {
     "conversation.365.message1": "この帽子を見ろよ！どう思う？似合うか？"
@@ -10515,19 +10629,19 @@
     "message.compensation.LongChainsMigration": "一部のパレスの完成が簡単になりました！いくつかのピースのデザインは変更されましたが、それぞれのパレス建設の進行データは保存されています。"
   },
   {
-    "message.help.mana.title": "How to get mana"
+    "message.help.mana.title": "ワンドの入手方法"
   },
   {
-    "message.help.mana.1": "食材を集める"
+    "message.help.mana.1": "材料を集める"
   },
   {
-    "message.help.mana.2": "Make Orders"
+    "message.help.mana.2": "レシピの注文に応じる"
   },
   {
-    "message.help.mana.3": "Merge Wands "
+    "message.help.mana.3": "ワンドをマージする"
   },
   {
-    "message.help.mana.4": "Get Mana"
+    "message.help.mana.4": "魔法を使って霧を晴らす！"
   },
   {
     "window.LockMine.title": "アンロックの方法"
@@ -10653,16 +10767,16 @@
     "window.specialoffer.unicorn1.main": "このブースターでユニコーン ラッシュ イベントの特典を\\n最大限に活用しましょう！"
   },
   {
-    "window.specialoffer.blueox1.title": "Blue Ox Boost!"
+    "window.specialoffer.blueox1.title": "青い牛ブースター！"
   },
   {
-    "window.specialoffer.blueox1.main": "Buy this offer now and boost your progress in the Blue Ox event!"
+    "window.specialoffer.blueox1.main": "このブースターで青い牛イベントの特典を最大限に活用しましょう！"
   },
   {
-    "window.specialoffer.reddragon1.title": "Red Dragon Boost!"
+    "window.specialoffer.reddragon1.title": "レッドドラゴンブースター"
   },
   {
-    "window.specialoffer.reddragon1.main": "Buy this offer now and boost your progress in the Red Dragon event!"
+    "window.specialoffer.reddragon1.main": "このブースターでレッドドラゴンイベントの特典を最大限に活用しましょう！"
   },
   {
     "window.specialoffer.fluffy1.title": "フラッフィコアブースター"
@@ -10815,10 +10929,10 @@
     "window.specialoffer.reject.main": "本当にスキップしますか？\\nこのセールは一度限りです！"
   },
   {
-    "window.specialoffer.CreaturePortal.title": "Premium Creature Portal "
+    "window.specialoffer.CreaturePortal.title": "Premium Portal "
   },
   {
-    "window.specialoffer.CreaturePortal.main": "Get a Premium Portal which will bring you {0} every day for {1} days!"
+    "window.specialoffer.CreaturePortal.main": "A premium creature portal will bring you {0} every day for {1} days!"
   },
   {
     "title.ext.item": "ガーデンピース"
@@ -10998,7 +11112,7 @@
     "window.specialoffer.CompleteCreature3M5.main": "レジェンドな生き物のレベルアップに必要なものが詰まっています！"
   },
   {
-    "piece.name.SO_Rainbow_Portal": "Rainbow Creature Portal"
+    "piece.name.SO_Rainbow_Portal": "Rainbow Portal"
   },
   {
     "piece.name.SO_Premium_Portal": "{0} Premium Portal"
@@ -12198,6 +12312,12 @@
     "piece.name.LM_37": "ポーションの達人"
   },
   {
+    "piece.name.LM_38": "収穫の荷馬車"
+  },
+  {
+    "piece.name.LM_39": "豊饒の角"
+  },
+  {
     "piece.desc.LM_11": "2020年ハロウズイブ島"
   },
   {
@@ -12279,58 +12399,55 @@
     "window.market.hint.SO_Premium_Portal": "Premium Portal will give you {0} every day for {1} days!"
   },
   {
-    "window.market.hint.BOX_A1.common": "1種類の生き物を{0}匹ドロップします。"
+    "window.market.hint.BOX_A1.common": "{0}匹のノーマルな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_A1.rare": "1種類の生き物を{0}匹ドロップします。"
+    "window.market.hint.BOX_A1.rare": "{0}匹のレアな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_A2.common": "1種類の生き物を{0}匹ドロップします。"
+    "window.market.hint.BOX_A2.common": "{0}匹のノーマルな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_A2.rare": "1種類の生き物を{0}匹ドロップします。"
+    "window.market.hint.BOX_A2.rare": "{0}匹のレアな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_A2.legendary": "1種類の生き物を{0}匹ドロップします。"
+    "window.market.hint.BOX_A2.legendary": "{0}匹のレジェンドな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_A3.common": "1種類の生き物を{0}匹ドロップします。"
+    "window.market.hint.BOX_A3.common": "{0}匹のノーマルな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_A3.rare": "1種類の生き物を{0}匹ドロップします。"
+    "window.market.hint.BOX_A3.rare": "{0}匹のレアな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_A3.legendary": "1種類の生き物を{0}匹ドロップします。"
+    "window.market.hint.BOX_A3.legendary": "{0}匹のレジェンドな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_B1.common": "1種類の生き物をドロップします。"
+    "window.market.hint.BOX_B1.common": "ノーマルな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_B2.common": "1種類の生き物をドロップします。"
+    "window.market.hint.BOX_B2.common": "ノーマルな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_B2.rare": "1種類の生き物をドロップします。"
+    "window.market.hint.BOX_B2.rare": "レアな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_B3.common": "1種類の生き物をドロップします。"
+    "window.market.hint.BOX_B3.common": "ノーマルな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_B3.rare": "1種類の生き物をドロップします。"
+    "window.market.hint.BOX_B3.rare": "レアな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_B3.legendary": "1種類の生き物をドロップします。"
+    "window.market.hint.BOX_B3.legendary": "レジェンドな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_Feed.common": "1種類の生き物をドロップします。"
+    "window.market.hint.BOX_Feed.common": "ノーマルな生き物をドロップします。"
   },
   {
-    "window.market.hint.BOX_Feed.rare": "1種類の生き物をドロップします。"
+    "window.market.hint.BOX_Feed.rare": "レアな生き物をドロップします。"
   },
   {
     "window.market.hint.BOX_Feed.legendary": "{0}匹の生き物をドロップします。"
-  },
-  {
-    "window.market.hint.BOX.all": "この範囲内の生き物がドロップされ、リストされている種類を受け取れるかも。"
   },
   {
     "window.container.title": "入れ物を開く"
@@ -12433,6 +12550,12 @@
   },
   {
     "tutorial.conversation.habitat.unlock.3": "色んな生き物たちを完成させて、それぞれの生息地がアンロック！さあ、どんどん生き物をマージしてね！"
+  },
+  {
+    "tutorial.conversation.creatureportal.1": "Wow, it's a creature portal! Now these are cool. They transport legendary creatures directly to Mystic Isle! Go ahead, tap it to see how it works."
+  },
+  {
+    "tutorial.conversation.creatureportal.2": "Easy, right? Tomorrow you'll be able to transport another creature. Just come back and tap on the portal before it expires!"
   },
   {
     "message.error.habitat.locked": "{0}を見つけてこの生息地をアンロック"
@@ -12754,6 +12877,12 @@
   },
   {
     "window.doubleoffer.HalloweenOffers.main": "この期間限定セールで役立つアイテムと季節限定デコレーションをゲット！"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.title": "感謝祭セール！"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.main": "この期間限定セールで役立つアイテムとホリデーデコレーションをゲット！"
   },
   {
     "window.habitat.info.common": "ノーマルな"
@@ -13692,76 +13821,79 @@
     "piece.name.E12_A1": "ケツァルコアトルオーブ"
   },
   {
-    "piece.name.E12_A2": "ケツァルコアトルの卵"
+    "piece.name.E12_A2": "Small Egg"
   },
   {
-    "piece.name.E12_A3": "ズマ"
+    "piece.name.E12_A3": "ケツァルコアトルの卵"
   },
   {
-    "piece.name.E12_A4": "アッツィ"
+    "piece.name.E12_A4": "ズマ"
   },
   {
-    "piece.name.E12_A5": "シャンティコ"
+    "piece.name.E12_A5": "アッツィ"
   },
   {
-    "piece.name.E12_A6": "トジ"
+    "piece.name.E12_A6": "シャンティコ"
   },
   {
-    "piece.name.E12_A7": "アカラン"
+    "piece.name.E12_A7": "トジ"
   },
   {
-    "piece.name.E12_A8": "ケツァルコアトル"
+    "piece.name.E12_A8": "アカラン"
   },
   {
-    "window.codex.branch.E13_A": "Red Dragon"
+    "window.codex.branch.E13_A": "レッドドラゴン"
   },
   {
-    "piece.name.E13_A1": "Red Dragon"
+    "piece.name.E13_A1": "ドラゴンのオーブ"
   },
   {
-    "piece.name.E13_A2": "Red Dragon"
+    "piece.name.E13_A2": "レッドドラゴンの卵"
   },
   {
-    "piece.name.E13_A3": "Red Dragon"
+    "piece.name.E13_A3": "リトル\\nブレス"
   },
   {
-    "piece.name.E13_A4": "Red Dragon"
+    "piece.name.E13_A4": "スティング"
   },
   {
-    "piece.name.E13_A5": "Red Dragon"
+    "piece.name.E13_A5": "トーチャー"
   },
   {
-    "piece.name.E13_A6": "Red Dragon"
+    "piece.name.E13_A6": "ゼリー\\nビーン"
   },
   {
-    "piece.name.E13_A7": "Red Dragon"
+    "piece.name.E13_A7": "フレア"
   },
   {
-    "piece.name.E13_A8": "Red Dragon"
+    "piece.name.E13_A8": "ファイア\\nストーム"
   },
   {
-    "piece.name.E5_A1": "Blue Ox"
+    "window.codex.branch.E5_A": "青い牛ベイブ"
   },
   {
-    "piece.name.E5_A2": "Blue Ox"
+    "piece.name.E5_A1": "雄牛のオーブ"
   },
   {
-    "piece.name.E5_A3": "Blue Ox"
+    "piece.name.E5_A2": "スイートピー"
   },
   {
-    "piece.name.E5_A4": "Blue Ox"
+    "piece.name.E5_A3": "ダーリン"
   },
   {
-    "piece.name.E5_A5": "Blue Ox"
+    "piece.name.E5_A4": "ハニー\\nバンチ"
   },
   {
-    "piece.name.E5_A6": "Blue Ox"
+    "piece.name.E5_A5": "ブバ"
   },
   {
-    "piece.name.E5_A7": "Blue Ox"
+    "piece.name.E5_A6": "シュガー\\nパイ"
   },
   {
-    "piece.name.E5_A8": "Blue Ox"
+    "piece.name.E5_A7": "バター\\nカップ"
+  },
+  {
+    "piece.name.E5_A8": "青い牛\\nベイブ"
   },
   {
     "window.codex.branch.E_SP_AK": "マタタビユリ"
@@ -15111,220 +15243,220 @@
     "piece.name.E_SP_BP8": "王様アヒル"
   },
   {
-    "window.codex.branch.E_SP_BQ": "branch.E_SP_BQ"
+    "window.codex.branch.E_SP_BQ": "カウベル"
   },
   {
-    "piece.name.E_SP_BQ1": "E_SP_BQ1"
+    "piece.name.E_SP_BQ1": "ジングルベル"
   },
   {
-    "piece.name.E_SP_BQ2": "E_SP_BQ2"
+    "piece.name.E_SP_BQ2": "カウベル"
   },
   {
-    "piece.name.E_SP_BQ3": "E_SP_BQ3"
+    "piece.name.E_SP_BQ3": "きれいなベル"
   },
   {
-    "piece.name.E_SP_BQ4": "E_SP_BQ4"
+    "piece.name.E_SP_BQ4": "高らかなベル"
   },
   {
-    "piece.name.E_SP_BQ5": "E_SP_BQ5"
+    "piece.name.E_SP_BQ5": "喜びのベル"
   },
   {
-    "piece.name.E_SP_BQ6": "E_SP_BQ6"
+    "piece.name.E_SP_BQ6": "心地よいベル"
   },
   {
-    "piece.name.E_SP_BQ7": "E_SP_BQ7"
+    "piece.name.E_SP_BQ7": "旋律のベル"
   },
   {
-    "piece.name.E_SP_BQ8": "E_SP_BQ8"
+    "piece.name.E_SP_BQ8": "調和のベル"
   },
   {
-    "window.codex.branch.E_SP_BR": "branch.E_SP_BR"
+    "window.codex.branch.E_SP_BR": "木の像"
   },
   {
-    "piece.name.E_SP_BR1": "E_SP_BR1"
+    "piece.name.E_SP_BR1": "ジリスの像"
   },
   {
-    "piece.name.E_SP_BR2": "E_SP_BR2"
+    "piece.name.E_SP_BR2": "ウサギの像"
   },
   {
-    "piece.name.E_SP_BR3": "E_SP_BR3"
+    "piece.name.E_SP_BR3": "リスの像"
   },
   {
-    "piece.name.E_SP_BR4": "E_SP_BR4"
+    "piece.name.E_SP_BR4": "アライグマの像"
   },
   {
-    "piece.name.E_SP_BR5": "E_SP_BR5"
+    "piece.name.E_SP_BR5": "キツネの像"
   },
   {
-    "piece.name.E_SP_BR6": "E_SP_BR6"
+    "piece.name.E_SP_BR6": "オオカミの像"
   },
   {
-    "piece.name.E_SP_BR7": "E_SP_BR7"
+    "piece.name.E_SP_BR7": "アナグマの像"
   },
   {
-    "piece.name.E_SP_BR8": "E_SP_BR8"
+    "piece.name.E_SP_BR8": "雄牛の像"
   },
   {
-    "window.codex.branch.E_SP_BS": "branch.E_SP_BS"
+    "window.codex.branch.E_SP_BS": "材木運搬用のそり"
   },
   {
-    "piece.name.E_SP_BS1": "E_SP_BS1"
+    "piece.name.E_SP_BS1": "シンプルなそり"
   },
   {
-    "piece.name.E_SP_BS2": "E_SP_BS2"
+    "piece.name.E_SP_BS2": "小さなそり"
   },
   {
-    "piece.name.E_SP_BS3": "E_SP_BS3"
+    "piece.name.E_SP_BS3": "荒々しいそり"
   },
   {
-    "piece.name.E_SP_BS4": "E_SP_BS4"
+    "piece.name.E_SP_BS4": "素朴なそり"
   },
   {
-    "piece.name.E_SP_BS5": "E_SP_BS5"
+    "piece.name.E_SP_BS5": "頑丈なそり"
   },
   {
-    "piece.name.E_SP_BS6": "E_SP_BS6"
+    "piece.name.E_SP_BS6": "凝ったそり"
   },
   {
-    "piece.name.E_SP_BS7": "E_SP_BS7"
+    "piece.name.E_SP_BS7": "豪華なそり"
   },
   {
-    "piece.name.E_SP_BS8": "E_SP_BS8"
+    "piece.name.E_SP_BS8": "優雅なそり"
   },
   {
-    "window.codex.branch.E_SP_BT": "branch.E_SP_BT"
+    "window.codex.branch.E_SP_BT": "木のノコギリ"
   },
   {
-    "piece.name.E_SP_BT1": "E_SP_BT1"
+    "piece.name.E_SP_BT1": "シンプルなノコギリ"
   },
   {
-    "piece.name.E_SP_BT2": "E_SP_BT2"
+    "piece.name.E_SP_BT2": "小さなノコギリ"
   },
   {
-    "piece.name.E_SP_BT3": "E_SP_BT3"
+    "piece.name.E_SP_BT3": "大雑把なノコギリ"
   },
   {
-    "piece.name.E_SP_BT4": "E_SP_BT4"
+    "piece.name.E_SP_BT4": "素朴なノコギリ"
   },
   {
-    "piece.name.E_SP_BT5": "E_SP_BT5"
+    "piece.name.E_SP_BT5": "凝ったノコギリ"
   },
   {
-    "piece.name.E_SP_BT6": "E_SP_BT6"
+    "piece.name.E_SP_BT6": "豪華なノコギリ"
   },
   {
-    "piece.name.E_SP_BT7": "E_SP_BT7"
+    "piece.name.E_SP_BT7": "強力なチェーンソー"
   },
   {
-    "piece.name.E_SP_BT8": "E_SP_BT8"
+    "piece.name.E_SP_BT8": "最強のチェーンソー"
   },
   {
-    "window.codex.branch.E_SP_BU": "branch.E_SP_BU"
+    "window.codex.branch.E_SP_BU": "剣"
   },
   {
-    "piece.name.E_SP_BU1": "E_SP_BU1"
+    "piece.name.E_SP_BU1": "普通の剣"
   },
   {
-    "piece.name.E_SP_BU2": "E_SP_BU2"
+    "piece.name.E_SP_BU2": "荒っぽい剣"
   },
   {
-    "piece.name.E_SP_BU3": "E_SP_BU3"
+    "piece.name.E_SP_BU3": "素朴な剣"
   },
   {
-    "piece.name.E_SP_BU4": "E_SP_BU4"
+    "piece.name.E_SP_BU4": "初心者の剣"
   },
   {
-    "piece.name.E_SP_BU5": "E_SP_BU5"
+    "piece.name.E_SP_BU5": "美しい剣"
   },
   {
-    "piece.name.E_SP_BU6": "E_SP_BU6"
+    "piece.name.E_SP_BU6": "豪華な剣"
   },
   {
-    "piece.name.E_SP_BU7": "E_SP_BU7"
+    "piece.name.E_SP_BU7": "見事な剣"
   },
   {
-    "piece.name.E_SP_BU8": "E_SP_BU8"
+    "piece.name.E_SP_BU8": "優美な剣"
   },
   {
-    "window.codex.branch.E_SP_BV": "branch.E_SP_BV"
+    "window.codex.branch.E_SP_BV": "ゴブレット"
   },
   {
-    "piece.name.E_SP_BV1": "E_SP_BV1"
+    "piece.name.E_SP_BV1": "普通のマグ"
   },
   {
-    "piece.name.E_SP_BV2": "E_SP_BV2"
+    "piece.name.E_SP_BV2": "ラフなマグ"
   },
   {
-    "piece.name.E_SP_BV3": "E_SP_BV3"
+    "piece.name.E_SP_BV3": "素朴なマグ"
   },
   {
-    "piece.name.E_SP_BV4": "E_SP_BV4"
+    "piece.name.E_SP_BV4": "丈夫なマグ"
   },
   {
-    "piece.name.E_SP_BV5": "E_SP_BV5"
+    "piece.name.E_SP_BV5": "きれいなゴブレット"
   },
   {
-    "piece.name.E_SP_BV6": "E_SP_BV6"
+    "piece.name.E_SP_BV6": "豪華なゴブレット"
   },
   {
-    "piece.name.E_SP_BV7": "E_SP_BV7"
+    "piece.name.E_SP_BV7": "上品なゴブレット"
   },
   {
-    "piece.name.E_SP_BV8": "E_SP_BV8"
+    "piece.name.E_SP_BV8": "卓越したゴブレット"
   },
   {
-    "window.codex.branch.E_SP_BW": "branch.E_SP_BW"
+    "window.codex.branch.E_SP_BW": "盾"
   },
   {
-    "piece.name.E_SP_BW1": "E_SP_BW1"
+    "piece.name.E_SP_BW1": "シンプルな盾"
   },
   {
-    "piece.name.E_SP_BW2": "E_SP_BW2"
+    "piece.name.E_SP_BW2": "荒々しい盾"
   },
   {
-    "piece.name.E_SP_BW3": "E_SP_BW3"
+    "piece.name.E_SP_BW3": "素朴な盾"
   },
   {
-    "piece.name.E_SP_BW4": "E_SP_BW4"
+    "piece.name.E_SP_BW4": "頑丈な盾"
   },
   {
-    "piece.name.E_SP_BW5": "E_SP_BW5"
+    "piece.name.E_SP_BW5": "高価な盾"
   },
   {
-    "piece.name.E_SP_BW6": "E_SP_BW6"
+    "piece.name.E_SP_BW6": "豪華な盾"
   },
   {
-    "piece.name.E_SP_BW7": "E_SP_BW7"
+    "piece.name.E_SP_BW7": "強力な盾"
   },
   {
-    "piece.name.E_SP_BW8": "E_SP_BW8"
+    "piece.name.E_SP_BW8": "最強の盾"
   },
   {
-    "window.codex.branch.E_SP_BX": "branch.E_SP_BX"
+    "window.codex.branch.E_SP_BX": "クロスボウ"
   },
   {
-    "piece.name.E_SP_BX1": "E_SP_BX1"
+    "piece.name.E_SP_BX1": "シンプルなクロスボウ"
   },
   {
-    "piece.name.E_SP_BX2": "E_SP_BX2"
+    "piece.name.E_SP_BX2": "ラフなクロスボウ"
   },
   {
-    "piece.name.E_SP_BX3": "E_SP_BX3"
+    "piece.name.E_SP_BX3": "素朴なクロスボウ"
   },
   {
-    "piece.name.E_SP_BX4": "E_SP_BX4"
+    "piece.name.E_SP_BX4": "頑丈なクロスボウ"
   },
   {
-    "piece.name.E_SP_BX5": "E_SP_BX5"
+    "piece.name.E_SP_BX5": "美しいクロスボウ"
   },
   {
-    "piece.name.E_SP_BX6": "E_SP_BX6"
+    "piece.name.E_SP_BX6": "豪華なクロスボウ"
   },
   {
-    "piece.name.E_SP_BX7": "E_SP_BX7"
+    "piece.name.E_SP_BX7": "強力なクロスボウ"
   },
   {
-    "piece.name.E_SP_BX8": "E_SP_BX8"
+    "piece.name.E_SP_BX8": "最強のクロスボウ"
   },
   {
     "window.codex.branch.H6_A": "回転木馬"
@@ -15549,10 +15681,10 @@
     "window.navigation.islandcard.UnicornIsland.title": "ユニコーン島"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.title": "Blue Ox Island"
+    "window.navigation.islandcard.BlueOxIsland.title": "青い牛の島"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.title": "Red Dragon Island"
+    "window.navigation.islandcard.RedDragonIsland.title": "レッドドラゴン島"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.title": "フェニックス島"
@@ -15648,10 +15780,10 @@
     "window.navigation.islandcard.UnicornIsland.description": "きらきらした虹がかかる"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.BlueOxIsland.description": "前方に快適な牧草地あり"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.RedDragonIsland.description": "宝物がいっぱいのダンジョン"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.description": "太陽の彼方の燃ゆる世界"
@@ -15714,10 +15846,10 @@
     "window.navigation.help.popup.ZooIslandLock.message": "{0}でプレイを続けてレベル{1}に到達して{2}をアンロックしよう"
   },
   {
-    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim!"
+    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim before it expires!"
   },
   {
-    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim!"
+    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim before it expires!"
   },
   {
     "window.event.howToPlay": "遊び方"
@@ -15771,10 +15903,10 @@
     "gameboard.bubble.button.landmark.skinning": "変更"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.claimed": "Today: claimed"
+    "gameboard.bubble.message.CreaturePortal.claimed": "Claimed Today"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.expired": "Expire in: {0} days"
+    "gameboard.bubble.message.CreaturePortal.expired": "Expires in: {0} days"
   },
   {
     "tutorial.conversation.SD.skinning.1": "またまたこんにちは！マジカルファームをあなた好みに飾り付けできるって知ってた？やり方を教えるわね！"
@@ -16326,10 +16458,10 @@
     "window.codex.branch.HL_V": "潜水艦"
   },
   {
-    "piece.name.HL1_V": "小さなボルトの鉢"
+    "piece.name.HL1_V": "小さな\\nボルト"
   },
   {
-    "piece.name.HL2_V": "小さなボルト"
+    "piece.name.HL2_V": "小さな\\nボルト"
   },
   {
     "piece.name.HL3_V": "ボルトの鉢"
@@ -16341,7 +16473,7 @@
     "piece.name.HL5_V": "大きなボルトの鉢"
   },
   {
-    "piece.name.HL6_V": "大きなボルト"
+    "piece.name.HL6_V": "大きな\\nボルト"
   },
   {
     "window.codex.branch.CH_V": "潜水艦"
@@ -16362,31 +16494,31 @@
     "piece.name.V1": "ボルト"
   },
   {
-    "piece.name.V2": "ナットとボルト"
+    "piece.name.V2": "ナットと\\nボルト"
   },
   {
-    "piece.name.V3": "潜水艦の骨組み"
+    "piece.name.V3": "潜水艦の\\n骨組み"
   },
   {
-    "piece.name.V4": "潜水艦の胴体"
+    "piece.name.V4": "潜水艦の\\n胴体"
   },
   {
     "piece.name.V5": "シンプルな潜水艦"
   },
   {
-    "piece.name.V6": "大きな潜水艦"
+    "piece.name.V6": "大きな\\n潜水艦"
   },
   {
-    "piece.name.V7": "豪華な潜水艦"
+    "piece.name.V7": "豪華な\\n潜水艦"
   },
   {
-    "piece.name.V8": "リッチな潜水艦"
+    "piece.name.V8": "リッチな\\n潜水艦"
   },
   {
-    "piece.name.V9": "優雅な潜水艦"
+    "piece.name.V9": "優雅な\\n潜水艦"
   },
   {
-    "piece.name.V10": "最高の潜水艦"
+    "piece.name.V10": "最高の\\n潜水艦"
   },
   {
     "piece.name.VM": "ニモの潜水艦パレス"
@@ -16464,7 +16596,7 @@
     "piece.name.W1": "板"
   },
   {
-    "piece.name.W2": "木のフレーム"
+    "piece.name.W2": "木の\\nフレーム"
   },
   {
     "piece.name.W3": "妖精の小屋"
@@ -16476,13 +16608,13 @@
     "piece.name.W5": "妖精の家"
   },
   {
-    "piece.name.W6": "大きな妖精の家"
+    "piece.name.W6": "大きな\\n妖精の家"
   },
   {
-    "piece.name.W7": "妖精のコテージ"
+    "piece.name.W7": "妖精の\\nコテージ"
   },
   {
-    "piece.name.W8": "妖精のロッジ"
+    "piece.name.W8": "妖精の\\nロッジ"
   },
   {
     "piece.name.W9": "妖精の宮殿"
@@ -16491,7 +16623,7 @@
     "piece.name.W10": "妖精の城"
   },
   {
-    "piece.name.WM": "城の鐘"
+    "piece.name.WM": "城の鐘の\\nパレス"
   },
   {
     "window.codex.branch.HL_X": "汽車"
@@ -16533,7 +16665,7 @@
     "piece.name.X1": "汽車の板"
   },
   {
-    "piece.name.X2": "汽車のトロッコ"
+    "piece.name.X2": "汽車の\\nトロッコ"
   },
   {
     "piece.name.X3": "小さな汽車"
@@ -16542,10 +16674,10 @@
     "piece.name.X4": "汽車の家"
   },
   {
-    "piece.name.X5": "汽車のコテージ"
+    "piece.name.X5": "汽車の\\nコテージ"
   },
   {
-    "piece.name.X6": "汽車のロッジ"
+    "piece.name.X6": "汽車の\\nロッジ"
   },
   {
     "piece.name.X7": "汽車の宮殿"
@@ -16554,7 +16686,7 @@
     "piece.name.X8": "汽車の城"
   },
   {
-    "piece.name.X9": "壮大な汽車の城"
+    "piece.name.X9": "壮大な\\n汽車の城"
   },
   {
     "piece.name.X10": "高速列車"
@@ -16614,13 +16746,13 @@
     "piece.name.Y5": "質素な農家"
   },
   {
-    "piece.name.Y6": "かわいい農家"
+    "piece.name.Y6": "かわいい\\n農家"
   },
   {
-    "piece.name.Y7": "農家のコテージ"
+    "piece.name.Y7": "農家の\\nコテージ"
   },
   {
-    "piece.name.Y8": "農家のロッジ"
+    "piece.name.Y8": "農家の\\nロッジ"
   },
   {
     "piece.name.Y9": "農家の宮殿"
@@ -16629,10 +16761,85 @@
     "piece.name.Y10": "農家の城"
   },
   {
-    "piece.name.Y11": "壮大な農家の城"
+    "piece.name.Y11": "壮大な\\n農家の城"
   },
   {
-    "piece.name.YM": "ゲイルのパレス"
+    "piece.name.YM": "ゲイルの\\nパレス"
+  },
+  {
+    "window.codex.branch.HL_Z": "魔法の石"
+  },
+  {
+    "piece.name.HL1_Z": "小さな石の鉢"
+  },
+  {
+    "piece.name.HL2_Z": "ごつごつの岩"
+  },
+  {
+    "piece.name.HL3_Z": "石の鉢"
+  },
+  {
+    "piece.name.HL4_Z": "石の塊"
+  },
+  {
+    "piece.name.HL5_Z": "大きな石の鉢"
+  },
+  {
+    "piece.name.HL6_Z": "石の厚板"
+  },
+  {
+    "window.codex.branch.Z": "魔法の石"
+  },
+  {
+    "piece.name.Z1": "大きな石"
+  },
+  {
+    "piece.name.Z2": "石の\\nブロック"
+  },
+  {
+    "piece.name.Z3": "石の小屋"
+  },
+  {
+    "piece.name.Z4": "大きな\\n石の小屋"
+  },
+  {
+    "piece.name.Z5": "豪華な\\n石の小屋"
+  },
+  {
+    "piece.name.Z6": "石の\\nコテージ"
+  },
+  {
+    "piece.name.Z7": "石の家"
+  },
+  {
+    "piece.name.Z8": "石の宮殿"
+  },
+  {
+    "piece.name.Z9": "豪華な\\n石の宮殿"
+  },
+  {
+    "piece.name.Z10": "石の城"
+  },
+  {
+    "piece.name.Z11": "壮大な\\n石の城"
+  },
+  {
+    "piece.name.Z12": "豪華な\\n石造りの城"
+  },
+  {
+    "piece.name.ZM": "孫悟空の\\nパレス"
+  },
+  {
+    "window.codex.branch.CH_Z": "魔法の石"
+  },
+  {
+    "piece.name.CH1_Z": "小さな宝箱"
+  },
+  {
+    "piece.name.CH2_Z": "大きな宝箱"
+  },
+  {
+    "piece.name.CH3_Z": "巨大宝箱"
   },
   {
     "window.delivery.title": "配送サービス"
@@ -18387,6 +18594,117 @@
     "conversation.use.wm.message2": "私？そうは思わないわ。ネバーランドにはいつだって最後にみんなを見つける方法があるんだもの…"
   },
   {
+    "conversation.z3.message1": "この建物の設計図を見たか、チャック？色々と要望が多いな。"
+  },
+  {
+    "conversation.z3.message2": "ああ！黄金のバスタブとか、全部屋にシルクのカーテンとか、空に手が届く塔とか？"
+  },
+  {
+    "conversation.z3.message3": "前回、そんな感じのものすごく費用がかかる仕事をしたのは、ミダス王のためだったな！"
+  },
+  {
+    "conversation.z3.message4": "覚えてるよ。あごひげについた金を絶対に洗い流さないようにしようって思ったっけな…"
+  },
+  {
+    "conversation.z4.message1": "建設の進み具合はどうだ？"
+  },
+  {
+    "conversation.z4.message2": "今、もっと素朴な洞窟とか、緩んだ土の問題なんかが起きているんです。でも対処していますから、心配いりませんよ。"
+  },
+  {
+    "conversation.z4.message3": "空に浮かぶ王国が出来上がりますよ！"
+  },
+  {
+    "conversation.z5.message1": "このサル男って実際に神々と戦うことができるって聞いた？超カッコいいわ。彼なら海賊の全艦隊を倒すこともできるかもね。"
+  },
+  {
+    "conversation.z5.message2": "フン。まあ、俺と戦って勝ったことはないがな！"
+  },
+  {
+    "conversation.z5.message3": "彼、あなたと戦ったことなんてあるの？"
+  },
+  {
+    "conversation.z5.message4": "そんなことはどうでもいい。"
+  },
+  {
+    "conversation.z6.message1": "で、あんたは死にかけていたって？で、100年もの間、眠っていた？そいつは困ったもんだ。"
+  },
+  {
+    "conversation.z6.message2": "そうなの、信じられないでしょ？あなたも同じようなことがあった？"
+  },
+  {
+    "conversation.z6.message3": "いいや。俺は不死身で、非常に屈強な男だ。"
+  },
+  {
+    "conversation.z7.message1": "この女を何とかしてくれないか？ずっと俺の家の周りをうろついていて、俺の足を1本よこせっていうんだ。"
+  },
+  {
+    "conversation.z7.message2": "あのぅ…ババ・ヤーガ？何か俺たちで力になれることでも？"
+  },
+  {
+    "conversation.z7.message3": "サルの足はね、動物の足の中でも一番幸運をもたらす足なんだよ。不死身のサルの足なら尚更だ。その上、その男は2本持っているんだからね。"
+  },
+  {
+    "conversation.z7.message4": "代わりに四つ葉のクローバーを考えたことはないのか？"
+  },
+  {
+    "conversation.z8.message1": "わあ！この花すっごーい！なんてすばらしいスタイルなの。次は何を建てるのか見るのが楽しみだわ！"
+  },
+  {
+    "conversation.z8.message2": "実は俺、ずっと君のことが一番好きだったんだ。"
+  },
+  {
+    "conversation.z9.message1": "ちょっと！孫悟空は、中に入っているものが表示される画面が付いた冷蔵庫を手に入れたの？私たちのはどうなってるのよ？"
+  },
+  {
+    "conversation.z9.message2": "お…俺たちは設計図通りにやっているだけさ！"
+  },
+  {
+    "conversation.z9.message3": "《ささやき声で》おい、自動シューズラックのことは彼女には言うなよ。"
+  },
+  {
+    "conversation.z10.message1": "屋内のジムには、トレーニング用の武器がもっとあってもいいな。在庫はないのか？"
+  },
+  {
+    "conversation.z10.message2": "最近はジムを設置することが多くて、あまり残っていないかもしれません。チャック、何か追加できるものはあったっけ？"
+  },
+  {
+    "conversation.z10.message3": "ココナッツのかぶとがいくつかと、ビーチで見つけたとがった石ならありますよ。そんなのでいいですか？"
+  },
+  {
+    "conversation.z10.message4": "《ため息》まあいい。何とかなるだろう。"
+  },
+  {
+    "conversation.z11.message1": "塔の高さはこれで十分ですか、孫悟空さん？設計図には「雲のハイウェイに届くくらいの高さの塔」と書いてありましたけど、そんなの聞いたことなくて。"
+  },
+  {
+    "conversation.z11.message2": "移動用の雲を見つけるには十分だろう。もう少し高さがあってもいいかもしれないがな。"
+  },
+  {
+    "conversation.z11.message3": "へえ、すごいや。そんなこと思いもよらなかったな。なるほど、雲のハイウェイですか。"
+  },
+  {
+    "conversation.z12.message1": "あと何個か石があれば、本当に魔訶不思議なものを見れそうね！"
+  },
+  {
+    "conversation.zm.message1": "すばらしい！ここは俺が新たに支配を始めるのに最適な場所だ…"
+  },
+  {
+    "conversation.zm.message2": "そうはいかないわ！悪いけど、ここはみんなで投票をして物事を決めるような場所なの。毎月のアンケート調査のために、あなたの連絡先を教えてもらえるかしら？"
+  },
+  {
+    "conversation.use.zm.message1": "ほら、この城を見ろよ。実に美しいじゃないか、バック！"
+  },
+  {
+    "conversation.use.zm.message2": "そうだなあ、チャック。あ、しまった。あの衝突音が聞こえるか？ベッドをボルトで固定するのを忘れたかも。"
+  },
+  {
+    "conversation.use.mn_z.message1": "王にふさわしい城は、魔法のような石でしか作れない！"
+  },
+  {
+    "conversation.use.mn_z.message2": "信頼できる魔法の石の鉱山が見つかってよかったですよ。"
+  },
+  {
     "window.island1_2.title": "グリーンホーン島"
   },
   {
@@ -18900,6 +19218,12 @@
     "window.collection.locked.hint.premium.event.LM_37": "2021年ハロウズイブで獲得"
   },
   {
+    "window.collection.locked.hint.premium.event.LM_38": "2021年感謝祭"
+  },
+  {
+    "window.collection.locked.hint.premium.event.LM_39": "2021年感謝祭"
+  },
+  {
     "window.collection.description.LM_1": "摩訶不思議な生き物でいっぱいのマジカルな場所へ足を踏み入れよう…ただ門を開く必要があるだけ！"
   },
   {
@@ -19009,6 +19333,12 @@
   },
   {
     "window.collection.description.LM_37": "イボ取り？エイジングケアの美容液？ポーションの達人のところに行けば、あなたの求める答えが見つかるかもしれません。でも気をつけて！彼は常にテイストテスターを募集しています。"
+  },
+  {
+    "window.collection.description.LM_38": "収穫の荷馬車に乗って、色とりどりの豪華なご馳走を食べてみませんか？ただし、七面鳥には内緒です。"
+  },
+  {
+    "window.collection.description.LM_39": "伝説によると、最初に偶然にもヤギの角を折ってしまったゼウスは、無限の食物の力を与えられたそうです。運のいいハプニングですね。"
   },
   {
     "window.collection.description.DC_1": "冬の間もずっと緑を保ち続ける常緑の低木でプライバシーを守りましょう。"
@@ -19146,117 +19476,6 @@
     "window.collection.description.DC_45": "柔らかな光に包まれた花のランタンには、リラックスと癒しの効果があります。"
   },
   {
-    "window.decoration.description.LM_1": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_2": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_3": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_4": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_5": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_6": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_7": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_8": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_9": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_10": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_11": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_12": "2020年ハロウズイブ島イベント"
-  },
-  {
-    "window.decoration.description.LM_13": "2020年ハロウズイブ島イベント"
-  },
-  {
-    "window.decoration.description.LM_14": "2020年ブラックフライデーセール"
-  },
-  {
-    "window.decoration.description.LM_15": "2020年北極島イベント"
-  },
-  {
-    "window.decoration.description.LM_16": "2020年北極島イベント"
-  },
-  {
-    "window.decoration.description.LM_17": "2020年北極島セール"
-  },
-  {
-    "window.decoration.description.LM_18": "2021年キューピッドの庭イベント"
-  },
-  {
-    "window.decoration.description.LM_19": "2021年キューピッドの庭イベント"
-  },
-  {
-    "window.decoration.description.LM_20": "2021年キューピッドの庭セール"
-  },
-  {
-    "window.decoration.description.LM_21": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_22": "2021年第1回マージアニバーサリーイベント"
-  },
-  {
-    "window.decoration.description.LM_23": "2021年第1回マージアニバーサリーイベント"
-  },
-  {
-    "window.decoration.description.LM_24": "2021年第1回マージアニバーサリーセール"
-  },
-  {
-    "window.decoration.description.LM_25": "2021年真夏の夜会イベント"
-  },
-  {
-    "window.decoration.description.LM_26": "2021年真夏の夜会イベント"
-  },
-  {
-    "window.decoration.description.LM_27": "2021年真夏の夜会イベント"
-  },
-  {
-    "window.decoration.description.LM_28": "2021年夏の移動遊園地イベント"
-  },
-  {
-    "window.decoration.description.LM_29": "2021年夏の移動遊園地イベント"
-  },
-  {
-    "window.decoration.description.LM_30": "2021年夏の移動遊園地イベント"
-  },
-  {
-    "window.decoration.description.LM_31": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_32": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_33": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_34": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_35": "マジカルファームのマーケット"
-  },
-  {
-    "window.decoration.description.LM_36": "2021年ハロウズイブ島イベント"
-  },
-  {
-    "window.decoration.description.LM_37": "2021年ハロウズイブ島イベント"
-  },
-  {
     "window.decoration.category.LM.common": "標準ランドマーク"
   },
   {
@@ -19377,7 +19596,7 @@
     "window.market.description.energy": "入手後、使用する{0}を与えてくれますが、段階4のピースまでマージすることでより多くのエネルギーを得られます。"
   },
   {
-    "window.market.description.InfinityEnergy": "これを使うと、エネルギーが{0}分間無制限になるよ！"
+    "window.market.description.InfinityEnergy": "これを使うと、エネルギーが<color=#7400B4>{0}分間</color>無制限になるよ！"
   },
   {
     "piece.name.Boost_FR": "作物回復剤"
@@ -19458,31 +19677,34 @@
     "window.profile.stats.monuments.5star": "5スターの城"
   },
   {
+    "window.profile.stats.SDlevel.locked": "マジカル\\nファーム"
+  },
+  {
     "window.profile.stats.SDlevel": "レベル{0} \\nマジカルファーム"
   },
   {
     "window.profile.stats.mainlevel": "レベル{0} \\nメインゲーム"
   },
   {
-    "window.profile.stats.next.level": "To next level: {0}/{1}"
+    "window.profile.stats.next.level": "レベルの進行状況：{0}/{1}"
   },
   {
-    "window.profile.edit.avatar.inf": "Use your discoveries book to set any piece you 've unlocked as Avatar"
+    "window.profile.edit.avatar.inf": "コレクションブックを使って、アンロックしたピースをプロフィール写真に設定しよう！"
   },
   {
-    "window.profile.unlock.slot": "Unlock slot"
+    "window.profile.unlock.slot": "ステータススロットをアンロック"
   },
   {
-    "window.profile.purchase.slot": "Purchase one more slot?"
+    "window.profile.purchase.slot": "スロットをもう一つ購入しますか？"
   },
   {
-    "window.profile.castles.main": "Main island castles"
+    "window.profile.castles.main": "メイン島の城"
   },
   {
-    "window.profile.castles.paradise": "Paradise cove castles"
+    "window.profile.castles.paradise": "パラダイス・コーブの城"
   },
   {
-    "window.profile.castles.keep.playing": "Keep playing to unlock this castle"
+    "window.profile.castles.keep.playing": "プレイを続けてこの城をアンロックしよう"
   },
   {
     "window.profile.stats.SDcreatures.legendary": "集めたレジェンドな生き物"
@@ -19491,10 +19713,10 @@
     "window.profile.edit.name.button.random": "ランダム"
   },
   {
-    "window.profile.connection.low": "Loading..."
+    "window.profile.connection.low": "ロード中…"
   },
   {
-    "window.profile.connection.check": "Please, check your connection"
+    "window.profile.connection.check": "接続を確認してください！"
   },
   {
     "window.profile.button.confirm": "確認"
@@ -19617,7 +19839,7 @@
     "window.codex.branch.NPC_Y": "ドロシー・ゲイル"
   },
   {
-    "window.codex.branch.NPC_Z": "branch.NPC_Z"
+    "window.codex.branch.NPC_Z": "孫悟空"
   },
   {
     "window.codex.branch.NPC_AA": "眠り姫"

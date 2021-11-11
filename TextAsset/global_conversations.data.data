@@ -2062,7 +2062,7 @@
         "Message": "conversation.holiday.halloween1.message3"
       },
       {
-        "CharacterId": "Dracula",
+        "CharacterId": "Chuck",
         "Emotion": "Normal",
         "Message": "conversation.holiday.halloween1.message4"
       }

@@ -297,9 +297,6 @@
     "window.codex.branch.E4_A": "Monstre du Loch Ness"
   },
   {
-    "window.codex.branch.E5_A": "Blue Ox E5_A"
-  },
-  {
     "window.codex.branch.H1_A": "Monstre glorieux"
   },
   {
@@ -543,10 +540,10 @@
     "window.codex.branch.E4_CH_B": "Montagnes"
   },
   {
-    "window.codex.branch.E5_CH_A": "E5_CH_A"
+    "window.codex.branch.E5_CH_A": "Foin"
   },
   {
-    "window.codex.branch.E5_CH_B": "E5_CH_B"
+    "window.codex.branch.E5_CH_B": "Bois"
   },
   {
     "window.codex.branch.H1_CH_A": "Citrouille"
@@ -573,10 +570,10 @@
     "window.codex.branch.E12_CH_B": "Résurrection"
   },
   {
-    "window.codex.branch.E13_CH_A": "E13_CH_A"
+    "window.codex.branch.E13_CH_A": "Écailleux"
   },
   {
-    "window.codex.branch.E13_CH_B": "E13_CH_B"
+    "window.codex.branch.E13_CH_B": "Donjon"
   },
   {
     "window.codex.branch.SN_CH_A": "Printemps"
@@ -795,10 +792,10 @@
     "window.market.description.UnicornIsland.event": "Un orbe arc-en-ciel ! Utilise-le pour créer des licornes."
   },
   {
-    "window.market.description.BlueoxIsland.event": "Use this to create Blue Oxen."
+    "window.market.description.BlueOxIsland.event": "Sert à créer des bœufs bleus."
   },
   {
-    "window.market.description.ReddragonIsland.event": "Use this to create Red Dragons."
+    "window.market.description.RedDragonIsland.event": "Sert à créer des dragons rouges."
   },
   {
     "window.market.description.FluffyIsland.event": "Utilise-le pour créer plus de boulottes."
@@ -936,7 +933,7 @@
     "window.market.hint.Y": "Éléments de ferme, {0}"
   },
   {
-    "window.market.hint.Z": "Z Pieces, {0}"
+    "window.market.hint.Z": "Fragments de pierre magique, {0}"
   },
   {
     "window.market.hint.AA": "Éléments de camp des lutins, {0}"
@@ -1095,6 +1092,9 @@
     "window.storageCheck.title": "Pas de stockage libre"
   },
   {
+    "window.storageCheck.cant.save": "L'espace de stockage sur ton appareil est insuffisant pour enregistrer ton image de profil. Merci de faire de la place."
+  },
+  {
     "window.storageCheck.message": "Moins de {0} Mo disponibles sur l'appareil. Ta sauvegarde et ta progression risquent d'être perdues à cause du manque d'espace libre."
   },
   {
@@ -1146,7 +1146,7 @@
     "message.error.noMagicWands": "Il n'y a pas de baguette magique à proximité."
   },
   {
-    "message.error.MakeOrders": "Make orders to get more Wands."
+    "message.error.makeOrders": "Termine des commandes pour obtenir des baguettes."
   },
   {
     "message.error.clickOnBubble": "Termine l'action précédente en premier."
@@ -1221,10 +1221,10 @@
     "common.button.free": "Gratuit"
   },
   {
-    "common.button.adjust": "Adjust"
+    "common.button.adjust": "Changer"
   },
   {
-    "common.button.buy.simple": "Buy"
+    "common.button.buy.simple": "Acheter"
   },
   {
     "common.button.buy": "Acheter {0}"
@@ -1272,7 +1272,7 @@
     "common.button.undo": "Annuler"
   },
   {
-    "common.button.merge": "Merge"
+    "common.button.merge": "Fusionner"
   },
   {
     "common.title.error": "Erreur"
@@ -1459,6 +1459,9 @@
   },
   {
     "piece.description.NPC_Y": "Elle pensait naïvement qu'elle allait s'amuser sur la route de briques jaunes... Depuis son retour du pays d'Oz, Dorothy se méfie des caprices du temps. C'est même devenue une experte de la météo."
+  },
+  {
+    "piece.description.NPC_Z": "Le roi des singes est un héros du folklore chinois qui serait né d'un rocher frappé par la foudre, ce qui créa un œuf de pierre. On ne sait jamais ce que mijote ce trublion aussi puissant qu'impulsif, ce qui le rend dangereux."
   },
   {
     "piece.name.A1": "Rondin"
@@ -3372,6 +3375,12 @@
     "piece.name.NPC_Y2": "Sandales"
   },
   {
+    "piece.name.NPC_Z1": "Petit bâton"
+  },
+  {
+    "piece.name.NPC_Z2": "Bâton magique"
+  },
+  {
     "piece.name.PR_A1": "Germe de blé"
   },
   {
@@ -4320,6 +4329,9 @@
     "piece.name.NPC_Y": "Dorothy Gale"
   },
   {
+    "piece.name.NPC_Z": "Roi des singes"
+  },
+  {
     "piece.name.HL1_A": "Petit pot de bois"
   },
   {
@@ -4977,6 +4989,9 @@
     "conversation.character.Dorothy": "Dorothy Gale"
   },
   {
+    "conversation.character.MonkeyKing": "Roi des singes"
+  },
+  {
     "quest.supermatch.title": "Faire une super fusion"
   },
   {
@@ -5085,10 +5100,10 @@
     "quest.daily.message": "Finir toutes les tâches"
   },
   {
-    "quest.merge.mana.message": "Merge the Wands"
+    "quest.merge.mana.message": "Fusionne les baguettes"
   },
   {
-    "quest.merge.five.mana.message": "Merge 5 Wands at once"
+    "quest.merge.five.mana.message": "Fusionne 5 baguettes d'un coup"
   },
   {
     "quest.market.title": "Faire des achats au marché"
@@ -5205,6 +5220,9 @@
     "task.use.mine.mn_x.hint": "Cette mine te fournira <sprite name=X1> ou <sprite name=X2> jusqu'à son épuisement."
   },
   {
+    "task.use.mine.mn_z.hint": "Cette mine te fournira <sprite name=Z1> ou <sprite name=Z2> jusqu'à son épuisement."
+  },
+  {
     "task.use.mine.mn_aa.hint": "Cette mine te fournira <sprite name=AA1> ou <sprite name=AA2> jusqu'à son épuisement."
   },
   {
@@ -5314,6 +5332,9 @@
   },
   {
     "task.use.monument_y.hint": "Utilise ce <sprite name=YM> pour obtenir plein de biens utiles."
+  },
+  {
+    "task.use.monument_z.hint": "Utilise ce <sprite name=ZM> pour obtenir plein de biens utiles."
   },
   {
     "task.use.monument_aa.hint": "Utilise ce <sprite name=AAM> pour obtenir plein de biens utiles."
@@ -5490,10 +5511,10 @@
     "notifications.restore.CreaturePortal.complete.message": "Last chance to use your Portal today! "
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.title": "Come and Claim!"
+    "notifications.restore.CreaturePortalReward.complete.title": "Claim Your Creature!"
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.message": "The legendary creature is ready to hatch from the Portal! "
+    "notifications.restore.CreaturePortalReward.complete.message": "A legendary creature is ready to hatch from your Portal! "
   },
   {
     "notifications.restore.monument.complete.title": "Rituel magique terminé !"
@@ -5574,16 +5595,16 @@
     "notifications.event.build.unicorn.complete.message": "Il y a une autre licorne ici ! Va voir !"
   },
   {
-    "notifications.event.build.blueox.complete.title": "Hey, meet a Blue Ox!"
+    "notifications.event.build.blueox.complete.title": "Regarde, un bœuf bleu !"
   },
   {
-    "notifications.event.build.blueox.complete.message": "Another Blue Ox is here! Check it out!"
+    "notifications.event.build.blueox.complete.message": "Voilà un autre bœuf bleu ! Regarde !"
   },
   {
-    "notifications.event.build.reddragon.complete.title": "Hey, meet a Red Dragon!"
+    "notifications.event.build.reddragon.complete.title": "Oh, un dragon rouge !"
   },
   {
-    "notifications.event.build.reddragon.complete.message": "Another Red Dragon is here! Check it out!"
+    "notifications.event.build.reddragon.complete.message": "Voilà un autre dragon rouge ! Regarde !"
   },
   {
     "notifications.event.build.fluffy.complete.title": "Hé, je te présente une boulotte !"
@@ -5922,10 +5943,10 @@
     "window.event.UnicornIsland.title": "Ruée de licornes"
   },
   {
-    "window.event.BlueoxIsland.title": "Blue Ox Island"
+    "window.event.BlueOxIsland.title": "Île du bœuf bleu"
   },
   {
-    "window.event.ReddgaronIsland.title": "Red Dragon Island"
+    "window.event.RedDragonIsland.title": "Île du dragon rouge"
   },
   {
     "window.event.FluffyIsland.title": "Île des boulottes"
@@ -5997,10 +6018,10 @@
     "window.event.UnicornIsland.message": "Termine des bâtiments pour obtenir <sprite name=icon_EventToken> et gagner des prix magiques !"
   },
   {
-    "window.event.BlueoxIsland.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.message": "Crée des bœufs bleus pour gagner <sprite name=icon_EventToken> et des prix magiques !"
   },
   {
-    "window.event.ReddragonIsland.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.message": "Crée des dragons rouges pour gagner <sprite name=icon_EventToken> et des prix magiques !"
   },
   {
     "window.event.FluffyIsland.message": "Crée des boulottes pour obtenir <sprite name=icon_EventToken> et gagner des récompenses !"
@@ -6048,10 +6069,10 @@
     "window.event.UnicornIsland.preview.message": "Rien de tel qu'une petite pincée de magie de licorne pour que tout tourne rond ! L'événement Ruée de licornes est bientôt disponible !"
   },
   {
-    "window.event.BlueoxIsland.preview.message": "The Blue Ox event is coming! Let us give you prizes! Seriously!"
+    "window.event.BlueOxIsland.preview.message": "Fête l'automne avec le meilleur ami de Paul et un soupçon de magie automnale ! L'événement de l'Île du bœuf bleu arrive bientôt avec un prix saisonnier spécial !"
   },
   {
-    "window.event.ReddragonIsland.preview.message": "The Red Dragon event is coming! Let us give you prizes! Seriously!"
+    "window.event.RedDragonIsland.preview.message": "Oseras-tu t'emparer des trésors sur lesquels veille le féroce dragon rouge ? Fais tes preuves sur l'Île du dragon rouge ! Événement bientôt disponible !"
   },
   {
     "window.event.FluffyIsland.preview.message": "Qu'est-ce qu'on obtient en croisant une boule et... des poils ?\\n\\nDécouvre la toute dernière expérience de Merlin sur l'île des boulottes. Cet événement sera bientôt disponible !"
@@ -6075,7 +6096,7 @@
     "window.event.HalloweenIsland.preview.message": "C'est la période la plus effrayante de l'année! Viens célébrer sur l'Île Soirée hantée et gagne des décorations terriblement amusantes pour ton terrain! Événement à venir!"
   },
   {
-    "window.event.Thanksgiving.preview.message": "Blue Ox + Thanksgiving announce text."
+    "window.event.Thanksgiving.preview.message": "Fête l'automne avec le meilleur ami de Paul et un soupçon de magie automnale ! L'événement de l'Île du bœuf bleu arrive bientôt avec un prix saisonnier spécial !"
   },
   {
     "window.event.MagicWorkshop.preview.message": "Envie de fabriquer quelque chose ? L'atelier magique itinérant arrive !\\n\\nProfites-en pendant qu'il est là et utilise <sprite name=icon_Mana> pour créer des éléments de haut niveau et bien plus encore ! Bientôt disponible !"
@@ -6111,10 +6132,10 @@
     "window.event.UnicornIsland.hint.message": "Termine des bâtiments pour obtenir <sprite name=icon_EventToken> et gagner des prix magiques !"
   },
   {
-    "window.event.BlueoxIsland.hint.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.hint.message": "Crée des bœufs bleus pour gagner <sprite name=icon_EventToken> et des prix magiques !"
   },
   {
-    "window.event.ReddragonIsland.hint.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.hint.message": "Crée des dragons rouges pour gagner <sprite name=icon_EventToken> et des prix magiques !"
   },
   {
     "window.event.FluffyIsland.hint.message": "Crée des boulottes pour obtenir <sprite name=icon_EventToken> et gagner des récompenses !"
@@ -9687,6 +9708,99 @@
     "conversation.use.mn_y.message1": "On n'est jamais aussi bien que dans une ferme pour trouver des ressources, pas vrai, Toto ? *Ouaf, ouaf*"
   },
   {
+    "conversation.npc_z3.message1": "Un bâton magique ! Je parie que quelqu'un le cherche partout."
+  },
+  {
+    "conversation.npc_z4.message1": "Oh, cool ! Une épée courbe ! On va pouvoir affronter des pirates avec ça !"
+  },
+  {
+    "conversation.npc_z4.message2": "Ce n'est pas une épée, Clochette. C'est un bâton... un bâton de combat. Peut-être même celui d'un ennemi !"
+  },
+  {
+    "conversation.npc_z5.message1": "Un bâton, deux bâtons, trois bâtons, plein de bâtons !"
+  },
+  {
+    "conversation.npc_z5.message2": "Euh, Jeannot ? Tu fais quoi ?"
+  },
+  {
+    "conversation.npc_z5.message3": "Je ramasse du petit bois, chef. Et il y a des bâtons partout !"
+  },
+  {
+    "conversation.npc_z5.message4": "Tu ferais mieux de ne pas brûler ça... Je crois qu'ils sont à quelqu'un."
+  },
+  {
+    "conversation.npc_z6.message1": "Bon, j'étais SÛRE que c'était un bâton de pluie, mais je n'entends pas du tout la pluie. Il est cassé !"
+  },
+  {
+    "conversation.npc_z6.message2": "Petite, tu t'es tapé la tête en quittant le Pays des merveilles ? C'est un bâton magique, pas un bâton de pluie."
+  },
+  {
+    "conversation.npc_z6.message3": "Ohhhhh... Oui, je vois. C'est beaucoup plus logique."
+  },
+  {
+    "conversation.npc_z7.message1": "Quelle pagaille ici !"
+  },
+  {
+    "conversation.npc_z7.message2": "*Sort d'un buisson* Vous pensez que c'est le bâton d'un guerrier ? Nous sommes assiégés !"
+  },
+  {
+    "conversation.npc_z7.message3": "Ahh ! D'où tu sors ? Tu penses qu'on nous attaque ? Dieu du ciel ! Je dois barricader le terrier !"
+  },
+  {
+    "conversation.npc_z8.message1": "Mulan a encore semé la panique en parlant d'une menace. Elle pense que ce bâton est à un guerrier."
+  },
+  {
+    "conversation.npc_z8.message2": "Madame gelée ici présente pense que j'exagère. Elle rira moins quand son château ne sera plus qu'un tas de glaçons !"
+  },
+  {
+    "conversation.npc_z8.message3": "Du calme, ne tirons pas de conclusions hâtives. Laissons ce guerrier s'expliquer d'abord. Il nous faut plus de bâtons."
+  },
+  {
+    "conversation.npc_z9.message1": "Casques en noix de coco ? Check ! Armure de feuilles de bananier ? Check ! On est fin prêts, Jeannot !"
+  },
+  {
+    "conversation.npc_z9.message2": "Prêts pour quoi ? Un combat ? Génial !"
+  },
+  {
+    "conversation.npc_z9.message3": "Mulan pense qu'on nous attaque. Tiens, prends un casque. En plus, tu peux le manger si tu as un petit creux."
+  },
+  {
+    "conversation.npc_z10.message1": "Quand résonne l'appel du combat, Maui est là ! Allez-vous affronter le propriétaire du bâton magique ?"
+  },
+  {
+    "conversation.npc_z10.message2": "Je ne ferai rien de tel ! Je ne réponds qu'à l'appel de l'amour !"
+  },
+  {
+    "conversation.npc_z10.message3": "Hein ? Comme tu veux ! Ça fera plus de gloire pour nous."
+  },
+  {
+    "conversation.npc_z11.message1": "Pourquoi êtes-vous tous déguisés ? Est-ce que... ce sont des noix de coco ?"
+  },
+  {
+    "conversation.npc_z11.message2": "Pour le combat ! Pour la gloire ! Pour EVERMERGE !"
+  },
+  {
+    "conversation.npc_z11.message3": "On parle toujours des bâtons, là ? Ils signifient simplement qu'on va avoir un visiteur ! Pas qu'on va se battre !"
+  },
+  {
+    "conversation.npc_z11.message4": "Je leur avait bien dit qu'ils exagéraient."
+  },
+  {
+    "conversation.npc_z.message1": "Oh ! Je crois que je sais à qui est ce bâton ! La princesse avait raison, c'est un ami, pas un ennemi."
+  },
+  {
+    "conversation.npc_z.order.message1": "AHHH ! On nous attaque !!!"
+  },
+  {
+    "conversation.npc_z.order.message2": "*murmure* Dorothy, ce n'est que le Roi des singes. Ahem. On est contents de te voir."
+  },
+  {
+    "conversation.npc_z.order.message3": "C'est quoi, ces histoires d'attaque ? Est-ce le chaos ?"
+  },
+  {
+    "conversation.npc_z.order.message4": "Pardon, euh, je t'ai pris pour un vieil ennemi..."
+  },
+  {
     "conversation.365.message1": "Regarde ce chapeau ! Qu'est-ce que tu en penses, il me va bien ?"
   },
   {
@@ -10515,19 +10629,19 @@
     "message.compensation.LongChainsMigration": "Certains de nos châteaux sont encore plus faciles à terminer ! Des éléments ont changé d'apparence, mais ta progression pour chaque château a été conservée !"
   },
   {
-    "message.help.mana.title": "How to get mana"
+    "message.help.mana.title": "Obtenir des baguettes"
   },
   {
-    "message.help.mana.1": "Obtenir des ingrédients"
+    "message.help.mana.1": "Collecte des ingrédients"
   },
   {
-    "message.help.mana.2": "Make Orders"
+    "message.help.mana.2": "Prépare des recettes"
   },
   {
-    "message.help.mana.3": "Merge Wands "
+    "message.help.mana.3": "Fusionne les baguettes magiques"
   },
   {
-    "message.help.mana.4": "Get Mana"
+    "message.help.mana.4": "Utilise la magie pour dissiper le brouillard !"
   },
   {
     "window.LockMine.title": "Comment débloquer"
@@ -10653,16 +10767,16 @@
     "window.specialoffer.unicorn1.main": "Prends-le pour profiter pleinement de l'événement Ruée de licornes !"
   },
   {
-    "window.specialoffer.blueox1.title": "Blue Ox Boost!"
+    "window.specialoffer.blueox1.title": "Booster bœuf bleu !"
   },
   {
-    "window.specialoffer.blueox1.main": "Buy this offer now and boost your progress in the Blue Ox event!"
+    "window.specialoffer.blueox1.main": "Prends-le pour profiter pleinement de l'événement Bœuf bleu !"
   },
   {
-    "window.specialoffer.reddragon1.title": "Red Dragon Boost!"
+    "window.specialoffer.reddragon1.title": "Booster Dragon rouge !"
   },
   {
-    "window.specialoffer.reddragon1.main": "Buy this offer now and boost your progress in the Red Dragon event!"
+    "window.specialoffer.reddragon1.main": "Prends-le pour profiter pleinement de l'événement Dragon rouge !"
   },
   {
     "window.specialoffer.fluffy1.title": "Booster Boulottes"
@@ -10815,10 +10929,10 @@
     "window.specialoffer.reject.main": "Veux-tu vraiment quitter ? Tu ne recevras plus cette offre !"
   },
   {
-    "window.specialoffer.CreaturePortal.title": "Premium Creature Portal "
+    "window.specialoffer.CreaturePortal.title": "Premium Portal "
   },
   {
-    "window.specialoffer.CreaturePortal.main": "Get a Premium Portal which will bring you {0} every day for {1} days!"
+    "window.specialoffer.CreaturePortal.main": "A premium creature portal will bring you {0} every day for {1} days!"
   },
   {
     "title.ext.item": "Élément de jardin"
@@ -10998,7 +11112,7 @@
     "window.specialoffer.CompleteCreature3M5.main": "Tout ce dont tu as besoin pour améliorer ta créature légendaire !"
   },
   {
-    "piece.name.SO_Rainbow_Portal": "Rainbow Creature Portal"
+    "piece.name.SO_Rainbow_Portal": "Rainbow Portal"
   },
   {
     "piece.name.SO_Premium_Portal": "{0} Premium Portal"
@@ -12198,6 +12312,12 @@
     "piece.name.LM_37": "Maître des potions"
   },
   {
+    "piece.name.LM_38": "Wagon de récolte"
+  },
+  {
+    "piece.name.LM_39": "Corne d'abondance pleine"
+  },
+  {
     "piece.desc.LM_11": "Île Soirée hantée 2020"
   },
   {
@@ -12279,58 +12399,55 @@
     "window.market.hint.SO_Premium_Portal": "Premium Portal will give you {0} every day for {1} days!"
   },
   {
-    "window.market.hint.BOX_A1.common": "Réception garantie de {0} créatures d'une catégorie."
+    "window.market.hint.BOX_A1.common": "Réception garantie de {0} créatures communes"
   },
   {
-    "window.market.hint.BOX_A1.rare": "Réception garantie de {0} créatures d'une catégorie."
+    "window.market.hint.BOX_A1.rare": "Réception garantie de {0} créatures rares"
   },
   {
-    "window.market.hint.BOX_A2.common": "Réception garantie de {0} créatures d'une catégorie."
+    "window.market.hint.BOX_A2.common": "Réception garantie de {0} créatures communes"
   },
   {
-    "window.market.hint.BOX_A2.rare": "Réception garantie de {0} créatures d'une catégorie."
+    "window.market.hint.BOX_A2.rare": "Réception garantie de {0} créatures rares"
   },
   {
-    "window.market.hint.BOX_A2.legendary": "Réception garantie de {0} créatures d'une catégorie."
+    "window.market.hint.BOX_A2.legendary": "Réception garantie de {0} créatures légendaires"
   },
   {
-    "window.market.hint.BOX_A3.common": "Réception garantie de {0} créatures d'une catégorie."
+    "window.market.hint.BOX_A3.common": "Réception garantie de {0} créatures communes"
   },
   {
-    "window.market.hint.BOX_A3.rare": "Réception garantie de {0} créatures d'une catégorie."
+    "window.market.hint.BOX_A3.rare": "Réception garantie de {0} créatures rares"
   },
   {
-    "window.market.hint.BOX_A3.legendary": "Réception garantie de {0} créatures d'une catégorie."
+    "window.market.hint.BOX_A3.legendary": "Réception garantie de {0} créatures légendaires"
   },
   {
-    "window.market.hint.BOX_B1.common": "Réception garantie de créatures d'une catégorie."
+    "window.market.hint.BOX_B1.common": "Réception garantie de créatures communes"
   },
   {
-    "window.market.hint.BOX_B2.common": "Réception garantie de créatures d'une catégorie."
+    "window.market.hint.BOX_B2.common": "Réception garantie de créatures communes"
   },
   {
-    "window.market.hint.BOX_B2.rare": "Réception garantie de créatures d'une catégorie."
+    "window.market.hint.BOX_B2.rare": "Réception garantie de créatures rares"
   },
   {
-    "window.market.hint.BOX_B3.common": "Réception garantie de créatures d'une catégorie."
+    "window.market.hint.BOX_B3.common": "Réception garantie de créatures communes"
   },
   {
-    "window.market.hint.BOX_B3.rare": "Réception garantie de créatures d'une catégorie."
+    "window.market.hint.BOX_B3.rare": "Réception garantie de créatures rares"
   },
   {
-    "window.market.hint.BOX_B3.legendary": "Réception garantie de créatures d'une catégorie."
+    "window.market.hint.BOX_B3.legendary": "Réception garantie de créatures légendaires"
   },
   {
-    "window.market.hint.BOX_Feed.common": "Réception garantie de créatures d'une catégorie."
+    "window.market.hint.BOX_Feed.common": "Réception garantie de créatures communes"
   },
   {
-    "window.market.hint.BOX_Feed.rare": "Réception garantie de créatures d'une catégorie."
+    "window.market.hint.BOX_Feed.rare": "Réception garantie de créatures rares"
   },
   {
     "window.market.hint.BOX_Feed.legendary": "Réception garantie de {0} créature."
-  },
-  {
-    "window.market.hint.BOX.all": "Réception garantie de créatures de cette gamme avec les chances indiquées de recevoir des types donnés."
   },
   {
     "window.container.title": "Ouvrir récipient"
@@ -12433,6 +12550,12 @@
   },
   {
     "tutorial.conversation.habitat.unlock.3": "Plus tu complètes de types de créatures, plus tu débloques d'habitats! Continue de fusionner des créatures!"
+  },
+  {
+    "tutorial.conversation.creatureportal.1": "Wow, it's a creature portal! Now these are cool. They transport legendary creatures directly to Mystic Isle! Go ahead, tap it to see how it works."
+  },
+  {
+    "tutorial.conversation.creatureportal.2": "Easy, right? Tomorrow you'll be able to transport another creature. Just come back and tap on the portal before it expires!"
   },
   {
     "message.error.habitat.locked": "Trouve {0} pour débloquer cet habitat"
@@ -12754,6 +12877,12 @@
   },
   {
     "window.doubleoffer.HalloweenOffers.main": "Offre à durée limitée pour booster ta progression! Plus une décoration saisonnière spéciale!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.title": "Offre de Thanksgiving !"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.main": "Offre à durée limitée pour booster ta progression! Plus une décoration saisonnière spéciale!"
   },
   {
     "window.habitat.info.common": "Standard"
@@ -13692,76 +13821,79 @@
     "piece.name.E12_A1": "Orbe de Quetzalcoatl"
   },
   {
-    "piece.name.E12_A2": "Quetzœuf"
+    "piece.name.E12_A2": "Small Egg"
   },
   {
-    "piece.name.E12_A3": "Quetzaco"
+    "piece.name.E12_A3": "Quetzœuf"
   },
   {
-    "piece.name.E12_A4": "Atzi"
+    "piece.name.E12_A4": "Quetzaco"
   },
   {
-    "piece.name.E12_A5": "Ssssiroco"
+    "piece.name.E12_A5": "Atzi"
   },
   {
-    "piece.name.E12_A6": "Tozi"
+    "piece.name.E12_A6": "Ssssiroco"
   },
   {
-    "piece.name.E12_A7": "Acalan"
+    "piece.name.E12_A7": "Tozi"
   },
   {
-    "piece.name.E12_A8": "Quetzalcoatl"
+    "piece.name.E12_A8": "Acalan"
   },
   {
-    "window.codex.branch.E13_A": "Red Dragon"
+    "window.codex.branch.E13_A": "Dragon rouge"
   },
   {
-    "piece.name.E13_A1": "Red Dragon"
+    "piece.name.E13_A1": "Orbe de dragon"
   },
   {
-    "piece.name.E13_A2": "Red Dragon"
+    "piece.name.E13_A2": "Œuf de dragon rouge"
   },
   {
-    "piece.name.E13_A3": "Red Dragon"
+    "piece.name.E13_A3": "Lueur"
   },
   {
-    "piece.name.E13_A4": "Red Dragon"
+    "piece.name.E13_A4": "Flambeau"
   },
   {
-    "piece.name.E13_A5": "Red Dragon"
+    "piece.name.E13_A5": "Torche"
   },
   {
-    "piece.name.E13_A6": "Red Dragon"
+    "piece.name.E13_A6": "Dragée"
   },
   {
-    "piece.name.E13_A7": "Red Dragon"
+    "piece.name.E13_A7": "Flam"
   },
   {
-    "piece.name.E13_A8": "Red Dragon"
+    "piece.name.E13_A8": "Brasier"
   },
   {
-    "piece.name.E5_A1": "Blue Ox"
+    "window.codex.branch.E5_A": "Babe le bœuf bleu"
   },
   {
-    "piece.name.E5_A2": "Blue Ox"
+    "piece.name.E5_A1": "Orbe de bœuf"
   },
   {
-    "piece.name.E5_A3": "Blue Ox"
+    "piece.name.E5_A2": "Babille"
   },
   {
-    "piece.name.E5_A4": "Blue Ox"
+    "piece.name.E5_A3": "Babette"
   },
   {
-    "piece.name.E5_A5": "Blue Ox"
+    "piece.name.E5_A4": "Babine"
   },
   {
-    "piece.name.E5_A6": "Blue Ox"
+    "piece.name.E5_A5": "Babilone"
   },
   {
-    "piece.name.E5_A7": "Blue Ox"
+    "piece.name.E5_A6": "Babebibobu"
   },
   {
-    "piece.name.E5_A8": "Blue Ox"
+    "piece.name.E5_A7": "Babimoujo"
+  },
+  {
+    "piece.name.E5_A8": "Babe"
   },
   {
     "window.codex.branch.E_SP_AK": "Lys cataire"
@@ -15111,220 +15243,220 @@
     "piece.name.E_SP_BP8": "Canard royal"
   },
   {
-    "window.codex.branch.E_SP_BQ": "branch.E_SP_BQ"
+    "window.codex.branch.E_SP_BQ": "Cloche de vache"
   },
   {
-    "piece.name.E_SP_BQ1": "E_SP_BQ1"
+    "piece.name.E_SP_BQ1": "Clochette"
   },
   {
-    "piece.name.E_SP_BQ2": "E_SP_BQ2"
+    "piece.name.E_SP_BQ2": "Cloche de vache"
   },
   {
-    "piece.name.E_SP_BQ3": "E_SP_BQ3"
+    "piece.name.E_SP_BQ3": "Cloche ornée"
   },
   {
-    "piece.name.E_SP_BQ4": "E_SP_BQ4"
+    "piece.name.E_SP_BQ4": "Cloche bruyante"
   },
   {
-    "piece.name.E_SP_BQ5": "E_SP_BQ5"
+    "piece.name.E_SP_BQ5": "Cloche apaisante"
   },
   {
-    "piece.name.E_SP_BQ6": "E_SP_BQ6"
+    "piece.name.E_SP_BQ6": "Cloche agréable"
   },
   {
-    "piece.name.E_SP_BQ7": "E_SP_BQ7"
+    "piece.name.E_SP_BQ7": "Cloche mélodieuse"
   },
   {
-    "piece.name.E_SP_BQ8": "E_SP_BQ8"
+    "piece.name.E_SP_BQ8": "Cloche harmonieuse"
   },
   {
-    "window.codex.branch.E_SP_BR": "branch.E_SP_BR"
+    "window.codex.branch.E_SP_BR": "Statue en bois"
   },
   {
-    "piece.name.E_SP_BR1": "E_SP_BR1"
+    "piece.name.E_SP_BR1": "Statue de marmotte"
   },
   {
-    "piece.name.E_SP_BR2": "E_SP_BR2"
+    "piece.name.E_SP_BR2": "Statue de lapin"
   },
   {
-    "piece.name.E_SP_BR3": "E_SP_BR3"
+    "piece.name.E_SP_BR3": "Statue d'écureuil"
   },
   {
-    "piece.name.E_SP_BR4": "E_SP_BR4"
+    "piece.name.E_SP_BR4": "Statue de raton-laveur"
   },
   {
-    "piece.name.E_SP_BR5": "E_SP_BR5"
+    "piece.name.E_SP_BR5": "Statue de renard"
   },
   {
-    "piece.name.E_SP_BR6": "E_SP_BR6"
+    "piece.name.E_SP_BR6": "Statue de loup"
   },
   {
-    "piece.name.E_SP_BR7": "E_SP_BR7"
+    "piece.name.E_SP_BR7": "Statue de blaireau"
   },
   {
-    "piece.name.E_SP_BR8": "E_SP_BR8"
+    "piece.name.E_SP_BR8": "Statue de bœuf"
   },
   {
-    "window.codex.branch.E_SP_BS": "branch.E_SP_BS"
+    "window.codex.branch.E_SP_BS": "Traîneau de bûcheron"
   },
   {
-    "piece.name.E_SP_BS1": "E_SP_BS1"
+    "piece.name.E_SP_BS1": "Traîneau primitif"
   },
   {
-    "piece.name.E_SP_BS2": "E_SP_BS2"
+    "piece.name.E_SP_BS2": "Petit traîneau"
   },
   {
-    "piece.name.E_SP_BS3": "E_SP_BS3"
+    "piece.name.E_SP_BS3": "Traîneau basique"
   },
   {
-    "piece.name.E_SP_BS4": "E_SP_BS4"
+    "piece.name.E_SP_BS4": "Traîneau rustique"
   },
   {
-    "piece.name.E_SP_BS5": "E_SP_BS5"
+    "piece.name.E_SP_BS5": "Traîneau solide"
   },
   {
-    "piece.name.E_SP_BS6": "E_SP_BS6"
+    "piece.name.E_SP_BS6": "Traîneau décoré"
   },
   {
-    "piece.name.E_SP_BS7": "E_SP_BS7"
+    "piece.name.E_SP_BS7": "Traîneau précieux"
   },
   {
-    "piece.name.E_SP_BS8": "E_SP_BS8"
+    "piece.name.E_SP_BS8": "Traîneau élégant"
   },
   {
-    "window.codex.branch.E_SP_BT": "branch.E_SP_BT"
+    "window.codex.branch.E_SP_BT": "Scie à bois"
   },
   {
-    "piece.name.E_SP_BT1": "E_SP_BT1"
+    "piece.name.E_SP_BT1": "Scie rudimentaire"
   },
   {
-    "piece.name.E_SP_BT2": "E_SP_BT2"
+    "piece.name.E_SP_BT2": "Petite scie"
   },
   {
-    "piece.name.E_SP_BT3": "E_SP_BT3"
+    "piece.name.E_SP_BT3": "Scie basique"
   },
   {
-    "piece.name.E_SP_BT4": "E_SP_BT4"
+    "piece.name.E_SP_BT4": "Scie rustique"
   },
   {
-    "piece.name.E_SP_BT5": "E_SP_BT5"
+    "piece.name.E_SP_BT5": "Scie décorée"
   },
   {
-    "piece.name.E_SP_BT6": "E_SP_BT6"
+    "piece.name.E_SP_BT6": "Scie précieuse"
   },
   {
-    "piece.name.E_SP_BT7": "E_SP_BT7"
+    "piece.name.E_SP_BT7": "Tronçonneuse puissante"
   },
   {
-    "piece.name.E_SP_BT8": "E_SP_BT8"
+    "piece.name.E_SP_BT8": "Tronçonneuse redoutable"
   },
   {
-    "window.codex.branch.E_SP_BU": "branch.E_SP_BU"
+    "window.codex.branch.E_SP_BU": "Épée"
   },
   {
-    "piece.name.E_SP_BU1": "E_SP_BU1"
+    "piece.name.E_SP_BU1": "Épée primitive"
   },
   {
-    "piece.name.E_SP_BU2": "E_SP_BU2"
+    "piece.name.E_SP_BU2": "Épée basique"
   },
   {
-    "piece.name.E_SP_BU3": "E_SP_BU3"
+    "piece.name.E_SP_BU3": "Épée rustique"
   },
   {
-    "piece.name.E_SP_BU4": "E_SP_BU4"
+    "piece.name.E_SP_BU4": "Épée de novice"
   },
   {
-    "piece.name.E_SP_BU5": "E_SP_BU5"
+    "piece.name.E_SP_BU5": "Épée ornée"
   },
   {
-    "piece.name.E_SP_BU6": "E_SP_BU6"
+    "piece.name.E_SP_BU6": "Épée précieuse"
   },
   {
-    "piece.name.E_SP_BU7": "E_SP_BU7"
+    "piece.name.E_SP_BU7": "Épée magistrale"
   },
   {
-    "piece.name.E_SP_BU8": "E_SP_BU8"
+    "piece.name.E_SP_BU8": "Épée exquise"
   },
   {
-    "window.codex.branch.E_SP_BV": "branch.E_SP_BV"
+    "window.codex.branch.E_SP_BV": "Coupe"
   },
   {
-    "piece.name.E_SP_BV1": "E_SP_BV1"
+    "piece.name.E_SP_BV1": "Chope rudimentaire"
   },
   {
-    "piece.name.E_SP_BV2": "E_SP_BV2"
+    "piece.name.E_SP_BV2": "Chope basique"
   },
   {
-    "piece.name.E_SP_BV3": "E_SP_BV3"
+    "piece.name.E_SP_BV3": "Chope rustique"
   },
   {
-    "piece.name.E_SP_BV4": "E_SP_BV4"
+    "piece.name.E_SP_BV4": "Coupe solide"
   },
   {
-    "piece.name.E_SP_BV5": "E_SP_BV5"
+    "piece.name.E_SP_BV5": "Coupe ornée"
   },
   {
-    "piece.name.E_SP_BV6": "E_SP_BV6"
+    "piece.name.E_SP_BV6": "Coupe précieuse"
   },
   {
-    "piece.name.E_SP_BV7": "E_SP_BV7"
+    "piece.name.E_SP_BV7": "Coupe élégante"
   },
   {
-    "piece.name.E_SP_BV8": "E_SP_BV8"
+    "piece.name.E_SP_BV8": "Coupe sublime"
   },
   {
-    "window.codex.branch.E_SP_BW": "branch.E_SP_BW"
+    "window.codex.branch.E_SP_BW": "Bouclier"
   },
   {
-    "piece.name.E_SP_BW1": "E_SP_BW1"
+    "piece.name.E_SP_BW1": "Bouclier rudimentaire"
   },
   {
-    "piece.name.E_SP_BW2": "E_SP_BW2"
+    "piece.name.E_SP_BW2": "Bouclier basique"
   },
   {
-    "piece.name.E_SP_BW3": "E_SP_BW3"
+    "piece.name.E_SP_BW3": "Bouclier rustique"
   },
   {
-    "piece.name.E_SP_BW4": "E_SP_BW4"
+    "piece.name.E_SP_BW4": "Bouclier solide"
   },
   {
-    "piece.name.E_SP_BW5": "E_SP_BW5"
+    "piece.name.E_SP_BW5": "Bouclier décoré"
   },
   {
-    "piece.name.E_SP_BW6": "E_SP_BW6"
+    "piece.name.E_SP_BW6": "Bouclier précieux"
   },
   {
-    "piece.name.E_SP_BW7": "E_SP_BW7"
+    "piece.name.E_SP_BW7": "Bouclier puissant"
   },
   {
-    "piece.name.E_SP_BW8": "E_SP_BW8"
+    "piece.name.E_SP_BW8": "Bouclier redoutable"
   },
   {
-    "window.codex.branch.E_SP_BX": "branch.E_SP_BX"
+    "window.codex.branch.E_SP_BX": "Arbalète"
   },
   {
-    "piece.name.E_SP_BX1": "E_SP_BX1"
+    "piece.name.E_SP_BX1": "Arbalète simple"
   },
   {
-    "piece.name.E_SP_BX2": "E_SP_BX2"
+    "piece.name.E_SP_BX2": "Arbalète primitive"
   },
   {
-    "piece.name.E_SP_BX3": "E_SP_BX3"
+    "piece.name.E_SP_BX3": "Arbalète rustique"
   },
   {
-    "piece.name.E_SP_BX4": "E_SP_BX4"
+    "piece.name.E_SP_BX4": "Arbalète solide"
   },
   {
-    "piece.name.E_SP_BX5": "E_SP_BX5"
+    "piece.name.E_SP_BX5": "Arbalète décorée"
   },
   {
-    "piece.name.E_SP_BX6": "E_SP_BX6"
+    "piece.name.E_SP_BX6": "Arbalète précieuse"
   },
   {
-    "piece.name.E_SP_BX7": "E_SP_BX7"
+    "piece.name.E_SP_BX7": "Arbalète puissante"
   },
   {
-    "piece.name.E_SP_BX8": "E_SP_BX8"
+    "piece.name.E_SP_BX8": "Arbalète redoutable"
   },
   {
     "window.codex.branch.H6_A": "Cheval de manège"
@@ -15549,10 +15681,10 @@
     "window.navigation.islandcard.UnicornIsland.title": "Île des licornes"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.title": "Blue Ox Island"
+    "window.navigation.islandcard.BlueOxIsland.title": "Île du bœuf bleu"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.title": "Red Dragon Island"
+    "window.navigation.islandcard.RedDragonIsland.title": "Île du dragon rouge"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.title": "Île des phénix"
@@ -15648,10 +15780,10 @@
     "window.navigation.islandcard.UnicornIsland.description": "Des arcs-en-ciel par centaines"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.BlueOxIsland.description": "Des pâturages verdoyants à perte de vue"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.RedDragonIsland.description": "Un donjon regorgeant de trésors"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.description": "Un monde brûlant au-delà du soleil"
@@ -15714,10 +15846,10 @@
     "window.navigation.help.popup.ZooIslandLock.message": "Continue à jouer ({0}) pour atteindre le niveau {1} et débloquer : {2}"
   },
   {
-    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim!"
+    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim before it expires!"
   },
   {
-    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim!"
+    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim before it expires!"
   },
   {
     "window.event.howToPlay": "Comment jouer"
@@ -15771,10 +15903,10 @@
     "gameboard.bubble.button.landmark.skinning": "Changer"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.claimed": "Today: claimed"
+    "gameboard.bubble.message.CreaturePortal.claimed": "Claimed Today"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.expired": "Expire in: {0} days"
+    "gameboard.bubble.message.CreaturePortal.expired": "Expires in: {0} days"
   },
   {
     "tutorial.conversation.SD.skinning.1": "Rebonjour ! Savais-tu que tu pouvais décorer l'Île mystique à ton goût ? Je vais te montrer comment faire !"
@@ -16633,6 +16765,81 @@
   },
   {
     "piece.name.YM": "Châtornade"
+  },
+  {
+    "window.codex.branch.HL_Z": "Source de pierre magique"
+  },
+  {
+    "piece.name.HL1_Z": "Petit pot de pierre"
+  },
+  {
+    "piece.name.HL2_Z": "Tas de pierre"
+  },
+  {
+    "piece.name.HL3_Z": "Pot de pierre"
+  },
+  {
+    "piece.name.HL4_Z": "Morceau de roche"
+  },
+  {
+    "piece.name.HL5_Z": "Gros pot de pierre"
+  },
+  {
+    "piece.name.HL6_Z": "Dalle de pierre"
+  },
+  {
+    "window.codex.branch.Z": "Pierre magique"
+  },
+  {
+    "piece.name.Z1": "Rocher"
+  },
+  {
+    "piece.name.Z2": "Bloc de roche"
+  },
+  {
+    "piece.name.Z3": "Cabane de pierre"
+  },
+  {
+    "piece.name.Z4": "Grosse cabane de pierre"
+  },
+  {
+    "piece.name.Z5": "Belle cabane de pierre"
+  },
+  {
+    "piece.name.Z6": "Petite maison de pierre"
+  },
+  {
+    "piece.name.Z7": "Maison de pierre"
+  },
+  {
+    "piece.name.Z8": "Manoir de pierre"
+  },
+  {
+    "piece.name.Z9": "Beau manoir de pierre"
+  },
+  {
+    "piece.name.Z10": "Château de pierre"
+  },
+  {
+    "piece.name.Z11": "Grand château de pierre"
+  },
+  {
+    "piece.name.Z12": "Luxueux château de pierre"
+  },
+  {
+    "piece.name.ZM": "Château du singe"
+  },
+  {
+    "window.codex.branch.CH_Z": "Pierre magique"
+  },
+  {
+    "piece.name.CH1_Z": "Petit coffre"
+  },
+  {
+    "piece.name.CH2_Z": "Gros coffre"
+  },
+  {
+    "piece.name.CH3_Z": "Super coffre"
   },
   {
     "window.delivery.title": "Service de livraison"
@@ -17802,7 +18009,7 @@
     "conversation.npc_u3.message3": "Que m'arrive-t-il ? Je deviens tout petit !"
   },
   {
-    "conversation.npc_u4.message1": "Baba Yaga, tu peux nous aider ? Jacquot a bu une des potions qui traînent partout et maintenant... Je je laisse juger par toi-même."
+    "conversation.npc_u4.message1": "Baba Yaga, tu peux nous aider ? Jacquot a bu une des potions qui traînent partout et maintenant... Je te laisse juger par toi-même."
   },
   {
     "conversation.npc_u4.message2": "Où est-il ?"
@@ -18387,6 +18594,117 @@
     "conversation.use.wm.message2": "À moi ? Non. Le Pays imaginaire finira bien par me retrouver..."
   },
   {
+    "conversation.z3.message1": "Tu as vu les plans, Jacquot ? La construction va prendre des plombes !"
+  },
+  {
+    "conversation.z3.message2": "Une baignoire en or ! Des soieries dans toutes les pièces ! Une tour qui touche les cieux !"
+  },
+  {
+    "conversation.z3.message3": "La dernière fois que j'ai fait un chantier aussi cher, c'était pour le roi Midas !"
+  },
+  {
+    "conversation.z3.message4": "Je m'en souviens. J'ai cru que l'or ne partirait jamais de ma barbe..."
+  },
+  {
+    "conversation.z4.message1": "Comment avance la construction ?"
+  },
+  {
+    "conversation.z4.message2": "Pour l'instant, on en est plus au niveau de la cahutte en pierre que du palais, mais on y travaille !"
+  },
+  {
+    "conversation.z4.message3": "Royaume céleste en cours de production !"
+  },
+  {
+    "conversation.z5.message1": "Vous avez entendu que ce singe peut affronter les DIEUX ? C'est cool ! Il pourrait sans doute battre toute une flotte de pirates."
+  },
+  {
+    "conversation.z5.message2": "Eh bien, il ne m'a pas encore affronté, moi !"
+  },
+  {
+    "conversation.z5.message3": "Il ne s'est pas battu du tout, si ?"
+  },
+  {
+    "conversation.z5.message4": "C'est hors-sujet."
+  },
+  {
+    "conversation.z6.message1": "Et tu étais aux portes de la mort ? Tu as dormi cent ans ? C'est troublant..."
+  },
+  {
+    "conversation.z6.message2": "N'est-ce pas ? Une telle chose t'est-elle déjà arrivée ?"
+  },
+  {
+    "conversation.z6.message3": "Non. Je suis immortel et ma puissance est infinie."
+  },
+  {
+    "conversation.z7.message1": "Tu peux me débarrasser de cette femme qui fait des cercles au-dessus de chez moi pour me voler une de mes pattes ?"
+  },
+  {
+    "conversation.z7.message2": "Euh... Baba Yaga ? Je peux faire quelque chose pour toi ?"
+  },
+  {
+    "conversation.z7.message3": "Les pattes de singe sont les porte-bonheurs les plus puissants ! Et la patte d'un singe immortel, imaginez ! Et puis, il en a d'autres."
+  },
+  {
+    "conversation.z7.message4": "Un trèfle à quatre feuilles conviendrait tout aussi bien."
+  },
+  {
+    "conversation.z8.message1": "Oh ! Ces fleurs sont sublimes ! Je suis impatiente de voir la suite !"
+  },
+  {
+    "conversation.z8.message2": "Tu sais, tu as toujours été ma chouchou."
+  },
+  {
+    "conversation.z9.message1": "Quoi ? Le Roi des singes a un frigo avec un écran qui montre ce qui se trouve dedans ! Et nous, alors ?"
+  },
+  {
+    "conversation.z9.message2": "On n'a fait que suivre les plans !"
+  },
+  {
+    "conversation.z9.message3": "*murmure* Ne lui parle pas du meuble à chaussures automatique."
+  },
+  {
+    "conversation.z10.message1": "Il n'y a pas assez d'armes dans ma salle d'entraînement ! Vous n'avez rien d'autre ?"
+  },
+  {
+    "conversation.z10.message2": "On a dû équiper pas mal de salles récemment. On n'a plus grand-chose en stock, pas vrai, Jacquot ?"
+  },
+  {
+    "conversation.z10.message3": "On a des casques en noix de coco et une pierre pointue que j'ai trouvée sur la plage. Ça irait ?"
+  },
+  {
+    "conversation.z10.message4": "*soupir* Très bien, je ferai avec."
+  },
+  {
+    "conversation.z11.message1": "Est-ce que cette tour est assez haute pour toi, Roi des singes ? Le plan parle d'une tour touchant l'autoroute des nuages, mais ça paraît difficile."
+  },
+  {
+    "conversation.z11.message2": "Je pense qu'elle me suffira pour trouver un nuage sur lequel voyager. Elle fait peine à voir, mais tant pis."
+  },
+  {
+    "conversation.z11.message3": "Oh, waouh, l'autoroute des nuages n'est pas une métaphore, alors !"
+  },
+  {
+    "conversation.z12.message1": "Encore quelques pierres et la magie va opérer !"
+  },
+  {
+    "conversation.zm.message1": "Excellent ! Je vais pouvoir débuter un nouveau règne."
+  },
+  {
+    "conversation.zm.message2": "Pas si vite ! Ici, on a plutôt tendance à tout soumettre au vote du groupe. Tu peux me donner tes coordonnées pour notre enquête mensuelle ?"
+  },
+  {
+    "conversation.use.zm.message1": "Regarde ce château, Jeannot ! Quelle splendeur !"
+  },
+  {
+    "conversation.use.zm.message2": "Pour sûr, Jacquot. Oh non, tu as entendu ce bruit ? Je crois qu'on a oublié de fixer le lit."
+  },
+  {
+    "conversation.use.mn_z.message1": "Le château d'un roi doit être construit en pierre magique !"
+  },
+  {
+    "conversation.use.mn_z.message2": "Heureusement qu'on a trouvé cette mine de pierre magique."
+  },
+  {
     "window.island1_2.title": "Île de la vigie"
   },
   {
@@ -18900,6 +19218,12 @@
     "window.collection.locked.hint.premium.event.LM_37": "Obtenu à Halloween 2021"
   },
   {
+    "window.collection.locked.hint.premium.event.LM_38": "Thanksgiving 2021"
+  },
+  {
+    "window.collection.locked.hint.premium.event.LM_39": "Thanksgiving 2021"
+  },
+  {
     "window.collection.description.LM_1": "Aventure-toi dans un pays légendaire grouillant de créatures magiques... Il suffit d'ouvrir la porte !"
   },
   {
@@ -19009,6 +19333,12 @@
   },
   {
     "window.collection.description.LM_37": "Retirer une verrue têtue ? Besoin de potion anti-vieillesse ? Une visite chez le Maître des potions s'impose ! Attention cependant, il est toujours en quête de cobayes."
+  },
+  {
+    "window.collection.description.LM_38": "Le wagon amène un monceau de récoltes pour faire un festin mémorable. Dinde incluse."
+  },
+  {
+    "window.collection.description.LM_39": "La légende raconte que Zeus brisa par mégarde la corne d'une chèvre et obtint ainsi le pouvoir d'abondance. Quelle veine !"
   },
   {
     "window.collection.description.DC_1": "Dissimule-toi des regards indiscrets avec cet arbuste persistant qui garde ses feuilles toutes l'année."
@@ -19144,117 +19474,6 @@
   },
   {
     "window.collection.description.DC_45": "Cette lanterne confère une atmosphère de relaxation et de réparation."
-  },
-  {
-    "window.decoration.description.LM_1": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_2": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_3": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_4": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_5": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_6": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_7": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_8": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_9": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_10": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_11": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_12": "Événement Soirée hantée 2020"
-  },
-  {
-    "window.decoration.description.LM_13": "Événement Soirée hantée 2020"
-  },
-  {
-    "window.decoration.description.LM_14": "Offre Black Friday 2020"
-  },
-  {
-    "window.decoration.description.LM_15": "Événement Pôle Nord 2020"
-  },
-  {
-    "window.decoration.description.LM_16": "Événement Pôle Nord 2020"
-  },
-  {
-    "window.decoration.description.LM_17": "Offre Pôle Nord 2020"
-  },
-  {
-    "window.decoration.description.LM_18": "Événement Jardin de Cupidon 2021"
-  },
-  {
-    "window.decoration.description.LM_19": "Événement Jardin de Cupidon 2021"
-  },
-  {
-    "window.decoration.description.LM_20": "Offre Jardin de Cupidon 2021"
-  },
-  {
-    "window.decoration.description.LM_21": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_22": "Événement 1er fusionniversaire 2021"
-  },
-  {
-    "window.decoration.description.LM_23": "Événement 1er fusionniversaire 2021"
-  },
-  {
-    "window.decoration.description.LM_24": "Offre 1er fusionniversaire 2021"
-  },
-  {
-    "window.decoration.description.LM_25": "Bal d'une nuit d'été 2021"
-  },
-  {
-    "window.decoration.description.LM_26": "Bal d'une nuit d'été 2021"
-  },
-  {
-    "window.decoration.description.LM_27": "Bal d'une nuit d'été 2021"
-  },
-  {
-    "window.decoration.description.LM_28": "Événement Foire d'été 2021"
-  },
-  {
-    "window.decoration.description.LM_29": "Événement Foire d'été 2021"
-  },
-  {
-    "window.decoration.description.LM_30": "Événement Foire d'été 2021"
-  },
-  {
-    "window.decoration.description.LM_31": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_32": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_33": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_34": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_35": "Marché de l'Île mystique"
-  },
-  {
-    "window.decoration.description.LM_36": "Événement d'Halloween 2021"
-  },
-  {
-    "window.decoration.description.LM_37": "Événement d'Halloween 2021"
   },
   {
     "window.decoration.category.LM.common": "Monuments standard"
@@ -19458,31 +19677,34 @@
     "window.profile.stats.monuments.5star": "Châteaux 5 étoiles"
   },
   {
+    "window.profile.stats.SDlevel.locked": "Île \\n mystique"
+  },
+  {
     "window.profile.stats.SDlevel": "Niveau {0} \\n Île mystique"
   },
   {
     "window.profile.stats.mainlevel": "Niveau {0} \\n Jeu principal"
   },
   {
-    "window.profile.stats.next.level": "To next level: {0}/{1}"
+    "window.profile.stats.next.level": "Progression du niveau : {0}/{1}"
   },
   {
-    "window.profile.edit.avatar.inf": "Use your discoveries book to set any piece you 've unlocked as Avatar"
+    "window.profile.edit.avatar.inf": "Utilise ton journal de découvertes pour utiliser comme image de profil n'importe quel élément débloqué !"
   },
   {
-    "window.profile.unlock.slot": "Unlock slot"
+    "window.profile.unlock.slot": "Débloquer un emplacement"
   },
   {
-    "window.profile.purchase.slot": "Purchase one more slot?"
+    "window.profile.purchase.slot": "Acheter un autre emplacement ?"
   },
   {
-    "window.profile.castles.main": "Main island castles"
+    "window.profile.castles.main": "Châteaux de l'Île principale"
   },
   {
-    "window.profile.castles.paradise": "Paradise cove castles"
+    "window.profile.castles.paradise": "Châteaux de la crique paradisiaque"
   },
   {
-    "window.profile.castles.keep.playing": "Keep playing to unlock this castle"
+    "window.profile.castles.keep.playing": "Continue à jouer pour débloquer ce château"
   },
   {
     "window.profile.stats.SDcreatures.legendary": "Créatures légendaires obtenues"
@@ -19491,10 +19713,10 @@
     "window.profile.edit.name.button.random": "Aléatoire"
   },
   {
-    "window.profile.connection.low": "Loading..."
+    "window.profile.connection.low": "Chargement..."
   },
   {
-    "window.profile.connection.check": "Please, check your connection"
+    "window.profile.connection.check": "Vérifie ta connexion !"
   },
   {
     "window.profile.button.confirm": "Confirmer"
@@ -19617,7 +19839,7 @@
     "window.codex.branch.NPC_Y": "Dorothy Gale"
   },
   {
-    "window.codex.branch.NPC_Z": "branch.NPC_Z"
+    "window.codex.branch.NPC_Z": "Roi des singes"
   },
   {
     "window.codex.branch.NPC_AA": "La Belle au bois dormant"

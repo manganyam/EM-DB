@@ -297,9 +297,6 @@
     "window.codex.branch.E4_A": "尼斯湖怪兽"
   },
   {
-    "window.codex.branch.E5_A": "Blue Ox E5_A"
-  },
-  {
     "window.codex.branch.H1_A": "万圣节怪物"
   },
   {
@@ -543,10 +540,10 @@
     "window.codex.branch.E4_CH_B": "高地"
   },
   {
-    "window.codex.branch.E5_CH_A": "E5_CH_A"
+    "window.codex.branch.E5_CH_A": "干草"
   },
   {
-    "window.codex.branch.E5_CH_B": "E5_CH_B"
+    "window.codex.branch.E5_CH_B": "木材"
   },
   {
     "window.codex.branch.H1_CH_A": "南瓜"
@@ -573,10 +570,10 @@
     "window.codex.branch.E12_CH_B": "复兴"
   },
   {
-    "window.codex.branch.E13_CH_A": "E13_CH_A"
+    "window.codex.branch.E13_CH_A": "鳞片"
   },
   {
-    "window.codex.branch.E13_CH_B": "E13_CH_B"
+    "window.codex.branch.E13_CH_B": "地牢"
   },
   {
     "window.codex.branch.SN_CH_A": "春日花朵"
@@ -795,10 +792,10 @@
     "window.market.description.UnicornIsland.event": "彩虹球！用它来创造独角兽。"
   },
   {
-    "window.market.description.BlueoxIsland.event": "Use this to create Blue Oxen."
+    "window.market.description.BlueOxIsland.event": "使用这个来创造出蓝牛。"
   },
   {
-    "window.market.description.ReddragonIsland.event": "Use this to create Red Dragons."
+    "window.market.description.RedDragonIsland.event": "使用这个来创造出红龙。"
   },
   {
     "window.market.description.FluffyIsland.event": "使用这个来创建更多的毛毛神兽。"
@@ -936,7 +933,7 @@
     "window.market.hint.Y": "农舍部件，{0}个"
   },
   {
-    "window.market.hint.Z": "Z Pieces, {0}"
+    "window.market.hint.Z": "神石部件，{0}个"
   },
   {
     "window.market.hint.AA": "地精哨所部件, {0}"
@@ -1095,6 +1092,9 @@
     "window.storageCheck.title": "存储空间不足"
   },
   {
+    "window.storageCheck.cant.save": "您的设备没有足够的空间来保存这张个人资料照片了。请释放出一些存储空间。"
+  },
+  {
     "window.storageCheck.message": "您的设备只有不到{0}MB的空间了。没有足够的可用空间，您可能会丢失保存的数据和游戏进程。"
   },
   {
@@ -1146,7 +1146,7 @@
     "message.error.noMagicWands": "附近没有魔杖。"
   },
   {
-    "message.error.MakeOrders": "Make orders to get more Wands."
+    "message.error.makeOrders": "完成订单以获得更多魔杖。"
   },
   {
     "message.error.clickOnBubble": "请先完成上一个操作。"
@@ -1221,10 +1221,10 @@
     "common.button.free": "免费"
   },
   {
-    "common.button.adjust": "Adjust"
+    "common.button.adjust": "更改"
   },
   {
-    "common.button.buy.simple": "Buy"
+    "common.button.buy.simple": "购买"
   },
   {
     "common.button.buy": "购买{0}"
@@ -1272,7 +1272,7 @@
     "common.button.undo": "撤消"
   },
   {
-    "common.button.merge": "Merge"
+    "common.button.merge": "合并"
   },
   {
     "common.title.error": "错误"
@@ -1458,7 +1458,10 @@
     "piece.description.NPC_X": "这位美国民间英雄只需要一把强大的锤子就能建立起一个铁路帝国。如今，他更注重大局战略，不过他也能随时卷起袖子把活儿干了。"
   },
   {
-    "piece.description.NPC_Y": "沿着他们说的黄砖路走就行了。据说会很有趣的。从奥兹大陆回来后，多萝西就学会了不要相信暴风雨的天空。事实上，她已经快成为一名气象专家了。"
+    "piece.description.NPC_Y": "人们说，沿着黄砖路走就对了，一切都会很有趣的。从奥兹大陆回来后，多萝西就学会了不要相信暴风雨的天空。事实上，她就快成为一名气象专家了。"
+  },
+  {
+    "piece.description.NPC_Z": "传说这位中国的神话英雄是从混沌形成的神石中蹦出来的。没错，你永远猜不到孙悟空接下来要做什么。强大与冲动，在他身上形成了一个危险的组合。"
   },
   {
     "piece.name.A1": "圆木"
@@ -2136,13 +2139,13 @@
     "piece.name.SN_C5": "华丽秋花"
   },
   {
-    "piece.name.SN_C6": "秋日树植"
+    "piece.name.SN_C6": "秋日花束"
   },
   {
-    "piece.name.SN_C7": "大号秋日树植"
+    "piece.name.SN_C7": "优雅花束"
   },
   {
-    "piece.name.SN_C8": "华丽秋日树植"
+    "piece.name.SN_C8": "华丽花束"
   },
   {
     "piece.name.SN_C9": "灿烂向日葵"
@@ -2169,7 +2172,7 @@
     "piece.name.SN_D4": "松果"
   },
   {
-    "piece.name.SN_D5": "长大的松果"
+    "piece.name.SN_D5": "成熟松果"
   },
   {
     "piece.name.SN_D6": "小冬月桂树"
@@ -2178,7 +2181,7 @@
     "piece.name.SN_D7": "冬月桂树"
   },
   {
-    "piece.name.SN_D8": "优雅的冬月桂树"
+    "piece.name.SN_D8": "优雅冬树"
   },
   {
     "piece.name.SN_D9": "霜花冬树"
@@ -2244,7 +2247,7 @@
     "piece.name.SN_F6": "小花丛"
   },
   {
-    "piece.name.SN_F7": "长大的花丛"
+    "piece.name.SN_F7": "大花丛"
   },
   {
     "piece.name.SN_F8": "毛毛虫花丛"
@@ -2376,7 +2379,7 @@
     "piece.name.SN_J7": "琥珀花"
   },
   {
-    "piece.name.SN_J8": "盛开的琥珀花"
+    "piece.name.SN_J8": "盛开琥珀花"
   },
   {
     "piece.name.SN_J9": "鸟歌花"
@@ -2490,10 +2493,10 @@
     "piece.name.EXT_D7": "蝌蚪天堂"
   },
   {
-    "piece.name.EXT_D8": "小青蛙避风港"
+    "piece.name.EXT_D8": "青蛙避风港"
   },
   {
-    "piece.name.EXT_D9": "青蛙聚集地"
+    "piece.name.EXT_D9": "青蛙栖息地"
   },
   {
     "piece.name.EXT_D10": "青蛙王国"
@@ -2511,7 +2514,7 @@
     "piece.name.EXT_E4": "小花枝"
   },
   {
-    "piece.name.EXT_E5": "螳螂系列"
+    "piece.name.EXT_E5": "螳螂树枝"
   },
   {
     "piece.name.EXT_E6": "螳螂树"
@@ -2526,16 +2529,16 @@
     "piece.name.EXT_E9": "螳螂栖息地"
   },
   {
-    "piece.name.EXT_F1": "芽"
+    "piece.name.EXT_F1": "蜂鸟花芽"
   },
   {
-    "piece.name.EXT_F2": "长大的芽"
+    "piece.name.EXT_F2": "蜂鸟花苗"
   },
   {
-    "piece.name.EXT_F3": "发芽的花"
+    "piece.name.EXT_F3": "蜂鸟花"
   },
   {
-    "piece.name.EXT_F4": "长大的花"
+    "piece.name.EXT_F4": "大蜂鸟花"
   },
   {
     "piece.name.EXT_F5": "美丽之花"
@@ -3372,6 +3375,12 @@
     "piece.name.NPC_Y2": "凉鞋"
   },
   {
+    "piece.name.NPC_Z1": "小金箍棒"
+  },
+  {
+    "piece.name.NPC_Z2": "金箍棒"
+  },
+  {
     "piece.name.PR_A1": "小麦芽"
   },
   {
@@ -3465,7 +3474,7 @@
     "piece.name.PR_G1": "芒果芽"
   },
   {
-    "piece.name.PR_G2": "芒果小树"
+    "piece.name.PR_G2": "芒果树苗"
   },
   {
     "piece.name.PR_G3": "开花芒果树"
@@ -3477,16 +3486,16 @@
     "piece.name.PR_G5": "芒果"
   },
   {
-    "piece.name.PR_H1": "芽"
+    "piece.name.PR_H1": "彩虹花芽"
   },
   {
-    "piece.name.PR_H2": "小花"
+    "piece.name.PR_H2": "彩虹花苗"
   },
   {
-    "piece.name.PR_H3": "花朵"
+    "piece.name.PR_H3": "彩虹花"
   },
   {
-    "piece.name.PR_H4": "彩虹花"
+    "piece.name.PR_H4": "彩虹花树"
   },
   {
     "piece.name.PR_H5": "彩虹花瓣"
@@ -3495,10 +3504,10 @@
     "piece.name.PR_I1": "棕榈芽"
   },
   {
-    "piece.name.PR_I2": "大棕榈芽"
+    "piece.name.PR_I2": "棕榈苗"
   },
   {
-    "piece.name.PR_I3": "长大的棕榈树"
+    "piece.name.PR_I3": "成熟棕榈树"
   },
   {
     "piece.name.PR_I4": "棕榈田"
@@ -3513,7 +3522,7 @@
     "piece.name.PR_J2": "水稻苗"
   },
   {
-    "piece.name.PR_J3": "生长的水稻"
+    "piece.name.PR_J3": "成熟水稻"
   },
   {
     "piece.name.PR_J4": "稻田"
@@ -3528,7 +3537,7 @@
     "piece.name.PR_K2": "南瓜苗"
   },
   {
-    "piece.name.PR_K3": "长大的南瓜"
+    "piece.name.PR_K3": "成熟南瓜"
   },
   {
     "piece.name.PR_K4": "南瓜田"
@@ -3543,10 +3552,10 @@
     "piece.name.PR_L2": "大水晶花芽"
   },
   {
-    "piece.name.PR_L3": "长大的水晶花"
+    "piece.name.PR_L3": "成熟水晶花"
   },
   {
-    "piece.name.PR_L4": "水晶田"
+    "piece.name.PR_L4": "水晶花田"
   },
   {
     "piece.name.PR_L5": "水晶浆果"
@@ -4320,6 +4329,9 @@
     "piece.name.NPC_Y": "多萝西·盖尔"
   },
   {
+    "piece.name.NPC_Z": "孙悟空"
+  },
+  {
     "piece.name.HL1_A": "木头小宝盆"
   },
   {
@@ -4338,7 +4350,7 @@
     "piece.name.HL6_A": "木头树"
   },
   {
-    "piece.name.HL1_B": "石头小宝盆"
+    "piece.name.HL1_B": "小石头宝盆"
   },
   {
     "piece.name.HL2_B": "小石堆"
@@ -4353,10 +4365,10 @@
     "piece.name.HL5_B": "石头大宝盆"
   },
   {
-    "piece.name.HL6_B": "大号石头堆"
+    "piece.name.HL6_B": "大石头堆"
   },
   {
-    "piece.name.HL1_C": "货车小宝盆"
+    "piece.name.HL1_C": "小货车宝盆"
   },
   {
     "piece.name.HL2_C": "货车小树桩"
@@ -4368,13 +4380,13 @@
     "piece.name.HL4_C": "货车树桩"
   },
   {
-    "piece.name.HL5_C": "货车大宝盆"
+    "piece.name.HL5_C": "大货车宝盆"
   },
   {
     "piece.name.HL6_C": "货车大树桩"
   },
   {
-    "piece.name.HL1_D": "珊瑚小宝盆"
+    "piece.name.HL1_D": "小珊瑚宝盆"
   },
   {
     "piece.name.HL2_D": "小珊瑚"
@@ -4386,13 +4398,13 @@
     "piece.name.HL4_D": "珊瑚"
   },
   {
-    "piece.name.HL5_D": "珊瑚大宝盆"
+    "piece.name.HL5_D": "大珊瑚宝盆"
   },
   {
     "piece.name.HL6_D": "大珊瑚"
   },
   {
-    "piece.name.HL1_E": "月石小宝盆"
+    "piece.name.HL1_E": "小月石宝盆"
   },
   {
     "piece.name.HL2_E": "月亮卵石"
@@ -4401,16 +4413,16 @@
     "piece.name.HL3_E": "月石宝盆"
   },
   {
-    "piece.name.HL4_E": "月亮岩石"
+    "piece.name.HL4_E": "月石"
   },
   {
-    "piece.name.HL5_E": "月石大宝盆"
+    "piece.name.HL5_E": "大月石宝盆"
   },
   {
-    "piece.name.HL6_E": "月亮巨石"
+    "piece.name.HL6_E": "大月石"
   },
   {
-    "piece.name.HL1_F": "橡树小宝盆"
+    "piece.name.HL1_F": "小橡树宝盆"
   },
   {
     "piece.name.HL2_F": "橡树桩"
@@ -4422,13 +4434,13 @@
     "piece.name.HL4_F": "橡树苗"
   },
   {
-    "piece.name.HL5_F": "橡树大宝盆"
+    "piece.name.HL5_F": "大橡树宝盆"
   },
   {
     "piece.name.HL6_F": "橡树"
   },
   {
-    "piece.name.HL1_G": "鲜花小宝盆"
+    "piece.name.HL1_G": "小花宝盆"
   },
   {
     "piece.name.HL2_G": "小花藤"
@@ -4440,13 +4452,13 @@
     "piece.name.HL4_G": "花藤"
   },
   {
-    "piece.name.HL5_G": "鲜花大宝盆"
+    "piece.name.HL5_G": "大花宝盆"
   },
   {
     "piece.name.HL6_G": "大花藤"
   },
   {
-    "piece.name.HL1_H": "马戏团小宝盆"
+    "piece.name.HL1_H": "小马戏团宝盆"
   },
   {
     "piece.name.HL2_H": "小号马戏团道具"
@@ -4977,6 +4989,9 @@
     "conversation.character.Dorothy": "多萝西·盖尔"
   },
   {
+    "conversation.character.MonkeyKing": "孙悟空"
+  },
+  {
     "quest.supermatch.title": "完成超级合并"
   },
   {
@@ -5085,10 +5100,10 @@
     "quest.daily.message": "全部清除"
   },
   {
-    "quest.merge.mana.message": "Merge the Wands"
+    "quest.merge.mana.message": "合并魔杖"
   },
   {
-    "quest.merge.five.mana.message": "Merge 5 Wands at once"
+    "quest.merge.five.mana.message": "一次合并 5 根魔杖"
   },
   {
     "quest.market.title": "到市场购买"
@@ -5205,6 +5220,9 @@
     "task.use.mine.mn_x.hint": "这座矿藏会一直供给你<sprite name=X1>或<sprite name=X2>，直到耗尽。"
   },
   {
+    "task.use.mine.mn_z.hint": "这座矿藏会一直为你提供<sprite name=Z1>或<sprite name=Z2>，直到耗尽。"
+  },
+  {
     "task.use.mine.mn_aa.hint": "这座矿藏会一直供给你<sprite name=AA1>或<sprite name=AA2>，直到耗尽。"
   },
   {
@@ -5314,6 +5332,9 @@
   },
   {
     "task.use.monument_y.hint": "使用这个 <sprite name=YM> 来获得各种有用的资源。"
+  },
+  {
+    "task.use.monument_z.hint": "使用这个<sprite name=ZM>来获得各种有用的资源。"
   },
   {
     "task.use.monument_aa.hint": "使用这个 <sprite name=AAM> 来获得各种有用的资源。"
@@ -5490,10 +5511,10 @@
     "notifications.restore.CreaturePortal.complete.message": "Last chance to use your Portal today! "
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.title": "Come and Claim!"
+    "notifications.restore.CreaturePortalReward.complete.title": "Claim Your Creature!"
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.message": "The legendary creature is ready to hatch from the Portal! "
+    "notifications.restore.CreaturePortalReward.complete.message": "A legendary creature is ready to hatch from your Portal! "
   },
   {
     "notifications.restore.monument.complete.title": "魔法仪式完成！"
@@ -5574,16 +5595,16 @@
     "notifications.event.build.unicorn.complete.message": "又一个独角兽在这里！看啊！"
   },
   {
-    "notifications.event.build.blueox.complete.title": "Hey, meet a Blue Ox!"
+    "notifications.event.build.blueox.complete.title": "嘿，快来见见这只蓝牛！"
   },
   {
-    "notifications.event.build.blueox.complete.message": "Another Blue Ox is here! Check it out!"
+    "notifications.event.build.blueox.complete.message": "又一只蓝牛来了！看啊！"
   },
   {
-    "notifications.event.build.reddragon.complete.title": "Hey, meet a Red Dragon!"
+    "notifications.event.build.reddragon.complete.title": "嘿，快来见见这条红龙！"
   },
   {
-    "notifications.event.build.reddragon.complete.message": "Another Red Dragon is here! Check it out!"
+    "notifications.event.build.reddragon.complete.message": "又一条红龙来了！看啊！"
   },
   {
     "notifications.event.build.fluffy.complete.title": "嘿，快来认识一下毛毛神兽！"
@@ -5922,10 +5943,10 @@
     "window.event.UnicornIsland.title": "独角兽竞赛"
   },
   {
-    "window.event.BlueoxIsland.title": "Blue Ox Island"
+    "window.event.BlueOxIsland.title": "蓝牛岛"
   },
   {
-    "window.event.ReddgaronIsland.title": "Red Dragon Island"
+    "window.event.RedDragonIsland.title": "红龙岛"
   },
   {
     "window.event.FluffyIsland.title": "毛毛神兽岛活动"
@@ -5997,10 +6018,10 @@
     "window.event.UnicornIsland.message": "完成建筑物即可赢得<sprite name=icon_EventToken>还有一些神奇的奖品！"
   },
   {
-    "window.event.BlueoxIsland.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.message": "创造出蓝牛来赢得 <sprite name=icon_EventToken> 和一些神奇的奖品！"
   },
   {
-    "window.event.ReddragonIsland.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.message": "创造出红龙来赢得 <sprite name=icon_EventToken> 和一些神奇的奖品！"
   },
   {
     "window.event.FluffyIsland.message": "创造出毛毛神兽来赢得 <sprite name=icon_EventToken> ，还可以在活动中收集奖励！"
@@ -6048,10 +6069,10 @@
     "window.event.UnicornIsland.preview.message": "一点点独角兽的魔力，就能让世界转动起来！\"独角兽竞赛\"活动即将到来！"
   },
   {
-    "window.event.BlueoxIsland.preview.message": "The Blue Ox event is coming! Let us give you prizes! Seriously!"
+    "window.event.BlueOxIsland.preview.message": "与保罗的头号好友和一点秋日魔法一起庆祝秋季吧！ 蓝牛岛活动即将推出，随之还有一份为这个季节特别准备的地标礼物哦！"
   },
   {
-    "window.event.ReddragonIsland.preview.message": "The Red Dragon event is coming! Let us give you prizes! Seriously!"
+    "window.event.RedDragonIsland.preview.message": "你敢去寻找这个由凶猛的家伙守卫着的地牢宝藏吗？来红龙岛上一试你的勇气吧！活动即将到来！"
   },
   {
     "window.event.FluffyIsland.preview.message": "当你把一只神兽和……毛小福混种后，会变出什么呢？\\n\\n来我们的毛毛神兽岛上，看看梅林的最新实验吧！活动即将登场！"
@@ -6075,7 +6096,7 @@
     "window.event.HalloweenIsland.preview.message": "这是一年中最恐怖的季节！来万圣节前夜岛庆祝吧，还可以为你的王国赢得一些恐怖有趣的装饰品！活动即将开始！"
   },
   {
-    "window.event.Thanksgiving.preview.message": "Blue Ox + Thanksgiving announce text."
+    "window.event.Thanksgiving.preview.message": "与保罗的头号好友和一点秋日魔法一起庆祝秋季吧！ 蓝牛岛活动即将推出，随之还有一份为这个季节特别准备的地标礼物哦！"
   },
   {
     "window.event.MagicWorkshop.preview.message": "想来造点好玩的吗？移动的魔法工坊马上就要来了哦！\\n\\n抓住它并使用 <sprite name=icon_Mana> 来造出更高级别的物品和其他更多！即将推出！"
@@ -6111,10 +6132,10 @@
     "window.event.UnicornIsland.hint.message": "完成建筑物即可赢得<sprite name=icon_EventToken>还有一些神奇的奖品！"
   },
   {
-    "window.event.BlueoxIsland.hint.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.hint.message": "创造出蓝牛来赢得 <sprite name=icon_EventToken> 和一些神奇的奖品！"
   },
   {
-    "window.event.ReddragonIsland.hint.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.hint.message": "创造出红龙来赢得 <sprite name=icon_EventToken> 和一些神奇的奖品！"
   },
   {
     "window.event.FluffyIsland.hint.message": "创造毛毛神兽来赢得 <sprite name=icon_EventToken> 并获得奇妙的奖励！"
@@ -9318,7 +9339,7 @@
     "conversation.x3.message1": "刹车？齿轮？我们有清单上的所有东西吗？"
   },
   {
-    "conversation.x3.message2": "是的，都检查过了。我们正在按正确的方向进行建造！"
+    "conversation.x3.message2": "是的，都检查过了。一切都在正轨上！"
   },
   {
     "conversation.x4.message1": "亨利先生，你能向我们解释这些蓝图吗？看起来我们要建房子，但又好像是要建火车……究竟是是房子还是火车？"
@@ -9474,7 +9495,7 @@
     "conversation.y10.message1": "你需要很多能量来驱动这个……呃，这个房间到底是干什么用的？"
   },
   {
-    "conversation.y10.message2": "我的风暴观测中心。我有几个设备在野外，分析气压，风速，温度，湿度……"
+    "conversation.y10.message2": "我的风暴观测中心。我在野外有几个设备，用来分析气压，风速，温度，湿度……"
   },
   {
     "conversation.y10.message3": "太棒了。这些都是你造的？对了，那你有装水下声纳的经验吗？"
@@ -9606,7 +9627,7 @@
     "conversation.npc_x.order.message4": "先生，我想说，能见到一个和自己一样，对锤子有鉴赏品味的人，真的很荣幸。"
   },
   {
-    "conversation.npc_y3.message1": "天啊！正是我去海滩所需要的。一双漂亮的凉鞋！嗯……我在想，这凉鞋是不是属于谁呢？"
+    "conversation.npc_y3.message1": "天啊！去海滩正需要这样的鞋。这双凉鞋好漂亮啊！嗯……这凉鞋的主人是谁呢？"
   },
   {
     "conversation.npc_y4.message1": "嘿，巴克，什么东西是皮革做的，一英尺长，听起来像打喷嚏？"
@@ -9618,13 +9639,13 @@
     "conversation.npc_y4.message3": "我就是这个意思，答案就是：鞋子！明白吗？"
   },
   {
-    "conversation.npc_y5.message1": "你拿着那些鞋做什么，毛伊？"
+    "conversation.npc_y5.message1": "你拿着那只鞋做什么，毛伊？"
   },
   {
-    "conversation.npc_y5.message2": "这是一只鞋？！哇，从没见过这么小的鞋。我还以为是什么昆虫的小独木舟呢。"
+    "conversation.npc_y5.message2": "这是一只鞋？！哇，没见过这么小的鞋。我还以为是什么昆虫的小独木舟呢。"
   },
   {
-    "conversation.npc_y5.message3": "谢谢，小胡子伙计！嗯，我很好奇，它是否还能做成一艘很不错的小船……"
+    "conversation.npc_y5.message3": "谢谢，小胡子伙计！嗯，我在想，它是否还能做成一艘很不错的小船……"
   },
   {
     "conversation.npc_y6.message1": "哦，我的老天！这鞋子实在是太漂亮了！"
@@ -9633,16 +9654,16 @@
     "conversation.npc_y6.message2": "我觉得有点不实穿。你能穿着它们短跑冲刺吗？"
   },
   {
-    "conversation.npc_y7.message1": "怎么会，我第一次参加舞会时就穿了一双这样的！啊，真是一些美好的回忆啊。"
+    "conversation.npc_y7.message1": "怎么会，我第一次参加舞会时就穿了一双这样的！啊，好多美好的回忆。"
   },
   {
-    "conversation.npc_y7.message2": "特别是……那只蛋糕。"
+    "conversation.npc_y7.message2": "尤其是……那只蛋糕。"
   },
   {
     "conversation.npc_y8.message1": "切！我讨厌花哨的鞋子。你永远也不可能穿着这种鞋去冒险!"
   },
   {
-    "conversation.npc_y8.message2": "很明显，你从来没在鹅卵石路上穿过高跟鞋。那才称得上是一种\"冒险\"好嘛……"
+    "conversation.npc_y8.message2": "很明显，你从来没穿着高跟鞋走鹅卵石路吧。那才叫\"冒险\"好嘛……"
   },
   {
     "conversation.npc_y9.message1": "芭芭雅噶，你在跳什么新的舞蹈吗？！是不是叫作：摇鞋舞？我跳得对吗？"
@@ -9660,10 +9681,10 @@
     "conversation.npc_y10.message2": "我要找遍整个王国，找到适合它的脚!"
   },
   {
-    "conversation.npc_y10.message3": "你知道的，那是另一个童话，对吧？"
+    "conversation.npc_y10.message3": "你知道，那是另外一个童话故事，对吧？"
   },
   {
-    "conversation.npc_y11.message1": "不错……这些和我的衣服有点配，对吧？我觉得吧，丢了这些鞋子的人肯定都想不起来它们了。"
+    "conversation.npc_y11.message1": "不错……这些和我的衣服有点配，对不？我觉得吧，丢了这些鞋子的人肯定都想不起来它们了。"
   },
   {
     "conversation.npc_y11.message2": "是的，我觉得他一定想不起来！或者，随便什么答案，只要不把我变成冰块就行。"
@@ -9672,10 +9693,10 @@
     "conversation.npc_y11.message3": "你学得倒挺快啊，兔子。"
   },
   {
-    "conversation.npc_y.message1": "我能闻到这双鞋的魔力。*闻闻*还有一丝棒棒糖的味道……"
+    "conversation.npc_y.message1": "我能闻到这双鞋的魔力。*闻一下* 嗯，还有一丝棒棒糖的味道……"
   },
   {
-    "conversation.npc_y.order.message1": "*紧闭眼睛* 没有比天堂湾更好的地方，没有比天堂湾更好的地方，没有比……天堂湾？"
+    "conversation.npc_y.order.message1": "*紧闭眼睛* 没有比天堂更好的地方，没有比天堂更好的地方，没有比……天堂……天堂湾？"
   },
   {
     "conversation.npc_y.order.message2": "哇！成功了，托托！我们成功了!"
@@ -9684,7 +9705,100 @@
     "conversation.npc_y.order.message3": "欢迎啊，多罗西！我们听说你经历过很多冒险。请在这里安顿下来，好好探索吧!"
   },
   {
-    "conversation.use.mn_y.message1": "没有什么地方比农舍矿场更能提供补给了！对吧，托托？*吠吠*"
+    "conversation.use.mn_y.message1": "没有什么地方比农舍矿场更能提供补给了！对吧，托托？*汪汪*"
+  },
+  {
+    "conversation.npc_z3.message1": "一根神奇的棍棒！嗯，我敢打赌有人一定会想念这个东西的。"
+  },
+  {
+    "conversation.npc_z4.message1": "哦，酷！一把弯弯的剑。这个绝对可以用来打海盗！"
+  },
+  {
+    "conversation.npc_z4.message2": "奇妙仙子，那不是剑，而是一根棍棒……用来战斗的。 *倒吸一口气* 会不会是敌人？"
+  },
+  {
+    "conversation.npc_z5.message1": "一根，两根，三根，好多根！"
+  },
+  {
+    "conversation.npc_z5.message2": "呃，巴克？你在那里做什么？"
+  },
+  {
+    "conversation.npc_z5.message3": "只是收集一些木柴，长官。这里到处是这样的棍棒！"
+  },
+  {
+    "conversation.npc_z5.message4": "烧掉那些也许不是个好主意……我觉得，它们属于某个人。"
+  },
+  {
+    "conversation.npc_z6.message1": "嗯，我确定这东西是雨声器，但根本听不到下雨的声音。可能坏了吧。"
+  },
+  {
+    "conversation.npc_z6.message2": "孩子，你从仙境出来时撞坏脑袋了吗？那是一根棍棒。可不是什么雨声器。"
+  },
+  {
+    "conversation.npc_z6.message3": "哦哦哦哦哦。没错，这就说得通了！"
+  },
+  {
+    "conversation.npc_z7.message1": "哦，天哪，这些东西把这里弄得好乱！"
+  },
+  {
+    "conversation.npc_z7.message2": "*从灌木中冒出来* 你认为它属于某个战士吗？我们的海岸被包围了！"
+  },
+  {
+    "conversation.npc_z7.message3": "啊！你是从哪儿冒出来的？你觉得我们受到了攻击？我的天啊！我得确保洞穴的安全！"
+  },
+  {
+    "conversation.npc_z8.message1": "木兰再次引起了关于岛屿安全的恐慌。她似乎认为这些棍棒属于某位战士。"
+  },
+  {
+    "conversation.npc_z8.message2": "冰雪女王觉得我反应过激。好吧，当她的城堡坍塌成冰块时，她就笑不出来了！"
+  },
+  {
+    "conversation.npc_z8.message3": "行了，行了。让我们别急着下结论。我们应该先给这位战士说话的机会！得找到更多这样的棍棒。"
+  },
+  {
+    "conversation.npc_z9.message1": "椰子头盔？有。香蕉叶盔甲？有。巴克，看来我们已经准备好了所有的战斗装备！"
+  },
+  {
+    "conversation.npc_z9.message2": "战斗？什么战斗？我要参加！"
+  },
+  {
+    "conversation.npc_z9.message3": "木兰说我们可能会受到攻击。来吧，拿个头盔。对了，要是你饿的话，里面还有一些椰子肉！"
+  },
+  {
+    "conversation.npc_z10.message1": "哪里有战斗，哪里就有毛伊！你要参与对抗神奇棍棒主人的战斗吗？"
+  },
+  {
+    "conversation.npc_z10.message2": "为什么，我不会做那种事！我只接受爱的召唤。"
+  },
+  {
+    "conversation.npc_z10.message3": "啊？随便你吧。你不去，我们每个人能分到更多的荣耀。"
+  },
+  {
+    "conversation.npc_z11.message1": "为什么大家都穿得像要去演戏一样？那是……是一只椰子头盔吗？"
+  },
+  {
+    "conversation.npc_z11.message2": "为了战斗！为了荣耀！为了合并童话国！"
+  },
+  {
+    "conversation.npc_z11.message3": "还是因为那些棍棒吗？哦，我的天......大伙儿们，我们会有一个新访客！没有什么战斗。"
+  },
+  {
+    "conversation.npc_z11.message4": "我早跟他们说了，他们全都是反应过度。"
+  },
+  {
+    "conversation.npc_z.message1": "*深吸气* 我想我认出了这根棍棒属于谁！公主说得对，他应该是我们的朋友而不是敌人……"
+  },
+  {
+    "conversation.npc_z.order.message1": "啊啊啊！敌人来啦！！"
+  },
+  {
+    "conversation.npc_z.order.message2": "*小声说* 多萝西，亲爱的，那只是孙悟空。咳咳……我们很高兴再次见到你！"
+  },
+  {
+    "conversation.npc_z.order.message3": "什么敌人，什么胡言乱语？我在混沌中醒来了吗？"
+  },
+  {
+    "conversation.npc_z.order.message4": "对不起，我，呃，我错以为你是敌人......"
   },
   {
     "conversation.365.message1": "看看这顶帽子！你觉得怎么样？看上去如何？"
@@ -10515,19 +10629,19 @@
     "message.compensation.LongChainsMigration": "现在，有的城堡变得更加容易完成啦！尽管一些东西的外观改变了，但是每个城堡的完成进度均已保存。"
   },
   {
-    "message.help.mana.title": "How to get mana"
+    "message.help.mana.title": "如何获得魔杖"
   },
   {
     "message.help.mana.1": "收集原料"
   },
   {
-    "message.help.mana.2": "Make Orders"
+    "message.help.mana.2": "制作食谱订单"
   },
   {
-    "message.help.mana.3": "Merge Wands "
+    "message.help.mana.3": "合并魔杖"
   },
   {
-    "message.help.mana.4": "Get Mana"
+    "message.help.mana.4": "使用魔法打开迷雾！"
   },
   {
     "window.LockMine.title": "如何解锁"
@@ -10653,16 +10767,16 @@
     "window.specialoffer.unicorn1.main": "使用这个，在\"独角兽竞赛\"活动中发挥到最强！"
   },
   {
-    "window.specialoffer.blueox1.title": "Blue Ox Boost!"
+    "window.specialoffer.blueox1.title": "蓝牛道具！"
   },
   {
-    "window.specialoffer.blueox1.main": "Buy this offer now and boost your progress in the Blue Ox event!"
+    "window.specialoffer.blueox1.main": "使用这个，在蓝牛活动中发挥到最强！"
   },
   {
-    "window.specialoffer.reddragon1.title": "Red Dragon Boost!"
+    "window.specialoffer.reddragon1.title": "红龙道具！"
   },
   {
-    "window.specialoffer.reddragon1.main": "Buy this offer now and boost your progress in the Red Dragon event!"
+    "window.specialoffer.reddragon1.main": "使用这个，在红龙活动中发挥到最强！"
   },
   {
     "window.specialoffer.fluffy1.title": "毛毛神兽道具"
@@ -10815,10 +10929,10 @@
     "window.specialoffer.reject.main": "你确定要离开吗？离开后你就不会再收到这份促销了哦。"
   },
   {
-    "window.specialoffer.CreaturePortal.title": "Premium Creature Portal "
+    "window.specialoffer.CreaturePortal.title": "Premium Portal "
   },
   {
-    "window.specialoffer.CreaturePortal.main": "Get a Premium Portal which will bring you {0} every day for {1} days!"
+    "window.specialoffer.CreaturePortal.main": "A premium creature portal will bring you {0} every day for {1} days!"
   },
   {
     "title.ext.item": "花园部件"
@@ -10998,7 +11112,7 @@
     "window.specialoffer.CompleteCreature3M5.main": "升级传奇神兽所需的一切！"
   },
   {
-    "piece.name.SO_Rainbow_Portal": "Rainbow Creature Portal"
+    "piece.name.SO_Rainbow_Portal": "Rainbow Portal"
   },
   {
     "piece.name.SO_Premium_Portal": "{0} Premium Portal"
@@ -12198,6 +12312,12 @@
     "piece.name.LM_37": "魔药大师"
   },
   {
+    "piece.name.LM_38": "丰收小车"
+  },
+  {
+    "piece.name.LM_39": "满满聚宝盆"
+  },
+  {
     "piece.desc.LM_11": "2020年万圣节前夜岛"
   },
   {
@@ -12279,58 +12399,55 @@
     "window.market.hint.SO_Premium_Portal": "Premium Portal will give you {0} every day for {1} days!"
   },
   {
-    "window.market.hint.BOX_A1.common": "确保获得同一种类的{0}个神兽。"
+    "window.market.hint.BOX_A1.common": "确保获得 {0} 只普通神兽。"
   },
   {
-    "window.market.hint.BOX_A1.rare": "确保获得同一种类的{0}个神兽。"
+    "window.market.hint.BOX_A1.rare": "确保获得{0} 只珍稀神兽。"
   },
   {
-    "window.market.hint.BOX_A2.common": "确保获得同一种类的{0}个神兽。"
+    "window.market.hint.BOX_A2.common": "确保获得 {0} 只普通神兽。"
   },
   {
-    "window.market.hint.BOX_A2.rare": "确保获得同一种类的{0}个神兽。"
+    "window.market.hint.BOX_A2.rare": "确保获得{0} 只珍稀神兽。"
   },
   {
-    "window.market.hint.BOX_A2.legendary": "确保获得同一种类的{0}个神兽。"
+    "window.market.hint.BOX_A2.legendary": "确保获得 {0} 只传奇神兽。"
   },
   {
-    "window.market.hint.BOX_A3.common": "确保获得同一种类的{0}个神兽。"
+    "window.market.hint.BOX_A3.common": "确保获得 {0} 只普通神兽。"
   },
   {
-    "window.market.hint.BOX_A3.rare": "确保获得同一种类的{0}个神兽。"
+    "window.market.hint.BOX_A3.rare": "确保获得{0} 只珍稀神兽。"
   },
   {
-    "window.market.hint.BOX_A3.legendary": "确保获得同一种类的{0}个神兽。"
+    "window.market.hint.BOX_A3.legendary": "确保获得 {0} 只传奇神兽。"
   },
   {
-    "window.market.hint.BOX_B1.common": "确保获得同一种类的神兽。"
+    "window.market.hint.BOX_B1.common": "确保获得普通神兽。"
   },
   {
-    "window.market.hint.BOX_B2.common": "确保获得同一种类的神兽。"
+    "window.market.hint.BOX_B2.common": "确保获得普通神兽。"
   },
   {
-    "window.market.hint.BOX_B2.rare": "确保获得同一种类的神兽。"
+    "window.market.hint.BOX_B2.rare": "确保获得珍稀神兽。"
   },
   {
-    "window.market.hint.BOX_B3.common": "确保获得同一种类的神兽。"
+    "window.market.hint.BOX_B3.common": "确保获得普通神兽。"
   },
   {
-    "window.market.hint.BOX_B3.rare": "确保获得同一种类的神兽。"
+    "window.market.hint.BOX_B3.rare": "确保获得珍稀神兽。"
   },
   {
-    "window.market.hint.BOX_B3.legendary": "确保获得同一种类的神兽。"
+    "window.market.hint.BOX_B3.legendary": "确保获得传奇神兽。"
   },
   {
-    "window.market.hint.BOX_Feed.common": "确保获得同一种类的神兽。"
+    "window.market.hint.BOX_Feed.common": "确保获得普通神兽。"
   },
   {
-    "window.market.hint.BOX_Feed.rare": "确保获得同一种类的神兽。"
+    "window.market.hint.BOX_Feed.rare": "确保获得珍稀神兽。"
   },
   {
     "window.market.hint.BOX_Feed.legendary": "确保获得 {0} 个神兽。"
-  },
-  {
-    "window.market.hint.BOX.all": "确保会获得此范围内的，列表所列类型的神兽。"
   },
   {
     "window.container.title": "打开神兽包"
@@ -12433,6 +12550,12 @@
   },
   {
     "tutorial.conversation.habitat.unlock.3": "完成的神兽种类越多，你解锁的栖息地就越多！所以，让我们继续合并神兽们吧！"
+  },
+  {
+    "tutorial.conversation.creatureportal.1": "Wow, it's a creature portal! Now these are cool. They transport legendary creatures directly to Mystic Isle! Go ahead, tap it to see how it works."
+  },
+  {
+    "tutorial.conversation.creatureportal.2": "Easy, right? Tomorrow you'll be able to transport another creature. Just come back and tap on the portal before it expires!"
   },
   {
     "message.error.habitat.locked": "找到 {0} 来解锁这个栖息地"
@@ -12754,6 +12877,12 @@
   },
   {
     "window.doubleoffer.HalloweenOffers.main": "限时促销，帮你加速游戏进度！还有一份特别的季节性装饰品哦！"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.title": "感恩节促销！"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.main": "限时促销，帮你加速游戏进度！还有一份特别的节日装饰品哦！"
   },
   {
     "window.habitat.info.common": "普通"
@@ -13692,76 +13821,79 @@
     "piece.name.E12_A1": "羽蛇神宝珠"
   },
   {
-    "piece.name.E12_A2": "羽蛇神蛋"
+    "piece.name.E12_A2": "Small Egg"
   },
   {
-    "piece.name.E12_A3": "祖玛"
+    "piece.name.E12_A3": "羽蛇神蛋"
   },
   {
-    "piece.name.E12_A4": "阿齐"
+    "piece.name.E12_A4": "祖玛"
   },
   {
-    "piece.name.E12_A5": "尚蒂科"
+    "piece.name.E12_A5": "阿齐"
   },
   {
-    "piece.name.E12_A6": "托齐"
+    "piece.name.E12_A6": "尚蒂科"
   },
   {
-    "piece.name.E12_A7": "阿卡兰"
+    "piece.name.E12_A7": "托齐"
   },
   {
-    "piece.name.E12_A8": "羽蛇神"
+    "piece.name.E12_A8": "阿卡兰"
   },
   {
-    "window.codex.branch.E13_A": "Red Dragon"
+    "window.codex.branch.E13_A": "红龙"
   },
   {
-    "piece.name.E13_A1": "Red Dragon"
+    "piece.name.E13_A1": "龙宝珠"
   },
   {
-    "piece.name.E13_A2": "Red Dragon"
+    "piece.name.E13_A2": "红龙蛋"
   },
   {
-    "piece.name.E13_A3": "Red Dragon"
+    "piece.name.E13_A3": "龙仔"
   },
   {
-    "piece.name.E13_A4": "Red Dragon"
+    "piece.name.E13_A4": "斯汀"
   },
   {
-    "piece.name.E13_A5": "Red Dragon"
+    "piece.name.E13_A5": "火炬仔"
   },
   {
-    "piece.name.E13_A6": "Red Dragon"
+    "piece.name.E13_A6": "糖豆"
   },
   {
-    "piece.name.E13_A7": "Red Dragon"
+    "piece.name.E13_A7": "火焰"
   },
   {
-    "piece.name.E13_A8": "Red Dragon"
+    "piece.name.E13_A8": "火暴"
   },
   {
-    "piece.name.E5_A1": "Blue Ox"
+    "window.codex.branch.E5_A": "蓝牛宝宝"
   },
   {
-    "piece.name.E5_A2": "Blue Ox"
+    "piece.name.E5_A1": "牛宝珠"
   },
   {
-    "piece.name.E5_A3": "Blue Ox"
+    "piece.name.E5_A2": "甜豆"
   },
   {
-    "piece.name.E5_A4": "Blue Ox"
+    "piece.name.E5_A3": "宠儿"
   },
   {
-    "piece.name.E5_A5": "Blue Ox"
+    "piece.name.E5_A4": "蜜糖宝"
   },
   {
-    "piece.name.E5_A6": "Blue Ox"
+    "piece.name.E5_A5": "布巴"
   },
   {
-    "piece.name.E5_A7": "Blue Ox"
+    "piece.name.E5_A6": "甜甜派"
   },
   {
-    "piece.name.E5_A8": "Blue Ox"
+    "piece.name.E5_A7": "小奶油"
+  },
+  {
+    "piece.name.E5_A8": "蓝牛宝贝"
   },
   {
     "window.codex.branch.E_SP_AK": "猫薄荷"
@@ -15111,220 +15243,220 @@
     "piece.name.E_SP_BP8": "国王鸭"
   },
   {
-    "window.codex.branch.E_SP_BQ": "branch.E_SP_BQ"
+    "window.codex.branch.E_SP_BQ": "牛铃铛"
   },
   {
-    "piece.name.E_SP_BQ1": "E_SP_BQ1"
+    "piece.name.E_SP_BQ1": "节日铃铛"
   },
   {
-    "piece.name.E_SP_BQ2": "E_SP_BQ2"
+    "piece.name.E_SP_BQ2": "牛铃铛"
   },
   {
-    "piece.name.E_SP_BQ3": "E_SP_BQ3"
+    "piece.name.E_SP_BQ3": "花式铃铛"
   },
   {
-    "piece.name.E_SP_BQ4": "E_SP_BQ4"
+    "piece.name.E_SP_BQ4": "响亮铃铛"
   },
   {
-    "piece.name.E_SP_BQ5": "E_SP_BQ5"
+    "piece.name.E_SP_BQ5": "悦耳铃铛"
   },
   {
-    "piece.name.E_SP_BQ6": "E_SP_BQ6"
+    "piece.name.E_SP_BQ6": "动听铃铛"
   },
   {
-    "piece.name.E_SP_BQ7": "E_SP_BQ7"
+    "piece.name.E_SP_BQ7": "悠扬铃铛"
   },
   {
-    "piece.name.E_SP_BQ8": "E_SP_BQ8"
+    "piece.name.E_SP_BQ8": "和谐铃铛"
   },
   {
-    "window.codex.branch.E_SP_BR": "branch.E_SP_BR"
+    "window.codex.branch.E_SP_BR": "木雕"
   },
   {
-    "piece.name.E_SP_BR1": "E_SP_BR1"
+    "piece.name.E_SP_BR1": "地鼠雕像"
   },
   {
-    "piece.name.E_SP_BR2": "E_SP_BR2"
+    "piece.name.E_SP_BR2": "兔子雕像"
   },
   {
-    "piece.name.E_SP_BR3": "E_SP_BR3"
+    "piece.name.E_SP_BR3": "松鼠雕像"
   },
   {
-    "piece.name.E_SP_BR4": "E_SP_BR4"
+    "piece.name.E_SP_BR4": "浣熊雕像"
   },
   {
-    "piece.name.E_SP_BR5": "E_SP_BR5"
+    "piece.name.E_SP_BR5": "狐狸雕像"
   },
   {
-    "piece.name.E_SP_BR6": "E_SP_BR6"
+    "piece.name.E_SP_BR6": "狼雕像"
   },
   {
-    "piece.name.E_SP_BR7": "E_SP_BR7"
+    "piece.name.E_SP_BR7": "獾雕像"
   },
   {
-    "piece.name.E_SP_BR8": "E_SP_BR8"
+    "piece.name.E_SP_BR8": "蓝牛雕像"
   },
   {
-    "window.codex.branch.E_SP_BS": "branch.E_SP_BS"
+    "window.codex.branch.E_SP_BS": "伐木雪橇"
   },
   {
-    "piece.name.E_SP_BS1": "E_SP_BS1"
+    "piece.name.E_SP_BS1": "普通雪橇"
   },
   {
-    "piece.name.E_SP_BS2": "E_SP_BS2"
+    "piece.name.E_SP_BS2": "小雪橇"
   },
   {
-    "piece.name.E_SP_BS3": "E_SP_BS3"
+    "piece.name.E_SP_BS3": "粗糙雪橇"
   },
   {
-    "piece.name.E_SP_BS4": "E_SP_BS4"
+    "piece.name.E_SP_BS4": "质朴雪橇"
   },
   {
-    "piece.name.E_SP_BS5": "E_SP_BS5"
+    "piece.name.E_SP_BS5": "坚固雪橇"
   },
   {
-    "piece.name.E_SP_BS6": "E_SP_BS6"
+    "piece.name.E_SP_BS6": "花式雪橇"
   },
   {
-    "piece.name.E_SP_BS7": "E_SP_BS7"
+    "piece.name.E_SP_BS7": "高级雪橇"
   },
   {
-    "piece.name.E_SP_BS8": "E_SP_BS8"
+    "piece.name.E_SP_BS8": "优雅雪橇"
   },
   {
-    "window.codex.branch.E_SP_BT": "branch.E_SP_BT"
+    "window.codex.branch.E_SP_BT": "木锯"
   },
   {
-    "piece.name.E_SP_BT1": "E_SP_BT1"
+    "piece.name.E_SP_BT1": "普通锯子"
   },
   {
-    "piece.name.E_SP_BT2": "E_SP_BT2"
+    "piece.name.E_SP_BT2": "小锯子"
   },
   {
-    "piece.name.E_SP_BT3": "E_SP_BT3"
+    "piece.name.E_SP_BT3": "粗糙锯子"
   },
   {
-    "piece.name.E_SP_BT4": "E_SP_BT4"
+    "piece.name.E_SP_BT4": "质朴锯子"
   },
   {
-    "piece.name.E_SP_BT5": "E_SP_BT5"
+    "piece.name.E_SP_BT5": "花式锯子"
   },
   {
-    "piece.name.E_SP_BT6": "E_SP_BT6"
+    "piece.name.E_SP_BT6": "高级锯子"
   },
   {
-    "piece.name.E_SP_BT7": "E_SP_BT7"
+    "piece.name.E_SP_BT7": "强力电锯"
   },
   {
-    "piece.name.E_SP_BT8": "E_SP_BT8"
+    "piece.name.E_SP_BT8": "无敌电锯"
   },
   {
-    "window.codex.branch.E_SP_BU": "branch.E_SP_BU"
+    "window.codex.branch.E_SP_BU": "剑"
   },
   {
-    "piece.name.E_SP_BU1": "E_SP_BU1"
+    "piece.name.E_SP_BU1": "普通剑"
   },
   {
-    "piece.name.E_SP_BU2": "E_SP_BU2"
+    "piece.name.E_SP_BU2": "粗糙剑"
   },
   {
-    "piece.name.E_SP_BU3": "E_SP_BU3"
+    "piece.name.E_SP_BU3": "质朴剑"
   },
   {
-    "piece.name.E_SP_BU4": "E_SP_BU4"
+    "piece.name.E_SP_BU4": "新手剑"
   },
   {
-    "piece.name.E_SP_BU5": "E_SP_BU5"
+    "piece.name.E_SP_BU5": "花式剑"
   },
   {
-    "piece.name.E_SP_BU6": "E_SP_BU6"
+    "piece.name.E_SP_BU6": "高级剑"
   },
   {
-    "piece.name.E_SP_BU7": "E_SP_BU7"
+    "piece.name.E_SP_BU7": "万能剑"
   },
   {
-    "piece.name.E_SP_BU8": "E_SP_BU8"
+    "piece.name.E_SP_BU8": "玲珑剑"
   },
   {
-    "window.codex.branch.E_SP_BV": "branch.E_SP_BV"
+    "window.codex.branch.E_SP_BV": "高脚杯"
   },
   {
-    "piece.name.E_SP_BV1": "E_SP_BV1"
+    "piece.name.E_SP_BV1": "普通杯子"
   },
   {
-    "piece.name.E_SP_BV2": "E_SP_BV2"
+    "piece.name.E_SP_BV2": "粗糙杯子"
   },
   {
-    "piece.name.E_SP_BV3": "E_SP_BV3"
+    "piece.name.E_SP_BV3": "质朴杯子"
   },
   {
-    "piece.name.E_SP_BV4": "E_SP_BV4"
+    "piece.name.E_SP_BV4": "坚固杯子"
   },
   {
-    "piece.name.E_SP_BV5": "E_SP_BV5"
+    "piece.name.E_SP_BV5": "花式高脚杯"
   },
   {
-    "piece.name.E_SP_BV6": "E_SP_BV6"
+    "piece.name.E_SP_BV6": "高级高脚杯"
   },
   {
-    "piece.name.E_SP_BV7": "E_SP_BV7"
+    "piece.name.E_SP_BV7": "优雅高脚杯"
   },
   {
-    "piece.name.E_SP_BV8": "E_SP_BV8"
+    "piece.name.E_SP_BV8": "华丽高脚杯"
   },
   {
-    "window.codex.branch.E_SP_BW": "branch.E_SP_BW"
+    "window.codex.branch.E_SP_BW": "盾"
   },
   {
-    "piece.name.E_SP_BW1": "E_SP_BW1"
+    "piece.name.E_SP_BW1": "普通盾牌"
   },
   {
-    "piece.name.E_SP_BW2": "E_SP_BW2"
+    "piece.name.E_SP_BW2": "粗糙盾牌"
   },
   {
-    "piece.name.E_SP_BW3": "E_SP_BW3"
+    "piece.name.E_SP_BW3": "质朴盾牌"
   },
   {
-    "piece.name.E_SP_BW4": "E_SP_BW4"
+    "piece.name.E_SP_BW4": "坚固盾牌"
   },
   {
-    "piece.name.E_SP_BW5": "E_SP_BW5"
+    "piece.name.E_SP_BW5": "花式盾牌"
   },
   {
-    "piece.name.E_SP_BW6": "E_SP_BW6"
+    "piece.name.E_SP_BW6": "高级盾牌"
   },
   {
-    "piece.name.E_SP_BW7": "E_SP_BW7"
+    "piece.name.E_SP_BW7": "强力盾牌"
   },
   {
-    "piece.name.E_SP_BW8": "E_SP_BW8"
+    "piece.name.E_SP_BW8": "无敌盾牌"
   },
   {
-    "window.codex.branch.E_SP_BX": "branch.E_SP_BX"
+    "window.codex.branch.E_SP_BX": "弩"
   },
   {
-    "piece.name.E_SP_BX1": "E_SP_BX1"
+    "piece.name.E_SP_BX1": "普通弩"
   },
   {
-    "piece.name.E_SP_BX2": "E_SP_BX2"
+    "piece.name.E_SP_BX2": "粗糙弩"
   },
   {
-    "piece.name.E_SP_BX3": "E_SP_BX3"
+    "piece.name.E_SP_BX3": "质朴弩"
   },
   {
-    "piece.name.E_SP_BX4": "E_SP_BX4"
+    "piece.name.E_SP_BX4": "坚固弩"
   },
   {
-    "piece.name.E_SP_BX5": "E_SP_BX5"
+    "piece.name.E_SP_BX5": "花式弩"
   },
   {
-    "piece.name.E_SP_BX6": "E_SP_BX6"
+    "piece.name.E_SP_BX6": "高级弩"
   },
   {
-    "piece.name.E_SP_BX7": "E_SP_BX7"
+    "piece.name.E_SP_BX7": "强力弩"
   },
   {
-    "piece.name.E_SP_BX8": "E_SP_BX8"
+    "piece.name.E_SP_BX8": "无敌弩"
   },
   {
     "window.codex.branch.H6_A": "旋转木马"
@@ -15549,10 +15681,10 @@
     "window.navigation.islandcard.UnicornIsland.title": "独角兽岛"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.title": "Blue Ox Island"
+    "window.navigation.islandcard.BlueOxIsland.title": "蓝牛岛"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.title": "Red Dragon Island"
+    "window.navigation.islandcard.RedDragonIsland.title": "红龙岛"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.title": "凤凰岛"
@@ -15648,10 +15780,10 @@
     "window.navigation.islandcard.UnicornIsland.description": "璀璨夺目的彩虹岛"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.BlueOxIsland.description": "舒适的牧场"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.RedDragonIsland.description": "充满宝藏的地牢"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.description": "一个超越太阳的炽热王国"
@@ -15714,10 +15846,10 @@
     "window.navigation.help.popup.ZooIslandLock.message": "继续玩{0}来达到第{1}关并解锁{2}！"
   },
   {
-    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim!"
+    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim before it expires!"
   },
   {
-    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim!"
+    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim before it expires!"
   },
   {
     "window.event.howToPlay": "怎么玩"
@@ -15771,10 +15903,10 @@
     "gameboard.bubble.button.landmark.skinning": "改一下"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.claimed": "Today: claimed"
+    "gameboard.bubble.message.CreaturePortal.claimed": "Claimed Today"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.expired": "Expire in: {0} days"
+    "gameboard.bubble.message.CreaturePortal.expired": "Expires in: {0} days"
   },
   {
     "tutorial.conversation.SD.skinning.1": "又见面啦！你知道我们可以按照自己的心意装饰神秘岛吗？让我来给你演示！"
@@ -16194,7 +16326,7 @@
     "window.codex.branch.HL_S": "冰资源"
   },
   {
-    "piece.name.HL1_S": "小号冰宝盆"
+    "piece.name.HL1_S": "小冰块宝盆"
   },
   {
     "piece.name.HL2_S": "小冰块"
@@ -16206,7 +16338,7 @@
     "piece.name.HL4_S": "冰块"
   },
   {
-    "piece.name.HL5_S": "大号冰宝盆"
+    "piece.name.HL5_S": "大冰块宝盆"
   },
   {
     "piece.name.HL6_S": "大冰块"
@@ -16233,16 +16365,16 @@
     "piece.name.T2": "小毒菌"
   },
   {
-    "piece.name.T3": "毒菌棚子"
+    "piece.name.T3": "毒菌棚"
   },
   {
-    "piece.name.T4": "大毒菌棚子"
+    "piece.name.T4": "大毒菌棚"
   },
   {
     "piece.name.T5": "毒菌屋"
   },
   {
-    "piece.name.T6": "高级毒菌棚子"
+    "piece.name.T6": "高级毒菌棚"
   },
   {
     "piece.name.T7": "毒菌小舍"
@@ -16633,6 +16765,81 @@
   },
   {
     "piece.name.YM": "盖尔城堡"
+  },
+  {
+    "window.codex.branch.HL_Z": "神石资源"
+  },
+  {
+    "piece.name.HL1_Z": "小石头宝盆"
+  },
+  {
+    "piece.name.HL2_Z": "石崖"
+  },
+  {
+    "piece.name.HL3_Z": "石头宝盆"
+  },
+  {
+    "piece.name.HL4_Z": "石块"
+  },
+  {
+    "piece.name.HL5_Z": "大石头宝盆"
+  },
+  {
+    "piece.name.HL6_Z": "石板"
+  },
+  {
+    "window.codex.branch.Z": "神石"
+  },
+  {
+    "piece.name.Z1": "巨石"
+  },
+  {
+    "piece.name.Z2": "石堆"
+  },
+  {
+    "piece.name.Z3": "石屋"
+  },
+  {
+    "piece.name.Z4": "大石屋"
+  },
+  {
+    "piece.name.Z5": "高级石屋"
+  },
+  {
+    "piece.name.Z6": "石头小舍"
+  },
+  {
+    "piece.name.Z7": "石宅"
+  },
+  {
+    "piece.name.Z8": "石宫"
+  },
+  {
+    "piece.name.Z9": "高级石宫"
+  },
+  {
+    "piece.name.Z10": "石头城堡"
+  },
+  {
+    "piece.name.Z11": "豪华石城堡"
+  },
+  {
+    "piece.name.Z12": "石头庄园"
+  },
+  {
+    "piece.name.ZM": "孙悟空城堡"
+  },
+  {
+    "window.codex.branch.CH_Z": "神石"
+  },
+  {
+    "piece.name.CH1_Z": "小宝箱"
+  },
+  {
+    "piece.name.CH2_Z": "大宝箱"
+  },
+  {
+    "piece.name.CH3_Z": "超级宝箱"
   },
   {
     "window.delivery.title": "送货服务"
@@ -17448,7 +17655,7 @@
     "conversation.rm.message2": "要我是你的话，不会那么大声喊出来。这是一座房子，不是什么午餐吧。 而且，你要是煮它的话，它会火很大的。"
   },
   {
-    "conversation.use.rm.message1": "我们本来要挂一个完整的\"欢迎回家\"横幅，但这房子不再让我们进去了！"
+    "conversation.use.rm.message1": "我们本来要挂一个\"欢迎回家\"的横幅，可现在进不去这屋子了！"
   },
   {
     "conversation.use.rm.message2": "是的，我一直在训练它，以应对不速之客。地精们，你们干得不错。为此，我会给你们每人一个礼物。"
@@ -18321,16 +18528,16 @@
     "conversation.w5.message3": "哈，这解释了为什么我一直在漂浮。"
   },
   {
-    "conversation.w6.message1": "上前来吧！我向你挑战决斗！"
+    "conversation.w6.message1": "来啊！我向你挑战决斗！"
   },
   {
     "conversation.w6.message2": "哦，我的老天！你干吗用剑指着我？！我只是过来送些欢迎小饼干！"
   },
   {
-    "conversation.w6.message3": "只是木头的剑……你不想来玩玩吗？击剑可是最好玩的！"
+    "conversation.w6.message3": "木头的剑而已……你不想来玩玩吗？击剑可是最好玩的！"
   },
   {
-    "conversation.w6.message4": "不想，太激烈了。和平与爱，奇妙仙子。顺便说一下，那些饼干是燕麦做的。"
+    "conversation.w6.message4": "不想，太激烈了。我的口号：和平与爱。对了，那些饼干是燕麦做的。"
   },
   {
     "conversation.w7.message1": "什么？！你竟然住在这里？我不想和邪恶女巫住在同一个街区。"
@@ -18339,7 +18546,7 @@
     "conversation.w7.message2": "你们这些人总是黑白分明的，是吧？心好累吧。"
   },
   {
-    "conversation.w7.message3": "俗话说，敌人的敌人就是我的朋友……至少在他们成为我的敌人之前是这样。"
+    "conversation.w7.message3": "俗话说，敌人的敌人就是朋友……至少在他们成为我的敌人之前是这样。"
   },
   {
     "conversation.w8.message1": "这个地方只有一间卧室……其他的男孩们要睡在哪里？"
@@ -18351,7 +18558,7 @@
     "conversation.w8.message3": "当然啦，还有那些迷路的孩子们！我是说，一旦他们找到我的话。"
   },
   {
-    "conversation.w8.message4": "嗯……好吧，鉴于他们仍然在\"迷路\"，也许呃，等他们被找到的时候，再告诉我们吧。"
+    "conversation.w8.message4": "嗯……这个，鉴于他们还在\"迷路\"，也许呃，等他们被找到的时候，再告诉我们吧。"
   },
   {
     "conversation.w9.message1": "啊！有人可以来帮帮忙吗？我被困在这里了！我好像掉进了某种网里。"
@@ -18378,13 +18585,124 @@
     "conversation.w10.message4": "呃。你说的是那种，带个什么叫不出名字的小装置的水下玩意，就，也还行吧！"
   },
   {
-    "conversation.wm.message1": "是的！这里将是冒险、游戏和建造的理想场所！哦，还有海盗大战。我似乎刚在地平线那里发现了一个......"
+    "conversation.wm.message1": "是的！这里将是冒险、游戏和建造的理想场所！哦，还有海盗大战。我刚才好像在那边看见一个......"
   },
   {
     "conversation.use.wm.message1": "你觉得你会想念梦幻岛吗，奇妙仙子？"
   },
   {
     "conversation.use.wm.message2": "我？我不觉得。梦幻岛总有办法，最终能找到你……"
+  },
+  {
+    "conversation.z3.message1": "你看过这个的蓝图吗，查克？ 这个建筑的要求不少啊。"
+  },
+  {
+    "conversation.z3.message2": "就是啊！黄金浴盆？每个房间都要丝绸窗帘？一座直入云霄的高塔？"
+  },
+  {
+    "conversation.z3.message3": "上一次这么昂贵的工程还是给迈达斯国王做的！"
+  },
+  {
+    "conversation.z3.message4": "我记得那次。那时候我的胡子里全是金子，还以为洗不掉了呢……"
+  },
+  {
+    "conversation.z4.message1": "盖得如何了啊？"
+  },
+  {
+    "conversation.z4.message2": "这个么，我们现在差不多有一个简单的洞穴和松散的泥土。不过别担心，一切尽在掌握！"
+  },
+  {
+    "conversation.z4.message3": "空中之国即将建成！"
+  },
+  {
+    "conversation.z5.message1": "你听说了吗？据说这位美猴王真的可以和神斗？太酷了。他大概能干掉一整支海盗船队。"
+  },
+  {
+    "conversation.z5.message2": "哼。这么说吧，他没打赢过我！"
+  },
+  {
+    "conversation.z5.message3": "他和你打过吗？"
+  },
+  {
+    "conversation.z5.message4": "这不是重点。"
+  },
+  {
+    "conversation.z6.message1": "对了，听说你以前濒死过？又睡了100年？那可真够受的。"
+  },
+  {
+    "conversation.z6.message2": "是啊，对吧？！你也碰上过这种事吗？"
+  },
+  {
+    "conversation.z6.message3": "不，俺老孙是长生不老的，且有盖世神功。"
+  },
+  {
+    "conversation.z7.message1": "你能管管这个女人吗？她一直徘徊在我家附近，想要我的一只爪子。"
+  },
+  {
+    "conversation.z7.message2": "呃……芭芭雅嘎？我们有什么可以帮助您的吗？"
+  },
+  {
+    "conversation.z7.message3": "猴子的爪子是最幸运的爪子——长生不老猴子的爪子，那就更幸运啦。再说了，他有两个。"
+  },
+  {
+    "conversation.z7.message4": "你有没有想过，用一个漂亮的三叶草作为替代品呢？"
+  },
+  {
+    "conversation.z8.message1": "哇！这些花真棒。很有格调啊。真想看看你们接下来要建造什么！"
+  },
+  {
+    "conversation.z8.message2": "你知道的，我一直最喜欢你了。"
+  },
+  {
+    "conversation.z9.message1": "有没有搞错？孙悟空的冰箱上面还有一个屏幕可以显示里面有什么？我们其他人呢，怎么没有？"
+  },
+  {
+    "conversation.z9.message2": "我们……我们只是按照蓝图来办事的！"
+  },
+  {
+    "conversation.z9.message3": "*悄悄地说*不要告诉她关于自动鞋架的事情。"
+  },
+  {
+    "conversation.z10.message1": "室内健身房可以放更多的武器进行训练。没有其他武器库存了吗？"
+  },
+  {
+    "conversation.z10.message2": "我们最近有很多健身房要安装，所以可能剩下的不多了。我们还能添加些什么吗，查克？"
+  },
+  {
+    "conversation.z10.message3": "我们有几个椰子头盔和我在海滩上找到的一块尖石头。那些有用吗？"
+  },
+  {
+    "conversation.z10.message4": "*叹气* 行吧。就这样吧。"
+  },
+  {
+    "conversation.z11.message1": "孙悟空先生，这座塔够高吗？蓝图提到了\"一座直入云霄的塔\"——从未听说过。"
+  },
+  {
+    "conversation.z11.message2": "我相信，只要有云能让我腾云驾雾就行。不过，塔其实可以更高些。"
+  },
+  {
+    "conversation.z11.message3": "哦，哇，我可没想到。当然！白云高速。"
+  },
+  {
+    "conversation.z12.message1": "再来几块石头，我们就会看到真正神奇的东西！"
+  },
+  {
+    "conversation.zm.message1": "优秀！这将是我重新称王的完美之地……"
+  },
+  {
+    "conversation.zm.message2": "没那么快！恐怕这更像是一块用于集体投票的地方。我可以问一下你的联系方式，以进行我们的月度调查吗？"
+  },
+  {
+    "conversation.use.zm.message1": "瞧瞧这座城堡。太美了，巴克！"
+  },
+  {
+    "conversation.use.zm.message2": "当然啦，查克。哦，不好。你听到什么碎了的声音吗？我想我们忘了把床给固定好。"
+  },
+  {
+    "conversation.use.mn_z.message1": "一座适合本猴王的城堡只能用最神奇的石头来造就！"
+  },
+  {
+    "conversation.use.mn_z.message2": "好在我们找到了这座可靠的神石矿。"
   },
   {
     "window.island1_2.title": "新手岛"
@@ -18900,6 +19218,12 @@
     "window.collection.locked.hint.premium.event.LM_37": "在2021年万圣节前夜活动中收集"
   },
   {
+    "window.collection.locked.hint.premium.event.LM_38": "2021年感恩节"
+  },
+  {
+    "window.collection.locked.hint.premium.event.LM_39": "2021年感恩节"
+  },
+  {
     "window.collection.description.LM_1": "踏入一个充满神奇生物的神秘之地……你只需打开大门！"
   },
   {
@@ -19009,6 +19333,12 @@
   },
   {
     "window.collection.description.LM_37": "祛斑药水？抗衰精华？来魔药大师这里，也许就能找到你想要的东西！不过你要小心点哦，他可一直在找试药的\"小白鼠\"呢！"
+  },
+  {
+    "window.collection.description.LM_38": "快来丰收小车里，为秋日盛宴刨出色彩斑斓的丰盛果实吧。记住别让火鸡知道哦！"
+  },
+  {
+    "window.collection.description.LM_39": "传说，是宙斯最初不小心折断了羊角，才赋予了这只丰饶角取之不尽的食物的神力。这真是一桩幸福的意外啊！"
   },
   {
     "window.collection.description.DC_1": "这种常绿灌木在整个冬天都保持美好的色彩，它能为你保护好隐私。"
@@ -19146,117 +19476,6 @@
     "window.collection.description.DC_45": "这款花灯的柔和光芒散发出令人放松和修复身心的气息。"
   },
   {
-    "window.decoration.description.LM_1": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_2": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_3": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_4": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_5": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_6": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_7": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_8": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_9": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_10": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_11": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_12": "2020 年万圣节前夜活动"
-  },
-  {
-    "window.decoration.description.LM_13": "2020 年万圣节前夜活动"
-  },
-  {
-    "window.decoration.description.LM_14": "2020年黑五促销"
-  },
-  {
-    "window.decoration.description.LM_15": "2020 北极活动"
-  },
-  {
-    "window.decoration.description.LM_16": "2020 北极活动"
-  },
-  {
-    "window.decoration.description.LM_17": "2020 北极促销"
-  },
-  {
-    "window.decoration.description.LM_18": "2021年丘比特花园活动"
-  },
-  {
-    "window.decoration.description.LM_19": "2021年丘比特花园活动"
-  },
-  {
-    "window.decoration.description.LM_20": "2021年丘比特花园促销"
-  },
-  {
-    "window.decoration.description.LM_21": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_22": "2021年合并1周年庆祝日活动"
-  },
-  {
-    "window.decoration.description.LM_23": "2021年合并1周年庆祝日活动"
-  },
-  {
-    "window.decoration.description.LM_24": "2021年合并1周年庆祝日促销"
-  },
-  {
-    "window.decoration.description.LM_25": "2021年仲夏活动"
-  },
-  {
-    "window.decoration.description.LM_26": "2021年仲夏活动"
-  },
-  {
-    "window.decoration.description.LM_27": "2021年仲夏活动"
-  },
-  {
-    "window.decoration.description.LM_28": "2021年夏日市集活动"
-  },
-  {
-    "window.decoration.description.LM_29": "2021年夏日市集活动"
-  },
-  {
-    "window.decoration.description.LM_30": "2021年夏日市集活动"
-  },
-  {
-    "window.decoration.description.LM_31": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_32": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_33": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_34": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_35": "神秘岛市场"
-  },
-  {
-    "window.decoration.description.LM_36": "2021年万圣节前夜活动"
-  },
-  {
-    "window.decoration.description.LM_37": "2021年万圣节前夜活动"
-  },
-  {
     "window.decoration.category.LM.common": "标准地标"
   },
   {
@@ -19377,7 +19596,7 @@
     "window.market.description.energy": "领取后可以获得 {0} ，也可以合并到第4级来获得更多能量。"
   },
   {
-    "window.market.description.InfinityEnergy": "使用这个，在 {0} 分钟内可使用无限能量值！"
+    "window.market.description.InfinityEnergy": "使用这个来获得<color=#7400B4>{0} 分钟</color>的无限能量值！"
   },
   {
     "piece.name.Boost_FR": "农田重生剂"
@@ -19458,31 +19677,34 @@
     "window.profile.stats.monuments.5star": "5星级城堡"
   },
   {
+    "window.profile.stats.SDlevel.locked": "神秘 \\n 岛"
+  },
+  {
     "window.profile.stats.SDlevel": "第{0} 关 \\n 神秘岛"
   },
   {
     "window.profile.stats.mainlevel": "第{0} 关\\n 主游戏"
   },
   {
-    "window.profile.stats.next.level": "To next level: {0}/{1}"
+    "window.profile.stats.next.level": "等级进度：{0}/{1}"
   },
   {
-    "window.profile.edit.avatar.inf": "Use your discoveries book to set any piece you 've unlocked as Avatar"
+    "window.profile.edit.avatar.inf": "使用你的藏品书，将已解锁的任何物品设置为你的个人资料照片！"
   },
   {
-    "window.profile.unlock.slot": "Unlock slot"
+    "window.profile.unlock.slot": "解锁统计槽"
   },
   {
-    "window.profile.purchase.slot": "Purchase one more slot?"
+    "window.profile.purchase.slot": "再买一个插槽？"
   },
   {
-    "window.profile.castles.main": "Main island castles"
+    "window.profile.castles.main": "主岛城堡"
   },
   {
-    "window.profile.castles.paradise": "Paradise cove castles"
+    "window.profile.castles.paradise": "天堂湾城堡"
   },
   {
-    "window.profile.castles.keep.playing": "Keep playing to unlock this castle"
+    "window.profile.castles.keep.playing": "继续玩以解锁这座城堡"
   },
   {
     "window.profile.stats.SDcreatures.legendary": "收集到传奇神兽"
@@ -19491,10 +19713,10 @@
     "window.profile.edit.name.button.random": "随机"
   },
   {
-    "window.profile.connection.low": "Loading..."
+    "window.profile.connection.low": "正在加载……"
   },
   {
-    "window.profile.connection.check": "Please, check your connection"
+    "window.profile.connection.check": "请检查你的网络连接！"
   },
   {
     "window.profile.button.confirm": "确认"
@@ -19617,7 +19839,7 @@
     "window.codex.branch.NPC_Y": "多萝西·盖尔"
   },
   {
-    "window.codex.branch.NPC_Z": "branch.NPC_Z"
+    "window.codex.branch.NPC_Z": "孙悟空"
   },
   {
     "window.codex.branch.NPC_AA": "睡美人"

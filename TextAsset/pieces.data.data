@@ -2960,7 +2960,8 @@
       "Amount": 0
     },
     "Analytics": {
-      "Class": "mine"
+      "Class": "mine",
+      "Type": "magicalstone"
     }
   },
   {
@@ -2983,7 +2984,8 @@
       "Amount": 0
     },
     "Analytics": {
-      "Class": "mine"
+      "Class": "mine",
+      "Type": "magicalstone"
     }
   },
   {
@@ -3006,7 +3008,8 @@
       "Amount": 0
     },
     "Analytics": {
-      "Class": "mine"
+      "Class": "mine",
+      "Type": "magicalstone"
     }
   },
   {
@@ -3029,7 +3032,8 @@
       "Amount": 0
     },
     "Analytics": {
-      "Class": "mine"
+      "Class": "mine",
+      "Type": "magicalstone"
     }
   },
   {
@@ -5679,7 +5683,8 @@
       "Amount": 55
     },
     "Analytics": {
-      "Class": "chest"
+      "Class": "chest",
+      "Type": "magicalstone"
     }
   },
   {
@@ -5701,7 +5706,8 @@
       "Amount": 150
     },
     "Analytics": {
-      "Class": "chest"
+      "Class": "chest",
+      "Type": "magicalstone"
     }
   },
   {
@@ -5723,7 +5729,8 @@
       "Amount": 90
     },
     "Analytics": {
-      "Class": "chest"
+      "Class": "chest",
+      "Type": "magicalstone"
     }
   },
   {
@@ -9883,6 +9890,10 @@
       "Currency": "Coins",
       "Amount": 1450
     },
+    "ClonePrice": {
+      "Currency": "Crystals",
+      "Amount": 250
+    },
     "Analytics": {
       "Class": "building",
       "Type": "stone"
@@ -9909,7 +9920,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -9937,7 +9948,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -10122,6 +10133,10 @@
       "Currency": "Coins",
       "Amount": 1600
     },
+    "ClonePrice": {
+      "Currency": "Crystals",
+      "Amount": 250
+    },
     "Analytics": {
       "Class": "building",
       "Type": "wagon"
@@ -10148,7 +10163,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -10176,7 +10191,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -10361,6 +10376,10 @@
       "Currency": "Coins",
       "Amount": 1600
     },
+    "ClonePrice": {
+      "Currency": "Crystals",
+      "Amount": 250
+    },
     "Analytics": {
       "Class": "building",
       "Type": "coral"
@@ -10387,7 +10406,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -10415,7 +10434,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -10600,6 +10619,10 @@
       "Currency": "Coins",
       "Amount": 1600
     },
+    "ClonePrice": {
+      "Currency": "Crystals",
+      "Amount": 250
+    },
     "Analytics": {
       "Class": "building",
       "Type": "moon"
@@ -10626,7 +10649,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -10654,7 +10677,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -10682,7 +10705,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -10867,6 +10890,10 @@
       "Currency": "Coins",
       "Amount": 1600
     },
+    "ClonePrice": {
+      "Currency": "Crystals",
+      "Amount": 250
+    },
     "Analytics": {
       "Class": "building",
       "Type": "magicwood"
@@ -10893,7 +10920,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -10921,7 +10948,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -10949,7 +10976,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -11160,7 +11187,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -11188,7 +11215,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -11216,7 +11243,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -11427,7 +11454,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -11455,7 +11482,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -11483,7 +11510,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -11694,7 +11721,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -11722,7 +11749,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -11750,7 +11777,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -11778,7 +11805,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -11989,7 +12016,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -12017,7 +12044,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -12045,7 +12072,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -12073,7 +12100,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -12284,7 +12311,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -12312,7 +12339,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -12340,7 +12367,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -12368,7 +12395,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -12579,7 +12606,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -12607,7 +12634,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -12635,7 +12662,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -12663,7 +12690,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -12898,7 +12925,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -12926,7 +12953,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -12954,7 +12981,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -12982,7 +13009,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -13241,7 +13268,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -13269,7 +13296,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -13480,7 +13507,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -13508,7 +13535,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -13719,7 +13746,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -13930,7 +13957,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -13958,7 +13985,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -14169,7 +14196,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -14197,7 +14224,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -14408,7 +14435,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -14436,7 +14463,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -14464,7 +14491,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -14675,7 +14702,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -14703,7 +14730,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -14731,7 +14758,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -14942,7 +14969,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -14970,7 +14997,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -14998,7 +15025,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -15209,7 +15236,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -15237,7 +15264,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -15265,7 +15292,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -15293,7 +15320,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -15504,7 +15531,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -15532,7 +15559,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -15560,7 +15587,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -15588,7 +15615,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -15799,7 +15826,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -15827,7 +15854,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -15855,7 +15882,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -15883,7 +15910,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -16094,7 +16121,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -16122,7 +16149,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
       "Class": "building",
@@ -16150,7 +16177,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
       "Class": "building",
@@ -16178,7 +16205,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
       "Class": "building",
@@ -16253,7 +16280,8 @@
       "Amount": 15
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16275,7 +16303,8 @@
       "Amount": 35
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16302,7 +16331,8 @@
       "Amount": 105
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16329,7 +16359,8 @@
       "Amount": 315
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16356,7 +16387,8 @@
       "Amount": 945
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16383,7 +16415,8 @@
       "Amount": 1600
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16407,10 +16440,11 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16434,10 +16468,11 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 500
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16461,10 +16496,11 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 850
+      "Amount": 750
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16488,10 +16524,11 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1200
     },
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16514,7 +16551,8 @@
       }
     ],
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16537,7 +16575,8 @@
       }
     ],
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16560,13 +16599,15 @@
       }
     ],
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
     "Uid": "ZMFake",
     "Analytics": {
-      "Class": "building"
+      "Class": "building",
+      "Type": "magicalstone"
     }
   },
   {
@@ -16742,7 +16783,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 350
     },
     "Analytics": {
       "Class": "building",
@@ -18418,7 +18459,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -18445,7 +18486,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -18554,7 +18595,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -18581,7 +18622,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -18608,7 +18649,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -18717,7 +18758,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -18744,7 +18785,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -18771,7 +18812,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -18798,7 +18839,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -18907,7 +18948,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -18934,7 +18975,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -18961,7 +19002,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -18988,7 +19029,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -19097,7 +19138,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -19124,7 +19165,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -19151,7 +19192,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -19178,7 +19219,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -19287,7 +19328,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -19314,7 +19355,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -19341,7 +19382,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -19368,7 +19409,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -19477,7 +19518,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -19504,7 +19545,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -19531,7 +19572,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -19558,7 +19599,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -19667,7 +19708,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -19694,7 +19735,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -19721,7 +19762,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -19748,7 +19789,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -19775,7 +19816,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -19884,7 +19925,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -19911,7 +19952,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -19938,7 +19979,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -19965,7 +20006,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -19992,7 +20033,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -20101,7 +20142,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -20128,7 +20169,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -20155,7 +20196,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -20182,7 +20223,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -20209,7 +20250,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -20318,7 +20359,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -20345,7 +20386,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -20372,7 +20413,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -20399,7 +20440,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -20426,7 +20467,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -20453,7 +20494,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1250
+      "Amount": 2500
     },
     "Analytics": {
       "Class": "character",
@@ -20480,7 +20521,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1450
+      "Amount": 3000
     },
     "Analytics": {
       "Class": "character",
@@ -20589,7 +20630,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -20616,7 +20657,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -20725,7 +20766,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -20752,7 +20793,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -20779,7 +20820,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -20888,7 +20929,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -20915,7 +20956,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -21024,7 +21065,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -21051,7 +21092,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -21078,7 +21119,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -21187,7 +21228,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -21214,7 +21255,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -21241,7 +21282,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -21350,7 +21391,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -21377,7 +21418,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -21404,7 +21445,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -21513,7 +21554,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -21540,7 +21581,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -21567,7 +21608,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -21594,7 +21635,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -21703,7 +21744,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -21730,7 +21771,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -21757,7 +21798,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -21784,7 +21825,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -21893,7 +21934,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -21920,7 +21961,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -21947,7 +21988,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -21974,7 +22015,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -22001,7 +22042,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -22110,7 +22151,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -22137,7 +22178,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -22164,7 +22205,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -22191,7 +22232,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -22218,7 +22259,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -22245,7 +22286,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1250
+      "Amount": 2500
     },
     "Analytics": {
       "Class": "character",
@@ -22272,7 +22313,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1450
+      "Amount": 3000
     },
     "Analytics": {
       "Class": "character",
@@ -22381,7 +22422,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -22408,7 +22449,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -22435,7 +22476,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -22462,7 +22503,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -22489,7 +22530,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -22516,7 +22557,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1250
+      "Amount": 2500
     },
     "Analytics": {
       "Class": "character",
@@ -22543,7 +22584,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1450
+      "Amount": 3000
     },
     "Analytics": {
       "Class": "character",
@@ -22652,7 +22693,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -22679,7 +22720,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -22706,7 +22747,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -22733,7 +22774,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -22760,7 +22801,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -22787,7 +22828,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1250
+      "Amount": 2500
     },
     "Analytics": {
       "Class": "character",
@@ -22814,7 +22855,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1450
+      "Amount": 3000
     },
     "Analytics": {
       "Class": "character",
@@ -22923,7 +22964,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 190
+      "Amount": 200
     },
     "Analytics": {
       "Class": "character",
@@ -22950,7 +22991,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 330
+      "Amount": 300
     },
     "Analytics": {
       "Class": "character",
@@ -22977,7 +23018,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 450
+      "Amount": 500
     },
     "Analytics": {
       "Class": "character",
@@ -23004,7 +23045,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 650
+      "Amount": 900
     },
     "Analytics": {
       "Class": "character",
@@ -23031,7 +23072,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 990
+      "Amount": 1500
     },
     "Analytics": {
       "Class": "character",
@@ -23058,7 +23099,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1250
+      "Amount": 2500
     },
     "Analytics": {
       "Class": "character",
@@ -23085,7 +23126,7 @@
     ],
     "ClonePrice": {
       "Currency": "Crystals",
-      "Amount": 1450
+      "Amount": 3000
     },
     "Analytics": {
       "Class": "character",
@@ -45599,7 +45640,8 @@
       }
     ],
     "Analytics": {
-      "Class": "holder"
+      "Class": "holder",
+      "Type": "magicalstone"
     }
   },
   {
@@ -45621,7 +45663,8 @@
       }
     ],
     "Analytics": {
-      "Class": "holder"
+      "Class": "holder",
+      "Type": "magicalstone"
     }
   },
   {
@@ -45633,7 +45676,8 @@
       }
     ],
     "Analytics": {
-      "Class": "holder"
+      "Class": "holder",
+      "Type": "magicalstone"
     }
   },
   {
@@ -45655,7 +45699,8 @@
       }
     ],
     "Analytics": {
-      "Class": "holder"
+      "Class": "holder",
+      "Type": "magicalstone"
     }
   },
   {
@@ -45667,7 +45712,8 @@
       }
     ],
     "Analytics": {
-      "Class": "holder"
+      "Class": "holder",
+      "Type": "magicalstone"
     }
   },
   {
@@ -45689,7 +45735,8 @@
       }
     ],
     "Analytics": {
-      "Class": "holder"
+      "Class": "holder",
+      "Type": "magicalstone"
     }
   },
   {
@@ -54670,6 +54717,97 @@
   },
   {
     "Uid": "LM_37",
+    "UnlockBonus": [
+      {
+        "Currency": "Coins",
+        "Amount": 0
+      }
+    ],
+    "Analytics": {
+      "Class": "zoo",
+      "Type": "landmark"
+    }
+  },
+  {
+    "Uid": "LM_38",
+    "UnlockBonus": [
+      {
+        "Currency": "Coins",
+        "Amount": 0
+      }
+    ],
+    "Analytics": {
+      "Class": "zoo",
+      "Type": "landmark"
+    }
+  },
+  {
+    "Uid": "LM_39",
+    "UnlockBonus": [
+      {
+        "Currency": "Coins",
+        "Amount": 0
+      }
+    ],
+    "Analytics": {
+      "Class": "zoo",
+      "Type": "landmark"
+    }
+  },
+  {
+    "Uid": "LM_40",
+    "UnlockBonus": [
+      {
+        "Currency": "Coins",
+        "Amount": 0
+      }
+    ],
+    "Analytics": {
+      "Class": "zoo",
+      "Type": "landmark"
+    }
+  },
+  {
+    "Uid": "LM_41",
+    "UnlockBonus": [
+      {
+        "Currency": "Coins",
+        "Amount": 0
+      }
+    ],
+    "Analytics": {
+      "Class": "zoo",
+      "Type": "landmark"
+    }
+  },
+  {
+    "Uid": "LM_42",
+    "UnlockBonus": [
+      {
+        "Currency": "Coins",
+        "Amount": 0
+      }
+    ],
+    "Analytics": {
+      "Class": "zoo",
+      "Type": "landmark"
+    }
+  },
+  {
+    "Uid": "LM_43",
+    "UnlockBonus": [
+      {
+        "Currency": "Coins",
+        "Amount": 0
+      }
+    ],
+    "Analytics": {
+      "Class": "zoo",
+      "Type": "landmark"
+    }
+  },
+  {
+    "Uid": "LM_44",
     "UnlockBonus": [
       {
         "Currency": "Coins",

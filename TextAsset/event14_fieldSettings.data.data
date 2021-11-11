@@ -6,18 +6,18 @@
   "RenderQueue": 2003,
 
   "WaterBorderLeft": 15,
-  "WaterBorderRight": 10,
+  "WaterBorderRight": 15,
   "WaterBorderTop": 5,
-  "WaterBorderBottom": 17,
+  "WaterBorderBottom": 15,
 
   "WaterCropCornerTopLeft": 45,
-  "WaterCropCornerTopRight": 50,
+  "WaterCropCornerTopRight": 30,
   "WaterCropCornerBottomLeft": 36,
-  "WaterCropCornerBottomRight": 26,
+  "WaterCropCornerBottomRight": 5,
 
-  "CameraClampX": 17,
+  "CameraClampX": 20,
   "CameraClampY": -24,
-  "CameraClampWidth": 54,
+  "CameraClampWidth": 62,
   "CameraClampHeight": 36,
 
   

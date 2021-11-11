@@ -297,9 +297,6 @@
     "window.codex.branch.E4_A": "Лох-несское чудовище"
   },
   {
-    "window.codex.branch.E5_A": "Blue Ox E5_A"
-  },
-  {
     "window.codex.branch.H1_A": "Монстр Хэллоуина"
   },
   {
@@ -543,10 +540,10 @@
     "window.codex.branch.E4_CH_B": "Возвышенность"
   },
   {
-    "window.codex.branch.E5_CH_A": "E5_CH_A"
+    "window.codex.branch.E5_CH_A": "Сено"
   },
   {
-    "window.codex.branch.E5_CH_B": "E5_CH_B"
+    "window.codex.branch.E5_CH_B": "Древесина"
   },
   {
     "window.codex.branch.H1_CH_A": "Тыква"
@@ -573,10 +570,10 @@
     "window.codex.branch.E12_CH_B": "Воскрешение"
   },
   {
-    "window.codex.branch.E13_CH_A": "E13_CH_A"
+    "window.codex.branch.E13_CH_A": "Чешуйка"
   },
   {
-    "window.codex.branch.E13_CH_B": "E13_CH_B"
+    "window.codex.branch.E13_CH_B": "Подземелье"
   },
   {
     "window.codex.branch.SN_CH_A": "Весенний цвет"
@@ -795,10 +792,10 @@
     "window.market.description.UnicornIsland.event": "Радужная сфера! С ее помощью можно создавать единорогов."
   },
   {
-    "window.market.description.BlueoxIsland.event": "Use this to create Blue Oxen."
+    "window.market.description.BlueOxIsland.event": "Иcпользуй для создания Синего быка."
   },
   {
-    "window.market.description.ReddragonIsland.event": "Use this to create Red Dragons."
+    "window.market.description.RedDragonIsland.event": "Иcпользуй, для создания Красного дракона."
   },
   {
     "window.market.description.FluffyIsland.event": "Из этого элемента можно сделать пушистика."
@@ -936,7 +933,7 @@
     "window.market.hint.Y": "Элементы фермы, {0}"
   },
   {
-    "window.market.hint.Z": "Z Pieces, {0}"
+    "window.market.hint.Z": "Элементы волшебного камня, {0}"
   },
   {
     "window.market.hint.AA": "Элементы заставы гномов, {0}"
@@ -1095,6 +1092,9 @@
     "window.storageCheck.title": "Нет свободного места"
   },
   {
+    "window.storageCheck.cant.save": "На вашем устройстве недостаточно памяти для сохранения этого аватара. Пожалуйста, освободите место."
+  },
+  {
     "window.storageCheck.message": "На вашем устройстве меньше {0} МБ свободного места. Это может привести к потере прогресса."
   },
   {
@@ -1146,7 +1146,7 @@
     "message.error.noMagicWands": "Поблизости нет волшебных палочек."
   },
   {
-    "message.error.MakeOrders": "Make orders to get more Wands."
+    "message.error.makeOrders": "Выполняйте заказы, чтобы получить больше палочек."
   },
   {
     "message.error.clickOnBubble": "Сначала завершите предыдущее действие."
@@ -1209,7 +1209,7 @@
     "common.button.claimReward": "Получить награду {0}"
   },
   {
-    "common.button.produce": "Приготовить"
+    "common.button.produce": "Готовить"
   },
   {
     "common.button.unlock": "Открыть"
@@ -1221,10 +1221,10 @@
     "common.button.free": "Даром"
   },
   {
-    "common.button.adjust": "Adjust"
+    "common.button.adjust": "Изменить"
   },
   {
-    "common.button.buy.simple": "Buy"
+    "common.button.buy.simple": "Купить"
   },
   {
     "common.button.buy": "Купить {0}"
@@ -1272,7 +1272,7 @@
     "common.button.undo": "Отменить"
   },
   {
-    "common.button.merge": "Merge"
+    "common.button.merge": "Соединить"
   },
   {
     "common.title.error": "Ошибка"
@@ -1459,6 +1459,9 @@
   },
   {
     "piece.description.NPC_Y": "Ступай по дороге из желтого кирпича, говорили они. Будет весело, говорили они. После возвращения из Страны Оз Дороти знает, что грозовое небо не предвещает ничего хорошего. Теперь она эксперт по погоде!"
+  },
+  {
+    "piece.description.NPC_Z": "Легенда гласит, что этот герой китайского фольклора вышел из волшебного камня, сотворенного хаосом. Стоит помнить об этом, ведь никогда не угадаешь, что Царь обезьян выкинет в следующий раз. Мощь и импульсивность — опасное сочетание."
   },
   {
     "piece.name.A1": "Полено"
@@ -3372,6 +3375,12 @@
     "piece.name.NPC_Y2": "Сандалии"
   },
   {
+    "piece.name.NPC_Z1": "Маленький посох"
+  },
+  {
+    "piece.name.NPC_Z2": "Волшебный посох"
+  },
+  {
     "piece.name.PR_A1": "Росток пшеницы"
   },
   {
@@ -4320,6 +4329,9 @@
     "piece.name.NPC_Y": "Дороти Гейл"
   },
   {
+    "piece.name.NPC_Z": "Царь обезьян"
+  },
+  {
     "piece.name.HL1_A": "Горшочек"
   },
   {
@@ -4977,13 +4989,16 @@
     "conversation.character.Dorothy": "Дороти Гейл"
   },
   {
+    "conversation.character.MonkeyKing": "Царь обезьян"
+  },
+  {
     "quest.supermatch.title": "Сделайте суперсовмещение"
   },
   {
     "quest.supermatch.message": "Совместите сразу {0} предметов"
   },
   {
-    "quest.supermatch.hint": "Соедините 5 предметов и получите БОНУС!"
+    "quest.supermatch.hint": "Соединяя 5 получаете БОНУС!"
   },
   {
     "quest.match.title": "Совмещайте предметы"
@@ -5085,10 +5100,10 @@
     "quest.daily.message": "Выполните все задачи"
   },
   {
-    "quest.merge.mana.message": "Merge the Wands"
+    "quest.merge.mana.message": "Улучшайте Волшебные палочки"
   },
   {
-    "quest.merge.five.mana.message": "Merge 5 Wands at once"
+    "quest.merge.five.mana.message": "Соедините 5 палочек сразу"
   },
   {
     "quest.market.title": "Купите что-нибудь на Рынке"
@@ -5133,7 +5148,7 @@
     "task.use.worker.hint": "Рабочие используют <sprite name=icon_Energy>для выполнения заданий. Некоторые задания также занимают время."
   },
   {
-    "task.use.mine.mn_a.hint": "Шахта будет снабжать вас <sprite name=A1> или <sprite name=A2>, пока ее запасы не будут истощены."
+    "task.use.mine.mn_a.hint": "Шахта будет снабжать вас <sprite name=A1> или <sprite name=A2>, пока ее запасы не истощатся."
   },
   {
     "task.use.mine.mn_b.hint": "Шахта будет снабжать вас <sprite name=B1> или <sprite name=B2>, пока ее запасы не будут истощены."
@@ -5203,6 +5218,9 @@
   },
   {
     "task.use.mine.mn_x.hint": "Шахта будет снабжать вас <sprite name=X1> или <sprite name=X2>, пока ее запасы не будут истощены."
+  },
+  {
+    "task.use.mine.mn_z.hint": "Шахта будет приносить <sprite name=Z1> или <sprite name=Z2>, пока не истощится."
   },
   {
     "task.use.mine.mn_aa.hint": "Шахта будет снабжать вас <sprite name=AA1> или <sprite name=AA2>, пока ее запасы не будут истощены."
@@ -5314,6 +5332,9 @@
   },
   {
     "task.use.monument_y.hint": "Используйте <sprite name=YM>, чтобы получить другие полезные ресурсы."
+  },
+  {
+    "task.use.monument_z.hint": "Используйте <sprite name=ZM>, чтобы получить другие полезные ресурсы."
   },
   {
     "task.use.monument_aa.hint": "Используйте <sprite name=AAM>, чтобы получить другие полезные ресурсы."
@@ -5490,10 +5511,10 @@
     "notifications.restore.CreaturePortal.complete.message": "Last chance to use your Portal today! "
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.title": "Come and Claim!"
+    "notifications.restore.CreaturePortalReward.complete.title": "Claim Your Creature!"
   },
   {
-    "notifications.restore.CreaturePortalReward.complete.message": "The legendary creature is ready to hatch from the Portal! "
+    "notifications.restore.CreaturePortalReward.complete.message": "A legendary creature is ready to hatch from your Portal! "
   },
   {
     "notifications.restore.monument.complete.title": "Волшебный ритуал завершен!"
@@ -5574,16 +5595,16 @@
     "notifications.event.build.unicorn.complete.message": "Смотрите! Еще один единорог!"
   },
   {
-    "notifications.event.build.blueox.complete.title": "Hey, meet a Blue Ox!"
+    "notifications.event.build.blueox.complete.title": "Синий бык!"
   },
   {
-    "notifications.event.build.blueox.complete.message": "Another Blue Ox is here! Check it out!"
+    "notifications.event.build.blueox.complete.message": "А вот и Синий бык! Знакомьтесь!"
   },
   {
-    "notifications.event.build.reddragon.complete.title": "Hey, meet a Red Dragon!"
+    "notifications.event.build.reddragon.complete.title": "Красный дракон!"
   },
   {
-    "notifications.event.build.reddragon.complete.message": "Another Red Dragon is here! Check it out!"
+    "notifications.event.build.reddragon.complete.message": "А вот и Красный дракон! Знакомьтесь!"
   },
   {
     "notifications.event.build.fluffy.complete.title": "Привет, встрейчайте нового пушистика!"
@@ -5922,10 +5943,10 @@
     "window.event.UnicornIsland.title": "Волшебные единороги"
   },
   {
-    "window.event.BlueoxIsland.title": "Blue Ox Island"
+    "window.event.BlueOxIsland.title": "Остров Синего быка"
   },
   {
-    "window.event.ReddgaronIsland.title": "Red Dragon Island"
+    "window.event.RedDragonIsland.title": "Остров Красного дракона"
   },
   {
     "window.event.FluffyIsland.title": "Остров пушистиков"
@@ -5937,7 +5958,7 @@
     "window.event.NessyIsland.title": "Остров Несси"
   },
   {
-    "window.event.KrakenIsland.title": "Остров кракена"
+    "window.event.KrakenIsland.title": "Остров Кракена"
   },
   {
     "window.event.ThunderbirdIsland.title": "Остров гром-птицы"
@@ -5997,10 +6018,10 @@
     "window.event.UnicornIsland.message": "Создавайте единорогов, чтобы заработать <sprite name=icon_EventToken> и выиграть волшебные призы!"
   },
   {
-    "window.event.BlueoxIsland.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.message": "Создавайте Синих быков, чтобы получить <sprite name=icon_EventToken> и выиграть волшебные призы!"
   },
   {
-    "window.event.ReddragonIsland.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.message": "Создавайте Красных драконов, чтобы получить <sprite name=icon_EventToken> и выиграть волшебные призы!"
   },
   {
     "window.event.FluffyIsland.message": "Создавайте пушистиков, чтобы заработать <sprite name=icon_EventToken> и получать призы!"
@@ -6048,10 +6069,10 @@
     "window.event.UnicornIsland.preview.message": "Приближается событие \"Волшебные единороги\"! Не пропустите великолепные награды!"
   },
   {
-    "window.event.BlueoxIsland.preview.message": "The Blue Ox event is coming! Let us give you prizes! Seriously!"
+    "window.event.BlueOxIsland.preview.message": "Отпразднуйте осень вместе с лучшим другом Пола и щепоткой осеннего волшебства! Событие на Острове Синего быка уже скоро! Не упустите шанс выиграть особый приз — осеннее украшение!"
   },
   {
-    "window.event.ReddragonIsland.preview.message": "The Red Dragon event is coming! Let us give you prizes! Seriously!"
+    "window.event.RedDragonIsland.preview.message": "Осмелитесь ли вы искать сокровища, которые оберегаются свирепым стражем подземелий? Испытайте свои силы на Острове Красного дракона! Событие уже скоро!"
   },
   {
     "window.event.FluffyIsland.preview.message": "Что будет, если скрестить мантикору с... мохнатым созданием?\\n\\nОткройте Остров пушистиков - результат последнего эксперимента Мерлина! Уже скоро!"
@@ -6075,7 +6096,7 @@
     "window.event.HalloweenIsland.preview.message": "Пришло то самое время года! Отпразднуйте Хэллоуин на Острове и выиграйте страшно забавные декорации для своего острова! Следите за новостями!"
   },
   {
-    "window.event.Thanksgiving.preview.message": "Blue Ox + Thanksgiving announce text."
+    "window.event.Thanksgiving.preview.message": "Отпразднуйте осень вместе с лучшим другом Пола и щепоткой осеннего волшебства! Событие на Острове синего быка уже скоро! Не упустите шанс выиграть особый приз — осеннее украшение!"
   },
   {
     "window.event.MagicWorkshop.preview.message": "Хочется мастерить? Волшебная мастерская уже в пути!\\n\\nНе упустите шанс создать ценные предметы при помощи <sprite name=icon_Mana>! Уже скоро в Стране чудес!"
@@ -6111,10 +6132,10 @@
     "window.event.UnicornIsland.hint.message": "Создавайте Единорогов, чтобы заработать <sprite name=icon_EventToken> и выиграть волшебные призы!"
   },
   {
-    "window.event.BlueoxIsland.hint.message": "Create Blue Oxen to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.BlueOxIsland.hint.message": "Создавайте синих быков, зарабатывайте <sprite name=icon_EventToken> и получайте волшебные призы!"
   },
   {
-    "window.event.ReddragonIsland.hint.message": "Create Red Dragons to earn <sprite name=icon_EventToken> and win some magical prizes!"
+    "window.event.RedDragonIsland.hint.message": "Создавайте красных драконов, зарабатываете <sprite name=icon_EventToken> и получайте волшебные призы!"
   },
   {
     "window.event.FluffyIsland.hint.message": "Создавайте пушистиков, чтобы заработать <sprite name=icon_EventToken> и выиграть волшебные призы!"
@@ -8688,7 +8709,7 @@
     "conversation.259.message3": "Ага. Тогда я это поручу Чаки. Он у нас специалист в том, как объять необъятное и постичь непостижимое."
   },
   {
-    "conversation.260.message1": "О! Прекрасно! Поставьте где-нибудь там рядом с тыквенном грядкой."
+    "conversation.260.message1": "О! Прекрасно! Поставьте где-нибудь там рядом с тыквенной грядкой."
   },
   {
     "conversation.260.message2": "Конечно, принцесса, как прикажешь... А что это такое? Печь для пиццы?"
@@ -9645,7 +9666,7 @@
     "conversation.npc_y8.message2": "Сразу видно, что ты никогда не ходила на шпильках по мостовой. Вот это — настоящее приключение..."
   },
   {
-    "conversation.npc_y9.message1": "Баба Яга, ты разучиваешь новый танец?! Он называется \"Потряси туфлей\"? Я правильно его повторяю?"
+    "conversation.npc_y9.message1": "Баба Яга, ты разучиваешь новый танец?! Он называется \"Потряси туфлей\"? Я правильно понимаю?"
   },
   {
     "conversation.npc_y9.message2": "Нет, дитя, я просто стряхиваю пыль... Видишь желтый порошок на подошве?"
@@ -9685,6 +9706,99 @@
   },
   {
     "conversation.use.mn_y.message1": "Лучше фермерской шахты места нет, особенно если нужно раздобыть ресурсы! Правда, Тотошка? (гав-гав)"
+  },
+  {
+    "conversation.npc_z3.message1": "Волшебный посох! Готова поспорить, кто-то его потерял."
+  },
+  {
+    "conversation.npc_z4.message1": "Ух ты! Какой здоровенный меч. С таким оружием пираты нам не страшны!"
+  },
+  {
+    "conversation.npc_z4.message2": "Это не меч, Динь. Это же боевой посох. Ах! Неужели... враги?!"
+  },
+  {
+    "conversation.npc_z5.message1": "Раз палка, два палка, три палка, нужно больше палок!"
+  },
+  {
+    "conversation.npc_z5.message2": "Баки? Чем ты там занимаешься?"
+  },
+  {
+    "conversation.npc_z5.message3": "Собираю дрова для костра, шеф. Здесь полно палок!"
+  },
+  {
+    "conversation.npc_z5.message4": "Наверное, не стоит их сжигать... Они могут кому-то принадлежать."
+  },
+  {
+    "conversation.npc_z6.message1": "Я была уверена, что эта штуковина — дождевая флейта, но дождя не слыхать. Наверное, она сломана."
+  },
+  {
+    "conversation.npc_z6.message2": "Дорогуша, ты ударилась головой по пути из Страны Чудес? Это же посох, а не дождевая флейта."
+  },
+  {
+    "conversation.npc_z6.message3": "Ах, неужели? И как это я не догадалась!"
+  },
+  {
+    "conversation.npc_z7.message1": "Ой! Какой здесь беспорядок!"
+  },
+  {
+    "conversation.npc_z7.message2": "(выскакивает из куста) А если этот посох принадлежит воину? На нас готовится нападение!"
+  },
+  {
+    "conversation.npc_z7.message3": "Ай! Откуда ты взялась? На нас напали?! Только не это! Нужно срочно замаскировать нору!"
+  },
+  {
+    "conversation.npc_z8.message1": "Мулан снова сеет панику на острове. Она решила, что посохи принадлежат воинам."
+  },
+  {
+    "conversation.npc_z8.message2": "Снежная королева считает, что я перегибаю палку. Что ж, ей будет не до смеха, когда ее замок развалится на кубики!"
+  },
+  {
+    "conversation.npc_z8.message3": "Тихо, тихо. Не будем спешить с выводами. Сперва выслушаем этого воина! Нужно найти побольше таких посохов."
+  },
+  {
+    "conversation.npc_z9.message1": "Кокосовые шлемы? На месте. Доспехи из банановых листьев? На месте. Итак, Баки, у нас есть все необходимое для битвы!"
+  },
+  {
+    "conversation.npc_z9.message2": "Для битвы? Какой битвы? Я тоже хочу на битву!"
+  },
+  {
+    "conversation.npc_z9.message3": "Мулан говорит, что на нас напали. Вот, держи шлем. Кстати, он из кокоса, если вдруг ты проголодалась!"
+  },
+  {
+    "conversation.npc_z10.message1": "Когда битва зовет, Мауи не останется в стороне! А ты готов к бою с владельцем волшебного посоха?"
+  },
+  {
+    "conversation.npc_z10.message2": "Чепуха какая-то! Любовь — единственный зов, на который я отвечу."
+  },
+  {
+    "conversation.npc_z10.message3": "Хм... Ну как знаешь. Нам больше славы достанется."
+  },
+  {
+    "conversation.npc_z11.message1": "А куда все так нарядились? Мы что, в театре? А это кокосовый шлем?"
+  },
+  {
+    "conversation.npc_z11.message2": "Вперед, на битву! За вечной славой! За EVERMERGE!"
+  },
+  {
+    "conversation.npc_z11.message3": "Вы снова о посохах? Ох... Народ, у нас всего лишь новый гость! Не будет никакой битвы."
+  },
+  {
+    "conversation.npc_z11.message4": "Я же говорила, что они перегибают палку."
+  },
+  {
+    "conversation.npc_z.message1": "(вздыхает) Кажется, я знаю, чей этот посох! Принцесса права — он скорее друг, а не враг..."
+  },
+  {
+    "conversation.npc_z.order.message1": "Ах! На нас напали!!"
+  },
+  {
+    "conversation.npc_z.order.message2": "(шепотом) Дороти, дорогая, это всего лишь Царь обезьян. Ой... Мы так рады вас видеть!"
+  },
+  {
+    "conversation.npc_z.order.message3": "Почему все болтают о нападении? Что за хаос вокруг?"
+  },
+  {
+    "conversation.npc_z.order.message4": "Простите, я перепутала вас с другими врагами..."
   },
   {
     "conversation.365.message1": "Смотри, какая шапка! Как тебе? Нравится?"
@@ -10515,19 +10629,19 @@
     "message.compensation.LongChainsMigration": "Строить чудо-замки стало проще! Некоторые элементы выглядят по-другому, но ваш прогресс сохранен."
   },
   {
-    "message.help.mana.title": "How to get mana"
+    "message.help.mana.title": "Как пополнить магию"
   },
   {
-    "message.help.mana.1": "Соберите ингредиенты"
+    "message.help.mana.1": "Собирайте ингредиенты"
   },
   {
-    "message.help.mana.2": "Make Orders"
+    "message.help.mana.2": "Выполняйте заказы"
   },
   {
-    "message.help.mana.3": "Merge Wands "
+    "message.help.mana.3": "Улучшайте Волшебные палочки"
   },
   {
-    "message.help.mana.4": "Get Mana"
+    "message.help.mana.4": "Используйте магию для расчистки тумана!"
   },
   {
     "window.LockMine.title": "Как разблокировать"
@@ -10653,16 +10767,16 @@
     "window.specialoffer.unicorn1.main": "Поможет извлечь максимум пользы из события \"Волшебные единороги\"!"
   },
   {
-    "window.specialoffer.blueox1.title": "Blue Ox Boost!"
+    "window.specialoffer.blueox1.title": "Усиление Cинего быка!"
   },
   {
-    "window.specialoffer.blueox1.main": "Buy this offer now and boost your progress in the Blue Ox event!"
+    "window.specialoffer.blueox1.main": "Поможет извлечь максимальную пользу из события с Синим быком!"
   },
   {
-    "window.specialoffer.reddragon1.title": "Red Dragon Boost!"
+    "window.specialoffer.reddragon1.title": "Усиление Красного дракона!"
   },
   {
-    "window.specialoffer.reddragon1.main": "Buy this offer now and boost your progress in the Red Dragon event!"
+    "window.specialoffer.reddragon1.main": "Поможет извлечь максимальную пользу из события с Красным драконом!"
   },
   {
     "window.specialoffer.fluffy1.title": "Усиление Пушистик"
@@ -10815,10 +10929,10 @@
     "window.specialoffer.reject.main": "Вы уверены? Это уникальный шанс - второго такого не будет!"
   },
   {
-    "window.specialoffer.CreaturePortal.title": "Premium Creature Portal "
+    "window.specialoffer.CreaturePortal.title": "Premium Portal "
   },
   {
-    "window.specialoffer.CreaturePortal.main": "Get a Premium Portal which will bring you {0} every day for {1} days!"
+    "window.specialoffer.CreaturePortal.main": "A premium creature portal will bring you {0} every day for {1} days!"
   },
   {
     "title.ext.item": "Элемент сада"
@@ -10998,7 +11112,7 @@
     "window.specialoffer.CompleteCreature3M5.main": "Все, что нужно, чтобы повысить уровень легендарной зверушки!"
   },
   {
-    "piece.name.SO_Rainbow_Portal": "Rainbow Creature Portal"
+    "piece.name.SO_Rainbow_Portal": "Rainbow Portal"
   },
   {
     "piece.name.SO_Premium_Portal": "{0} Premium Portal"
@@ -11286,7 +11400,7 @@
     "piece.name.CR_Q6": "Зефир"
   },
   {
-    "piece.name.CR_R1": "Яйцо красного дракона"
+    "piece.name.CR_R1": "Яйцо Красного дракона"
   },
   {
     "piece.name.CR_R2": "Малыш"
@@ -12198,6 +12312,12 @@
     "piece.name.LM_37": "Мастер зельеварения"
   },
   {
+    "piece.name.LM_38": "Тележка с урожаем"
+  },
+  {
+    "piece.name.LM_39": "Щедрый рог изобилия"
+  },
+  {
     "piece.desc.LM_11": "Хэллоуин на острове 2020"
   },
   {
@@ -12279,58 +12399,55 @@
     "window.market.hint.SO_Premium_Portal": "Premium Portal will give you {0} every day for {1} days!"
   },
   {
-    "window.market.hint.BOX_A1.common": "Вы гарантированно получите {0} зверушек одного типа"
+    "window.market.hint.BOX_A1.common": "Гарантированное получение {0} обычн. звер."
   },
   {
-    "window.market.hint.BOX_A1.rare": "Вы гарантированно получите {0} зверушек одного типа"
+    "window.market.hint.BOX_A1.rare": "Гарантированное получение {0} редк. звер."
   },
   {
-    "window.market.hint.BOX_A2.common": "Вы гарантированно получите {0} зверушек одного типа"
+    "window.market.hint.BOX_A2.common": "Гарантированное получение {0} обычн. звер."
   },
   {
-    "window.market.hint.BOX_A2.rare": "Вы гарантированно получите {0} зверушек одного типа"
+    "window.market.hint.BOX_A2.rare": "Гарантированное получение {0} редк. звер."
   },
   {
-    "window.market.hint.BOX_A2.legendary": "Вы гарантированно получите {0} зверушек одного типа"
+    "window.market.hint.BOX_A2.legendary": "Гарантированное получение {0} легенд. звер."
   },
   {
-    "window.market.hint.BOX_A3.common": "Вы гарантированно получите {0} зверушек одного типа"
+    "window.market.hint.BOX_A3.common": "Гарантированное получение {0} обычн. звер."
   },
   {
-    "window.market.hint.BOX_A3.rare": "Вы гарантированно получите {0} зверушек одного типа"
+    "window.market.hint.BOX_A3.rare": "Гарантированное получение {0} редк. звер."
   },
   {
-    "window.market.hint.BOX_A3.legendary": "Вы гарантированно получите {0} зверушек одного типа"
+    "window.market.hint.BOX_A3.legendary": "Гарантированное получение {0} легенд. звер."
   },
   {
-    "window.market.hint.BOX_B1.common": "Вы гарантированно получите зверушек этого типа"
+    "window.market.hint.BOX_B1.common": "Гарантированное получение обычных зверушек."
   },
   {
-    "window.market.hint.BOX_B2.common": "Вы гарантированно получите зверушек этого типа"
+    "window.market.hint.BOX_B2.common": "Гарантированное получение обычных зверушек."
   },
   {
-    "window.market.hint.BOX_B2.rare": "Вы гарантированно получите зверушек этого типа"
+    "window.market.hint.BOX_B2.rare": "Гарантированное получение редких зверушек."
   },
   {
-    "window.market.hint.BOX_B3.common": "Вы гарантированно получите зверушек этого типа"
+    "window.market.hint.BOX_B3.common": "Гарантированное получение обычных зверушек."
   },
   {
-    "window.market.hint.BOX_B3.rare": "Вы гарантированно получите зверушек этого типа"
+    "window.market.hint.BOX_B3.rare": "Гарантированное получение редких зверушек."
   },
   {
-    "window.market.hint.BOX_B3.legendary": "Вы гарантированно получите зверушек этого типа"
+    "window.market.hint.BOX_B3.legendary": "Гарантированное получение легендарных зверушек."
   },
   {
-    "window.market.hint.BOX_Feed.common": "Вы гарантированно получите зверушек этого типа"
+    "window.market.hint.BOX_Feed.common": "Гарантированное получение обычных зверушек."
   },
   {
-    "window.market.hint.BOX_Feed.rare": "Вы гарантированно получите зверушек этого типа"
+    "window.market.hint.BOX_Feed.rare": "Гарантированное получение редких зверушек."
   },
   {
     "window.market.hint.BOX_Feed.legendary": "Гарантированное получение зверушки {0}"
-  },
-  {
-    "window.market.hint.BOX.all": "Гарантированное выпадение существ в пределах этого диапазона с шансами получить указанный тип."
   },
   {
     "window.container.title": "Открыть контейнер"
@@ -12433,6 +12550,12 @@
   },
   {
     "tutorial.conversation.habitat.unlock.3": "Чем больше видов зверушек вы вырастите, тем больше их домиков вы откроете. Так что давайте продолжать объединять!"
+  },
+  {
+    "tutorial.conversation.creatureportal.1": "Wow, it's a creature portal! Now these are cool. They transport legendary creatures directly to Mystic Isle! Go ahead, tap it to see how it works."
+  },
+  {
+    "tutorial.conversation.creatureportal.2": "Easy, right? Tomorrow you'll be able to transport another creature. Just come back and tap on the portal before it expires!"
   },
   {
     "message.error.habitat.locked": "Чтобы разблокировать это место, найдите {0}"
@@ -12741,7 +12864,7 @@
     "window.doubleoffer.BlackFridayOffers.title": "Сезонное предложение"
   },
   {
-    "window.doubleoffer.BlackFridayOffers.main": "Ограниченное время для ускорения прогресса! Плюс специальное сезонное украшение!"
+    "window.doubleoffer.BlackFridayOffers.main": "Ограниченное предложение для ускорения прогресса! Бонус: специальное сезонное украшение!"
   },
   {
     "window.doubleoffer.ChristmasOffers.title": "Праздничная распродажа!"
@@ -12753,7 +12876,13 @@
     "window.doubleoffer.HalloweenOffers.title": "Распродажа к Хэллоуину!"
   },
   {
-    "window.doubleoffer.HalloweenOffers.main": "Ограниченное время для ускорения прогресса! Плюс специальное сезонное украшение!"
+    "window.doubleoffer.HalloweenOffers.main": "Ограниченное предложение для ускорения прогресса! Бонус: специальное сезонное украшение!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.title": "Распродажа к Дню Благодарения!"
+  },
+  {
+    "window.doubleoffer.BlueOxIslandOffers.main": "Ограниченное предложение для ускорения прогресса! Бонус: специальное сезонное украшение!"
   },
   {
     "window.habitat.info.common": "Простой"
@@ -13476,7 +13605,7 @@
     "window.specialoffer.kraken1.title": "Усиление \"Кракен\""
   },
   {
-    "window.specialoffer.kraken1.main": "Поможет извлечь максимальную пользу из события \"Остров кракена\"!"
+    "window.specialoffer.kraken1.main": "Поможет извлечь максимальную пользу из события \"Остров Кракена\"!"
   },
   {
     "window.specialoffer.thunderbird1.title": "Усиление \"Гром-птица\""
@@ -13692,76 +13821,79 @@
     "piece.name.E12_A1": "Сфера Кетцалькоатля"
   },
   {
-    "piece.name.E12_A2": "Яйцо Кетцаля"
+    "piece.name.E12_A2": "Small Egg"
   },
   {
-    "piece.name.E12_A3": "Зума"
+    "piece.name.E12_A3": "Яйцо Кетцаля"
   },
   {
-    "piece.name.E12_A4": "Аци"
+    "piece.name.E12_A4": "Зума"
   },
   {
-    "piece.name.E12_A5": "Чантико"
+    "piece.name.E12_A5": "Аци"
   },
   {
-    "piece.name.E12_A6": "Тоци"
+    "piece.name.E12_A6": "Чантико"
   },
   {
-    "piece.name.E12_A7": "Акалан"
+    "piece.name.E12_A7": "Тоци"
   },
   {
-    "piece.name.E12_A8": "Кетцалькоатль"
+    "piece.name.E12_A8": "Акалан"
   },
   {
-    "window.codex.branch.E13_A": "Red Dragon"
+    "window.codex.branch.E13_A": "Красный дракон"
   },
   {
-    "piece.name.E13_A1": "Red Dragon"
+    "piece.name.E13_A1": "Драконий шар"
   },
   {
-    "piece.name.E13_A2": "Red Dragon"
+    "piece.name.E13_A2": "Яйцо Красного дракона"
   },
   {
-    "piece.name.E13_A3": "Red Dragon"
+    "piece.name.E13_A3": "Малыш"
   },
   {
-    "piece.name.E13_A4": "Red Dragon"
+    "piece.name.E13_A4": "Кусачка"
   },
   {
-    "piece.name.E13_A5": "Red Dragon"
+    "piece.name.E13_A5": "Поджигатель"
   },
   {
-    "piece.name.E13_A6": "Red Dragon"
+    "piece.name.E13_A6": "Мармеладка"
   },
   {
-    "piece.name.E13_A7": "Red Dragon"
+    "piece.name.E13_A7": "Искристый"
   },
   {
-    "piece.name.E13_A8": "Red Dragon"
+    "piece.name.E13_A8": "Пламенный"
   },
   {
-    "piece.name.E5_A1": "Blue Ox"
+    "window.codex.branch.E5_A": "Бык Малыш"
   },
   {
-    "piece.name.E5_A2": "Blue Ox"
+    "piece.name.E5_A1": "Горошек"
   },
   {
-    "piece.name.E5_A3": "Blue Ox"
+    "piece.name.E5_A2": "Шарик"
   },
   {
-    "piece.name.E5_A4": "Blue Ox"
+    "piece.name.E5_A3": "Милашка"
   },
   {
-    "piece.name.E5_A5": "Blue Ox"
+    "piece.name.E5_A4": "Сладенький"
   },
   {
-    "piece.name.E5_A6": "Blue Ox"
+    "piece.name.E5_A5": "Буба"
   },
   {
-    "piece.name.E5_A7": "Blue Ox"
+    "piece.name.E5_A6": "Сахарок"
   },
   {
-    "piece.name.E5_A8": "Blue Ox"
+    "piece.name.E5_A7": "Пироженка"
+  },
+  {
+    "piece.name.E5_A8": "Синий бык Малыш"
   },
   {
     "window.codex.branch.E_SP_AK": "Котовник кошачий"
@@ -15111,220 +15243,220 @@
     "piece.name.E_SP_BP8": "Королевская утка"
   },
   {
-    "window.codex.branch.E_SP_BQ": "branch.E_SP_BQ"
+    "window.codex.branch.E_SP_BQ": "Коровий колокольчик"
   },
   {
-    "piece.name.E_SP_BQ1": "E_SP_BQ1"
+    "piece.name.E_SP_BQ1": "Бубенчик"
   },
   {
-    "piece.name.E_SP_BQ2": "E_SP_BQ2"
+    "piece.name.E_SP_BQ2": "Колокольчик коровы"
   },
   {
-    "piece.name.E_SP_BQ3": "E_SP_BQ3"
+    "piece.name.E_SP_BQ3": "Изысканный колокольчик"
   },
   {
-    "piece.name.E_SP_BQ4": "E_SP_BQ4"
+    "piece.name.E_SP_BQ4": "Звонкий колокольчик"
   },
   {
-    "piece.name.E_SP_BQ5": "E_SP_BQ5"
+    "piece.name.E_SP_BQ5": "Чудесный колокольчик"
   },
   {
-    "piece.name.E_SP_BQ6": "E_SP_BQ6"
+    "piece.name.E_SP_BQ6": "Звучный колокол"
   },
   {
-    "piece.name.E_SP_BQ7": "E_SP_BQ7"
+    "piece.name.E_SP_BQ7": "Мелодичный колокол"
   },
   {
-    "piece.name.E_SP_BQ8": "E_SP_BQ8"
+    "piece.name.E_SP_BQ8": "Гармоничный колокол"
   },
   {
-    "window.codex.branch.E_SP_BR": "branch.E_SP_BR"
+    "window.codex.branch.E_SP_BR": "Деревянная статуя"
   },
   {
-    "piece.name.E_SP_BR1": "E_SP_BR1"
+    "piece.name.E_SP_BR1": "Статуя суслика"
   },
   {
-    "piece.name.E_SP_BR2": "E_SP_BR2"
+    "piece.name.E_SP_BR2": "Статуя кролика"
   },
   {
-    "piece.name.E_SP_BR3": "E_SP_BR3"
+    "piece.name.E_SP_BR3": "Статуя белки"
   },
   {
-    "piece.name.E_SP_BR4": "E_SP_BR4"
+    "piece.name.E_SP_BR4": "Статуя енота"
   },
   {
-    "piece.name.E_SP_BR5": "E_SP_BR5"
+    "piece.name.E_SP_BR5": "Статуя лисы"
   },
   {
-    "piece.name.E_SP_BR6": "E_SP_BR6"
+    "piece.name.E_SP_BR6": "Статуя волка"
   },
   {
-    "piece.name.E_SP_BR7": "E_SP_BR7"
+    "piece.name.E_SP_BR7": "Статуя барсука"
   },
   {
-    "piece.name.E_SP_BR8": "E_SP_BR8"
+    "piece.name.E_SP_BR8": "Статуя быка"
   },
   {
-    "window.codex.branch.E_SP_BS": "branch.E_SP_BS"
+    "window.codex.branch.E_SP_BS": "Деревянные сани"
   },
   {
-    "piece.name.E_SP_BS1": "E_SP_BS1"
+    "piece.name.E_SP_BS1": "Простые сани"
   },
   {
-    "piece.name.E_SP_BS2": "E_SP_BS2"
+    "piece.name.E_SP_BS2": "Маленькие сани"
   },
   {
-    "piece.name.E_SP_BS3": "E_SP_BS3"
+    "piece.name.E_SP_BS3": "Обычные сани"
   },
   {
-    "piece.name.E_SP_BS4": "E_SP_BS4"
+    "piece.name.E_SP_BS4": "Сельские сани"
   },
   {
-    "piece.name.E_SP_BS5": "E_SP_BS5"
+    "piece.name.E_SP_BS5": "Прочные сани"
   },
   {
-    "piece.name.E_SP_BS6": "E_SP_BS6"
+    "piece.name.E_SP_BS6": "Изысканные сани"
   },
   {
-    "piece.name.E_SP_BS7": "E_SP_BS7"
+    "piece.name.E_SP_BS7": "Роскошные сани"
   },
   {
-    "piece.name.E_SP_BS8": "E_SP_BS8"
+    "piece.name.E_SP_BS8": "Элегантные сани"
   },
   {
-    "window.codex.branch.E_SP_BT": "branch.E_SP_BT"
+    "window.codex.branch.E_SP_BT": "Деревянная пила"
   },
   {
-    "piece.name.E_SP_BT1": "E_SP_BT1"
+    "piece.name.E_SP_BT1": "Обычная пила"
   },
   {
-    "piece.name.E_SP_BT2": "E_SP_BT2"
+    "piece.name.E_SP_BT2": "Маленькая пила"
   },
   {
-    "piece.name.E_SP_BT3": "E_SP_BT3"
+    "piece.name.E_SP_BT3": "Железная пила"
   },
   {
-    "piece.name.E_SP_BT4": "E_SP_BT4"
+    "piece.name.E_SP_BT4": "Ножовочная пила"
   },
   {
-    "piece.name.E_SP_BT5": "E_SP_BT5"
+    "piece.name.E_SP_BT5": "Изысканная пила"
   },
   {
-    "piece.name.E_SP_BT6": "E_SP_BT6"
+    "piece.name.E_SP_BT6": "Роскошная пила"
   },
   {
-    "piece.name.E_SP_BT7": "E_SP_BT7"
+    "piece.name.E_SP_BT7": "Мощная бензопила"
   },
   {
-    "piece.name.E_SP_BT8": "E_SP_BT8"
+    "piece.name.E_SP_BT8": "Сверхмощная бензопила"
   },
   {
-    "window.codex.branch.E_SP_BU": "branch.E_SP_BU"
+    "window.codex.branch.E_SP_BU": "Меч"
   },
   {
-    "piece.name.E_SP_BU1": "E_SP_BU1"
+    "piece.name.E_SP_BU1": "Простой меч"
   },
   {
-    "piece.name.E_SP_BU2": "E_SP_BU2"
+    "piece.name.E_SP_BU2": "Железный меч"
   },
   {
-    "piece.name.E_SP_BU3": "E_SP_BU3"
+    "piece.name.E_SP_BU3": "Крестьянский меч"
   },
   {
-    "piece.name.E_SP_BU4": "E_SP_BU4"
+    "piece.name.E_SP_BU4": "Меч новичка"
   },
   {
-    "piece.name.E_SP_BU5": "E_SP_BU5"
+    "piece.name.E_SP_BU5": "Изящный меч"
   },
   {
-    "piece.name.E_SP_BU6": "E_SP_BU6"
+    "piece.name.E_SP_BU6": "Роскошный меч"
   },
   {
-    "piece.name.E_SP_BU7": "E_SP_BU7"
+    "piece.name.E_SP_BU7": "Изысканный меч"
   },
   {
-    "piece.name.E_SP_BU8": "E_SP_BU8"
+    "piece.name.E_SP_BU8": "Великолепный меч"
   },
   {
-    "window.codex.branch.E_SP_BV": "branch.E_SP_BV"
+    "window.codex.branch.E_SP_BV": "Кубок"
   },
   {
-    "piece.name.E_SP_BV1": "E_SP_BV1"
+    "piece.name.E_SP_BV1": "Простая кружка"
   },
   {
-    "piece.name.E_SP_BV2": "E_SP_BV2"
+    "piece.name.E_SP_BV2": "Железная кружка"
   },
   {
-    "piece.name.E_SP_BV3": "E_SP_BV3"
+    "piece.name.E_SP_BV3": "Крестьянская кружка"
   },
   {
-    "piece.name.E_SP_BV4": "E_SP_BV4"
+    "piece.name.E_SP_BV4": "Прочная кружка"
   },
   {
-    "piece.name.E_SP_BV5": "E_SP_BV5"
+    "piece.name.E_SP_BV5": "Изысканный кубок"
   },
   {
-    "piece.name.E_SP_BV6": "E_SP_BV6"
+    "piece.name.E_SP_BV6": "Роскошный кубок"
   },
   {
-    "piece.name.E_SP_BV7": "E_SP_BV7"
+    "piece.name.E_SP_BV7": "Элегантный кубок"
   },
   {
-    "piece.name.E_SP_BV8": "E_SP_BV8"
+    "piece.name.E_SP_BV8": "Великолепный кубок"
   },
   {
-    "window.codex.branch.E_SP_BW": "branch.E_SP_BW"
+    "window.codex.branch.E_SP_BW": "Щит"
   },
   {
-    "piece.name.E_SP_BW1": "E_SP_BW1"
+    "piece.name.E_SP_BW1": "Простой щит"
   },
   {
-    "piece.name.E_SP_BW2": "E_SP_BW2"
+    "piece.name.E_SP_BW2": "Железный щит"
   },
   {
-    "piece.name.E_SP_BW3": "E_SP_BW3"
+    "piece.name.E_SP_BW3": "Деревенский щит"
   },
   {
-    "piece.name.E_SP_BW4": "E_SP_BW4"
+    "piece.name.E_SP_BW4": "Прочный щит"
   },
   {
-    "piece.name.E_SP_BW5": "E_SP_BW5"
+    "piece.name.E_SP_BW5": "Изысканный щит"
   },
   {
-    "piece.name.E_SP_BW6": "E_SP_BW6"
+    "piece.name.E_SP_BW6": "Роскошный щит"
   },
   {
-    "piece.name.E_SP_BW7": "E_SP_BW7"
+    "piece.name.E_SP_BW7": "Мощный щит"
   },
   {
-    "piece.name.E_SP_BW8": "E_SP_BW8"
+    "piece.name.E_SP_BW8": "Сверхмощный щит"
   },
   {
-    "window.codex.branch.E_SP_BX": "branch.E_SP_BX"
+    "window.codex.branch.E_SP_BX": "Арбалет"
   },
   {
-    "piece.name.E_SP_BX1": "E_SP_BX1"
+    "piece.name.E_SP_BX1": "Простой арбалет"
   },
   {
-    "piece.name.E_SP_BX2": "E_SP_BX2"
+    "piece.name.E_SP_BX2": "Железный арбалет"
   },
   {
-    "piece.name.E_SP_BX3": "E_SP_BX3"
+    "piece.name.E_SP_BX3": "Деревенский арбалет"
   },
   {
-    "piece.name.E_SP_BX4": "E_SP_BX4"
+    "piece.name.E_SP_BX4": "Прочный арбалет"
   },
   {
-    "piece.name.E_SP_BX5": "E_SP_BX5"
+    "piece.name.E_SP_BX5": "Изысканный арбалет"
   },
   {
-    "piece.name.E_SP_BX6": "E_SP_BX6"
+    "piece.name.E_SP_BX6": "Роскошный арбалет"
   },
   {
-    "piece.name.E_SP_BX7": "E_SP_BX7"
+    "piece.name.E_SP_BX7": "Мощный арбалет"
   },
   {
-    "piece.name.E_SP_BX8": "E_SP_BX8"
+    "piece.name.E_SP_BX8": "Сверхмощный арбалет"
   },
   {
     "window.codex.branch.H6_A": "Карусельная лошадка"
@@ -15549,10 +15681,10 @@
     "window.navigation.islandcard.UnicornIsland.title": "Остров Единорога"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.title": "Blue Ox Island"
+    "window.navigation.islandcard.BlueOxIsland.title": "Остров Синего быка"
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.title": "Red Dragon Island"
+    "window.navigation.islandcard.RedDragonIsland.title": "Остров Красного дракона"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.title": "Остров Фениксов"
@@ -15564,7 +15696,7 @@
     "window.navigation.islandcard.NessyIsland.title": "Остров Несси"
   },
   {
-    "window.navigation.islandcard.KrakenIsland.title": "Остров кракена"
+    "window.navigation.islandcard.KrakenIsland.title": "Остров Кракена"
   },
   {
     "window.navigation.islandcard.ThunderbirdIsland.title": "Остров гром-птицы"
@@ -15648,10 +15780,10 @@
     "window.navigation.islandcard.UnicornIsland.description": "Изобилие сверкающих радуг"
   },
   {
-    "window.navigation.islandcard.BlueoxIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.BlueOxIsland.description": "Уютные пастбища "
   },
   {
-    "window.navigation.islandcard.ReddragonIsland.description": "A fiery world beyond the sun"
+    "window.navigation.islandcard.RedDragonIsland.description": "Подземелье, полное сокровищ"
   },
   {
     "window.navigation.islandcard.PhoenixIsland.description": "Огненный мир по ту сторону солнца"
@@ -15714,10 +15846,10 @@
     "window.navigation.help.popup.ZooIslandLock.message": "Продолжайте играть на {0}, чтобы дойти до {1} уровня и открыть {2}!"
   },
   {
-    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim!"
+    "window.SO_Rainbow_Portal.howToPlay": "Once a day you can get a random legendary creature from the Portal! Just come and claim before it expires!"
   },
   {
-    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim!"
+    "window.SO_Premium_Portal.howToPlay": "Once a day you can get a {0} from the Portal! Just come and claim before it expires!"
   },
   {
     "window.event.howToPlay": "Как играть"
@@ -15771,10 +15903,10 @@
     "gameboard.bubble.button.landmark.skinning": "Поменять"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.claimed": "Today: claimed"
+    "gameboard.bubble.message.CreaturePortal.claimed": "Claimed Today"
   },
   {
-    "gameboard.bubble.message.CreaturePortal.expired": "Expire in: {0} days"
+    "gameboard.bubble.message.CreaturePortal.expired": "Expires in: {0} days"
   },
   {
     "tutorial.conversation.SD.skinning.1": "А вы знали, что Мистический остров можно украсить на свой вкус? Давайте покажу!"
@@ -16635,6 +16767,81 @@
     "piece.name.YM": "Замок Гейлов"
   },
   {
+    "window.codex.branch.HL_Z": "Источник волшебных камней"
+  },
+  {
+    "piece.name.HL1_Z": "Малый вазон камня"
+  },
+  {
+    "piece.name.HL2_Z": "Каменная скала"
+  },
+  {
+    "piece.name.HL3_Z": "Каменный вазон"
+  },
+  {
+    "piece.name.HL4_Z": "Каменная глыба"
+  },
+  {
+    "piece.name.HL5_Z": "Большой каменный вазон"
+  },
+  {
+    "piece.name.HL6_Z": "Каменная плита"
+  },
+  {
+    "window.codex.branch.Z": "Волшебный камень"
+  },
+  {
+    "piece.name.Z1": "Каменный валун"
+  },
+  {
+    "piece.name.Z2": "Каменный блок"
+  },
+  {
+    "piece.name.Z3": "Каменная хижина"
+  },
+  {
+    "piece.name.Z4": "Большая каменная хижина"
+  },
+  {
+    "piece.name.Z5": "Особая каменная хижина"
+  },
+  {
+    "piece.name.Z6": "Каменный коттедж"
+  },
+  {
+    "piece.name.Z7": "Каменный дом"
+  },
+  {
+    "piece.name.Z8": "Каменный дворец"
+  },
+  {
+    "piece.name.Z9": "Изысканный каменный дворец"
+  },
+  {
+    "piece.name.Z10": "Каменный замок"
+  },
+  {
+    "piece.name.Z11": "Роскошный каменный замок"
+  },
+  {
+    "piece.name.Z12": "Невероятный каменный замок"
+  },
+  {
+    "piece.name.ZM": "Замок Царя обезьян"
+  },
+  {
+    "window.codex.branch.CH_Z": "Волшебный камень"
+  },
+  {
+    "piece.name.CH1_Z": "Маленький сундук"
+  },
+  {
+    "piece.name.CH2_Z": "Большой сундук"
+  },
+  {
+    "piece.name.CH3_Z": "Огромный сундук"
+  },
+  {
     "window.delivery.title": "Служба доставки"
   },
   {
@@ -17022,7 +17229,7 @@
     "conversation.use.om.message1": "Красота! Белый Кролик, как тебе твой новый замок?"
   },
   {
-    "conversation.use.om.message2": "Это, несомненно, намного лучше мой обычной земляной норы. Если бы Королева зашла ко мне в гости, я думаю, ей бы понравилось."
+    "conversation.use.om.message2": "Это, несомненно, намного лучше моей обычной земляной норы. Если бы Королева зашла ко мне в гости, я думаю, ей бы понравилось."
   },
   {
     "conversation.use.om.message3": "И снова он про эту свою Королеву..."
@@ -18387,6 +18594,117 @@
     "conversation.use.wm.message2": "Кто, я? Не думаю. По нему не надо скучать, он сам найдет тебя в свое время..."
   },
   {
+    "conversation.z3.message1": "Чаки, ты не видел план замка? Там запросы о-го-го!"
+  },
+  {
+    "conversation.z3.message2": "Ага! Золотая ванна? Шелковые шторы в каждой комнате? И башня до небес?"
+  },
+  {
+    "conversation.z3.message3": "В последний раз мы делали такую дорогую работу для царя Мидаса!"
+  },
+  {
+    "conversation.z3.message4": "Да, такое не забывается. Я до сих пор вымываю золото из бороды..."
+  },
+  {
+    "conversation.z4.message1": "Как поживает мой замок?"
+  },
+  {
+    "conversation.z4.message2": "Пока немного напоминает шахту. Но не волнуйтесь, все идет по плану!"
+  },
+  {
+    "conversation.z4.message3": "Царский небоскреб скоро будет готов!"
+  },
+  {
+    "conversation.z5.message1": "Ты слышал, что этот обезьяний царь может победить самих БОГОВ? Вот это здорово! Он мог бы уничтожить целый пиратский флот."
+  },
+  {
+    "conversation.z5.message2": "Ну, меня он пока еще не победил."
+  },
+  {
+    "conversation.z5.message3": "А вы разве уже сражались?"
+  },
+  {
+    "conversation.z5.message4": "Это не относится к делу."
+  },
+  {
+    "conversation.z6.message1": "Значит, ты была при смерти? И проспала целых 100 лет? Какая неприятность."
+  },
+  {
+    "conversation.z6.message2": "И не говорите! А с вами что-нибудь подобное случалось?"
+  },
+  {
+    "conversation.z6.message3": "Нет. Я бессмертен и бесконечно могущественен."
+  },
+  {
+    "conversation.z7.message1": "Кто-нибудь, сделайте что-то с этой женщиной. Она постоянно крутится возле моего дома и выпрашивает обезьянью лапу."
+  },
+  {
+    "conversation.z7.message2": "Баба-яга? Мы можем тебе чем-то помочь?"
+  },
+  {
+    "conversation.z7.message3": "Лапа обезьяны приносит удачу. А лапа бессмертной обезьяны — бесконечную удачу. Кроме того, у него их две."
+  },
+  {
+    "conversation.z7.message4": "Может, сгодится и четырехлистный клевер?"
+  },
+  {
+    "conversation.z8.message1": "Ух ты! Эти цветы — просто бомба. Шикарный стиль! Не терпится увидеть, что вы построите дальше!"
+  },
+  {
+    "conversation.z8.message2": "Знаешь, ты всегда была моей любимицей."
+  },
+  {
+    "conversation.z9.message1": "Как это понимать? У Царя обезьян будет свой холодильник с экраном, который показывает то, что внутри? А как же мы?"
+  },
+  {
+    "conversation.z9.message2": "Мы... мы просто придерживаемся плана!"
+  },
+  {
+    "conversation.z9.message3": "(шепотом) Не говори ей об автоматической полке для обуви."
+  },
+  {
+    "conversation.z10.message1": "В тренажерном зале маловато оружия. Неужели это все, что у вас есть?"
+  },
+  {
+    "conversation.z10.message2": "За последнее время мы оборудовали много тренажерных залов, поэтому мало что осталось. Чаки, мы сможем что-нибудь добавить?"
+  },
+  {
+    "conversation.z10.message3": "Я нашел на пляже несколько кокосовых шлемов и острый камень. Сгодится?"
+  },
+  {
+    "conversation.z10.message4": "(вздыхает) Ладно. Сойдет."
+  },
+  {
+    "conversation.z11.message1": "Мистер Царь обезьян, башня достаточно высокая? В плане написано: \"Башня, достающая до облачного шоссе\", но я никогда не слышал о таком шоссе."
+  },
+  {
+    "conversation.z11.message2": "Думаю, этого хватит, чтобы залезть на ездовое облако. Хотя можно было построить и повыше."
+  },
+  {
+    "conversation.z11.message3": "Вот это да, мне и в голову не пришло. Ну конечно! Шоссе для езды на облаках."
+  },
+  {
+    "conversation.z12.message1": "Еще пару камней — и мы увидим настоящий волшебный замок!"
+  },
+  {
+    "conversation.zm.message1": "Прекрасно! Идеальное место, чтобы начать мое правление с чистого листа..."
+  },
+  {
+    "conversation.zm.message2": "Не так быстро! Боюсь, сначала придется провести голосование. Могу я взять у вас контактную информацию для нашего ежемесячного опроса?"
+  },
+  {
+    "conversation.use.zm.message1": "Ты только взгляни на замок, Баки! Какая красотища!"
+  },
+  {
+    "conversation.use.zm.message2": "Ты прав, Чаки. О, нет! Ты слышал грохот? Кажется, мы забыли закрепить кровать."
+  },
+  {
+    "conversation.use.mn_z.message1": "Подходящий замок для царя можно построить только из самого волшебного камня!"
+  },
+  {
+    "conversation.use.mn_z.message2": "Повезло, что мы вовремя нашли шахту с волшебными камнями."
+  },
+  {
     "window.island1_2.title": "Остров новобранца"
   },
   {
@@ -18900,6 +19218,12 @@
     "window.collection.locked.hint.premium.event.LM_37": "Получено в событии \"Канун Хэллоуина\" в 2021 году"
   },
   {
+    "window.collection.locked.hint.premium.event.LM_38": "День Благодарения 2021"
+  },
+  {
+    "window.collection.locked.hint.premium.event.LM_39": "День Благодарения 2021"
+  },
+  {
     "window.collection.description.LM_1": "Переступите порог загадочного дома волшебных существ... Все, что вам нужно - открыть ворота!"
   },
   {
@@ -19009,6 +19333,12 @@
   },
   {
     "window.collection.description.LM_37": "Удаление бородавок? Сыворотка от старения? Мастер зелий - вот кто вам нужен! Однако будьте осторожны: он всегда ищет, на ком бы поэкспериментировать."
+  },
+  {
+    "window.collection.description.LM_38": "Загляните в тележку за спелым урожаем для праздника. Только индейке не говорите."
+  },
+  {
+    "window.collection.description.LM_39": "Легенда гласит, что Зевс случайно отломал козий рог, который и стал рогом изобилия. Вот что значит счастливая случайность!"
   },
   {
     "window.collection.description.DC_1": "Уединитесь в тени вечнозеленого кустарника, который сохраняет яркий цвет всю зиму."
@@ -19146,117 +19476,6 @@
     "window.collection.description.DC_45": "Мягкое сияние этого цветочного фонаря поможет вам расслабиться и отдохнуть."
   },
   {
-    "window.decoration.description.LM_1": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_2": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_3": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_4": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_5": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_6": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_7": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_8": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_9": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_10": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_11": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_12": "Событие \"Канун Хэллоуина\" 2020 года"
-  },
-  {
-    "window.decoration.description.LM_13": "Событие \"Канун Хэллоуина\" 2020 года"
-  },
-  {
-    "window.decoration.description.LM_14": "Предложение \"Черная пятница\" 2020 года"
-  },
-  {
-    "window.decoration.description.LM_15": "Событие \"Северный полюс\" 2020 года"
-  },
-  {
-    "window.decoration.description.LM_16": "Событие \"Северный полюс\" 2020 года"
-  },
-  {
-    "window.decoration.description.LM_17": "Предложение \"Северный полюс\" 2020 года"
-  },
-  {
-    "window.decoration.description.LM_18": "Событие \"Сад Амура\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_19": "Событие \"Сад Амура\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_20": "Предложение \"Сад Амура\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_21": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_22": "Событие \"Первый День варенья\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_23": "Событие \"Первый День варенья\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_24": "Предложение \"Первый День варенья\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_25": "Событие \"Летний бал\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_26": "Событие \"Летний бал\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_27": "Событие \"Летний бал\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_28": "Событие \"Летняя ярмарка\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_29": "Событие \"Летняя ярмарка\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_30": "Событие \"Летняя ярмарка\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_31": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_32": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_33": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_34": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_35": "Рынок Мистического острова"
-  },
-  {
-    "window.decoration.description.LM_36": "Событие \"Канун Хэллоуина\" 2021 года"
-  },
-  {
-    "window.decoration.description.LM_37": "Событие \"Канун Хэллоуина\" 2021 года"
-  },
-  {
     "window.decoration.category.LM.common": "Стандартные декорации"
   },
   {
@@ -19377,7 +19596,7 @@
     "window.market.description.energy": "Коснитесь, чтобы получить {0} энергии. Также кусочки цепочки можно соединять до уровня 4, чтобы получить еще больше энергии."
   },
   {
-    "window.market.description.InfinityEnergy": "Используйте, чтобы получить неограниченную энергию на <color=#7400B4>{0} мин.!</color>"
+    "window.market.description.InfinityEnergy": "Используйте, чтобы получить неограниченную энергию на <color=#7400B4>{0} мин.!</color>"
   },
   {
     "piece.name.Boost_FR": "Чудо-лейка"
@@ -19458,31 +19677,34 @@
     "window.profile.stats.monuments.5star": "5-звездочные замки"
   },
   {
-    "window.profile.stats.SDlevel": "Уровень{0}\\n Мистический остров"
+    "window.profile.stats.SDlevel.locked": "Мистический \\n остров"
   },
   {
-    "window.profile.stats.mainlevel": "Уровень{0}\\n Основная игра"
+    "window.profile.stats.SDlevel": "Уровень {0} \\n Мистический остров"
   },
   {
-    "window.profile.stats.next.level": "To next level: {0}/{1}"
+    "window.profile.stats.mainlevel": "Уровень {0} \\n Основная игра"
   },
   {
-    "window.profile.edit.avatar.inf": "Use your discoveries book to set any piece you 've unlocked as Avatar"
+    "window.profile.stats.next.level": "Прогресс уровня: {0}/{1}"
   },
   {
-    "window.profile.unlock.slot": "Unlock slot"
+    "window.profile.edit.avatar.inf": "Используйте книгу находок, чтобы установить любой разблокированный элемент как фото профиля!"
   },
   {
-    "window.profile.purchase.slot": "Purchase one more slot?"
+    "window.profile.unlock.slot": "Открыть ячейку статистики"
   },
   {
-    "window.profile.castles.main": "Main island castles"
+    "window.profile.purchase.slot": "Купить еще одну ячейку?"
   },
   {
-    "window.profile.castles.paradise": "Paradise cove castles"
+    "window.profile.castles.main": "Замки вашего острова"
   },
   {
-    "window.profile.castles.keep.playing": "Keep playing to unlock this castle"
+    "window.profile.castles.paradise": "Замки Райской бухты"
+  },
+  {
+    "window.profile.castles.keep.playing": "Продолжайте играть, чтобы открыть этот замок"
   },
   {
     "window.profile.stats.SDcreatures.legendary": "Собранные легендарные зверушки"
@@ -19491,10 +19713,10 @@
     "window.profile.edit.name.button.random": "Случайно"
   },
   {
-    "window.profile.connection.low": "Loading..."
+    "window.profile.connection.low": "Загрузка..."
   },
   {
-    "window.profile.connection.check": "Please, check your connection"
+    "window.profile.connection.check": "Проверьте подключение к интернету!"
   },
   {
     "window.profile.button.confirm": "Подтвердить"
@@ -19617,7 +19839,7 @@
     "window.codex.branch.NPC_Y": "Дороти Гейл"
   },
   {
-    "window.codex.branch.NPC_Z": "branch.NPC_Z"
+    "window.codex.branch.NPC_Z": "Царь обезьян"
   },
   {
     "window.codex.branch.NPC_AA": "Спящая красавица"
